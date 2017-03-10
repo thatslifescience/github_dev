@@ -1,0 +1,40 @@
+---
+layout: page
+title: Emily Fusco
+author: efusco
+meta_title: "Emily Fusco | That's Life [Science]"
+subheadline: "Contributor since 2016"
+teaser: "PhD candidate in Organismic and Evolutionary Biology"
+permalink: "/authors/efusco/"
+header:
+   image_fullwidth: you-can-delete-me-header.png
+gallery:
+    - image_url: gallery-image-efusco.jpg
+      caption: Emily Fusco
+---
+![Emily Fusco]({{ site.url }}/images/gallery-image-efusco.jpg)
+
+[Twitter](https://www.twitter.com/EmilyJFusco)
+
+Research Area: wildfire, geography, ecology, invasive plants, GIS
+
+I study the spatial (where) and temporal (when) distribution of wildfire in the US. While we often think about how wildfire impacts people when it burns through populated areas, I am interested in how people impact wildfires. For example, people ignite and suppress fires. We alter fuel sources through the introduction of invasive plants. We even impact climate, which has huge effects on when and where fire will burn. I study all of these things using fire data detected by satellite images. This research helps increase accuracy in predictive fire models. It also enhances our understanding how fire works in our ecosystems. 
+
+I am excited to participate as a contributing author so that I can write about these topics as well as topics in biogeography and ecology. I also work as a part of the Managing Editing Committee. 
+
+{% assign index = true %}
+{% for post in site.posts %}
+{% if post.author contains page.author %}
+{% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+{% unless year == this_year %}
+{% assign year = this_year %}
+<h3>{{ year }}</h3>
+{% endunless %}
+<li>
+{% assign content = post.content %}
+<article>
+{% include snippets/post_link.html post=post %}
+</article>
+</li>
+{% endif %}
+{% endfor %}

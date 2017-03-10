@@ -1,0 +1,34 @@
+---
+layout: page
+title: Emily S. Melzer
+author: emelzer
+meta_title: "Emily S. Melzer | That's Life [Science]"
+subheadline: "Contributor since 2016"
+teaser: "PhD student in Microbiology"
+permalink: "/authors/emelzer/"
+header:
+   image_fullwidth: you-can-delete-me-header.png
+---
+![Emily S. Melzer]({{ site.url }}/images/gallery-image-emelzer.jpg)
+
+Research Area: Host-microbe interaction
+
+I am interested in host-microbe interaction, in the form of human and animal pathogenesis as well as normal flora in the human body and roles microbes play in our diet. I would love to apply microbiological discoveries to improve the lives of humans and animals alike. In my spare time I also have fun with microbiology in the kitchen - I get microbes to make sourdough and vegan yogurt and cheese!
+I am also TLS treasurer.
+
+{% assign index = true %}
+{% for post in site.posts %}
+{% if post.author contains page.author %}
+{% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+{% unless year == this_year %}
+{% assign year = this_year %}
+<h3>{{ year }}</h3>
+{% endunless %}
+<li>
+{% assign content = post.content %}
+<article>
+{% include snippets/post_link.html post=post %}
+</article>
+</li>
+{% endif %}
+{% endfor %}
