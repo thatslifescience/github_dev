@@ -1,0 +1,41 @@
+- menu_name: "Links"
+
+- name: "LabFab"
+  url: "http://blogs.umass.edu/baskin/"
+  class: "link"
+  title: "LabFab"
+  
+- name: "Early Career Climate Forum"
+  url: "https://www.eccforum.org"
+  class: "link"
+  title: "Early Career Climate Forum"
+  
+- name: "UMass ECo"
+  url: "http://eco.umass.edu"
+  class: "link"
+  title: "UMass ECo"
+
+- name: "UMass OEB"
+  url: "http://gpls.cns.umass.edu/oeb"
+  class: "link"
+  title: "UMass OEB"
+
+- name: "UMass NSB"
+  url: "http://gpls.cns.umass.edu/nsb"
+  class: "link"
+  title: "UMass NSB"
+
+- name: "UMass MCB"
+  url: "http://gpls.cns.umass.edu/mcb"
+  class: "link"
+  title: "UMass MCB"
+
+- name: "UMass Microbiology"
+  url: "http://www.micro.umass.edu/"
+  class: "link"
+  title: "UMass Microbiology"
+
+- name: "UMass Plant Biology"
+  url: "https://gpls.cns.umass.edu/pb"
+  class: "link"
+  title: "UMass Plant Biology"
