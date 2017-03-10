@@ -15,7 +15,7 @@ author:
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: ''
+url: '/thatslifesci'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
