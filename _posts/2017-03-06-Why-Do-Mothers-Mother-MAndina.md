@@ -1,7 +1,7 @@
 ---
 title: Why Do Mothers Mother?
 date: 2017-03-06 00:00:00 Z
-permalink: "/thatslifesci/2017-03-06-Why-Do-Mothers-Mother-MAndina/"
+permalink: "/2017-03-06-Why-Do-Mothers-Mother-MAndina/"
 categories:
 - How It Works
 tags:
