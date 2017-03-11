@@ -29,7 +29,7 @@ description:
 credits: "<p>Created with &hearts; in Amherst, MA</p>"
 author: 
 url:
-baseurl:
+baseurl: "/thatslifesci"
 improve_content: 
 urlimg: "/thatslifesci/images/"
 logo: logo.png
@@ -37,9 +37,9 @@ gems:
 - jekyll-gist
 - jekyll-paginate
 paginate: 500
-paginate_path: "/thatslifesci/page:num/"
+paginate_path: "/page:num/"
 markdown: kramdown
-permalink: "/thatslifesci/:categories/:title/"
+permalink: "/:categories/:title/"
 highlight: rouge
 excerpt_separator: "<!--more-->"
 include:
@@ -87,4 +87,4 @@ disqus_shortname: thatslifescience
 sass:
   sass_dir: _sass
   style: compressed
-google_analytics_tracking_id: UA-75287521-1
+google_analytics_tracking_id:
