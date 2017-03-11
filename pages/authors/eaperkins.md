@@ -1,14 +1,15 @@
 ---
-layout: page
 title: Elisha Allan-Perkins
-author: eaperkins
-meta_title: "Elisha Allan-Perkins | That's Life [Science]"
-subheadline: "Contributor since 2016"
-teaser: "PhD candidate in Plant Biology"
 permalink: "/authors/eaperkins/"
+layout: page
+author: eaperkins
+meta_title: Elisha Allan-Perkins | That's Life [Science]
+subheadline: Contributor since 2016
+teaser: PhD candidate in Plant Biology
 header:
-   image_fullwidth: you-can-delete-me-header.png
+  image_fullwidth: you-can-delete-me-header.png
 ---
+
 ![Elisha Allan-Perkins]({{ site.url }}/images/eaperkins.jpg)
 
 My research focuses on how organic and conventional turf management affect soil microbe and nematode communities with an emphasis on how these practices may influence disease management.

@@ -1,24 +1,26 @@
 ---
 title: You won’t believe this simple trick to tell if your coral is healthy or not
-layout: page
-author: cshaughnessy
-permalink: /2016-06-13-you-wont-believe-this-simple-trick-to-tell-if-your-coral-is-healthy-or-not-cshaughnessy/
+date: 2016-06-13 00:00:00 Z
+permalink: "/2016-06-13-you-wont-believe-this-simple-trick-to-tell-if-your-coral-is-healthy-or-not-cshaughnessy/"
+categories:
+- Earth's Organisms
 tags:
 - science communication
 - climate change
 - coral reef
 - oceans
-categories:
- - Earth's Organisms
-header: no
+layout: page
+author: cshaughnessy
+header: false
 image:
- thumb: 06132016_cshaughnessy_fig1.jpg
- title: 06132016_cshaughnessy_fig1.jpg
-teaser: The internet is a big place. Amidst intense competition for readership online, could scientists make their research feel more ‘clickable’? Should they?
+  thumb: 06132016_cshaughnessy_fig1.jpg
+  title: 06132016_cshaughnessy_fig1.jpg
+teaser: The internet is a big place. Amidst intense competition for readership online,
+  could scientists make their research feel more ‘clickable’? Should they?
 subheadline: A commentary on how to make science more ‘clickable’
 source-id: 1SltQJADi78rI23ekKRw87xUG0aKJR-Wi311L_Pkr8h0
-published: true
 ---
+
 If you are reading this post: thank you. I don't need to tell you that there is no shortage of choices when it comes to reading things on the internet. The massive volume of online content has led to major competition for readership. Let’s face it: it doesn’t matter what the article is about, we click on articles with catchy titles. Let’s face this too while we’re at it, this has led us to reading or watching videos about some pretty dumb stuff. But don’t worry, it’s not our fault! We click on this stuff because we’re supposed to — these articles are made specifically to feel more 'clickable’. On the internet, this is called ‘click bait’.
 
 Now, why are you reading about click bait in a blog about biology? Here's why: many of us who fall victim to click bait would rather spend our time reading more interesting content, like cool new research in biology, but by the time we’re done watching a dumb video, we don’t have time to read an interesting article about biology because have to get back to work! The 'catchiness’ of the rest of the internet is simply not being matched by the people who write about biology. 

@@ -1,26 +1,27 @@
 ---
 title: Medical Mysteries Still Surrounding Zika Virus
-layout: page
-author: sdelzell
-permalink: /2016-04-26-medical-mysteries-still-surrounding-zika-virus-sdelzell/
+date: 2016-04-26 00:00:00 Z
+permalink: "/2016-04-26-medical-mysteries-still-surrounding-zika-virus-sdelzell/"
 categories:
 - How It Works
 tags:
 - zika
 - health
 - world-news
-teaser: "The challenges of understanding, diagnosing, and treating Zika virus: there are more questions than answers."
-published: true
-header: 
- image_fullwidth: howitworks-header.jpg
+layout: page
+author: sdelzell
+teaser: 'The challenges of understanding, diagnosing, and treating Zika virus: there
+  are more questions than answers.'
+header:
+  image_fullwidth: howitworks-header.jpg
 image:
-  thumb: zika1.png 
+  thumb: zika1.png
   title: zika1.png
   caption: Yellow indicates areas that have had evidence of Zika virus infection.
   caption_url: http://www.nytimes.com/2016/01/05/health/us-becomes-more-vulnerable-to-tropical-diseases-like-zika.html
 source-id: 1vSb34ck6JqJFCDG96ayYq6ol2AYUYV2iLDxHdvwgGaA
-published: true
 ---
+
 In the last few months, media outlets have been pumping out stories on Zika virus and a potentially related birth defect, microcephaly, due to outbreaks and its rapid spread in parts of South and Central America. All of these updates say the same key things. Zika is: 1) spreading quickly, 2) transmitted by mosquito bites, 3) the probable cause of a birth defect known as microcephaly, and 4) possibly sexually transmitted. 
 
 A number of pieces written about the impact of the outbreak on the travel industry cautions women who are or will be pregnant against traveling to these regions. While these are important highlights for general awareness, there are scientific perspectives that are neglected in the news. Part of the reason for this is the scarcity of established biological and medical information about the virus. In light of recent events, there is a push for new data on the subject and it may be worth looking at the aspects that are otherwise neglected. 

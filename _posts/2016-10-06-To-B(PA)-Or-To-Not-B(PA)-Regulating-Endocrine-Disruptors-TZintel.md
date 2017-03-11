@@ -1,22 +1,23 @@
 ---
-title: "To B(PA) Or To Not B(PA): Regulating Endocrine Disruptors"
-layout: page
-author: tzintel
-permalink: /2016-10-06-To-B(PA)-Or-To-Not-B(PA)-Regulating-Endocrine-Disruptors-TZintel/
+title: 'To B(PA) Or To Not B(PA): Regulating Endocrine Disruptors'
+date: 2016-10-06 00:00:00 Z
+permalink: "/2016-10-06-To-B(PA)-Or-To-Not-B(PA)-Regulating-Endocrine-Disruptors-TZintel/"
+categories:
+- How It Works
 tags:
 - bisphenol a
 - bpa
 - endocrine disruptors
 - epa
-categories:
-- How It Works
-header: 
- image_fullwidth: howitworks-header.jpg
+layout: page
+author: tzintel
+header:
+  image_fullwidth: howitworks-header.jpg
 image:
- thumb: 2016-10-06-tzintel-BPA.jpg
-teaser: To B(PA) or not to B(PA) - what about this environmental toxicant is so concerning? Read on to find out why regulating BPA is important.
+  thumb: 2016-10-06-tzintel-BPA.jpg
+teaser: To B(PA) or not to B(PA) - what about this environmental toxicant is so concerning?
+  Read on to find out why regulating BPA is important.
 source-id: 1ikipc42BIf5GyooCOBSz53HD7qCC22_ztKUUX8rVqDc
-published: true
 ---
 
 In recent years, there's been a lot of media coverage and scientific interest in environmental toxicants such as bisphenol A (BPA) – including campaigns to eliminate BPA from plastics and other consumer products. What about BPA is so concerning and why is it important to regulate it? The answer lies in two important characteristics of BPA (and chemicals like it): 1) BPA can disrupt normal hormone function in the body and 2) BPA doesn’t follow the rules in terms of the Environmental Protection Agency (EPA)’s ["safe exposure"](https://www.epa.gov/risk)[levels](https://www.epa.gov/risk)[ [1]](https://www.epa.gov/risk) . 

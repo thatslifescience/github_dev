@@ -1,26 +1,26 @@
 ---
 title: When A Sea Turtle Balanced Earth
+date: 2016-04-26 00:00:00 Z
+permalink: "/2016-04-26-when-a-sea-turtle-balanced-earth-lgriffin/"
+categories:
+- Earth's Organisms
+tags:
+- Conservation
+- Sea turtles
+- Intrinsic Value of Wildlife
 layout: page
 author: lgriffin
-permalink: /2016-04-26-when-a-sea-turtle-balanced-earth-lgriffin/
-subheadline: "Why we should care about sea turtles"
-
-teaser: "What about sea turtles instills a power of captivation over so many people -- to the point even, that conservationists would sacrifice their life to save them? Why should we be alarmed that this ancient species is disappearing from the globe?"
-categories:
- - Earth's Organisms
-tags:
-  - Conservation
-  - Sea turtles
-  - Intrinsic Value of Wildlife
-
+subheadline: Why we should care about sea turtles
+teaser: What about sea turtles instills a power of captivation over so many people
+  -- to the point even, that conservationists would sacrifice their life to save them?
+  Why should we be alarmed that this ancient species is disappearing from the globe?
 image:
-  thumb: "20160307_Griffin_Fig2.JPG"
-
+  thumb: 20160307_Griffin_Fig2.JPG
 header:
-  image_fullwidth: "organisms-header.jpg"
+  image_fullwidth: organisms-header.jpg
 source-id: 18JtuubAzrWNgNJjMnczbnDDloZYLSHREJDiWD2oBc54
-published: true
 ---
+
 Nestling into my airplane seat I considered whether I was more excited to attend my first conference or to escape the daunting New England winter. Motive aside, I prepared for the departure to New Orleans. Poster tube in hand, I filtered through the airport aisles and made my way to the taxi stand. I was attending the 34th International Sea Turtle Symposium to present my data on green sea turtle tracking and to connect with other sea turtle researchers. Away from the conference headquarters, I realized my skill for locating other turtle enthusiasts amongst the crowded city streets. My exploration transformed into a 'Where's Waldo?’ challenge, but instead of red & white caps, I combed the crowd for sea turtle printed T-shirts, flip-flops and the dead-give-away sea turtle tattoo. To my surprise, the majority of attendees weren’t actually biologists, they were sea turtle conservators who had dedicated their lives to late night beach patrols. In fact, the conference acknowledged and celebrated the life of 26-year-old sea turtle conservationist, Jairo Mora Sandoval, who was murdered months earlier after confronting sea turtle poachers on a beach in Costa Rica.
 
 So what about sea turtles instills this power of captivation over so many people -- to the point even, that conservationists like Mora, would sacrifice his life to save them? Why should we be alarmed that this ancient species is disappearing from the globe?

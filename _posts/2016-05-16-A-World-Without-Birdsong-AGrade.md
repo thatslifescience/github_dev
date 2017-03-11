@@ -1,8 +1,9 @@
 ---
 title: A World without Birdsong
-layout: page
-author: agrade
-permalink: /2016-05-16_A-World-Without-Birdsong-AGrade/
+date: 2016-05-16 00:00:00 Z
+permalink: "/2016-05-16_A-World-Without-Birdsong-AGrade/"
+categories:
+- Our Ecosystems
 tags:
 - conservation
 - bioacoustics
@@ -10,17 +11,18 @@ tags:
 - urban ecology
 - soundscape ecology
 - public health
-categories:
- - Our Ecosystems
+layout: page
+author: agrade
 header:
- image_fullwidth: ecosystem-header.jpg
+  image_fullwidth: ecosystem-header.jpg
 image:
- thumb: agrade-fig5.jpg
-teaser: What would the world be like if it weren’t for natural sounds? Are we facing an imminent extinction of the natural soundscape experience?
+  thumb: agrade-fig5.jpg
+teaser: What would the world be like if it weren’t for natural sounds? Are we facing
+  an imminent extinction of the natural soundscape experience?
 source-id: 1hVwo_DJuiSL1_sWMqjDXJNcGmOYhG2p891GN6-fj810
-published: true
 mediaplayer: true
 ---
+
 A Minor Bird
 
 > I have wished a bird would fly away 

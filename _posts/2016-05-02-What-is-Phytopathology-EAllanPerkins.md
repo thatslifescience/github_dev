@@ -1,28 +1,30 @@
 ---
 title: What is Phytopathology?
+date: 2016-05-02 00:00:00 Z
+permalink: "/2016-05-02-what-is-phytopathology-eallanperkins/"
+categories:
+- How It Works
+tags:
+- Plant
+- Disease
+- Phytopathology
+- Fungi
+- Bacteria
+- Viruses
 layout: page
 author: eaperkins
-permalink: /2016-05-02-what-is-phytopathology-eallanperkins/
-subheadline: "What is wrong with my tomatoes?...And other plant disease questions"
-teaser: "Plants, including tomatoes, are constantly under attack by microscopic organisms, like bacteria and viruses, and larger organisms, like insects and deer.  Phytopathology is the study of plant diseases with the aim of keeping our plants from becoming sick."
-categories:
-  - How It Works
-tags:
-  - Plant
-  - Disease
-  - Phytopathology
-  - Fungi
-  - Bacteria
-  - Viruses
-
+subheadline: What is wrong with my tomatoes?...And other plant disease questions
+teaser: Plants, including tomatoes, are constantly under attack by microscopic organisms,
+  like bacteria and viruses, and larger organisms, like insects and deer.  Phytopathology
+  is the study of plant diseases with the aim of keeping our plants from becoming
+  sick.
 image:
-  thumb: "2016-05-01-Perkins-Fig3.jpg"
-
+  thumb: 2016-05-01-Perkins-Fig3.jpg
 header:
-  image_fullwidth: "howitworks-header.jpg"
+  image_fullwidth: howitworks-header.jpg
 source-id: 1zC1f_lNFIT5Gba43LwZcg-fY4adDLxSQ3u3TaQcUMLQ
-published: true
 ---
+
 Spring is here and I love seeing all the plants coming alive again.  With the new growth coming out of the ground and gardeners starting seeds, it not only signifies that the time of fresh cut flowers and hand picked vegetables is upon us, but also the start of the plant disease season.  As the growing season starts, phytopathologists (scientists like me who study plant disease) are gearing up to research diseases and/or identify diseases for local growers.
 
 ![image alt text]({{ site.url }}/public/BC3NoFbXpRqKKnif1uSqlA_img_0.jpg)

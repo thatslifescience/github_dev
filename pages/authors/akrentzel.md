@@ -1,17 +1,18 @@
 ---
-layout: page
 title: Amanda Krentzel
-author: akrentzel
-meta_title: "Amanda Krentzel | That's Life [Science]"
-subheadline: "Contributor since Fall 2016"
-teaser: "PhD candidate in Neuroscience and Behavior"
 permalink: "/authors/akrentzel/"
+layout: page
+author: akrentzel
+meta_title: Amanda Krentzel | That's Life [Science]
+subheadline: Contributor since Fall 2016
+teaser: PhD candidate in Neuroscience and Behavior
 header:
-   image_fullwidth: you-can-delete-me-header.png
+  image_fullwidth: you-can-delete-me-header.png
 gallery:
-    - image_url: gallery-image-akrentzel.jpg
-      caption: Amanda Krentzel
+- image_url: gallery-image-akrentzel.jpg
+  caption: Amanda Krentzel
 ---
+
 ![Amanda Krentzel]({{ site.url }}/images/gallery-image-akrentzel.jpg)
 
 [Email](mailto:akrentze@cns.umass.edu)

@@ -1,17 +1,18 @@
 ---
-layout: page
 title: Monica Davis
-author: mdavis
-meta_title: "Monica Davis | That's Life [Science]"
-subheadline: "Contributor since 2016"
-teaser: "PhD student in Environmental Conservation"
 permalink: "/authors/mdavis/"
+layout: page
+author: mdavis
+meta_title: Monica Davis | That's Life [Science]
+subheadline: Contributor since 2016
+teaser: PhD student in Environmental Conservation
 header:
-   image_fullwidth: you-can-delete-me-header.png
+  image_fullwidth: you-can-delete-me-header.png
 gallery:
-    - image_url: gallery-image-mdavis.jpg
-      caption: Monica Davis
+- image_url: gallery-image-mdavis.jpg
+  caption: Monica Davis
 ---
+
 ![Monica Davis]({{ site.url }}/images/gallery-image-mdavis.jpg)
 
 Research Area: population dynamics and molecular systematics of invasive insects

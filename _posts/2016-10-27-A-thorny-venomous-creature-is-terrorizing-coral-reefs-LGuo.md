@@ -1,24 +1,24 @@
 ---
 title: A thorny, venomous creature is terrorizing coral reefs
-layout: page
-author: lguo
-permalink: /2016-10-27-A-thorny-venomous-creature-is-terrorizing-coral-reefs-LGuo/
+date: 2016-10-27 00:00:00 Z
+permalink: "/2016-10-27-A-thorny-venomous-creature-is-terrorizing-coral-reefs-LGuo/"
+categories:
+- Our Ecosystems
 tags:
 - population outbreak
 - human-wildlife interaction
 - coral reefs
 - biodiversity
-categories:
-- Our Ecosystems 
+layout: page
+author: lguo
 header:
- image_fullwidth: ecosystem-header.jpg
+  image_fullwidth: ecosystem-header.jpg
 image:
- thumb: 2016-10-27-LGuo.jpg
-teaser: When you’ve got venomous thorns and you eat innocent beautiful coral for breakfast, I think you qualify as a new kind of monster. 
+  thumb: 2016-10-27-LGuo.jpg
+teaser: When you’ve got venomous thorns and you eat innocent beautiful coral for breakfast,
+  I think you qualify as a new kind of monster.
 subheadline: Halloween Tales from the Ocean
-
 source-id: 1H7zdXyeattWLc5z5ipdGwK-DI5CkGtxTi_5oacAybX8
-published: true
 ---
 
 Meet the crown-of-thorns starfish, known (rather unaffectionately) as COTS (Fig 1). 

@@ -1,25 +1,26 @@
 ---
-title: "Mitochondria: The Underrated Organelles"
-layout: page
-author: sdelzell
-permalink: /2017-01-12-Mitochondria-the-underrated-organelle-SDelzell/
+title: 'Mitochondria: The Underrated Organelles'
+date: 2017-01-12 00:00:00 Z
+permalink: "/2017-01-12-Mitochondria-the-underrated-organelle-SDelzell/"
 categories:
 - How It Works
-header:
- image_fullwidth: howitworks-header.jpg
-image:
- thumb: 2017-01-12_sd_fig1.jpg
 tags:
- - genetics
- - mitochondria
- - cells
- - DNA
- - evolution
+- genetics
+- mitochondria
+- cells
+- DNA
+- evolution
+layout: page
+author: sdelzell
+header:
+  image_fullwidth: howitworks-header.jpg
+image:
+  thumb: 2017-01-12_sd_fig1.jpg
 subheadline: A Crash Course in the Coolness of Mitochondria
-teaser: "Think mitochondria are just little batteries for your cells? Think again."
+teaser: Think mitochondria are just little batteries for your cells? Think again.
 source-id: 1TSi6fdCiBOoZb4AthvOIixg4kXrpR4cC0ZMv3H55ktA
-published: true
 ---
+
 <div style="text-align:center"><img src ="http://images.tutorvista.com/cms/images/101/structure-of-animal-cell-2.jpg"/></div>
 
 **Fig. 1** Look familiar? An animal cell, showing the mitochondria in its home environment

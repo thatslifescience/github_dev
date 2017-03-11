@@ -1,21 +1,23 @@
 ---
 title: I Get Knocked Down But I Get Up Again
-layout: page
-author: gchaput
-permalink: /2016-11-06-I-Get-Knocked-Down-But-I-Get-Up-Again-GChaput/
+date: 2016-11-06 00:00:00 Z
+permalink: "/2016-11-06-I-Get-Knocked-Down-But-I-Get-Up-Again-GChaput/"
+categories:
+- Grad School Diaries
 tags:
 - mentoring
 - students
-categories:
- - Grad School Diaries
+layout: page
+author: gchaput
 header:
- image_fullwidth: gradschooldiaries-header.jpg
+  image_fullwidth: gradschooldiaries-header.jpg
 image:
- thumb: 2016-11-06_gchaput_fig2.jpg
-teaser: "As a researcher, you can’t be afraid of failure. This is the #1 rule you should stress when mentoring in a lab setting."
+  thumb: 2016-11-06_gchaput_fig2.jpg
+teaser: 'As a researcher, you can’t be afraid of failure. This is the #1 rule you
+  should stress when mentoring in a lab setting.'
 source-id: 1Mbm9v6_IerFXEdUgK79qKPK7jFxBUQ78lXjc1zlM4b8
-published: true
 ---
+
 ![image alt txt](https://thatslifescience.github.io/thatslifesci/public/fWbKz8obQN2zF6hNdMp4IQ_img_0.png)
 
 **Image 1.** Sure we all trip up on failure, but it's how you get back up that makes the real success. (Photo by OpenIcons on pixabay.com)

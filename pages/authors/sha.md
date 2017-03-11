@@ -1,17 +1,18 @@
 ---
-layout: page
 title: Stephanie A. Ha
-author: sha
-meta_title: "Stephanie A. Ha | That's Life [Science]"
-subheadline: "Contributor since 2016"
-teaser: "MS student in Microbiology"
 permalink: "/authors/sha/"
+layout: page
+author: sha
+meta_title: Stephanie A. Ha | That's Life [Science]
+subheadline: Contributor since 2016
+teaser: MS student in Microbiology
 header:
-   image_fullwidth: you-can-delete-me-header.png
+  image_fullwidth: you-can-delete-me-header.png
 gallery:
-    - image_url: gallery-image-sha.jpg
-      caption: Stephanie A. Ha
+- image_url: gallery-image-sha.jpg
+  caption: Stephanie A. Ha
 ---
+
 ![Stephanie A. Ha]({{ site.url }}/images/gallery-image-sha.jpg)
 
 Research Area: Cell Biology; Bacteriology; Mycobacteria

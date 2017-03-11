@@ -1,18 +1,18 @@
 ---
-title: "Nematodes: The super microscopic animal!"
-layout: page
-author: eaperkins
-permalink: /2017-01-09-Nematodes-The-Super-Microscopic-Animal-EAllanPerkins/
+title: 'Nematodes: The super microscopic animal!'
+date: 2017-01-09 00:00:00 Z
+permalink: "/2017-01-09-Nematodes-The-Super-Microscopic-Animal-EAllanPerkins/"
 categories:
 - Earth's Organisms
+layout: page
+author: eaperkins
 header:
- image_fullwidth: organisms-header.jpg
+  image_fullwidth: organisms-header.jpg
 image:
- thumb: 2017-01-09_eaperkins_fig1.jpg
-subheadline: "Neither a toad nor a worm"
-teaser: "Nematodes are the greatest animal of which you most likely have never heard!"
+  thumb: 2017-01-09_eaperkins_fig1.jpg
+subheadline: Neither a toad nor a worm
+teaser: Nematodes are the greatest animal of which you most likely have never heard!
 source-id: 1eE4MKsCE3itdm6tkK01Y0tX3y1vofcXHj8royn7PdVI
-published: true
 ---
 
 Many of the organisms on earth are too tiny for us to see and are often overlooked.  However, they can provide valuable information about ecosystems, the environment and they can be used to model how important processes work in larger animals. Among these groups of super organisms are nematodes. These worm-like animals are often no larger than the tip of a pencil.  Although, some species that parasitize animals can grow to be up to 8 meters long, like *Placentonema gigantisma* which infects sperm whale placentas!  Nematodes are considered the most abundant animal on earth because they live in every environment and parasitize almost all other animals (including insects) and plants.  In fact, Nathan Cobb, the pioneer of nematology, stated that if everything but nematodes were removed from the earth, we would still be able to discern what had been on the planet based on where different nematode species were!

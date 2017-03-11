@@ -1,17 +1,18 @@
 ---
-layout: page
 title: Luis Aguirre
-author: laguirre
-meta_title: "Luis Aguirre | That's Life [Science]"
-subheadline: "Contributor since Fall 2016"
-teaser: "PhD Student in Organismic & Evolutionary Biology"
 permalink: "/authors/laguirre/"
+layout: page
+author: laguirre
+meta_title: Luis Aguirre | That's Life [Science]
+subheadline: Contributor since Fall 2016
+teaser: PhD Student in Organismic & Evolutionary Biology
 header:
-   image_fullwidth: you-can-delete-me-header.png
+  image_fullwidth: you-can-delete-me-header.png
 gallery:
-    - image_url: gallery-image-laguirre.jpg
-      caption: Luis Aguirre
+- image_url: gallery-image-laguirre.jpg
+  caption: Luis Aguirre
 ---
+
 ![Luis Aguirre]({{ site.url }}/images/gallery-image-laguirre.jpg)
 
 Research Area: Pollination ecology, multi-trophic interactions.

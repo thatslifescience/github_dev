@@ -1,24 +1,25 @@
 ---
 title: "'Tis the Season for Citizen Science"
-layout: page
-author: agrade
-permalink: /2016-12-15-tis-the-season-for-citizen-science-agrade/
+date: 2016-12-15 00:00:00 Z
+permalink: "/2016-12-15-tis-the-season-for-citizen-science-agrade/"
+categories:
+- Our Ecosystems
 tags:
 - citizen science
 - birds
 - conservation
 - biodiversity
 - ecology
-categories:
-- Our Ecosystems
+layout: page
+author: agrade
 header:
- image_fullwidth: ecosystem-header.jpg
+  image_fullwidth: ecosystem-header.jpg
 image:
- thumb: christmas-bird-decoration.jpg
-teaser: The nation’s longest-running citizen science project is both a scientific and cultural treasure. 
+  thumb: christmas-bird-decoration.jpg
+teaser: The nation’s longest-running citizen science project is both a scientific
+  and cultural treasure.
 subheadline: Celebrating 117 Years of Christmas Bird Counts
 source-id: 1ibyNCWFmLyUpduKhd06sunhXgA6VzGuDIPvJ34vLrVI
-published: true
 ---
 
 <div style="text-align:center"><img src="http://www.publicdomainpictures.net/pictures/20000/nahled/christmas-bird-decoration.jpg"/></div>

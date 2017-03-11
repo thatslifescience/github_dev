@@ -1,23 +1,25 @@
 ---
 title: How are forest insect outbreaks like wildfires?
-layout: page
-author: hbroadley
-permalink: /2016-09-08-how-are-forest-insect-outbreaks-like-wildfires-HBroadley/
+date: 2016-09-08 00:00:00 Z
+permalink: "/2016-09-08-how-are-forest-insect-outbreaks-like-wildfires-HBroadley/"
+categories:
+- Our Ecosystems
 tags:
 - forest ecology
 - insects
 - population ecology
 - wildfires
-categories:
- - Our Ecosystems
+layout: page
+author: hbroadley
 header:
- image_fullwidth: 2016-09-08_hbroadley_fig2-opac.jpg
+  image_fullwidth: 2016-09-08_hbroadley_fig2-opac.jpg
 image:
- thumb: 2016-09-08_hbroadley_fig2.jpg
-teaser: Wildfire and insect outbreak both affect our forest in complex and interconnected ways.  Learn more in this post.
+  thumb: 2016-09-08_hbroadley_fig2.jpg
+teaser: Wildfire and insect outbreak both affect our forest in complex and interconnected
+  ways.  Learn more in this post.
 source-id: 1yWARUJ1ol4ESQNsWFlOFjqqmUPjlvnIoLtFYsBF9W8s
-published: true
 ---
+
 How are forest insect outbreaks similar to wildfires? There has been a lot in the news recently about wildfires. Similarly, another influence—forest insects—is sweeping through North American forests.  Wildfire and insect outbreak are both large-scale forest disturbances and affect our forest in complex and interconnected ways.  
 
 **We've been hearing a lot in the news about wildfires**

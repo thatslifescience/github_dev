@@ -1,23 +1,26 @@
 ---
 title: Fish are friends AND food
-layout: page
-author: lguo
-permalink: /2016-12-08-fish-are-friends-and-food-lguo/
+date: 2016-12-08 00:00:00 Z
+permalink: "/2016-12-08-fish-are-friends-and-food-lguo/"
+categories:
+- Our Ecosystems
 tags:
 - fish
 - research
 - funding
-categories:
-- Our Ecosystems
+layout: page
+author: lguo
 header:
- image_fullwidth: ecosystem-header.jpg 
+  image_fullwidth: ecosystem-header.jpg
 image:
- thumb: 2016-12-08-LGuo.jpg
-teaser: Many people don’t think about fish beyond what’s in their tanks or on their plate. Fish are actually a valuable and important focus for research efforts. I have trillions of reasons why!
+  thumb: 2016-12-08-LGuo.jpg
+teaser: Many people don’t think about fish beyond what’s in their tanks or on their
+  plate. Fish are actually a valuable and important focus for research efforts. I
+  have trillions of reasons why!
 subheadline: Why fish deserve our research money
 source-id: 1_upVgdkDWmETSpFokVevnQXWk-o4bR23S9v_HJhvkTY
-published: true
 ---
+
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/29566525143/in/dateposted-friend/" title="fish-378286_1280"><img src="https://c8.staticflickr.com/8/7531/29566525143_725b9c0384_z.jpg" width="640" height="438" alt="fish-378286_1280"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 I have always loved fish. The diversity in visual splendor and quirky behaviors drew me to them when watching ocean documentaries as a child. However, the explanation "because they're awesome!" doesn’t cut it when you want to conduct research. Research costs money, and whether that money comes from private industry or the government, it’s essential that researchers can justify the use of their study organisms. Today, I’m going to break down the equation of why fish are worthy and need research funding. 

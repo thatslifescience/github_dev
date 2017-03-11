@@ -1,21 +1,21 @@
 ---
 title: The Unseen World – On Cheese?
-layout: page
-author: lalteio
-permalink: /2016-06-20-The-Unseen-World-On-Cheese-LAlteio/
+date: 2016-06-20 00:00:00 Z
+permalink: "/2016-06-20-The-Unseen-World-On-Cheese-LAlteio/"
+categories:
+- Earth's Organisms
 tags:
 - microbial ecology
 - diversity
 - cheese
-categories:
- - Earth's Organisms
+layout: page
+author: lalteio
 header:
- image_fullwidth: 2016-06-20_lalteio_fig1(opac).jpg
+  image_fullwidth: 2016-06-20_lalteio_fig1(opac).jpg
 image:
- thumb: 2016-06-20_lalteio_fig4.jpg
+  thumb: 2016-06-20_lalteio_fig4.jpg
 subheadline: How cheese rinds may be a valuable tool for microbial discovery
 source-id: 1iB8bjjs7H8mM3IUaFJTSQLnhDkvLgkd-ZFKbJIdfi28
-published: true
 ---
 
 Recently the media hype about the tiny living things known as microbes has blown up, including controversy over antibiotic-resistance, and new research on bacteria that live in the human gut. The main punchline from stories like these: not all microbes are bad. In fact, they do essential things for our bodies, like help us digest food. They also make some popular food items, like beer, wine, bread, and chocolate, just to name a few. Microbe is a general term that refers to any organism that can only be seen using a microscope. Teams of scientists have taken to studying the microbes on our foods in hopes of finding new techniques to discover bacterial and fungal diversity. One great candidate for this research happens to be cheese! 

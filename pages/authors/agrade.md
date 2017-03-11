@@ -1,17 +1,18 @@
 ---
-layout: page
 title: Aaron Grade
-author: agrade
-meta_title: "Aaron Grade | That's Life [Science]"
-subheadline: "Contributor since 2016"
-teaser: "PhD student in Organismic and Evolutionary Biology"
 permalink: "/authors/agrade/"
+layout: page
+author: agrade
+meta_title: Aaron Grade | That's Life [Science]
+subheadline: Contributor since 2016
+teaser: PhD student in Organismic and Evolutionary Biology
 header:
-   image_fullwidth: you-can-delete-me-header.png
+  image_fullwidth: you-can-delete-me-header.png
 gallery:
-    - image_url: gallery-image-agrade.jpg
-      caption: Aaron Grade
+- image_url: gallery-image-agrade.jpg
+  caption: Aaron Grade
 ---
+
 ![Aaron Grade]({{ site.url }}/images/gallery-image-agrade.jpg)
 
 [Website](http://www.agradeeco.wordpress.com)

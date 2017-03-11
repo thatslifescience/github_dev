@@ -1,17 +1,18 @@
 ---
-layout: page
 title: Derrick Alcott
-author: dalcott
-meta_title: "Derrick Alcott | That's Life [Science]"
-subheadline: "Contributor since 2016"
-teaser: "PhD candidate in Organismic and Evolutionary Biology"
 permalink: "/authors/dalcott/"
+layout: page
+author: dalcott
+meta_title: Derrick Alcott | That's Life [Science]
+subheadline: Contributor since 2016
+teaser: PhD candidate in Organismic and Evolutionary Biology
 header:
-   image_fullwidth: you-can-delete-me-header.png
+  image_fullwidth: you-can-delete-me-header.png
 gallery:
-    - image_url: gallery-image-dalcott.jpg
-      caption: Derrick Alcott
+- image_url: gallery-image-dalcott.jpg
+  caption: Derrick Alcott
 ---
+
 ![Derrick Alcott]({{ site.url }}/images/gallery-image-dalcott.jpg)
 
 [Website](https://gpls.cns.umass.edu/oeb/directory/derrick-alcott)

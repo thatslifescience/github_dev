@@ -1,17 +1,18 @@
 ---
-layout: page
 title: Evan Kuras
-author: ekuras
-meta_title: "Evan Kuras | That's Life [Science]"
-subheadline: "Contributor since 2016"
-teaser: "MS student in Environmental Conservation"
 permalink: "/authors/ekuras/"
+layout: page
+author: ekuras
+meta_title: Evan Kuras | That's Life [Science]
+subheadline: Contributor since 2016
+teaser: MS student in Environmental Conservation
 header:
-   image_fullwidth: you-can-delete-me-header.png
+  image_fullwidth: you-can-delete-me-header.png
 gallery:
-    - image_url: gallery-image-ekuras.jpg
-      caption: Derrick Alcott
+- image_url: gallery-image-ekuras.jpg
+  caption: Derrick Alcott
 ---
+
 ![Derrick Alcott]({{ site.url }}/images/gallery-image-ekuras.jpg)
 
 Research Area: urban environmental education and youth connection to nature

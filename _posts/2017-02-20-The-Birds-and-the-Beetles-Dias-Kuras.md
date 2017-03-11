@@ -1,25 +1,27 @@
 ---
-title: "The Birds and the Beetles: Research Highlights from UMass Grad Students"
-layout: page
-author: ekuras
-permalink: /2017-02-20-The-Birds-and-the-Beetles-Dias-Kuras/
+title: 'The Birds and the Beetles: Research Highlights from UMass Grad Students'
+date: 2017-02-20 00:00:00 Z
+permalink: "/2017-02-20-The-Birds-and-the-Beetles-Dias-Kuras/"
+categories:
+- Grad School Diaries
 tags:
 - bird
 - conservation
 - field work
 - insect
 - invasive species
-categories:
-- Grad School Diaries
+layout: page
+author: ekuras
 header:
- image_fullwidth: gradschooldiaries-header.jpg
+  image_fullwidth: gradschooldiaries-header.jpg
 image:
- thumb: 2017-20-02_dias_kuras_fig2.jpg
-teaser: Highlights from UMass Life Sciences Graduate Research Symposium, plus a Q&A with the two award winners. Get inspired!
+  thumb: 2017-20-02_dias_kuras_fig2.jpg
+teaser: Highlights from UMass Life Sciences Graduate Research Symposium, plus a Q&A
+  with the two award winners. Get inspired!
 subheadline: A day of inspiration and learning at the Life Sciences Graduate Research
 source-id: 1XmkmKnCejxARw-koH--fb9t-FBCAbaOS3Lk1JynWbP0
-published: true
 ---
+
 Post co-written with guest writer Bia Dias.
 
 Every year at the University of Massachusetts (UMass), graduate students and faculty from eight diverse programs come together for the Life Sciences Graduate Research Symposium. But what is a research symposium and why it is important, you may ask? A research symposium is a platform for scientists to communicate their hard work to a broader audience. Picture it as a space to share your progress and findings with people that work on related things or maybe on different problems altogether! Most scientific ideas do not come to light by themselves; they are products of the interactions that you have with your fellow scientists and researchers. The Life Science Graduate Research Symposium accomplished exactly that, by bringing together so many scientists and so many ideas in a supportive and inspiring environment.  

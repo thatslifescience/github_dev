@@ -1,14 +1,15 @@
 ---
-layout: page
 title: Emily S. Melzer
-author: emelzer
-meta_title: "Emily S. Melzer | That's Life [Science]"
-subheadline: "Contributor since 2016"
-teaser: "PhD student in Microbiology"
 permalink: "/authors/emelzer/"
+layout: page
+author: emelzer
+meta_title: Emily S. Melzer | That's Life [Science]
+subheadline: Contributor since 2016
+teaser: PhD student in Microbiology
 header:
-   image_fullwidth: you-can-delete-me-header.png
+  image_fullwidth: you-can-delete-me-header.png
 ---
+
 ![Emily S. Melzer]({{ site.url }}/images/gallery-image-emelzer.jpg)
 
 Research Area: Host-microbe interaction

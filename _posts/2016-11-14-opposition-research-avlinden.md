@@ -1,25 +1,26 @@
 ---
 title: Opposition Research on My Garden’s Greatest Nemesis
-permalink: /2016-11-14-opposition-research-avlinden/
-sidebar: right
-comments: true
-author: avlinden
-layout: page
-subheadline: Ecology and Behavior of Woodchucks
-teaser: Even if a woodchuck could chuck wood, it would still rather eat your garden!
+date: 2016-11-14 00:00:00 Z
+permalink: "/2016-11-14-opposition-research-avlinden/"
 categories:
 - Earth's Organisms
 tags:
 - Mammals
 - Ecology
 - Behavior
+sidebar: right
+comments: true
+author: avlinden
+layout: page
+subheadline: Ecology and Behavior of Woodchucks
+teaser: Even if a woodchuck could chuck wood, it would still rather eat your garden!
 header:
-  image_fullwidth: "organisms-header.jpg"
+  image_fullwidth: organisms-header.jpg
 image:
-  thumb: "2016_11_14_Marmota_monax_UL_04.jpg"
+  thumb: 2016_11_14_Marmota_monax_UL_04.jpg
 source-id: 1zC1f_lNFIT5Gba43LwZcg-fY4adDLxSQ3u3TaQcUMLQ
-published: true
 ---
+
 As a relative newcomer to somewhat-rural New England, my disappointment at no longer living in a major city was offset by the opportunity to finally have the big vegetable garden of my dreams. This spring I built a raised bed and planted rows and rows of salad greens. I was pretty naïve about the local wildlife—I hadn’t seen any deer in the area, so I thought my plants would be fine.
 
 Well. Lesson humbly learned! The first sprouts were chomped immediately. I wised up and built a haphazard fence using thin wooden slats and some plastic bird netting. I planted more seeds, figuring I’d done a pretty good job.

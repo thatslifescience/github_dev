@@ -1,23 +1,24 @@
 ---
 title: Nicotine Dreams - Baby Birds Protected by Cigarettes
-layout: page
-author: kstraley
-permalink: /2016-08-08-Nicotine-Dreams-Baby-Birds-Protected-by-Cigarettes-KStraley/
+date: 2016-08-08 00:00:00 Z
+permalink: "/2016-08-08-Nicotine-Dreams-Baby-Birds-Protected-by-Cigarettes-KStraley/"
+categories:
+- Our Ecosystems
 tags:
 - birds
 - nest
 - behavior
 - parasites
-categories:
- - Our Ecosystems
+layout: page
+author: kstraley
 header:
- image_fullwidth: 2016-08-04_kstratley_fig5_opac.jpg
+  image_fullwidth: 2016-08-04_kstratley_fig5_opac.jpg
 image:
- thumb: 2016-08-04_kstratley_fig4.jpg
+  thumb: 2016-08-04_kstratley_fig4.jpg
 teaser: Birds know how to fumigate for unwanted pests!
 source-id: 1ezRhjvXLf72w36fJSOfFaHRO326WC_AMdSHiTcScctE
-published: true
 ---
+
 ![image alt text]({{ site.url }}/images/2016-08-04_kstratley_fig1.jpg)
  
 **Fig. 1** American Robin nest, made of twigs and mud (Source: Mark on Flickr [https://www.flickr.com/photos/eggrole/7213149990/](https://www.flickr.com/photos/eggrole/7213149990/), photo rotated by Kit Straley).

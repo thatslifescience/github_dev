@@ -1,25 +1,28 @@
 ---
 title: Being selfish means staying alive
-layout: page
-author: lguo
-permalink: /2016-08-22-Being-selfish-means-staying-alive-LGuo/
+date: 2016-08-22 00:00:00 Z
+permalink: "/2016-08-22-Being-selfish-means-staying-alive-LGuo/"
+categories:
+- How It Works
 tags:
 - altruism
 - fitness
 - animal behavior
-categories:
- - How It Works
-header: no
+layout: page
+author: lguo
+header: false
 image:
- title: 2016-08-17_lguo-feature.jpg
- caption: Sharing is caring? (Photo from pixabay.com)
- caption_url: https://pixabay.com/en/love-valentine-s-day-pose-heart-903178/
- thumb: 2016-08-17_lguo-feature.jpg
-teaser: When I say altruism, you probably think of giving to others. As humans, we admire when someone acts altruistic and consider altruism to be a good personality trait. Why then, is true altruism in the animal kingdom rare?
+  title: 2016-08-17_lguo-feature.jpg
+  caption: Sharing is caring? (Photo from pixabay.com)
+  caption_url: https://pixabay.com/en/love-valentine-s-day-pose-heart-903178/
+  thumb: 2016-08-17_lguo-feature.jpg
+teaser: When I say altruism, you probably think of giving to others. As humans, we
+  admire when someone acts altruistic and consider altruism to be a good personality
+  trait. Why then, is true altruism in the animal kingdom rare?
 subheadline: Part I - Why true altruism is a rare behavior in the animal kingdom
 source-id: 1XsEi3sYx14K5T0CGFySCr2_hJsF7aO1owOt1-XSiIns
-published: true
 ---
+
 When I say altruism, you probably think of giving to others. As humans, we admire when someone acts altruistic and consider altruism to be a good personality trait. Why then, is true altruism in the animal kingdom rare? Let's start with some definitions [1](http://www.merriam-webster.com/dictionary/altruism).
 
 "Altruism:

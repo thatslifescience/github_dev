@@ -1,24 +1,25 @@
 ---
-title: "GMO! The Places You'll Go!"
-layout: page
-author: lalteio
-permalink: /2017-02-09-GMO-The-Places-Youll-Go-LAlteio/
+title: GMO! The Places You'll Go!
+date: 2017-02-09 00:00:00 Z
+permalink: "/2017-02-09-GMO-The-Places-Youll-Go-LAlteio/"
+categories:
+- How It Works
 tags:
 - genetically modified organism
 - gmo
 - public health
 - food security
-categories:
-- How It Works
+layout: page
+author: lalteio
 header:
- image_fullwidth: howitworks-header.jpg
+  image_fullwidth: howitworks-header.jpg
 image:
- thumb: 2017-02-09-LAlteioA.jpg
-teaser: Genetically modified organisms may seem like science fiction! What are the benefits and risks of this technology in our food and daily products?
-
+  thumb: 2017-02-09-LAlteioA.jpg
+teaser: Genetically modified organisms may seem like science fiction! What are the
+  benefits and risks of this technology in our food and daily products?
 source-id: 16-zxjGFGkHCNTm8ryIlrFyGQqfhwbnHR-UdRdAKamVc
-published: true
 ---
+
 Consumers are becoming increasingly conscious of what they are buying and where their purchases are coming from. This consumer consciousness has fueled debate over labeling of genetically modified foods. When you think of genetically modified organisms (GMOs), you may picture weird hybrid fruits and vegetables like something Dr. Frankenstein would have stitched together in his lab. However, GMOs appear very similar to their non-GMO counterparts. Expectations about what GMO foods should look like can color our perception of the safety of these foods. In fact, there has been much controversy over the safety and impacts of GMOs on human health and the environment. Although research points to minimal risks of GMOs on health, much of the uncertainty surrounding them may be fueled by a lack of understanding about what this technology actually is.  
 
 So, what is a GMO? Genetic modification is a technology that can be applied to organisms with the goal of altering the genetic material to improve that organism. In this process, genes of interest can be selected and transferred from one organism into another. Genes can even be multiplied within an organism to change levels of expression of that particular gene [1]. Humans have been altering plants and animals for thousands of years through the process of [artificial selection](http://thatslifesci.com.s3-website-us-east-1.amazonaws.com/2016-11-30-Your-Dog-is-a-GMO-Wolf-VanderLinden/), where organisms with desirable traits were bred to produce offspring with these traits. Similarly, genetic modification involves the selection and expression of desirable traits, but it speeds up the process so that we no longer have to wait for offspring to be produced and develop before we can reap the benefits. With genetic modification, we are also no longer constrained to combinations of traits that naturally occur, opening up a world of possibilities for new trait combinations [2]. 

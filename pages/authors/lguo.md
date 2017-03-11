@@ -1,17 +1,18 @@
 ---
-layout: page
 title: Lian Guo
-author: lguo
-meta_title: "Lian Guo | That's Life [Science]"
-subheadline: "Contributor since 2016"
-teaser: "PhD student in Organismic and Evolutionary Biology"
 permalink: "/authors/lguo/"
+layout: page
+author: lguo
+meta_title: Lian Guo | That's Life [Science]
+subheadline: Contributor since 2016
+teaser: PhD student in Organismic and Evolutionary Biology
 header:
-   image_fullwidth: you-can-delete-me-header.png
+  image_fullwidth: you-can-delete-me-header.png
 gallery:
-    - image_url: gallery-image-lguo.jpg
-      caption: Derrick Alcott
+- image_url: gallery-image-lguo.jpg
+  caption: Derrick Alcott
 ---
+
 ![Lian Guo]({{ site.url }}/images/gallery-image-lguo.jpg)
 
 Research Area: Environmental physiology, effects of stressors

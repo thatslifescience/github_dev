@@ -1,25 +1,27 @@
 ---
 title: Know Your Limb-its
-layout: page
-author: gwriter
-permalink: /2016-12-05-Know-your-limb-its-CElowe/
+date: 2016-12-05 00:00:00 Z
+permalink: "/2016-12-05-Know-your-limb-its-CElowe/"
+categories:
+- How It Works
 tags:
 - biomechanics
 - bird
 - senses
 - flight
 - proprioception
-categories:
-- How It Works
+layout: page
+author: gwriter
 header:
- image_fullwidth: howitworks-header.jpg
+  image_fullwidth: howitworks-header.jpg
 image:
- thumb: 2016-12-5-EloweThumb.jpg
-teaser: Detecting the location of your own fingertips without seeing them is a sense we should all appreciate. But what do we know about this sense in other animals?
+  thumb: 2016-12-5-EloweThumb.jpg
+teaser: Detecting the location of your own fingertips without seeing them is a sense
+  we should all appreciate. But what do we know about this sense in other animals?
 subheadline: Proprioception as a vital sense
 source-id: 17F4GUFurH7GctPwK07m93nTIgpLDg0xeMgmKgFduhyg
-published: true
 ---
+
 Trying to snatch a Frisbee from the air makes me painfully aware of my poor hand-eye coordination. It always made me wonder: was I naturally lacking something or would my skills improve with enough trauma to my face? Instead of joining an Ultimate Frisbee team to find out, I settled for trail running. Here, I was introduced to the concept of "proprioception"—a passive sense of body position and movement in space. This term recently erupted in the popular news after an article in *NEJM* described two people with a genetic mutation causing impaired proprioception [1]. These patients had trouble detecting a soft touch to their skin, but even more remarkable was their inability to sense the movement of their own joints. If they were asked to touch a target with their eyes open they were accurate, but with their eyes closed it was blind luck when they succeeded. It turns out that these people shared mutations in PIEZO2—a mechanosensory protein that triggers nerve impulses when disturbed [2]. 
 
 <div style="text-align:center"><img src ="https://upload.wikimedia.org/wikipedia/commons/1/12/A_mother_flying_back_to_housemartin_nest.jpg" /></div>

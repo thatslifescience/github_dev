@@ -1,22 +1,24 @@
 ---
 title: Penguins and other strange things we study from space
-layout: page
-author: efusco
-permalink: /2016-08-18-Penguins-and-other-strange-things-we-study-from-space-EFusco/
+date: 2016-08-18 00:00:00 Z
+permalink: "/2016-08-18-Penguins-and-other-strange-things-we-study-from-space-EFusco/"
+categories:
+- How It Works
 tags:
 - remote sensing
 - satellite
 - penguin
-categories:
- - How It Works
+layout: page
+author: efusco
 header:
- image_fullwidth: howitworks-header.jpg
+  image_fullwidth: howitworks-header.jpg
 image:
- thumb: 2016-08-16_efusco_fig1.jpg
-teaser: How scientists use satellites to answer questions about life here on planet Earth.
+  thumb: 2016-08-16_efusco_fig1.jpg
+teaser: How scientists use satellites to answer questions about life here on planet
+  Earth.
 source-id: 19tdLkm3IZa5BgFAoztUNfngX9vHt_nhlTcwKym63yl8
-published: true
 ---
+
 Thoughts of penguin research may bring to mind Antarctic research vessels and scientists layered in puffy down coats. However, in 2012, researchers Peter Fretwell and colleagues figured out a new way to study penguin populations... from space [1].
 
 ![image alt text]({{ site.url }}/images/2016-08-16_efusco_fig1.jpg)

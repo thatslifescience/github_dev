@@ -1,17 +1,22 @@
 ---
 title: World Fish Migration Day 2016!
+date: 2016-05-19 00:00:00 Z
+permalink: "/2016-05-19-World-Fish-Migration-Day-DAlcott/"
+categories:
+- Earth's Organisms
 layout: page
 author: dalcott
-permalink: /2016-05-19-World-Fish-Migration-Day-DAlcott/
-categories:
- - Earth's Organisms
 header:
- image_fullwidth: organisms-header.jpg
+  image_fullwidth: organisms-header.jpg
 image:
- thumb: 2016-05-19-fig1-dalcott.jpg
-teaser: Each year, in rivers all around the world, several fish species make an all-or-nothing trek from sea to freshwater (or vice versa) in order to reproduce. Join us in celebrating the second ever World Fish Migration Day on May 21st! On World Fish Migration Day, we celebrate the ecological, economical, and cultural importance of these fish through education and outreach in order to promote a better future for all of the organisms that rely on migratory fish (including ourselves). 
+  thumb: 2016-05-19-fig1-dalcott.jpg
+teaser: Each year, in rivers all around the world, several fish species make an all-or-nothing
+  trek from sea to freshwater (or vice versa) in order to reproduce. Join us in celebrating
+  the second ever World Fish Migration Day on May 21st! On World Fish Migration Day,
+  we celebrate the ecological, economical, and cultural importance of these fish through
+  education and outreach in order to promote a better future for all of the organisms
+  that rely on migratory fish (including ourselves).
 source-id: 1MlzhaEqwOzWcQZrsridfJun2e6SwCIvIM0Y-dH18468
-published: true
 ---
 
 May 21st is World Fish Migration day! It is a one-day global initiative to educate people about the importance of global fish migrations. The first ever World Fish Migration Day (WFMD) was held in 2014 and was largely successful. This year, we continue to reach out to the public to share the marvel of fish migrations and demonstrate the value of this behavior. As an ecologist studying a fish migration, I think they are a big deal. But humans have been taking advantage of these annual migrations since the dawn of civilization.

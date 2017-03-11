@@ -1,23 +1,25 @@
 ---
 title: A Brief History of Evolutionary Thought, part III
-layout: page
-author: dnavon
-permalink: /2017-02-02-A-Brief-History-of-Evolutionary-Thought-part-3/
+date: 2017-02-02 00:00:00 Z
+permalink: "/2017-02-02-A-Brief-History-of-Evolutionary-Thought-part-3/"
+categories:
+- How It Works
 tags:
 - evolutionary history
 - epigenetics
 - cryptic variation
 - retroviruses
-categories:
-- How It Works
+layout: page
+author: dnavon
 header:
- image_fullwidth: howitworks-header.jpg
+  image_fullwidth: howitworks-header.jpg
 image:
- thumb: 2017-02-02_dnavon_fig2.jpg
-teaser: Evolutionary biology has made huge strides in the past 30 years, and yet, there’s still a long way to go.
+  thumb: 2017-02-02_dnavon_fig2.jpg
+teaser: Evolutionary biology has made huge strides in the past 30 years, and yet,
+  there’s still a long way to go.
 source-id: 1fLgI7C5a-UpDoFYq5Z4OgYZKDuXxnAdFF7cpuUHMjP8
-published: true
 ---
+
 [Part I](http://thatslifesci.com.s3-website-us-east-1.amazonaws.com/2016-10-20-a-brief-history-of-evolutionary-thought-i-dnavon/) of this series focused on the origins of evolutionary thought, reaching as far back as the philosophers Plato and Aristotle.  [Part II](http://thatslifesci.com.s3-website-us-east-1.amazonaws.com/2017-01-23-A-Brief-History-of-Evolutionary-Thought-2-DNavon/) addressed the Modern Synthesis which united Darwinian evolution and Mendelian inheritance and sparked a genetic revolution in the field and in our society.  Today, I want to turn your attention to that genetic revolution and, more specifically, what is missing from it.
 
 In one of my favorite formulaic crime dramas, David Krumholtz's math whiz character responds to his FBI brother’s disparaging remark on mathematics with a wounded "everything is numbers".  In many ways, biologists spent much of the latter half of the 20th century proclaiming that “everything is genes”.  The [Central Dogma](https://www.ncbi.nlm.nih.gov/Class/MLACourse/Modules/MolBioReview/central_dogma.html), a term coined by [Francis Crick](http://www.dnaftb.org/19/bio-2.html) in 1958, saw the gene as the fundamental basis for the flow of information through the cell – DNA is transcribed to RNA, RNA is translated into a protein which can then perform some function. He even stipulated originally that information could never flow backwards (e.g. from RNA to DNA).  That statement was considered controversial at the time, and was later disproven – [reverse transcription](https://www.britannica.com/science/reverse-transcriptase), in which RNA is converted back into DNA, happens frequently in [retroviruses ](https://www.ncbi.nlm.nih.gov/books/NBK19382/)like HIV as well as in portions of DNA in plants and animals.  

@@ -1,23 +1,25 @@
 ---
 title: Drinking from the rivers and eating from the forests
-layout: page
-author: nfalconi
-permalink: /2016-07-21-Drinking-from-the-rivers-and-eating-from-the-forest-NFalconi/
+date: 2016-07-21 00:00:00 Z
+permalink: "/2016-07-21-Drinking-from-the-rivers-and-eating-from-the-forest-NFalconi/"
+categories:
+- Our Ecosystems
 tags:
 - mining
 - environmental problems
 - water pollution
-categories:
- - Our Ecosystems
+layout: page
+author: nfalconi
 header:
- image_fullwidth: 2016-07-16_falconi_fig1_opac.jpg
+  image_fullwidth: 2016-07-16_falconi_fig1_opac.jpg
 image:
- thumb: 2016-07-16_falconi_fig1.jpg
-teaser: Environmental disasters are happening around the world and most of us are not even aware.
+  thumb: 2016-07-16_falconi_fig1.jpg
+teaser: Environmental disasters are happening around the world and most of us are
+  not even aware.
 subheadline: A reflection about the value of water and the forest
 source-id: 1w-9-Gn59v5RAQkM76m-QTNnj97m5DbXoXwtdfVktRGc
-published: true
 ---
+
 Maybe some of you went hiking and splashed some clear water from a river on yourself. Maybe you found a wild fruit and tried it. Maybe you like to go fishing or you have a small orchard in your backyard. These things are the simplest and most pleasant things for me and maybe for many of you. But they are also fundamental lifestyle elements of many people around the world that maintain a close relationship with the environment, drinking and eating from their local rivers and forests. These are perhaps the most ancient ways of conservation (use and protection of resources), but how long it will be possible for people to do them?
 
 Recent events made me reflect about how little we know and care about our resources, especially when the food and the water supplies are endangered around the world as a result of overuse and degradation of agricultural soil and pollution among other problems. Just to refresh our memories:

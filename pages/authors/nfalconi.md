@@ -1,17 +1,18 @@
 ---
-layout: page
 title: Nereyda Falconi
-author: nfalconi
-meta_title: "Nereyda Falconi | That's Life [Science]"
-subheadline: "Contributor since 2016"
-teaser: "PhD student in Environmental Conservation"
 permalink: "/authors/nfalconi/"
+layout: page
+author: nfalconi
+meta_title: Nereyda Falconi | That's Life [Science]
+subheadline: Contributor since 2016
+teaser: PhD student in Environmental Conservation
 header:
-   image_fullwidth: you-can-delete-me-header.png
+  image_fullwidth: you-can-delete-me-header.png
 gallery:
-    - image_url: gallery-image-nfalconi.jpg
-      caption: Nereyda Falconi
+- image_url: gallery-image-nfalconi.jpg
+  caption: Nereyda Falconi
 ---
+
 ![Nereyda Falconi]({{ site.url }}/images/gallery-image-nfalconi.jpg)
 
 Research Area: My research aims to develop distribution models and analyze the effects of the changing landscape on spectacled bear’s habitat in Peru.

@@ -1,17 +1,18 @@
 ---
-layout: page
 title: Maggie Bruce
-author: mbruce
-meta_title: "Maggie Bruce | That's Life [Science]"
-subheadline: "Contributor since Fall 2016"
-teaser: "PhD Student in Organismic & Evolutionary Biology"
 permalink: "/authors/mbruce/"
+layout: page
+author: mbruce
+meta_title: Maggie Bruce | That's Life [Science]
+subheadline: Contributor since Fall 2016
+teaser: PhD Student in Organismic & Evolutionary Biology
 header:
-   image_fullwidth: you-can-delete-me-header.png
+  image_fullwidth: you-can-delete-me-header.png
 gallery:
-    - image_url: gallery-image-mbruce.jpg
-      caption: Maggie Bruce
+- image_url: gallery-image-mbruce.jpg
+  caption: Maggie Bruce
 ---
+
 ![Maggie Bruce]({{ site.url }}/images/gallery-image-mbruce.jpg)
 
 ![Email](mailto:mabruce@umass.edu)

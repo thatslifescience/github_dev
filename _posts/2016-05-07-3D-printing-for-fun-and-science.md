@@ -1,23 +1,25 @@
 ---
 title: 3D Printing for Fun and Science
-teaser: "Almost any conceivable object can now be 3D printed into reality. The process is fun and futuristic, but it’s also opening new doors for biological research."
+date: 2016-05-07 00:00:00 Z
+permalink: "/2016-05-07-3D-printing-for-fun-and-science/"
+categories:
+- How It Works
+tags:
+- animals
+- morphology
+- biomechanics
+- 3D printing
+teaser: Almost any conceivable object can now be 3D printed into reality. The process
+  is fun and futuristic, but it’s also opening new doors for biological research.
 layout: page
 author: avlinden
-permalink: /2016-05-07-3D-printing-for-fun-and-science/
-tags:
- - animals
- - morphology
- - biomechanics
- - 3D printing
-categories:
- - How It Works
 header:
- image_fullwidth: howitworks-header.jpg
+  image_fullwidth: howitworks-header.jpg
 image:
- thumb: 2016-05-09-avlinden-Fig1.jpg
+  thumb: 2016-05-09-avlinden-Fig1.jpg
 source-id: 1OOaQY8t8a1A8QdVm55WFswHew-GMopguXIhSPoFi7uY
-published: true
 ---
+
 ![image alt text]({{ site.url }}/public/LYWEjbwePusGw76KIs7OJw_img_0.jpg)
 
 **Fig. 1** A 3D printed macaque monkey skull (left) next to the original bone specimen (right). *Source*: Abby Vander Linden.

@@ -1,17 +1,18 @@
 ---
-layout: page
 title: Joshua H. Coomey
-author: jcoomey
-meta_title: "Joshua H. Coomey | That's Life [Science]"
-subheadline: "Contributor since 2016"
-teaser: "PhD student in Plant Biology"
 permalink: "/authors/jcoomey/"
+layout: page
+author: jcoomey
+meta_title: Joshua H. Coomey | That's Life [Science]
+subheadline: Contributor since 2016
+teaser: PhD student in Plant Biology
 header:
-   image_fullwidth: you-can-delete-me-header.png
+  image_fullwidth: you-can-delete-me-header.png
 gallery:
-    - image_url: gallery-image-jcoomey.jpg
-      caption: Joshua H. Coomey
+- image_url: gallery-image-jcoomey.jpg
+  caption: Joshua H. Coomey
 ---
+
 ![Joshua H. Coomey]({{ site.url }}/images/gallery-image-jcoomey.jpg)
 
 [Website](http://www.bio.umass.edu/biology/hazen/)

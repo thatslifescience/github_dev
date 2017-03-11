@@ -1,19 +1,21 @@
 ---
 title: Building with Microbes (In Mind)
-layout: page
-author: amorozov
-permalink: /2016-11-27-Building-with-microbes-in-mind-MOROZOV/
+date: 2016-11-27 00:00:00 Z
+permalink: "/2016-11-27-Building-with-microbes-in-mind-MOROZOV/"
 categories:
 - Our Ecosystems
+layout: page
+author: amorozov
 header:
- image_fullwidth: ecosystem-header.jpg
+  image_fullwidth: ecosystem-header.jpg
 image:
- thumb: 2016-11-28-aMOROZOV_fig2.jpg
-teaser: Human microbiome studies have demonstrated how crucial bacteria are to our health. Will microbiome of the built environment be as important?
+  thumb: 2016-11-28-aMOROZOV_fig2.jpg
+teaser: Human microbiome studies have demonstrated how crucial bacteria are to our
+  health. Will microbiome of the built environment be as important?
 subheadline: Integrating knowledge of microbial ecology into building architecture.
 source-id: 15PHazvSnYVsx8Iua26G5LZhv8qhwL1hAVZS9ADRr1ro
-published: true
 ---
+
 The era of metagenomics, or the analysis of microbial DNA in environmental samples, has opened our eyes to the life that takes place in, on, and around us. This new awareness can be seen in the rising number of microbiome studies published (5,926 articles in 2015, compared to 951 in 2010) (PubMed search), in the recent support from the [White House](https://www.whitehouse.gov/blog/2016/05/13/announcing-national-microbiome-initiative), and in trendy health industry products. In the midst of this golden age of microbiome study, some researchers are looking to understand the microbes that occupy our built environments, which include homes, offices, retail locations, cars, and hospitals. An understanding of the microbes inside our homes may lead to insights on microbes in our bodies. 
 
 <div style="text-align:center"><img src="https://c2.staticflickr.com/4/3668/13621543955_6be72d0f3c_b.jpg"></div>

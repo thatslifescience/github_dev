@@ -1,17 +1,18 @@
 ---
-layout: page
 title: Hannah J. Broadley
-author: hbroadley
-meta_title: "Hannah J. Broadley | That's Life [Science]"
-subheadline: "Contributor since 2016"
-teaser: "PhD candidate in Organismic and Evolutionary Biology"
 permalink: "/authors/hbroadley/"
+layout: page
+author: hbroadley
+meta_title: Hannah J. Broadley | That's Life [Science]
+subheadline: Contributor since 2016
+teaser: PhD candidate in Organismic and Evolutionary Biology
 header:
-   image_fullwidth: you-can-delete-me-header.png
+  image_fullwidth: you-can-delete-me-header.png
 gallery:
-    - image_url: gallery-image-hbroadley.jpg
-      caption: Hannah J. Broadley
+- image_url: gallery-image-hbroadley.jpg
+  caption: Hannah J. Broadley
 ---
+
 ![Hannah J. Broadley]({{ site.url }}/images/gallery-image-hbroadley.jpg)
 
 [Website](https://gpls.cns.umass.edu/oeb/directory/hannah-j.-broadley)

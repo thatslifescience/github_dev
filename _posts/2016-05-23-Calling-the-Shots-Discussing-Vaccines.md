@@ -1,8 +1,9 @@
 ---
 title: Calling the Shots - Discussing Vaccines
-layout: page
-author: emelzer
-permalink: /2016-05-23-Calling-the-Shots-Discussing-Vaccines/
+date: 2016-05-23 00:00:00 Z
+permalink: "/2016-05-23-Calling-the-Shots-Discussing-Vaccines/"
+categories:
+- How It Works
 tags:
 - vaccines
 - medicine
@@ -10,17 +11,19 @@ tags:
 - disease
 - pathogens
 - immune system
-categories:
- - How It Works
+layout: page
+author: emelzer
 header:
- image_fullwidth: howitworks-header.jpg
+  image_fullwidth: howitworks-header.jpg
 image:
- thumb: 5-23-2016_emelzer_fig1.jpg
-teaser: You’ve probably encountered memes, celebrities, and blogs vilifying childhood vaccines - let’s dive into some facts that will hopefully help clarify just how safe and effective the science community agrees vaccines to be.
+  thumb: 5-23-2016_emelzer_fig1.jpg
+teaser: You’ve probably encountered memes, celebrities, and blogs vilifying childhood
+  vaccines - let’s dive into some facts that will hopefully help clarify just how
+  safe and effective the science community agrees vaccines to be.
 subheadline: The scientific facts behind the safety and efficacy of childhood vaccines
 source-id: 1fpPuwAiCoAWwWPUnBR5_E_8P9_bdd64qL8tJ3Zrupog
-published: true
 ---
+
 ![image alt text]({{ site.url }}/public/WSG7NqNtjgqzvqeWwAm1g_img_0.jpg)
 
 **Fig 1**: White blood cells which are cells of the immune system (large purple stained cells) along with red blood cells (small pink cells). [Source.](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Monocytes,_a_type_of_white_blood_cell_%28Giemsa_stained%29.jpg/1024px-Monocytes,_a_type_of_white_blood_cell_%28Giemsa_stained%29.jpg)

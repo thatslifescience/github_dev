@@ -1,24 +1,27 @@
 ---
 title: The Wonders of Fecal Transplants
-layout: page
-author: emelzer
-permalink: /2016-07-04-The-wonders-of-fecal-transplants-EMelzer/
+date: 2016-07-04 00:00:00 Z
+permalink: "/2016-07-04-The-wonders-of-fecal-transplants-EMelzer/"
+categories:
+- How It Works
 tags:
 - normal flora
 - microbiota
 - gastrointestinal tract
 - medicine
-categories:
-- How It Works
+layout: page
+author: emelzer
 header:
- image_fullwidth: 2016-07-04_emelzerfig2_opac.jpg
+  image_fullwidth: 2016-07-04_emelzerfig2_opac.jpg
 image:
- thumb: 2016-07-04_emelzerfig2.jpg
-teaser: Fecal microbiota transplantation is the new ‘it’ treatment. Here’s why you should give a s**t.
-subheadline: How fecal microbiota transplants can improve lives and possibly save them
+  thumb: 2016-07-04_emelzerfig2.jpg
+teaser: Fecal microbiota transplantation is the new ‘it’ treatment. Here’s why you
+  should give a s**t.
+subheadline: How fecal microbiota transplants can improve lives and possibly save
+  them
 source-id: 1M8EUnAMdrTOmA3HKtvHzKStL8j7Q6uC4EeNQniW4Oh4
-published: true
 ---
+
 When you think of futuristic medical treatment, the images that pop into your mind are probably along the lines of organs grown in a petri dish or fancy high-tech equipment. I bet you don't think of poop being taken from one person and given to another, but that is where the future of gastrointestinal treatment (and possibly treatment of many other diseases) is headed. Fecal microbiota transplantation (FMT), also called fecal bacteriotherapy, is not a new concept. People all over the world have been using variations of it for centuries, but it’s only in recent years that modern medicine has begun to embrace it and really attempt to get to the bottom of it. Let’s try and get over the initial yuck factor and dive into why this treatment is actually quite awesome. 
 
 ![image alt text]({{ site.url }}/images/2016-07-04_emelzerfig1.jpg)

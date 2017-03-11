@@ -1,14 +1,15 @@
 ---
-layout: page
 title: Lauren Alteio
-author: lalteio
-meta_title: "Lauren Alteio | That's Life [Science]"
-subheadline: "Contributor since 2016"
-teaser: "PhD student in Organismic and Evolutionary Biology"
 permalink: "/authors/lalteio/"
+layout: page
+author: lalteio
+meta_title: Lauren Alteio | That's Life [Science]
+subheadline: Contributor since 2016
+teaser: PhD student in Organismic and Evolutionary Biology
 header:
-   image_fullwidth: you-can-delete-me-header.png
+  image_fullwidth: you-can-delete-me-header.png
 ---
+
 ![Lauren Alteio]({{ site.url }}/images/lalteio.jpg)
 
 [Website](https://twitter.com/lvalteio)

@@ -1,22 +1,23 @@
 ---
 title: Who needs males after all?
-layout: page
-author: akrentzel
-permalink: /2016-11-21-who-needs-males-after-all-akrentzel/
+date: 2016-11-21 00:00:00 Z
+permalink: "/2016-11-21-who-needs-males-after-all-akrentzel/"
+categories:
+- Earth's Organisms
 tags:
 - behavior
 - neurobiology
 - hormones
 - reptile
-categories:
-- Earth's Organisms
+layout: page
+author: akrentzel
 header:
- image_fullwidth: organisms-header.jpg
+  image_fullwidth: organisms-header.jpg
 image:
- thumb: 2016-11-21-akrentze-fig1.jpg
-teaser: Meet these all female lizards who propagate their species with some diversified cloning and lady lovin’.
+  thumb: 2016-11-21-akrentze-fig1.jpg
+teaser: Meet these all female lizards who propagate their species with some diversified
+  cloning and lady lovin’.
 source-id: 1h6suZzXVakRa9UZXuajjLRfrqqJfehXDCCP8nmt5RyQ
-published: true
 ---
 
 Imagine a world where men don't exist, and women live in perfect harmony. Sounds like a page ripped right out of *[Herland](https://en.wikipedia.org/wiki/Herland_(novel))*. While some women may bemoan nature’s way of making men necessary for our species’ continued survival, a male-free existence isn’t always science fiction. Evolution has found a way to make males obsolete in one species of lizards. 

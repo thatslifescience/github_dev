@@ -1,24 +1,29 @@
 ---
 title: Love Songs for Nobody - Birdsong in Winter
-layout: page
-author: astrauss
-permalink: /2016-07-07-Love-Songs-for-Nobody-Birdsong-in-Winter-AStrauss/
+date: 2016-07-07 00:00:00 Z
+permalink: "/2016-07-07-Love-Songs-for-Nobody-Birdsong-in-Winter-AStrauss/"
+categories:
+- Earth's Organisms
 tags:
 - birds
 - song
 - courtship
 - sexual selection
 - animal communication
-categories:
- - Earth's Organisms
+layout: page
+author: astrauss
 header:
- image_fullwidth: organisms-header.jpg
+  image_fullwidth: organisms-header.jpg
 image:
- thumb: 2016-07-07-astrauss-fig1.jpg
-teaser: We typically understand singing in birds to function in mate attraction and territory defense, two behaviors closely tied to breeding. But sometimes birds sing far from their breeding grounds and outside of their mating season, when singing doesn’t seem to make biological sense. So what the heck is going on? A recent study sheds light on this long-debated topic!
+  thumb: 2016-07-07-astrauss-fig1.jpg
+teaser: We typically understand singing in birds to function in mate attraction and
+  territory defense, two behaviors closely tied to breeding. But sometimes birds sing
+  far from their breeding grounds and outside of their mating season, when singing
+  doesn’t seem to make biological sense. So what the heck is going on? A recent study
+  sheds light on this long-debated topic!
 source-id: 1y54jm8wtik6CJUvz-gUZzzf8CBtTAD3FhmAhDcJjnDU
-published: true
 ---
+
 Envision a beautiful spring morning: expectant flower buds on the trees, morning dew coating the grass, a bright sunrise peeking up over the horizon, and the melodious sound of birdsong all around. In the Northern Hemisphere, the sound of birds singing is a well-known sign of springtime. 
 
 Singing is typically performed only by male birds, and is closely associated with their breeding season – the time of year when birds engage in courtship, mating, and nesting. The typical songbird breeding season coincides with our spring and summer months, and birds often migrate to warmer locations for the remainder of the year. Song in birds is known to have two primary functions: 1) mate attraction (typically with males soliciting females), and 2) defense of breeding territories ('claiming' land for nesting and feeding). Given these key functions, singing is essential for reproductive success in male songbirds, and we therefore consider song a sexual signal relevant only during breeding.

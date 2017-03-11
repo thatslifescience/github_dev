@@ -1,17 +1,18 @@
 ---
-layout: page
 title: Aleksey Morozov
-author: amorozov
-meta_title: "Aleksey Morozov | That's Life [Science]"
-subheadline: "Contributor since Fall 2016"
-teaser: "Laboratory of Medical Zoology Manager"
 permalink: "/authors/amorozov/"
+layout: page
+author: amorozov
+meta_title: Aleksey Morozov | That's Life [Science]
+subheadline: Contributor since Fall 2016
+teaser: Laboratory of Medical Zoology Manager
 header:
-   image_fullwidth: you-can-delete-me-header.png
+  image_fullwidth: you-can-delete-me-header.png
 gallery:
-    - image_url: gallery-image-amorozov.jpg
-      caption: Aleksey Morozov
+- image_url: gallery-image-amorozov.jpg
+  caption: Aleksey Morozov
 ---
+
 ![Aleksey Morozov]({{ site.url }}/images/gallery-image-amorozov.jpg)
 
 ![Email](mailto:amorozov@umass.edu)

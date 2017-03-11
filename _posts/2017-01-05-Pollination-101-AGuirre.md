@@ -1,23 +1,23 @@
 ---
 title: Pollination 101
-layout: page
-author: laguirre
-permalink: /2017-01-05-Pollination-101-AGuirre/
+date: 2017-01-05 00:00:00 Z
+permalink: "/2017-01-05-Pollination-101-AGuirre/"
+categories:
+- How It Works
 tags:
 - polination
 - flowering plants
 - bees
 - conservation
-categories:
-- How It Works
-header:
- image_fullwidth:howitworks-header.jpg
+layout: page
+author: laguirre
+header: image_fullwidth:howitworks-header.jpg
 image:
- thumb: Aguirre_thumb.jpg
-teaser: Pollinators are not only beautiful but are also integral to our food system. Unfortunately, pollinators are in trouble.
-subheadline:  A Pollinator’s Job Description and Why We Should All Care About Them
+  thumb: Aguirre_thumb.jpg
+teaser: Pollinators are not only beautiful but are also integral to our food system.
+  Unfortunately, pollinators are in trouble.
+subheadline: A Pollinator’s Job Description and Why We Should All Care About Them
 source-id: 1K2HTbtRszMlcCMaUwaHwL3oyEJrT8dNNdJfA0OoBN2Y
-published: true
 ---
 
 <div style="text-align:center"><img src ="https://upload.wikimedia.org/wikipedia/commons/5/55/Bumblebee-2009-04-19-01.jpg"/></div> **Fig. 1** Plants can't move around to have sex; they employ pollinators to do it for them. source: [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/5/55/Bumblebee-2009-04-19-01.jpg)

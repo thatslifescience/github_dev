@@ -1,24 +1,26 @@
 ---
 title: If you don't care for your microbiome, you might want to start
-layout: page
-author: sha
-permalink: /2016-08-11-If-you-don't-care-for-your-microbiome-SHa/
+date: 2016-08-11 00:00:00 Z
+permalink: "/2016-08-11-If-you-don't-care-for-your-microbiome-SHa/"
+categories:
+- Earth's Organisms
 tags:
 - human
 - disease
 - microbes
 - microbiome
-categories:
- - Earth's Organisms
+layout: page
+author: sha
 header:
- image_fullwidth: organisms-header.jpg
+  image_fullwidth: organisms-header.jpg
 image:
- thumb: 2016_08_11_sha_fig3.jpg
+  thumb: 2016_08_11_sha_fig3.jpg
 subheadline: How our microbiome affects our health and vice versa
-teaser: Microbes are estimated to have a nearly 1:1 association with the human body. That’s 1 microbe for every 1 human cell. Do we ever get sick because of these microbes?
+teaser: Microbes are estimated to have a nearly 1:1 association with the human body.
+  That’s 1 microbe for every 1 human cell. Do we ever get sick because of these microbes?
 source-id: 1tNpscTznQhwl7q0WAA8UPZYkIMFLXtaa3OkCNjrbUxQ
-published: true
 ---
+
 **What is the microbiome?**
 
 Microbes including [bacteria](http://www.microbeworld.org/types-of-microbes/bacteria/42-what-is-a-microbe-sp-828/types-of-microbes/138-bacteria) and [fungi](http://www.microbeworld.org/types-of-microbes/fungi/42-what-is-a-microbe-sp-828/types-of-microbes/127-fungi) are everywhere: on the surfaces we touch and in the air we breathe. Some are on our bodies, and some within. Some are transient, or temporary, members of our bodies while others stay much longer. The microbes frequently associated with our bodies make up what we call our **microbiota**, which has also been called our **normal microflora**. You may have also heard it called the **microbiome**, which includes culturable microbes that can be grown outside of the body, in addition to non-culturable microbes known to be associated with our bodies. According to a [preprint article](http://biorxiv.org/content/early/2016/01/06/036103) by Sender, Fuchs, and Milo, the number of microbes in our microbiome has been suggested to *match* the number of our cells. That's a lot of microbes!

@@ -1,24 +1,25 @@
 ---
 title: Creature Feature - Pseudoscorpions
-layout: page
-author: kstraley
-permalink: /2016-06-02-Creature-Feature-Pseudoscorpions_KStraley/
+date: 2016-06-02 00:00:00 Z
+permalink: "/2016-06-02-Creature-Feature-Pseudoscorpions_KStraley/"
+categories:
+- Earth's Organisms
 tags:
 - creature feature
 - arachnid
 - natural history
 - behavior
+layout: page
+author: kstraley
 header:
- image_fullwidth: organisms-header.jpg
-categories:
- - Earth's Organisms
+  image_fullwidth: organisms-header.jpg
 image:
- thumb: kstratley_fig5a.jpg
+  thumb: kstratley_fig5a.jpg
 teaser: These small arachnids are all around us, and may even live in your house!
 subheadline: Minuscule Hitchhikers Pinch a Ride
 source-id: 1Wfmpk_TJcXN0krq891p2zZkoBnrEkSiaxdf1WAWC-Ww
-published: true
 ---
+
 ![image alt text]({{ site.url }}/public/nNMzSsbeuREFmJKELPHg_img_0.jpg) 
 
 **Fig. 1** This tiny critter spins silk, incapacitates small insects with venom from its claws, and may even live in your house. Photo by Kyron Basu, BugGuide.net.

@@ -1,17 +1,18 @@
 ---
-layout: page
 title: Matias Andina
-author: mandina
-meta_title: "Matias Andina | That's Life [Science]"
-subheadline: "Contributor since Fall 2016"
-teaser: "PhD Student in Neuroscience & Behavior"
 permalink: "/authors/mandina/"
+layout: page
+author: mandina
+meta_title: Matias Andina | That's Life [Science]
+subheadline: Contributor since Fall 2016
+teaser: PhD Student in Neuroscience & Behavior
 header:
-   image_fullwidth: you-can-delete-me-header.png
+  image_fullwidth: you-can-delete-me-header.png
 gallery:
-    - image_url: gallery-image-mandina.jpg
-      caption: Matias Andina
+- image_url: gallery-image-mandina.jpg
+  caption: Matias Andina
 ---
+
 ![Matias Andina]({{ site.url }}/images/gallery-image-mandina.jpg)
 
 Research Area: Animal Behavior, Molecular and Cellular Neuroscience, Neural Circuits

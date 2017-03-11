@@ -1,24 +1,25 @@
 ---
-title: "May the Bees Be With You: Maintaining the Sweet Balance in Life"
-layout: page
-author: agheredia
-permalink: /2017-01-19-May-the-bees-be-with-you-maintaining-the-sweet-balance-in-life-AGarciaHeredia/
+title: 'May the Bees Be With You: Maintaining the Sweet Balance in Life'
+date: 2017-01-19 00:00:00 Z
+permalink: "/2017-01-19-May-the-bees-be-with-you-maintaining-the-sweet-balance-in-life-AGarciaHeredia/"
+categories:
+- Earth's Organisms
 tags:
 - conservation
 - bees
 - insect
 - extinction
 - plants
-categories:
-- Earth's Organisms
+layout: page
+author: agheredia
 header:
- image_fullwidth: organisms-header.jpg
-image: 
- thumb: 2016-01-19-AGarciaA.JPG
-teaser: Without bees the world would look very different. Why are bees in decline, and what can we do to help them?
+  image_fullwidth: organisms-header.jpg
+image:
+  thumb: 2016-01-19-AGarciaA.JPG
+teaser: Without bees the world would look very different. Why are bees in decline,
+  and what can we do to help them?
 subheadline: Bees are more than buzzing insects around you
 source-id: 1W4ZdyQksgQknMeeaDuqL2IfSfkY65hpS4SPCKetmN9w
-published: true
 ---
 
 <p><a href="https://commons.wikimedia.org/wiki/File:Apis_mellifera_flying.jpg#/media/File:Apis_mellifera_flying.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Apis_mellifera_flying.jpg/1200px-Apis_mellifera_flying.jpg" alt="Apis mellifera flying.jpg"></a><figcaption>Bees work in a concerted and synchronized fashion to survive, while helping other species to prevail (Source: Wikipedia). By <a href="https://en.wikipedia.org/wiki/File:Apis_mellifera_flying.jpg" class="extiw" title="w:User:Muhammad Mahdi Karim">Muhammad Mahdi Karim</a></figcaption> </p>

@@ -1,14 +1,15 @@
 ---
-layout: page
 title: Abby Vander Linden
-author: avlinden
-meta_title: "Abby Vander Linden | That's Life [Science]"
-subheadline: "Contributor since 2016"
-teaser: "PhD candidate in Organismic and Evolutionary Biology"
 permalink: "/authors/avlinden/"
+layout: page
+author: avlinden
+meta_title: Abby Vander Linden | That's Life [Science]
+subheadline: Contributor since 2016
+teaser: PhD candidate in Organismic and Evolutionary Biology
 header:
-   image_fullwidth: you-can-delete-me-header.png
+  image_fullwidth: you-can-delete-me-header.png
 ---
+
 ![Derrick Alcott]({{ site.url }}/images/gallery-image-avlinden.jpg)
 
 [Website](https://gpls.cns.umass.edu/oeb/directory/derrick-alcott)

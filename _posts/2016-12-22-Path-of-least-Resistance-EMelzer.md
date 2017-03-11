@@ -1,19 +1,20 @@
 ---
-title: "The Path of Least Resistance: Our Relationship with Antibiotics"
-layout: page
-author: emelzer
-permalink: /2016-12-22-Path-of-least-Resistance-EMelzer/
-subheadline: "The evolution of one of the greatest medical discoveries in history."
+title: 'The Path of Least Resistance: Our Relationship with Antibiotics'
+date: 2016-12-22 00:00:00 Z
+permalink: "/2016-12-22-Path-of-least-Resistance-EMelzer/"
 categories:
 - How It Works
+layout: page
+author: emelzer
+subheadline: The evolution of one of the greatest medical discoveries in history.
 header:
- image_fullwidth: howitworks.jpg
+  image_fullwidth: howitworks.jpg
 image:
- thumb: 2016-12-22_emelzer_fig2.jpg
-teaser: "They think they can beat us with their antibiotics?! Silly humans..."
+  thumb: 2016-12-22_emelzer_fig2.jpg
+teaser: They think they can beat us with their antibiotics?! Silly humans...
 source-id: 1vsnOIWk3OMkyBS1P5R2yiLhqHKqMdqBgn3FY431ZtSM
-published: true
 ---
+
 Several weeks ago, while scrolling through your social media feed(s) you may have come across a video depicting Bacteria making their way through increasing concentrations of antibiotics in a large rectangular petri dish. If you have not seen it, need a refresher, or just thought it was cool and want to watch it again, check it out [here](https://www.sciencenews.org/article/scientists-watch-bacteria-evolve-antibiotic-resistance). The history of antibiotics leading up to this fun video is almost as interesting as what's actually happening in that petri dish. And as for humanity’s relationship with antibiotics? Well, it’s just a little more complicated. 
 
 ![image alt txt](https://lionstalkscience.files.wordpress.com/2013/06/alexander-fleming-investigates-the-effect-of-penicillin-on-bacterial-growth.jpg)

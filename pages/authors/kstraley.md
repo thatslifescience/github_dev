@@ -1,17 +1,18 @@
 ---
-layout: page
 title: Kit Straley
-author: kstraley
-meta_title: "Kit Straley | That's Life [Science]"
-subheadline: "Contributor since 2016"
-teaser: "PhD student in Organismic and Evolutionary Biology"
 permalink: "/authors/kstraley/"
+layout: page
+author: kstraley
+meta_title: Kit Straley | That's Life [Science]
+subheadline: Contributor since 2016
+teaser: PhD student in Organismic and Evolutionary Biology
 header:
-   image_fullwidth: you-can-delete-me-header.png
+  image_fullwidth: you-can-delete-me-header.png
 gallery:
-    - image_url: gallery-image-kstraley.jpg
-      caption: Kit Straley
+- image_url: gallery-image-kstraley.jpg
+  caption: Kit Straley
 ---
+
 ![Kit Straley]({{ site.url }}/images/gallery-image-kstraley.jpg)
 
 [Website](http://www.kstraleyeco.wordpress.com )

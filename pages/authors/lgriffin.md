@@ -1,17 +1,18 @@
 ---
-layout: page
 title: Lucas Griffin
-author: lgriffin
-meta_title: "Lucas Griffin | That's Life [Science]"
-subheadline: "Contributor since 2016"
-teaser: "PhD student in Intercampus Marine Science Graduate Program"
 permalink: "/authors/lgriffin/"
+layout: page
+author: lgriffin
+meta_title: Lucas Griffin | That's Life [Science]
+subheadline: Contributor since 2016
+teaser: PhD student in Intercampus Marine Science Graduate Program
 header:
-   image_fullwidth: you-can-delete-me-header.png
+  image_fullwidth: you-can-delete-me-header.png
 gallery:
-    - image_url: gallery-image-lgriffin.jpg
-      caption: Lucas Griffin
+- image_url: gallery-image-lgriffin.jpg
+  caption: Lucas Griffin
 ---
+
 ![Lucas Griffin]({{ site.url }}/images/gallery-image-lgriffin.jpg)
 
 [Website](https://lucas-griffin.squarespace.com)

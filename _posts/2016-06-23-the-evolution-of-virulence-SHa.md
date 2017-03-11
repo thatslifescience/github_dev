@@ -1,8 +1,9 @@
 ---
 title: The Evolution of Virulence
-layout: page
-author: sha
-permalink: /2016-06-23-the-evolution-of-virulence-SHa/
+date: 2016-06-23 00:00:00 Z
+permalink: "/2016-06-23-the-evolution-of-virulence-SHa/"
+categories:
+- Earth's Organisms
 tags:
 - microbes
 - evolution
@@ -11,17 +12,20 @@ tags:
 - disease
 - virulence
 - foodborne
-categories:
- - Earth's Organisms
+layout: page
+author: sha
 header:
- image_fullwidth: 2016_06_23_sha_head.jpg
+  image_fullwidth: 2016_06_23_sha_head.jpg
 image:
- thumb: 2016_06_23_sha_fig1.jpg
+  thumb: 2016_06_23_sha_fig1.jpg
 subheadline: We know we get infections from time to time. Why does this happen?
-teaser: Have you ever wondered why pathogens, or microorganisms that cause disease, exist? Why do these microbes choose to attack our bodies? What is fascinating is that pathogenic microbes are typically not—at least initially—looking for their next target. Instead, these microbes are generally just really good survivors.
+teaser: Have you ever wondered why pathogens, or microorganisms that cause disease,
+  exist? Why do these microbes choose to attack our bodies? What is fascinating is
+  that pathogenic microbes are typically not—at least initially—looking for their
+  next target. Instead, these microbes are generally just really good survivors.
 source-id: 1xjdjazvCABBTAfoa5dEzN83GKc3Uc1JunBgKxwaQDCQ
-published: true
 ---
+
 **_Where do pathogens come from?_**
 
 ![image alt text]({{ site.url }}/images/2016_06_23_sha_fig1.jpg)

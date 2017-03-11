@@ -1,8 +1,9 @@
 ---
 title: Building better plants - Norman Borlaug and the Green Revolution
-layout: page
-author: jcoomey
-permalink: /2016-07-11-Building-better-plant-Norman-Borlaug-and-the-Green-Revolution_JCoomey/
+date: 2016-07-11 00:00:00 Z
+permalink: "/2016-07-11-Building-better-plant-Norman-Borlaug-and-the-Green-Revolution_JCoomey/"
+categories:
+- Earth's Organisms
 tags:
 - agriculture
 - food security
@@ -10,17 +11,17 @@ tags:
 - wheat
 - norman borlaug
 - gmo
-
+layout: page
+author: jcoomey
 header:
- image_fullwidth: howitworks-header.jpg
+  image_fullwidth: howitworks-header.jpg
 image:
- thumb: 2016-07-08_jcoomey_fig1.jpg
-categories:
- - Earth's Organisms
-teaser: There are a lot of hungry mouths to feed in the world. How did modern agriculture come to support such a large population?
+  thumb: 2016-07-08_jcoomey_fig1.jpg
+teaser: There are a lot of hungry mouths to feed in the world. How did modern agriculture
+  come to support such a large population?
 source-id: 1eqfgHSL0S6ETZVNIh1B-PCmD4llCIg426bdMUXdMghU
-published: true
 ---
+
 Feeding people has always been a problem. From early hunter-gatherers to modern day, people have always had the basic concern of getting enough to eat. The first great innovation was the domestication of crops approximately 10,000 years ago. Progress was slow in transforming wild species into the high producing varieties that we enjoy today. For a long time, crops were developed simply by replanting seeds from the best performing plants a farmer had in their field, without particular goals in mind besides having a successful harvest the following year. With the advent of modern breeding practices however, this process became a more refined science. Selecting plants with particular traits allowed for the development of crops that could tolerate specific problems - disease, drought, pests, etc. These conventional breeding practices were effective, but still required many generations of plants to find and maintain the best combination of traits. 
 
 Modern plant breeding programs really took off in the early 1900s, and one name is synonymous with these efforts: Dr. Norman Borlaug (Figure 1). Hired by the the International Maize and Wheat Improvement Center as a geneticist and plant pathologist in 1944, Borlaug began the work he would pursue the rest of his life - improving crops to better feed a growing global population. By 1964, he was the head of the International Wheat Breeding Program. Wheat is the third highest consumed cereal crop in the world, a staple across the developed and developing world alike. Unfortunately, wheat productivity has long been plagued by stem rust (*Puccinia graminis*), a fungus that afflicts cereal crops, drastically reducing yield. Borlaug and colleagues worked for decades using conventional breeding methods to develop lines with multiple resistances to stem rust, and eventually succeeded in making several highly resistant lines with excellent grain yields. 

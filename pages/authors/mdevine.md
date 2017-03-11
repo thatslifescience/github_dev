@@ -1,17 +1,18 @@
 ---
-layout: page
 title: Matt Devine
-author: mdevine
-meta_title: "Matt Devine | That's Life [Science]"
-subheadline: "Contributor since 2016"
-teaser: "M.S. Student in Fish & Wildlife Conservation Biology"
 permalink: "/authors/mdevine/"
+layout: page
+author: mdevine
+meta_title: Matt Devine | That's Life [Science]
+subheadline: Contributor since 2016
+teaser: M.S. Student in Fish & Wildlife Conservation Biology
 header:
-   image_fullwidth: you-can-delete-me-header.png
+  image_fullwidth: you-can-delete-me-header.png
 gallery:
-    - image_url: gallery-image-mdevine.jpg
-      caption: Matt Devine
+- image_url: gallery-image-mdevine.jpg
+  caption: Matt Devine
 ---
+
 ![Matt Devine]({{ site.url }}/images/gallery-image-mdevine.jpg)
 
 Research Area: Anadromous fish ecology; sampling methodology

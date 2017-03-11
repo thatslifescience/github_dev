@@ -1,17 +1,18 @@
 ---
-layout: page
-title: "Dina Navon"
-author: dnavon
-meta_title: "Dina Navon | That's Life [Science]"
-subheadline: "Contributor since 2016"
-teaser: "PhD Candidate, Organismic and Evolutionary Biology"
+title: Dina Navon
 permalink: "/authors/dnavon/"
+layout: page
+author: dnavon
+meta_title: Dina Navon | That's Life [Science]
+subheadline: Contributor since 2016
+teaser: PhD Candidate, Organismic and Evolutionary Biology
 header:
-   image_fullwidth: you-can-delete-me-header.jpg
+  image_fullwidth: you-can-delete-me-header.jpg
 gallery:
-    - image_url: gallery-image-dnavon.jpg
-      caption: Dina Navon
+- image_url: gallery-image-dnavon.jpg
+  caption: Dina Navon
 ---
+
 ![Dina Navon]({{ site.url }}/images/gallery-image-dnavon.jpg)
 
 Evolutionary developmental biologist

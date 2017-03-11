@@ -1,17 +1,18 @@
 ---
-layout: page
 title: Laura Hancock
-author: lhancock
-meta_title: "Laura Hancock | That's Life [Science]"
-subheadline: "Contributor since 2016"
-teaser: "MS, Organismic and Evolutionary Biology"
 permalink: "/authors/lhancock/"
+layout: page
+author: lhancock
+meta_title: Laura Hancock | That's Life [Science]
+subheadline: Contributor since 2016
+teaser: MS, Organismic and Evolutionary Biology
 header:
-   image_fullwidth: you-can-delete-me-header.png
+  image_fullwidth: you-can-delete-me-header.png
 gallery:
-    - image_url: gallery-image-lhancock.jpg
-      caption: Laura Hancock
+- image_url: gallery-image-lhancock.jpg
+  caption: Laura Hancock
 ---
+
 ![Laura Hancock]({{ site.url }}/images/gallery-image-lhancock.jpg)
 
 [Website](https://gpls.cns.umass.edu/oeb/directory/laura-m.-s.-hancock)

@@ -1,25 +1,25 @@
 ---
 title: Slimed and Consumed - The Blob is Real!
-layout: page
-author: gpold
-permalink: /2016-10-31-slimed-and-consumed-the-blob-is-real-gpold/
+date: 2016-10-31 00:00:00 Z
+permalink: "/2016-10-31-slimed-and-consumed-the-blob-is-real-gpold/"
+categories:
+- Earth's Organisms
 tags:
 - microbes
 - microbial ecology
 - fungi
 - movies
-categories:
-- Earth's Organisms
-header: 
- image_fullwidth: organisms-header.jpg
+layout: page
+author: gpold
+header:
+  image_fullwidth: organisms-header.jpg
 image:
- thumb: slime-mold.JPG
-teaser: It's the season of darkness - rationalize your fear of those strange creatures found at your every turn
-
+  thumb: slime-mold.JPG
+teaser: It's the season of darkness - rationalize your fear of those strange creatures
+  found at your every turn
 source-id: 1N8EgpwcVxDW4rg8n_QtLTOhBtabC_m9FO_FJwd51yxQ
-published: true
 ---
-  
+
 <center><img src="/images/blob-poster.jpg" height="320" width="240"></center>
 
 **Fig. 1** Poster of the terrible 50's horror movie that is The Blob. Image from: [Wikipedia](https://en.wikipedia.org/wiki/The_Blob#/media/File:The_Blob_poster.jpg)

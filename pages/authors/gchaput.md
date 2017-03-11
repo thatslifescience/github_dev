@@ -1,17 +1,18 @@
 ---
-layout: page
 title: Gina Chaput
-author: gchaput
-meta_title: "Gina Chaput | That's Life [Science]"
-subheadline: "Contributor since 2016"
-teaser: "PhD student in Department of Microbiology"
 permalink: "/authors/gchaput/"
+layout: page
+author: gchaput
+meta_title: Gina Chaput | That's Life [Science]
+subheadline: Contributor since 2016
+teaser: PhD student in Department of Microbiology
 header:
-   image_fullwidth: you-can-delete-me-header.png
+  image_fullwidth: you-can-delete-me-header.png
 gallery:
-    - image_url: gallery-image-gchaput.jpg
-      caption: Gina Chaput
+- image_url: gallery-image-gchaput.jpg
+  caption: Gina Chaput
 ---
+
 ![Gine Chaput]({{ site.url }}/images/gallery-image-gchaput.jpg)
 
 [Twitter](https://twitter.com/g_chaput13)

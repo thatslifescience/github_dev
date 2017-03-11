@@ -1,13 +1,14 @@
 ---
-layout: page
-title: "Articles by Categories"
-meta_title: "Categories | That's Life [Science]"
-subheadline: ""
-teaser: ""
+title: Articles by Categories
 permalink: "/categories/"
+layout: page
+meta_title: Categories | That's Life [Science]
+subheadline: ''
+teaser: ''
 header:
-   image_fullwidth: you-can-delete-me-header.png
+  image_fullwidth: you-can-delete-me-header.png
 ---
+
 {% for category in site.categories %}
 {% assign category_key = category[0] %}
 {% assign category_posts = category[1] %}

@@ -1,22 +1,25 @@
 ---
 title: Some Australians consider kangaroos to be pests. Surprised? So was I.
-layout: page
-author: lguo
-permalink: /2016-05-30-Some-Australians-consider-kangaroos-to-be-pests-LGuo
+date: 2016-05-30 00:00:00 Z
+permalink: "/2016-05-30-Some-Australians-consider-kangaroos-to-be-pests-LGuo"
+categories:
+- Our Ecosystems
 tags:
 - human-animal interactions
 - adaptation
 - ecology vs. economy
-categories:
- - Our Ecosystems
+layout: page
+author: lguo
 header:
- image_fullwidth: ecosystem-header.jpg
+  image_fullwidth: ecosystem-header.jpg
 image:
- thumb: lguo_fig0.jpg
-teaser: Kangaroos, posterchildren for the Australian outback, are considered by some to be pests in their homeland. In fact, most tourists have experienced the availability of kangaroo meat and leather in parts of Australia. How did this come to be?
+  thumb: lguo_fig0.jpg
+teaser: Kangaroos, posterchildren for the Australian outback, are considered by some
+  to be pests in their homeland. In fact, most tourists have experienced the availability
+  of kangaroo meat and leather in parts of Australia. How did this come to be?
 source-id: 18_MP5t7lmqM4AhwHZ5xt_f_Y_yJaHvBHXELSmPL0s-0
-published: true
 ---
+
 ![image alt text]({{ site.url }}/public/WGGzfV6G7sJxjlfIzdFA_img_0.jpg)
 
 A few years ago, if someone asked me to say two things that I associated with Australia, it would have been kangaroos and koalas. These two animals have become iconic posterchildren for the great outback. What do tourists do when they go to Australia? Hold a koala, pet a wallaby, feed a kangaroo. I was offered all these opportunities when I stayed in Queensland, Australia for a semester abroad. Perhaps I was naïve, but I was surprised to find grocery stores and restaurants serving up kangaroo on the menu. We learned that kangaroos are actually considered a pest in parts of the outback. [Merriam-Webster definition of a pest: a plant or animal detrimental to humans or human concerns (as agriculture or livestock production).] Because kangaroos frequent grasslands and other open areas typical of farmland, farmers developed the perception that kangaroos compete with their livestock for food [1]. In fact, kangaroos narrowly missed a "noxious animal" labeling in the mid-1900s that would have required all landowners to remove kangaroos from their properties [2]. In modern day, approximately two million kangaroos are culled each year as part of pest control [3].   

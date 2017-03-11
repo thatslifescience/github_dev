@@ -1,25 +1,27 @@
 ---
 title: Charity cases in nature - when are animals more likely to be altruistic?
-layout: page
-author: lguo
-permalink: /2016-09-01-Charity-Cases-In-Nature-LGuo/
+date: 2016-09-01 00:00:00 Z
+permalink: "/2016-09-01-Charity-Cases-In-Nature-LGuo/"
+categories:
+- How It Works
 tags:
 - altruism
 - fitness
 - animal behavior
-categories:
- - How It Works
-header: no
+layout: page
+author: lguo
+header: false
 image:
- title: 2016-08-29-lguo_feature.jpg
- caption: Sharing is caring? (Photo from pixabay.com)
- caption_url: https://pixabay.com/en/love-valentine-s-day-pose-heart-903178/
- thumb: 2016-08-29-lguo_feature.jpg
-teaser: With the understanding that true altruism never benefits an individual, let’s explore some of these interesting cases of altruism in nature.
+  title: 2016-08-29-lguo_feature.jpg
+  caption: Sharing is caring? (Photo from pixabay.com)
+  caption_url: https://pixabay.com/en/love-valentine-s-day-pose-heart-903178/
+  thumb: 2016-08-29-lguo_feature.jpg
+teaser: With the understanding that true altruism never benefits an individual, let’s
+  explore some of these interesting cases of altruism in nature.
 subheadline: Part II - Cases of altruism in the animal kingdom
 source-id: 1H6LoKTNQMFWa2dgsX8kSED8XM33_XMm7SXkAhh1w-WM
-published: true
 ---
+
 In my last post we explored why true altruism is uncommon in the animal kingdom ([Part I](http://thatslifesci.com.s3-website-us-east-1.amazonaws.com/2016-08-22-Being-selfish-means-staying-alive-LGuo/)). The presence of altruism in nature is a contradiction to Darwin's theory of natural selection; a behavior that doesn’t increase one’s fitness should eventually disappear from a population. As a result, altruism is an exciting field for animal behavior theory and experimentation. The most common altruistic behaviors fall into two categories: kin selection and reciprocal altruism. 
 
 **Kin Selection**

@@ -1,25 +1,27 @@
 ---
 title: Five Sentence Emails
-layout: page
-author: ekuras
-permalink: /2016-05-26-Five-Sentence-Emails-EKuras/
+date: 2016-05-26 00:00:00 Z
+permalink: "/2016-05-26-Five-Sentence-Emails-EKuras/"
+categories:
+- Grad School Diaries
 tags:
 - emails
 - science
 - writing
 - bees
 - communication
-categories:
- - Grad School Diaries
+layout: page
+author: ekuras
 header:
- image_fullwidth: gradschooldiaries-header.jpg
+  image_fullwidth: gradschooldiaries-header.jpg
 image:
- thumb: ekuras_fig3.jpg
-teaser: "Brevity is the soul of email. Here’s the buzz about writing emails that are concise, elegant, and logical "
-subheadline: "re: thoughts about something you’re going to write anyway…"
+  thumb: ekuras_fig3.jpg
+teaser: 'Brevity is the soul of email. Here’s the buzz about writing emails that are
+  concise, elegant, and logical '
+subheadline: 're: thoughts about something you’re going to write anyway…'
 source-id: 1vWjquoverMYXqu0jtJD3BcGbI5wzfAuCIaJUg_GQ1Bg
-published: true
 ---
+
 *To*: aspiring scientists
 
 *Cc*: current scientists

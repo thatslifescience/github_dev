@@ -1,17 +1,18 @@
 ---
-layout: page
 title: Alam Garcia Heredia
-author: agheredia
-meta_title: "Alam Garcia Heredia | That's Life [Science]"
-subheadline: "Contributor since 2016"
-teaser: "PhD student in Molecular and Cellular Biology"
 permalink: "/authors/agheredia/"
+layout: page
+author: agheredia
+meta_title: Alam Garcia Heredia | That's Life [Science]
+subheadline: Contributor since 2016
+teaser: PhD student in Molecular and Cellular Biology
 header:
-   image_fullwidth: you-can-delete-me-header.png
+  image_fullwidth: you-can-delete-me-header.png
 gallery:
-    - image_url: gallery-image-agheredia.jpg
-      caption: Alam Garcia Heredia
+- image_url: gallery-image-agheredia.jpg
+  caption: Alam Garcia Heredia
 ---
+
 ![Alam Garcia Heredia]({{ site.url }}/images/gallery-image-agheredia.jpg)
 
 [Website](http://www.microbiosymas.com/alam.html)

@@ -1,17 +1,18 @@
 ---
-layout: page
 title: Dan Vahaba
-author: dvahaba
-meta_title: "Dan Vahaba | That's Life [Science]"
-subheadline: "Contributor since 2016"
-teaser: "PhD candidate in Neuroscience & Behavior"
 permalink: "/authors/dvahaba/"
+layout: page
+author: dvahaba
+meta_title: Dan Vahaba | That's Life [Science]
+subheadline: Contributor since 2016
+teaser: PhD candidate in Neuroscience & Behavior
 header:
-   image_fullwidth: you-can-delete-me-header.png
+  image_fullwidth: you-can-delete-me-header.png
 gallery:
-    - image_url: gallery-image-dvahaba.jpg
-      caption: Dan Vahaba
+- image_url: gallery-image-dvahaba.jpg
+  caption: Dan Vahaba
 ---
+
 ![Dan Vahaba]({{ site.url }}/images/gallery-image-dvahaba.jpg)
 
 [Website](vahaba.weebly.com)

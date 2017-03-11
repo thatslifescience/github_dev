@@ -1,17 +1,18 @@
 ---
-layout: page
 title: Amy V. H. Strauss
-author: astrauss
-meta_title: "Amy V. H. Strauss | That's Life [Science]"
-subheadline: "Contributor since 2016"
-teaser: "PhD candidate in Organismic and Evolutionary Biology"
 permalink: "/authors/astrauss/"
+layout: page
+author: astrauss
+meta_title: Amy V. H. Strauss | That's Life [Science]
+subheadline: Contributor since 2016
+teaser: PhD candidate in Organismic and Evolutionary Biology
 header:
-   image_fullwidth: you-can-delete-me-header.png
+  image_fullwidth: you-can-delete-me-header.png
 gallery:
-    - image_url: gallery-image-astrauss.jpg
-      caption: Amy V. H. Strauss
+- image_url: gallery-image-astrauss.jpg
+  caption: Amy V. H. Strauss
 ---
+
 ![Amy V.H. Strauss]({{ site.url }}/images/gallery-image-astrauss.jpg)
 
 [Website](http://gpls.cns.umass.edu/oeb/directory/amy-strauss)

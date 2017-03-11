@@ -1,8 +1,9 @@
 ---
 title: Stop, evaluate, and listen - serotonin surges when a female is present
-layout: page
-author: dvahaba
-permalink: /2016-09-12-Stop-Evaluate-and-Listen-DVahaba/
+date: 2016-09-12 00:00:00 Z
+permalink: "/2016-09-12-Stop-Evaluate-and-Listen-DVahaba/"
+categories:
+- Earth's Organisms
 tags:
 - courtship
 - communication
@@ -15,16 +16,17 @@ tags:
 - social behavior
 - hearing
 - animal communication
-categories:
-- Earth's Organisms
+layout: page
+author: dvahaba
 header:
- image_fullwidth: organisms-header.jpg
+  image_fullwidth: organisms-header.jpg
 image:
- thumb: 2016-09-12_dvahaba_fig1.jpg
-teaser: A brain region involved in hearing surges with serotonin in male mice when a female is present but drops if the mouse is romantically rejected.
+  thumb: 2016-09-12_dvahaba_fig1.jpg
+teaser: A brain region involved in hearing surges with serotonin in male mice when
+  a female is present but drops if the mouse is romantically rejected.
 source-id: 1RQTEIAHdRJ2hgWNR2K6D9TiF5OzPvWEMQehG6gYNDGA
-published: true
 ---
+
 ![image alt text]({{ site.url }}/images/2016-09-12_dvahaba_fig1.jpg)
 **Fig.1** Mice are keenly aware when they're not desired. Photograph by George Shuklin, [distributed under a CC-BY 2.0 license]( http://creativecommons.org/licenses/by/2.0/)
 

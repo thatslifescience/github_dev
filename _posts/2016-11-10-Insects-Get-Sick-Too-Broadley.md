@@ -1,22 +1,23 @@
 ---
-title: "Insects Get Sick Too: The Study of Insect Pathology"
-layout: page
-author: hbroadley
-permalink: /2016-11-10-Insects-Get-Sick-Too-Broadley/
+title: 'Insects Get Sick Too: The Study of Insect Pathology'
+date: 2016-11-10 00:00:00 Z
+permalink: "/2016-11-10-Insects-Get-Sick-Too-Broadley/"
+categories:
+- How It Works
 tags:
 - insects
 - disease
 - pathology
 - pest management
-categories:
-- How It Works
+layout: page
+author: hbroadley
 header:
- image_fullwidth: howitworks-header.jpg
+  image_fullwidth: howitworks-header.jpg
 image:
- thumb: 2016-11-10_hbroadley_fig2.jpg
-teaser: Understanding the diseases insects get has implications for protecting our beneficial insects, managing pest species, and modeling our own diseases.
+  thumb: 2016-11-10_hbroadley_fig2.jpg
+teaser: Understanding the diseases insects get has implications for protecting our
+  beneficial insects, managing pest species, and modeling our own diseases.
 source-id: 1wq2byKGJHwlx_dcYcY8YOHjIRRSKP1wn53mMP6hgrmE
-published: true
 ---
 
 Insects get sick too. We're used to thinking about insects as vectors (transmitters) of human diseases. For example: Zika virus, malaria, and Lyme disease are all diseases carried by insects that affect humans.  It is no wonder that this is what comes to mind when we think of insects and disease; diseases vectored by arthropods (insects along with spiders, millipedes, centipedes, and crustaceans) cause 1.5 million deaths every year [1].  However, what we don’t typically think about is that, in many cases, these diseases also affect the insect itself.  For example, carrying malaria increases mortality risk to the mosquito itself [2].  Further, insects also suffer from their own diseases, which while devastating to their insect hosts, are harmless to humans. Insects can suffer from diseases caused by bacteria, fungi, viruses, parasitoids (insect parasites), protists, or nematodes [3].  The study of such diseases and their insect hosts is called Insect Pathology.  Seem obscure? While it is certainly specialized, it is a large and meaningful field of study.	

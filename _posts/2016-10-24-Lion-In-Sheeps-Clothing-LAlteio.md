@@ -1,23 +1,24 @@
 ---
 title: Lion in Sheep's Clothing
-layout: page
-author: lalteio
-permalink: /2016-10-24-Lion-In-Sheeps-Clothing-LAlteio/
+date: 2016-10-24 00:00:00 Z
+permalink: "/2016-10-24-Lion-In-Sheeps-Clothing-LAlteio/"
+categories:
+- Earth's Organisms
 tags:
 - domestication
 - conservation
-categories:
-- Earth's Organisms
+layout: page
+author: lalteio
 header:
- image_fullwidth: organisms-header.jpg
+  image_fullwidth: organisms-header.jpg
 image:
- thumb: 2016-10-24-LAlteiothumb.jpg
-teaser: Cats may seem cute and cuddly, but hunting is in their blood. Domestic cats evolved from wild cats and are now shaping animal populations in nature. 
+  thumb: 2016-10-24-LAlteiothumb.jpg
+teaser: Cats may seem cute and cuddly, but hunting is in their blood. Domestic cats
+  evolved from wild cats and are now shaping animal populations in nature.
 subheadline: The Evolution and Ecological Impacts of Cats
-
 source-id: 1vZlxdJT26Bmv39zI4rMYHCh-uR5K0vcuSduaqYTxtUY
-published: true
 ---
+
 When you think about cats, the first things that come to mind are probably the cute and cuddly kittens that many of us have as pets. Some of you may think of large cats prowling the grasslands, like lions or cheetahs. Maybe you associate them with the itchy eyes and sneezing that comes with cat allergies. Wild cats and their domestic counterparts have a surprising amount in common despite their disparate appearances! Domestic cats can be both playful pals and fierce predators, but have gone through a long evolutionary journey to become the animals we know and love today. 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/suetupling/2800697500/in/album-72157606968765397/" title="Burmese Cats cuddle"><img src="https://c2.staticflickr.com/4/3153/2800697500_2c3473728d_z.jpg?zz&#x3D;1" width="640" height="425" alt="Burmese Cats cuddle"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

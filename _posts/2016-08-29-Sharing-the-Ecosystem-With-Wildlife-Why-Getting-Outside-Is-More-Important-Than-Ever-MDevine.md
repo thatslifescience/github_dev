@@ -1,22 +1,25 @@
 ---
-title: Sharing the ecosystem with wildlife - why getting outside is more important than ever
-layout: page
-author: mdevine
-permalink: /2016-08-29-Sharing-the-Ecosystem-With-Wildlife-Why-Getting-Outside-Is-More-Important-Than-Ever-MDevine/
+title: Sharing the ecosystem with wildlife - why getting outside is more important
+  than ever
+date: 2016-08-29 00:00:00 Z
+permalink: "/2016-08-29-Sharing-the-Ecosystem-With-Wildlife-Why-Getting-Outside-Is-More-Important-Than-Ever-MDevine/"
+categories:
+- Our Ecosystems
 tags:
 - nuisance species
 - human-wildlife interactions
 - pests
-categories:
- - Our Ecosystems
+layout: page
+author: mdevine
 header:
- image_fullwidth: 2016-25-08-fig3-mdevine_opac.jpg
+  image_fullwidth: 2016-25-08-fig3-mdevine_opac.jpg
 image:
- thumb: 2016-25-08-fig2-mdevine.jpg
-teaser: Backyard bears and flying fish - Human’s sometimes misguided approach to wildlife control 
+  thumb: 2016-25-08-fig2-mdevine.jpg
+teaser: Backyard bears and flying fish - Human’s sometimes misguided approach to wildlife
+  control
 source-id: 1eXVqeiXKqNCridpone8QLdYA6T1vwt6FqR0NJ_wVv4c
-published: true
 ---
+
 What first comes to mind when you hear the word nuisance? Maybe nuisance is the blaring of vehicle horns late at night when you're trying to sleep, or is a person sitting behind you at the movie theatre who constantly talks to their neighbor. A lingering head cold could be considered a nuisance, as would a loose hinge on a door preventing a proper seal. 
 
 However, in today's society, fish and wildlife are increasingly considered nuisances. The very wonders of the natural world are now often treated as pests and dealt with accordingly. It is commonplace for fish and wildlife departments to trap and relocate "problem" critters such as black bears, pine martens,* *and beavers*. *Canada geese are chased from manicured lawns and golf courses by domestic dogs, and gulls are driven away from drinking water reservoirs by motor boats and sirens. The acts by humans to “control” wildlife often seems more invasive and disturbing than the wildlife themselves. Unfortunately, this socio-ecological paradigm is fairly one sided, as the creatures considered nuisances do not have a voice to talk back. 

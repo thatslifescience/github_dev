@@ -1,20 +1,22 @@
 ---
 title: 8 Reasons Plants Are Amazing
-layout: page
-author: jcoomey
-permalink: /2016-09-25-8-Reasons-Plants-Are-Amazing-JCoomey/
-tags:
-- plants
+date: 2016-09-25 00:00:00 Z
+permalink: "/2016-09-25-8-Reasons-Plants-Are-Amazing-JCoomey/"
 categories:
 - Earth's Organisms
+tags:
+- plants
+layout: page
+author: jcoomey
 header:
- image_fullwidth: organisms-header.jpg
+  image_fullwidth: organisms-header.jpg
 image:
- thumb: 2016-26-09-jcoomey-Fig5.jpg
-teaser: From chemotherapies to smelling like carrion, plants have an amazingly diverse skillset. Here are 8 reasons to get excited about the plant kingdom.
+  thumb: 2016-26-09-jcoomey-Fig5.jpg
+teaser: From chemotherapies to smelling like carrion, plants have an amazingly diverse
+  skillset. Here are 8 reasons to get excited about the plant kingdom.
 source-id: 1bwLhi9Gg2scwN7fX3x42OR-DBL5NMcMtruG_9KML3Hs
-published: true
 ---
+
 The plant kingdom exhibits an amazingly diverse array of innovations that have allowed our photosynthesizing friends to thrive all around the world. Here's a quick look at some of the cool things plants can do!
 
 **1. Plants are natural pharmacologists**

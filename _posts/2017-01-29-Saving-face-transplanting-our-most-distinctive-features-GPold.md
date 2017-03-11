@@ -1,21 +1,22 @@
 ---
-title: "Saving face: transplanting our most distinctive features"
-layout: page
-author: gpold
-permalink: /2017-01-29-Saving-face-transplanting-our-most-distinctive-features-GPold/
+title: 'Saving face: transplanting our most distinctive features'
+date: 2017-01-29 00:00:00 Z
+permalink: "/2017-01-29-Saving-face-transplanting-our-most-distinctive-features-GPold/"
+categories:
+- How It Works
 tags:
 - medicine
 - conservation
-categories:
-- How It Works
+layout: page
+author: gpold
 header:
- image_fullwidth: howitworks-header.jpg
+  image_fullwidth: howitworks-header.jpg
 image:
- thumb: 2017-01-30_gpold_fig1.jpg
+  thumb: 2017-01-30_gpold_fig1.jpg
 teaser: The face switching of scifi is now reality – but it's not what you think!
 source-id: 1WWIfMbjY08s_DniVm98tnOuzswnOA4bt2IhuUEdzWG8
-published: true
 ---
+
 Put a picture of Frankenstein's monster in your mind, and you will almost certainly think of a stiff creature with a piecemeal stitched on face.  Reflect upon the nineties movie[ "Face/Off"](https://en.wikipedia.org/wiki/Face/Off) and you might think that face transplants enable you to seamlessly change appearance from one great looking guy to another at the drop of a hat.  Of course, the truth is somewhere between those two extremes, and in recent years a select few people with severest of disfigurements have undergone face transplants, enabling them to return some of the function to their face.
 
  <div style="text-align:center"><img src ="https://fogsmoviereviews.files.wordpress.com/2012/03/face_off_travolta_having_face_removed1.png" /></div>

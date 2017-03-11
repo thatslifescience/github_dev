@@ -1,19 +1,21 @@
 ---
 title: Walking through Transitions
+date: 2016-09-15 00:00:00 Z
+permalink: "/2016-09-15-Walking-through-Transitions-EKuras/"
+categories:
+- Our Ecosystems
 layout: page
 author: ekuras
-permalink: /2016-09-15-Walking-through-Transitions-EKuras/
-categories:
- - Our Ecosystems
 header:
- image_fullwidth: 2016-09-15_ekraus_fig2.jpg
+  image_fullwidth: 2016-09-15_ekraus_fig2.jpg
 image:
- thumb: 2016-09-15_ekraus_fig4.jpg
-teaser: "#Walking isn’t just good exercise, but a great way to be in many places at once! #ecotone #AppalachianTrail"
+  thumb: 2016-09-15_ekraus_fig4.jpg
+teaser: "#Walking isn’t just good exercise, but a great way to be in many places at
+  once! #ecotone #AppalachianTrail"
 subheadline: The magic of in-between places along the Appalachian Trail
 source-id: 1LF9AIhOHYdzr0jsAQ7iXMDf5sWHRVuxlVegdro-x6dg
-published: true
 ---
+
 In my tent I can hear a cow mooing to the west, cars humming faintly to the east, and a [wood thrush](https://www.allaboutbirds.org/guide/Wood_Thrush/id) gurgling its enchanting melody in the canopy above. Two people I've never met before are sleeping in hammocks at this campsite, but they’ll probably be gone by morning. This is a normal Tuesday night for anyone hiking the Appalachian Trail (or "AT").
 
 There are a lot of books, blogs, documentaries, and [movies](http://www.imdb.com/title/tt2305051/) you can read and watch about the AT and other backpacking trails. Indeed, the very idea of the AT inspires thousands to "thru-hike," or walk the [entire 2,190 miles](http://www.appalachiantrail.org/home/explore-the-trail) between Springer Mountain in Georgia and Mount Katahdin in Maine each year. However, millions (yes, really) of hikers walk shorter sections of the AT for days or weeks at a time. 

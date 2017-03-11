@@ -1,24 +1,27 @@
 ---
 title: Fishing Towards Conservation
-layout: page
-author: lgriffin
-permalink: /2016-06-30-Fishing-Towards-Conservation-LGriffin/
+date: 2016-06-30 00:00:00 Z
+permalink: "/2016-06-30-Fishing-Towards-Conservation-LGriffin/"
+categories:
+- Our Ecosystems
 tags:
 - conservation
 - citizen science
 - stewardship
 - fish
-categories:
-- Our Ecosystems
+layout: page
+author: lgriffin
 header:
- image_fullwidth: 2016-06-30_lgriffin_header.jpg
+  image_fullwidth: 2016-06-30_lgriffin_header.jpg
 image:
- thumb: 2016-06-30_lgriffin_fig1.jpg
-teaser: Anglers are vital advocates for their beloved waters; some decide to leave fish in the rivers and off the dinner table.
-subheadline: Catch-and-release anglers catalyze conservation for the prized golden dorado fish
+  thumb: 2016-06-30_lgriffin_fig1.jpg
+teaser: Anglers are vital advocates for their beloved waters; some decide to leave
+  fish in the rivers and off the dinner table.
+subheadline: Catch-and-release anglers catalyze conservation for the prized golden
+  dorado fish
 source-id: 1np6TQyWqOHgpo1eXOHt6iljUT9FKIRmhaWrRAWn5pUE
-published: true
 ---
+
 Two days of flights and overland travel and we find ourselves peering into the murky Rio Juramento accompanied by a handful of local catch and release (C&R) anglers. The town of El Tunal is a miniscule blip on the map in the region of Salta Argentina, but remains a prized destination for anglers seeking the allure of the golden dorado. Given increasing regional development and heightened demand for the species, the dorado and the regional river system are facing a number of impending threats -- dams, hydropower, intensive agriculture, and nutrient runoff to name a few. The fish find themselves in this fight accompanied by emerging *conservation anglers*, avid C&R practitioners banning together to protect regional fish species and river systems.
 
 There are diverse reasons to practice C&R; it is either implemented in compliance with harvest regulations or practiced voluntarily by anglers, motivated by their personal conservation ethics. Examining the latter, we often find regional C&R angler groups engaging in stewardship activities and advocating for the increased management efforts of a specific fishery. Anglers' shared interest to protect local fisheries against external environmental threats often creates a unified conservation force. These localized conservation initiatives may be small in scale, but their stability, communication, and concern for the resources’ future can often bridge otherwise inaccessible gaps across stakeholder groups, scientists, non-governmental organizations (NGOs), and management agencies. 

@@ -1,17 +1,18 @@
 ---
-layout: page
 title: Emily Fusco
-author: efusco
-meta_title: "Emily Fusco | That's Life [Science]"
-subheadline: "Contributor since 2016"
-teaser: "PhD candidate in Organismic and Evolutionary Biology"
 permalink: "/authors/efusco/"
+layout: page
+author: efusco
+meta_title: Emily Fusco | That's Life [Science]
+subheadline: Contributor since 2016
+teaser: PhD candidate in Organismic and Evolutionary Biology
 header:
-   image_fullwidth: you-can-delete-me-header.png
+  image_fullwidth: you-can-delete-me-header.png
 gallery:
-    - image_url: gallery-image-efusco.jpg
-      caption: Emily Fusco
+- image_url: gallery-image-efusco.jpg
+  caption: Emily Fusco
 ---
+
 ![Emily Fusco]({{ site.url }}/images/gallery-image-efusco.jpg)
 
 [Twitter](https://www.twitter.com/EmilyJFusco)

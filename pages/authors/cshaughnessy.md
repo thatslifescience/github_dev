@@ -1,17 +1,18 @@
 ---
-layout: page
 title: Ciaran Shaughnessy
-author: cshaughnessy
-meta_title: "Ciaran Shaughnessy | That's Life [Science]"
-subheadline: "Contributor since 2016"
-teaser: "PhD candidate in Organismic and Evolutionary Biology"
 permalink: "/authors/cshaughnessy/"
+layout: page
+author: cshaughnessy
+meta_title: Ciaran Shaughnessy | That's Life [Science]
+subheadline: Contributor since 2016
+teaser: PhD candidate in Organismic and Evolutionary Biology
 header:
-   image_fullwidth: you-can-delete-me-header.png
+  image_fullwidth: you-can-delete-me-header.png
 gallery:
-    - image_url: gallery-image-cshaughnessy.jpg
-      caption: Ciaran Shaughnessy
+- image_url: gallery-image-cshaughnessy.jpg
+  caption: Ciaran Shaughnessy
 ---
+
 ![Ciaran Shaughnessy]({{ site.url }}/images/gallery-image-cshaughnessy.jpg)
 
 Research Area: Comparative Physiology and Endocrinology
