@@ -37,9 +37,9 @@ gems:
 - jekyll-gist
 - jekyll-paginate
 paginate: 500
-paginate_path: "/page:num/"
+paginate_path: "/thatslifesci/page:num/"
 markdown: kramdown
-permalink: "/:categories/:title/"
+permalink: "/thatslifesci/:categories/:title/"
 highlight: rouge
 excerpt_separator: "<!--more-->"
 include:
