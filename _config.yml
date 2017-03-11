@@ -31,7 +31,7 @@ author:
 url: "https://thatslifescience.github.io/thatslifesci"
 baseurl:
 improve_content: 
-urlimg: "https://thatslifescience.github.io/thatslifesci/images"
+urlimg: "https://thatslifescience.github.io/thatslifesci/images/"
 logo: logo.png
 gems:
 - jekyll-gist
