@@ -28,10 +28,10 @@ slogan: An Interdisciplinary Life Science Outreach Blog from UMass Amherst
 description: 
 credits: "<p>Created with &hearts; in Amherst, MA</p>"
 author: 
-url: 
-baseurl: 
+url: "thatslifesci.github.io"
+baseurl: "/thatslifesci"
 improve_content: 
-urlimg: "/thatslifesci/images/"
+urlimg: "/images/"
 logo: logo.png
 gems:
 - jekyll-gist
