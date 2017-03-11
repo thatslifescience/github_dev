@@ -31,7 +31,7 @@ author:
 url: 
 baseurl: 
 improve_content: 
-urlimg: "/images/"
+urlimg: "/thatslifesci/images/"
 logo: logo.png
 gems:
 - jekyll-gist
