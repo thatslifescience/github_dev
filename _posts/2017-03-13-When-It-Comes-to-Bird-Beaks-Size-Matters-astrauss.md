@@ -19,19 +19,6 @@ teaser: Small differences in beak size can have large energetic consequences whe
 source-id: 12mN-t17oSgQEh-9byNC6jrs0ddYpiOSKqUbPaXw1EF4
 published: true
 ---
-**Title**: When It Comes to Bird Beaks, Size Matters
-
-**Sub-headline**: Small differences in beak size can have large energetic consequences when environmental conditions are hot and dry.
-
-**Author**: Amy V. H. Strauss
-
-**Category**: Earth's Organisms
-
-**Keywords**: bird, beak, song, natural selection, sexual selection
-
-**Social media blurb: **Find out why large #beaks might be #adaptive for highly #vocal #songsparrows in hot #temperatures and dry #environments.
-
-**Featured Photo(s)**: Thumbnail image = Fig. 2, Banner image = Fig. 1, Featured image = Fig. 2
 
 Most songbirds breed only during a short window of time annually in the spring and summer, when they must find a mate, reproduce, and raise their young. Performing these activities efficiently and effectively requires a lot of energy, which is a physiological challenge – especially in the hot and dry conditions that often accompany summer months in certain geographic regions and habitats. Active breeding birds in these conditions must regulate their temperature and maintain water balance internally while singing, nest-building, foraging, defending territories, and feeding young, among the other metabolically demanding tasks necessary for reproductive success. When overheated, birds must balance a tradeoff between performing temperature regulation behaviors and performing reproductive behaviors. Because siring healthy bird babies is so energetically challenging yet so functionally important, traits and behaviors that can help birds be energy efficient during the breeding season are likely favored within these populations. One such trait – the size of a bird's beak -- just might play a role in helping birds deal with this environmental strain. 
 
@@ -55,3 +42,7 @@ This finding supports a link between climate factors (temperature), morphology (
 
 [1] Luther, D. and R. Danner (2016). [Males with larger bills sing at higher rates in a hot and dry environment.](http://www.bioone.org/doi/abs/10.1642/AUK-16-6.1) *The Auk *133(4): 770-778.
 
+
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries=”5” category="Earth's Organisms" %}
