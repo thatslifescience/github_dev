@@ -24,7 +24,7 @@ Most songbirds breed only during a short window of time annually in the spring a
 
 How does that work? Well, biologists David Luther and Ray Danner of George Mason University had the idea – perhaps bird beaks are adaptive not just for plucking worms from the soil, but also for helping with internal temperature regulation during the breeding season. Bird beaks are known to dissipate excess heat without water loss, unlike respiration (breathing) in which heat *and water* are lost together. Therefore, Luther and Danner thought that beak size might really matter for songbirds breeding in hot, dry environments. They hypothesized that larger-beaked males would have an advantage over smaller-beaked males in such environments – that they'd be better able to regulate their temperature and water balance, and thus would be able to remain more active during the breeding season. This could confer the larger-beaked birds greater reproductive benefits, or fitness, over their smaller-beaked counterparts. If true, selection could be pushing increased beak sizes as the climate warms. Eager to test their idea, the biologists ventured into the field – the sand dunes of Delaware Seashore State Park (Fig. 1.), where they tested their hypothesis on a real population of breeding song sparrows (*Melospiza melodia*) (Fig. 2.) [1]. 
 
-div style="text-align:center"><img src ="https://upload.wikimedia.org/wikipedia/commons/f/f8/Delaware_Beaches_State_Park.jpg"></div>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/33377283416/in/dateposted-friend/" title="20170313_AStraussA"><img src="https://c1.staticflickr.com/1/732/33377283416_b5090496f9_c.jpg" width="800" height="600" alt="20170313_AStraussA"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 **Figure 1** The sand dunes of Delaware Seashore State Park, a habitat where intense heat and freshwater shortages create environmental challenges for breeding songbirds. (Photograph by Jennifer Boyer, Wikimedia Commons.)
 
@@ -40,7 +40,7 @@ This finding supports a link between climate factors (temperature), morphology (
 
 **References:**
 
-[1] Luther, D. and R. Danner (2016). [Males with larger bills sing at higher rates in a hot and dry environment.](http://www.bioone.org/doi/abs/10.1642/AUK-16-6.1) *The Auk *133(4): 770-778.
+[1] Luther, D. and R. Danner (2016). [Males with larger bills sing at higher rates in a hot and dry environment.](http://www.bioone.org/doi/abs/10.1642/AUK-16-6.1) *The Auk* 133(4): 770-778.
 
 
 ## More From Thats Life [Science]
