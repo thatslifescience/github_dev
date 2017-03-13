@@ -2,7 +2,7 @@
 title: "When It Comes to Bird Beaks, Size Matters"
 layout: page
 author: astrauss
-permalink: /2017-03-13-When-It-Comes-to-Bird-Beaks-Size-Matters-astrauss/
+permalink: "/2017-03-13-When-It-Comes-to-Bird-Beaks-Size-Matters-astrauss/"
 tags:
 - bird
 - beak
@@ -10,7 +10,7 @@ tags:
 - natural selection
 - sexual selection
 categories:
-Earth’s Organisms
+- Earth’s Organisms
 header:
  image_fullwidth: organisms-header.jpg
 image:
