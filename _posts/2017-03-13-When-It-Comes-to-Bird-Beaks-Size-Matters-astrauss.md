@@ -1,16 +1,16 @@
 ---
 title: "When It Comes to Bird Beaks, Size Matters"
-layout: page
-author: astrauss
 permalink: "/2017-03-13-When-It-Comes-to-Bird-Beaks-Size-Matters-astrauss/"
+categories:
+- Earth’s Organisms
 tags:
 - bird
 - beak
 - song
 - natural selection
 - sexual selection
-categories:
-- Earth’s Organisms
+layout: page
+author: astrauss
 header:
  image_fullwidth: organisms-header.jpg
 image:
