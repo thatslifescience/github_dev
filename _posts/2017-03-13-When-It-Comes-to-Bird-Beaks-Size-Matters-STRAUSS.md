@@ -1,8 +1,8 @@
 ---
 title: When It Comes to Bird Beaks, Size Matters
 layout: page
-author: AStrauss
-permalink: /2017-03-13-When-It-Comes-to-Bird-Beaks-Size-Matters-STRAUSS/
+author: astrauss
+permalink: /2017-03-12-When-It-Comes-to-Bird-Beaks-Size-Matters-STRAUSS/
 tags:
 - bird
 - beak
