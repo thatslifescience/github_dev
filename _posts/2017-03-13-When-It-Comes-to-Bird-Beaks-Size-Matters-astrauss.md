@@ -45,4 +45,4 @@ This finding supports a link between climate factors (temperature), morphology (
 
 ## More From Thats Life [Science]
 {: .t60 }
-{% include list-posts offset="1" entries=”5” category="Earth's Organisms" %}
+{% include list-posts offset="1" entries="5" category="Earth's Organisms" %}
