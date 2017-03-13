@@ -15,7 +15,7 @@ header:
  image_fullwidth: organisms-header.jpg
 image:
  thumb: Strauss_20170313_thumb.jpg
-teaser: Small differences in beak size can have large energetic consequences when environmental conditions are hot and dry.
+teaser: "Small differences in beak size can have large energetic consequences when environmental conditions are hot and dry."
 source-id: 12mN-t17oSgQEh-9byNC6jrs0ddYpiOSKqUbPaXw1EF4
 published: true
 ---
