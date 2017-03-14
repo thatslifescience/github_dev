@@ -17,19 +17,6 @@ teaser: Tackling huge scientific issues such as climate change with art can help
 source-id: 1eq6wjBRhde1hPiSP1pQ5YJqcrcm9oQthPE_BLGzkUa4
 published: true
 ---
-**Title:** Art for Science 
-
-**Subheadline:** Science communication through art
-
-**Author:** Elsa Cousins
-
-**Category:** Grad School Diaries
-
-**Keywords: **Science communication; climate change, art
-
-**Teaser:** Tackling huge scientific issues such as climate change with art can help form a cultural connection
-
-**Featured Photos: **Thumbnail image = Fig. 3**  **
 
 I and many of my colleagues have chosen to pursue a path of idealism, devoting ourselves to researching sustainability and conservation. I hope that by joining the ranks of other dedicated scientists and students, I can make some small change in the world. But science can sometimes feel out of reach, removed from those who aren't in the club. That is why we write, to reach out and tell people that they matter and why the world around them matters. Scientific writing for a public audience is a departure from the usual dry journal articles; it is a union with art. The combination of [visual and audio media](https://www.beforetheflood.com/) with other creative writing approaches can reach out and inspire participation in protecting our planet. 
 
@@ -57,3 +44,6 @@ Whether you hike with your phone in hand to capture images of the scenery, or ke
 
 [1] Woolston, Chris. (2015) A call for beautiful prose in papers. *Nature* Research highlights: Social Selection 517(7536): 531.
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries=”5” category="Earth's Organisms" %}
