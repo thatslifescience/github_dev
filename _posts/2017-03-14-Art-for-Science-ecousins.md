@@ -5,6 +5,7 @@ author: ecousins
 permalink: /2017-03-14-Art-for-Science-ecousins/
 tags:
 - communication
+- science communication
 - climate change
 - art
 categories:
