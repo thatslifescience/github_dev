@@ -50,4 +50,4 @@ Whether you hike with your phone in hand to capture images of the scenery, or ke
 
 ## More From Thats Life [Science]
 {: .t60 }
-{% include list-posts offset="1" entries=”5” category="Earth's Organisms" %}
+{% include list-posts offset="1" entries="5" category="Earth's Organisms" %}
