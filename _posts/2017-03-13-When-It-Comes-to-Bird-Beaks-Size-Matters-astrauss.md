@@ -2,7 +2,7 @@
 title: "When It Comes to Bird Beaks - Size Matters"
 permalink: "/2017-03-13-When-It-Comes-to-Bird-Beaks-Size-Matters-astrauss/"
 categories:
-- Earth’s Organisms
+- Earth's Organisms
 tags:
 - bird
 - beak
