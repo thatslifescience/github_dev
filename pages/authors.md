@@ -133,9 +133,10 @@ header:
         </div>
         
         <div class="medium-3 columns">
-        <img src="{{ site.urlimg }}navon-01-01.jpg" alt="Dina Navon">
+        <img src="thatslifesci/images/navon-01-01.jpg" alt="Dina Navon">
         <p><a href = "{{ site.url }}/authors/dnavon"><b>Dina Navon</b></a></p>
         </div>
+        
         
         <div class="medium-3 columns">
         <img src="{{ site.urlimg }}pold-01.jpg" alt="Grace Pold">
