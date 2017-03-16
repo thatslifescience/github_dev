@@ -148,8 +148,10 @@ header:
         <img src="{{ site.urlimg }}vanderlinden-01-01.jpg" alt="Abby Vander Linden">
         <p><a href = "{{ site.url }}/authors/avlinden"><b>Abby Vander Linden</b></a></p>
         </div><br>
+        <br>
+        <br>
         
-        <center><h3>Past Contributors</h3></center><br>
+<center><h3>Past Contributors</h3></center><br>
         
         <div class="medium-3 columns">
         <img src="{{ site.urlimg }}devine-01.jpg" alt="Matt Devine">
