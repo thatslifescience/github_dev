@@ -12,7 +12,7 @@ header:
 
 <div class="row t30">
 
-        <h3>Current Contributors</h3><br>
+<center><h3>Current Contributors</h3></center><br>
 
         <div class="medium-3 columns">
         <img src="{{ site.urlimg }}Aguirre-01.jpg" alt="Luis Aguirre">
@@ -147,9 +147,9 @@ header:
         <div class="medium-3 columns">
         <img src="{{ site.urlimg }}vanderlinden-01-01.jpg" alt="Abby Vander Linden">
         <p><a href = "{{ site.url }}/authors/avlinden"><b>Abby Vander Linden</b></a></p>
-        </div>
+        </div><br>
         
-        <h3>Past Contributors</h3><br>
+        <center><h3>Past Contributors</h3></center><br>
         
         <div class="medium-3 columns">
         <img src="{{ site.urlimg }}devine-01.jpg" alt="Matt Devine">
