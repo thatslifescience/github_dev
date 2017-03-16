@@ -151,6 +151,9 @@ header:
         <br>
         <br>
         
+</div><!-- /.row -->
+
+<div class="row t30">
 <center><h3>Past Contributors</h3></center><br>
         
         <div class="medium-3 columns">
