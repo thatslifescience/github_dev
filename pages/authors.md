@@ -100,7 +100,7 @@ header:
         </div>
         
         <div class="medium-3 columns">
-        <img src="{{ site.urlimg }}kumar.jpg" alt="Ajay Kumar">
+        <img src="{{ site.urlimg }}kumar-01.jpg" alt="Ajay Kumar">
         <p><a href = "{{ site.url }}/authors/akumar"><b>Ajay Kumar</b></a></p>
         </div>
         
