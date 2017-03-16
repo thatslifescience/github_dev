@@ -12,6 +12,8 @@ header:
 
 <div class="row t30">
 
+        <h2>Current Contributors</h2>
+
         <div class="medium-3 columns">
         <img src="{{ site.urlimg }}Aguirre-01.jpg" alt="Luis Aguirre">
         <p><a href = "{{ site.url }}/authors/laguirre"><b>Luis Aguirre</b></a></p>
@@ -167,4 +169,6 @@ header:
         <img src="{{ site.urlimg }}vanderlinden-01-01.jpg" alt="Abby Vander Linden">
         <p><a href = "{{ site.url }}/authors/avlinden"><b>Abby Vander Linden</b></a></p>
         </div>
+        
+        <h2>Past Contributors</h2>
 </div><!-- /.row -->
