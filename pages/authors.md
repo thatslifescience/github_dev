@@ -12,7 +12,7 @@ header:
 
 <div class="row t30">
 
-        <h2>Current Contributors</h2>
+        <h3>Current Contributors</h3><br>
 
         <div class="medium-3 columns">
         <img src="{{ site.urlimg }}Aguirre-01.jpg" alt="Luis Aguirre">
@@ -65,11 +65,6 @@ header:
         </div>
         
         <div class="medium-3 columns">
-        <img src="{{ site.urlimg }}devine-01.jpg" alt="Matt Devine">
-        <p><a href = "{{ site.url }}/authors/mdevine"><b>Matt Devine</b></a></p>
-        </div>
-        
-        <div class="medium-3 columns">
         <img src="{{ site.urlimg }}falconi_lopez-01.jpg" alt="Nereyda Falconi">
         <p><a href = "{{ site.url }}/authors/nfalconi"><b>Nereyda Falconi</b></a></p>
         </div>
@@ -90,18 +85,8 @@ header:
         </div>
         
         <div class="medium-3 columns">
-        <img src="{{ site.urlimg }}griffin-01-01.jpg" alt="Lucas Griffin">
-        <p><a href = "{{ site.url }}/authors/lgriffin"><b>Lucas Griffin</b></a></p>
-        </div>
-        
-        <div class="medium-3 columns">
         <img src="{{ site.urlimg }}guo-01.jpg" alt="Lian Guo">
         <p><a href = "{{ site.url }}/authors/lguo"><b>Lian Guo</b></a></p>
-        </div>
-        
-        <div class="medium-3 columns">
-        <img src="{{ site.urlimg }}ha-01.jpg" alt="Stephanie A. Ha">
-        <p><a href = "{{ site.url }}/authors/sha"><b>Stephanie A. Ha</b></a></p>
         </div>
         
         <div class="medium-3 columns">
@@ -139,15 +124,9 @@ header:
         <p><a href = "{{ site.url }}/authors/dnavon"><b>Dina Navon</b></a></p>
         </div>
         
-        
         <div class="medium-3 columns">
         <img src="{{ site.urlimg }}pold-01.jpg" alt="Grace Pold">
         <p><a href = "{{ site.url }}/authors/gpold"><b>Grace Pold</b></a></p>
-        </div>
-        
-        <div class="medium-3 columns">
-        <img src="{{ site.urlimg }}shaughnessy-01-01.jpg" alt="Ciaran A. Shaughnessy">
-        <p><a href = "{{ site.url }}/authors/cshaughnessy"><b>Ciaran A. Shaughnessy</b></a></p>
         </div>
         
         <div class="medium-3 columns">
@@ -170,5 +149,26 @@ header:
         <p><a href = "{{ site.url }}/authors/avlinden"><b>Abby Vander Linden</b></a></p>
         </div>
         
-        <h2>Past Contributors</h2>
+        <h3>Past Contributors</h3><br>
+        
+        <div class="medium-3 columns">
+        <img src="{{ site.urlimg }}devine-01.jpg" alt="Matt Devine">
+        <p><a href = "{{ site.url }}/authors/mdevine"><b>Matt Devine</b></a></p>
+        </div>        
+        
+        <div class="medium-3 columns">
+        <img src="{{ site.urlimg }}griffin-01-01.jpg" alt="Lucas Griffin">
+        <p><a href = "{{ site.url }}/authors/lgriffin"><b>Lucas Griffin</b></a></p>
+        </div>
+        
+        <div class="medium-3 columns">
+        <img src="{{ site.urlimg }}ha-01.jpg" alt="Stephanie A. Ha">
+        <p><a href = "{{ site.url }}/authors/sha"><b>Stephanie A. Ha</b></a></p>
+        </div>
+                
+        <div class="medium-3 columns">
+        <img src="{{ site.urlimg }}shaughnessy-01-01.jpg" alt="Ciaran A. Shaughnessy">
+        <p><a href = "{{ site.url }}/authors/cshaughnessy"><b>Ciaran A. Shaughnessy</b></a></p>
+        </div>
+        
 </div><!-- /.row -->
