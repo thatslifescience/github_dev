@@ -24,7 +24,7 @@ In a [previous post ](http://thatslifesci.com.s3-website-us-east-1.amazonaws.com
 
 The premise seems simple. Plants need their genes deposited onto other plants to reproduce, thus plants offer rewards (nectar and/or pollen) to pollinators. Pollinators collect the rewards while picking up and dropping pollen from one plant to another [1]. However, the implementation is not so straight forward: not only do flowers come in many colors, sizes and shapes, but there are also many different pollinators.
 
-<div style = "text-align:center"><img src = “https://upload.wikimedia.org/wikipedia/commons/7/77/Leafcutter_Bee_(Megachile_sp.)_(5190457579).jpg”/></div>
+<div style="text-align:center"><img src ="https://upload.wikimedia.org/wikipedia/commons/7/77/Leafcutter_Bee_(Megachile_sp.)_(5190457579).jpg" /></div>
 
 **Fig. 1** This solitary leafcutter bee is collecting pollen on its hairy abdomen and thorax. Image via [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/7/77/Leafcutter_Bee_(Megachile_sp.)_(5190457579).jpg).
 
@@ -33,7 +33,6 @@ Now that I have planted the seeds of confusion, I will try to explain why there 
 The difference between a pollinator and a flower visitor can be subtle or quite large. A flower visitor is just a visitor if it does not transport pollen. Some visitors can't carry pollen, they don’t have hairs at all, or they steal the nectar. For example, some wasps are known to drink nectar but since they are not hairy they don’t carry pollen with them. There are also some bumblebees that perforate the flower, drink the nectar and never touch the pollen. So, they are not actually pollinators. I call these guys herbivores; they eat part of the plant but don’t give anything in return. Ok, so some visitors just take the rewards and others do pollinate. Simple enough, right? Well… 
 
 Big differences exist between the perfect pollinators and the pollen- and nectar-eating herbivores, and there's a gradient when it comes to how effective flower visitors are at moving pollen from plant to plant. There are a couple of ways in which pollinators can be ineffective pollinators. Some pollinators are a lot more efficient at collecting pollen for themselves than they are at moving it around. For example, some social bees collect pollen on pollen baskets.  Some of them are very good at cleaning the pollen off their bodies. And that means that there is a smaller chance of pollen being moved to the female parts of another flowering plant. 
-
 
 <div style="text-align:center"><img src ="https://upload.wikimedia.org/wikipedia/commons/4/44/Bumblebee_05.JPG" /></div>
 
