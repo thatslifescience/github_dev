@@ -20,20 +20,6 @@ subtitle: What Makes a Good Pollinator
 source-id: 1u6zuC8wtVYL-t7iFkU6iZf3r-avhHrY_THsECgOEgGE
 published: true
 ---
-**Title:** Finding the Perfect Partner
-
-**Sub-headline:** What Makes a Good Pollinator
-
-**Author:** Luis Aguirre
-
-**Category:** How It Works
-
-**Keywords:** Mutualism, Pollination, Conservation, Flowering Plants, Bees
-
-**Teaser: **Flowers and pollinators, completely dependent on each other. A match made in heaven? Not so much.
-
-**Featured image: **(not in article)
-
 In a [previous post ](http://thatslifesci.com.s3-website-us-east-1.amazonaws.com/2017-01-05-Pollination-101-AGuirre/)[we talked briefly about pollination](http://thatslifesci.com.s3-website-us-east-1.amazonaws.com/2017-01-05-Pollination-101-AGuirre/) by insects and other animals. 
 
 The premise seems simple. Plants need their genes deposited onto other plants to reproduce, thus plants offer rewards (nectar and/or pollen) to pollinators. Pollinators collect the rewards while picking up and dropping pollen from one plant to another [1]. However, the implementation is not so straight forward: not only do flowers come in many colors, sizes and shapes, but there are also many different pollinators.
@@ -48,7 +34,8 @@ The difference between a pollinator and a flower visitor can be subtle or quite 
 
 Big differences exist between the perfect pollinators and the pollen- and nectar-eating herbivores, and there's a gradient when it comes to how effective flower visitors are at moving pollen from plant to plant. There are a couple of ways in which pollinators can be ineffective pollinators. Some pollinators are a lot more efficient at collecting pollen for themselves than they are at moving it around. For example, some social bees collect pollen on pollen baskets.  Some of them are very good at cleaning the pollen off their bodies. And that means that there is a smaller chance of pollen being moved to the female parts of another flowering plant. 
 
-<div style = "text-align:center"><img src = “https://upload.wikimedia.org/wikipedia/commons/4/44/Bumblebee_05.JPG”/></div>
+
+<div style="text-align:center"><img src ="https://upload.wikimedia.org/wikipedia/commons/4/44/Bumblebee_05.JPG" /></div>
 
 **Fig. 2** A bumble bee collecting pollen. Notice the its pollen baskets and its relative cleanliness. Good for the colony, not so much for the flower. Image via [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/4/44/Bumblebee_05.JPG).
 
@@ -60,3 +47,7 @@ References
 
 [1] Willmer, Pat. *Pollination and floral ecology*. Princeton University Press, 2011.
 
+
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries="5" category="How It Works" %}
