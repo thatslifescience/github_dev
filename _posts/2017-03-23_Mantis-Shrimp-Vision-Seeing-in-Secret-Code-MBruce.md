@@ -22,15 +22,9 @@ published: true
 ---
 The mantis shrimp has one of the most complex and elaborate visual systems ever discovered. This makes perfect sense when you take a look at the eyes on these guys:
 
- 
-
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/silkebaron/14640180443/in/photolist-oiGKAc-rGs2T9-bDYHjz-mL3xt-mL3X7-nw1tS8-zNitLY-Bv8Uwm-iMXXCb-4t8SN8-dT7vmU-iMhUgF-9imfVB-iim9CY-9ipmew-agQgfs-iikMVB-agMrFP-SufGe-aeq8dZ-arSJqK-aesVQC-eniGci-SufGX-emFQCs-w968FK-c7Bvcb-aSpRqr-8nBMvr-9img1v-pTJCXY-5q1rz1-c6AuqL-iMo4aJ-s1m7q5-DbUd8y-4VKjwN-enTggh-emFJnW-enTnEG-iMkdPM-vRa8VK-ems9ti-iMo1ey-9img4T-iMk8tC-iMkcvz-iMj2sx-iMkb9r-iMiYC4" title="Mantis Shrimp"><img src="https://c1.staticflickr.com/3/2908/14640180443_bf3319c0bf_z.jpg" width="640" height="480" alt="Mantis Shrimp"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 **Fig 1.** A peacock mantis shrimp (*Odontodactylus scyllarus*) looks out from its shelter. (Source: Prilfish).
-
- 
-
- 
 
 Like insects and other crustaceans, mantis shrimps have compound eyes. This means that each eye is composed of a bunch of tiny, repeating units called ommatidia. Each ommatidium (singular) is covered by its own hard cornea and functions as a single visual receptor. You can think of them as pixels on a screen. Together, the ommatidia send a mosaic image to the brain; the more ommatidia, the better the image. Here's some context: honeybees have about 150 ommatidia per compound eye, while some mantis shrimps have over ten thousand [1]!
 
@@ -64,17 +58,11 @@ In addition to moving linearly, polarized light can also move in helix-like form
 
 ***Fig. 3*** Two waves of light on planes that are related by 90º are said to be circularly polarized. (Source: Dave3457)
 
- 
-
 One species of mantis shrimp, *Gonodactylaceus falcatus*, may use circular polarization to help detect when a cozy shelter is already occupied. These animals often make their homes in holes or crevices on the seafloor, but must avoid occupied shelters to avoid injury. When presented with burrows covered with circularly polarized light filters and unpolarized light filters, mantis shrimps showed a distinct preference for entering shelters reflecting unpolarized light [4].
-
- 
 
 ![image alt text]({{ site.url }}/public/H3ttZgn1vbHlQw76TF6GmA_img_1.png)
 
 **Fig. 4** A mantis shrimp perches inside its borrow, displaying markings that reflect circularly polarized light. (Source: Gagnon et al. 2015).
-
- 
 
 The position of these markings may also be a clue to their function. Their positing around the face and claws suggest an involvement in aggression, because mantis shrimps typically display these areas during fights [3]. However, scientists will need a few more clues before we can fully crack the mysterious codes involved in mantis shrimps' secret signaling and vision.
 
