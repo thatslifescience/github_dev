@@ -8,7 +8,7 @@ categories:
 header:
  image_fullwidth: organisms-header.jpg
 image:
- thumb: 
+ thumb: 2017-03-23_mbruce_fig1.jpg
 tags:
 - mantis shrimp
 - vision
@@ -16,7 +16,7 @@ tags:
 - polarization
 - compound eyes
 teaser: In the animal kingdom, mantis shrimps just might have the all-seeing eye.
-subtitle:Compound Eyes and Polarized Light
+subtitle: Compound Eyes and Polarized Light
 source-id: 1agH9c3BLRU2eAp2S99H50cjTn_T2pwjG4ykdYtpI-aY
 published: true
 ---
@@ -106,8 +106,6 @@ One species of mantis shrimp, *Gonodactylaceus falcatus*, may use circular polar
 
 The position of these markings may also be a clue to their function. Their positing around the face and claws suggest an involvement in aggression, because mantis shrimps typically display these areas during fights [3]. However, scientists will need a few more clues before we can fully crack the mysterious codes involved in mantis shrimps' secret signaling and vision.
 
- 
-
 References
 
 [1] Marshall, J., Cronin, T.W., and Kleinlogel, S. (2007). Stomatopod eye structure and function: a review. *Arthropod Structure and Development*. 36. 420-448.
@@ -118,5 +116,6 @@ References
 
 [4] Gagnon, Y.L., Templin, R.M., How, M.J., Marshall, N.J. (2015). Circularly Polarized Light as a Communication Signal in Mantis Shrimps. *Current Biology. *25. 3074-3078.
 
- 
-
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries="5" category="Earth's Organisms" %}
