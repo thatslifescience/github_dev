@@ -20,34 +20,6 @@ subtitle: Compound Eyes and Polarized Light
 source-id: 1agH9c3BLRU2eAp2S99H50cjTn_T2pwjG4ykdYtpI-aY
 published: true
 ---
-**Title:** Mantis Shrimp Vision: Seeing in Secret Code
-
- 
-
-**Sub-heading: **Compound Eyes and Polarized Light
-
-** **
-
-**Author: **Maggie Bruce
-
-** **
-
-**Category:** Earth's Organisms
-
- 
-
-**Keywords: **Mantis Shrimp, Vision, Ommatidia, Polarization, Compound Eyes
-
-** **
-
-**Teaser: **In the animal kingdom, mantis shrimps just might have the all-seeing eye.
-
-** **
-
-**Featured Photos: **Thumbnail Image = Fig 1
-
- 
-
 The mantis shrimp has one of the most complex and elaborate visual systems ever discovered. This makes perfect sense when you take a look at the eyes on these guys:
 
  
