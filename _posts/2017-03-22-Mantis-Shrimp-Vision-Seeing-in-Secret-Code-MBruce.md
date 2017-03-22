@@ -33,26 +33,15 @@ Like insects and other crustaceans, mantis shrimps have compound eyes. This mean
 Each of a mantis shrimp's two compound eyes also contain a 'mid-band’ that appears to split the eye in half. This band is made up of six parallel strips of specialized ommatidia [2]. Each strip is packed with photoreceptors, the sensitive cells that respond to specific wavelengths of light. While humans have three different types of these light-detecting cells, mantis shrimps have a whopping twelve.
 
  
-
-![image alt text]({{ site.url }}/public/H3ttZgn1vbHlQw76TF6GmA_img_0.png)
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/33209308950/in/dateposted-friend/" title="2017-03-23_mbruce_fig2"><img src="https://c1.staticflickr.com/4/3852/33209308950_c992f26d6c.jpg" width="500" height="496" alt="2017-03-23_mbruce_fig2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 **Fig. 2** The eye of an *O. scyllarus* mantis shrimp. Here, the mid-band is visible stretching horizontally across the center of the eye. (Source: Marshall et al. 2007).
 
- 
-
- 
-
 All of these photoreceptors put the shrimp's visual range into the ultraviolet region, and some even specialize in seeing polarized light. Wavelengths of natural light are capable of travelling in any variety of directions. When light is polarized, however, all of its waves travel in one direction, on a single plane. This type of light is only perceived by humans when we see partially polarized light reflecting off of the surface water or glass. However, mantis shrimps are much more sensitive to polarization, and probably use it to see their underwater world in higher contrast. In addition to seeing it, many species of mantis shrimp have body markings that reflect polarized light [2], which may be used in communication [3].     
-
- 
 
 These special body markings pose one problem, however. In the sea, a handful of other animals, like cuttlefish and octopuses, can also see polarized light patterns [2]. Since these animals would love nothing more than to snack on a tasty mantis shrimp, some species have taken their secret polarized light code one step further and developed sensitivities to circularly polarized light** **[3].
 
- 
-
 In addition to moving linearly, polarized light can also move in helix-like formations. In general, this happens when two waves of light travel on planes that are perpendicular to one another.
-
- 
 
 <p><a href="https://commons.wikimedia.org/wiki/File:Circular.Polarization.Circularly.Polarized.Light_With.Components_Right.Handed.svg#/media/File:Circular.Polarization.Circularly.Polarized.Light_With.Components_Right.Handed.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Circular.Polarization.Circularly.Polarized.Light_With.Components_Right.Handed.svg/1200px-Circular.Polarization.Circularly.Polarized.Light_With.Components_Right.Handed.svg.png" alt="Circular.Polarization.Circularly.Polarized.Light With.Components Right.Handed.svg"></a><br>By <a href="//commons.wikimedia.org/wiki/User:Dave3457" title="User:Dave3457">Dave3457</a> - <span class="int-own-work" lang="en" xml:lang="en">Own work</span>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=9861581">Link</a></p>
 
@@ -60,7 +49,7 @@ In addition to moving linearly, polarized light can also move in helix-like form
 
 One species of mantis shrimp, *Gonodactylaceus falcatus*, may use circular polarization to help detect when a cozy shelter is already occupied. These animals often make their homes in holes or crevices on the seafloor, but must avoid occupied shelters to avoid injury. When presented with burrows covered with circularly polarized light filters and unpolarized light filters, mantis shrimps showed a distinct preference for entering shelters reflecting unpolarized light [4].
 
-![image alt text]({{ site.url }}/public/H3ttZgn1vbHlQw76TF6GmA_img_1.png)
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/33209308910/in/dateposted-friend/" title="2017-03-23_mbruce_fig4"><img src="https://c1.staticflickr.com/4/3947/33209308910_b6964bf429.jpg" width="459" height="308" alt="2017-03-23_mbruce_fig4"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 **Fig. 4** A mantis shrimp perches inside its borrow, displaying markings that reflect circularly polarized light. (Source: Gagnon et al. 2015).
 
@@ -72,9 +61,9 @@ References
 
 [2] Young, Ed. "Mantis shrimps have a unique way of seeing." *National Geographic*. 21 Mar 2008. < http://phenomena.nationalgeographic.com/2008/03/21/mantis-shrimps-have-a-unique-way-of-seeing>
 
-[3]** **Chiou, T., Kleinlogel, S., Cronin, T., Caldwell, R., Loeffler, B., Siddiqi, A., Goldizen, A., Marshall, J. (2008). Circular Polarization Vision in a Stomatopod Crustacean. Current Biology.
+[3] Chiou, T., Kleinlogel, S., Cronin, T., Caldwell, R., Loeffler, B., Siddiqi, A., Goldizen, A., Marshall, J. (2008). Circular Polarization Vision in a Stomatopod Crustacean. Current Biology.
 
-[4] Gagnon, Y.L., Templin, R.M., How, M.J., Marshall, N.J. (2015). Circularly Polarized Light as a Communication Signal in Mantis Shrimps. *Current Biology. *25. 3074-3078.
+[4] Gagnon, Y.L., Templin, R.M., How, M.J., Marshall, N.J. (2015). Circularly Polarized Light as a Communication Signal in Mantis Shrimps. *Current Biology*. 25. 3074-3078.
 
 ## More From Thats Life [Science]
 {: .t60 }
