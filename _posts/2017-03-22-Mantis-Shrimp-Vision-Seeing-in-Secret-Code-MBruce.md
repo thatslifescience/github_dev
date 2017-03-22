@@ -45,7 +45,7 @@ In addition to moving linearly, polarized light can also move in helix-like form
 
 <p><a href="https://commons.wikimedia.org/wiki/File:Circular.Polarization.Circularly.Polarized.Light_With.Components_Right.Handed.svg#/media/File:Circular.Polarization.Circularly.Polarized.Light_With.Components_Right.Handed.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Circular.Polarization.Circularly.Polarized.Light_With.Components_Right.Handed.svg/1200px-Circular.Polarization.Circularly.Polarized.Light_With.Components_Right.Handed.svg.png" alt="Circular.Polarization.Circularly.Polarized.Light With.Components Right.Handed.svg"></a><br>By <a href="//commons.wikimedia.org/wiki/User:Dave3457" title="User:Dave3457">Dave3457</a> - <span class="int-own-work" lang="en" xml:lang="en">Own work</span>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=9861581">Link</a></p>
 
-***Fig. 3*** Two waves of light on planes that are related by 90º are said to be circularly polarized. (Source: Dave3457)
+**Fig. 3** Two waves of light on planes that are related by 90º are said to be circularly polarized. (Source: Dave3457)
 
 One species of mantis shrimp, *Gonodactylaceus falcatus*, may use circular polarization to help detect when a cozy shelter is already occupied. These animals often make their homes in holes or crevices on the seafloor, but must avoid occupied shelters to avoid injury. When presented with burrows covered with circularly polarized light filters and unpolarized light filters, mantis shrimps showed a distinct preference for entering shelters reflecting unpolarized light [4].
 
