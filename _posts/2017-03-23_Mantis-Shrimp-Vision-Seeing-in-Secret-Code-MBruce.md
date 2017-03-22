@@ -2,7 +2,7 @@
 title: "Mantis Shrimp Vision: Seeing in Secret Code"
 layout: page
 author: mbruce
-permalink: /2017-03-23_Mantis-Shrimp-Vision-Seeing-in-Secret-Code-MBruce/
+permalink: /2017-03-22_Mantis-Shrimp-Vision-Seeing-in-Secret-Code-MBruce/
 categories:
 - Earth’s Organisms
 header:
