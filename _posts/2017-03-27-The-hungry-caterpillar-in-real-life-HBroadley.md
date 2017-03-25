@@ -1,20 +1,20 @@
 ---
-title: The hungry caterpillar in real life
+title: "The hungry caterpillar in real life"
 layout: page
 author: hbroadley
 permalink: /2017-03-27-The-hungry-caterpillar-in-real-life-HBroadley/
-tags:
+categories:
+- Earth’s Organisms
+header:
+ image_fullwidth: organisms-header.jpg
+image:
+ thumb: 2017-03-27-HbroadleyA.JPG
+ tags:
 - pests
 - forest ecology
 - plant health
 - invasive species
 - caterpillars
-categories:
-- Earth’s Organisms
-header:
- image_fullwidth: "organisms-header.jpg"
-image:
- thumb: 2017-03-27-HbroadleyA.JPG
 teaser: Many of us read The Hungry Caterpillar as a kid. If you ever want to find a real life hungry caterpillar, look no further than eastern Massachusetts and the invasive winter moth.
 source-id: 1TERAwffiEBuVehKXDRy9LKUMSOCacSm5svRBpoM11bw
 published: true
