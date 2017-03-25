@@ -55,13 +55,13 @@ One species of mantis shrimp, *Gonodactylaceus falcatus*, may use circular polar
 
 The position of these markings may also be a clue to their function. Their positing around the face and claws suggest an involvement in aggression, because mantis shrimps typically display these areas during fights [3]. However, scientists will need a few more clues before we can fully crack the mysterious codes involved in mantis shrimps' secret signaling and vision.
 
-References
+**References**
 
 [1] Marshall, J., Cronin, T.W., and Kleinlogel, S. (2007). Stomatopod eye structure and function: a review. *Arthropod Structure and Development*. 36. 420-448.
 
 [2] Young, Ed. "Mantis shrimps have a unique way of seeing." *National Geographic*. 21 Mar 2008. < http://phenomena.nationalgeographic.com/2008/03/21/mantis-shrimps-have-a-unique-way-of-seeing>
 
-[3] Chiou, T., Kleinlogel, S., Cronin, T., Caldwell, R., Loeffler, B., Siddiqi, A., Goldizen, A., Marshall, J. (2008). Circular Polarization Vision in a Stomatopod Crustacean. Current Biology.
+[3] Chiou, T., Kleinlogel, S., Cronin, T., Caldwell, R., Loeffler, B., Siddiqi, A., Goldizen, A., Marshall, J. (2008). Circular Polarization Vision in a Stomatopod Crustacean. *Current Biology.*
 
 [4] Gagnon, Y.L., Templin, R.M., How, M.J., Marshall, N.J. (2015). Circularly Polarized Light as a Communication Signal in Mantis Shrimps. *Current Biology*. 25. 3074-3078.
 
