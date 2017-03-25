@@ -15,7 +15,7 @@ image:
 - plant health
 - invasive species
 - caterpillars
-teaser: Many of us read The Hungry Caterpillar as a kid. If you ever want to find a real life hungry caterpillar, look no further than eastern Massachusetts and the invasive winter moth.
+teaser: "Many of us read The Hungry Caterpillar as a kid. If you ever want to find a real life hungry caterpillar, look no further than eastern Massachusetts and the invasive winter moth."
 source-id: 1TERAwffiEBuVehKXDRy9LKUMSOCacSm5svRBpoM11bw
 published: true
 ---
