@@ -46,5 +46,5 @@ These hungry caterpillars can eat a lot! In eastern Massachusetts, winter moth p
 
 ## More From Thats Life [Science]
 {: .t60 }
-{% include list-posts offset="1" entries="5” category="Earth's Organisms" %}
+{% include list-posts offset="1" entries="5" category="Earth's Organisms" %}
 
