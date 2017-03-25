@@ -12,7 +12,7 @@ tags:
 categories:
 - Earth’s Organisms
 header:
- image_fullwidth: organisms-header.jpg
+ image_fullwidth: "organisms-header.jpg"
 image:
  thumb: 2017-03-27-HbroadleyA.JPG
 teaser: Many of us read The Hungry Caterpillar as a kid. If you ever want to find a real life hungry caterpillar, look no further than eastern Massachusetts and the invasive winter moth.
@@ -45,8 +45,6 @@ These hungry caterpillars can eat a lot! In eastern Massachusetts, winter moth p
 **Fig. 4.** Winter moth is also invasive to British Columbia and routinely causes damage.  Here's a photo I took last summer of damage by winter moth caterpillars on Garry oak in British Columbia.  Photo Credit: H. Broadley
 
 ## More From Thats Life [Science]
-
 {: .t60 }
-
 {% include list-posts offset="1" entries="5” category="Earth's Organisms" %}
 
