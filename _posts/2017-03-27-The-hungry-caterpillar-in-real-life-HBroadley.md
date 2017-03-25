@@ -9,7 +9,7 @@ header:
  image_fullwidth: organisms-header.jpg
 image:
  thumb: 2017-03-27-HbroadleyA.JPG
- tags:
+tags:
 - pests
 - forest ecology
 - plant health
