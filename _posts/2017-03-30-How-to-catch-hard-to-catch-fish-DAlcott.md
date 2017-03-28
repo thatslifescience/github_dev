@@ -1,5 +1,5 @@
 ---
-title: How Do You Catch Hard-to-Catch Fish?
+title: How To Catch Hard-to-Catch Fish?
 layout: page
 author: dalcott
 permalink: /2017-03-30-How-to-catch-hard-to-catch-fish-DAlcott/
