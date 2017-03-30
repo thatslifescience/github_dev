@@ -10,7 +10,7 @@ header:
   image_fullwidth: you-can-delete-me-header.png
 ---
 
-![Elisha Allan-Perkins]({{ site.url }}/images/eaperkins.jpg)
+![Elisha Allan-Perkins]({{ site.url }}/thatslifesci/images/eaperkins.jpg)
 
 My research focuses on how organic and conventional turf management affect soil microbe and nematode communities with an emphasis on how these practices may influence disease management.
 
