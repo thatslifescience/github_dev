@@ -4,16 +4,16 @@ permalink: "/authors/nfalconi/"
 layout: page
 author: nfalconi
 meta_title: Nereyda Falconi | That's Life [Science]
-subheadline: Contributor since 2016
+subheadline: Contributor since Fall 2015
 teaser: PhD student in Environmental Conservation
 header:
   image_fullwidth: you-can-delete-me-header.png
 gallery:
-- image_url: gallery-image-nfalconi.jpg
+- image_url: falconi_lopez-01.jpg
   caption: Nereyda Falconi
 ---
 
-![Nereyda Falconi]({{ site.url }}/images/gallery-image-nfalconi.jpg)
+![Nereyda Falconi]({{ site.url }}/thatslifesci/images/falconi_lopez-01.jpg)
 
 Research Area: My research aims to develop distribution models and analyze the effects of the changing landscape on spectacled bear’s habitat in Peru.
 
@@ -28,11 +28,13 @@ This is my first adventure as a Blogger.
 {% assign year = this_year %}
 <h3>{{ year }}</h3>
 {% endunless %}
-<li>
-{% assign content = post.content %}
-<article>
-{% include snippets/post_link.html post=post %}
-</article>
-</li>
+<ul style="list-style-type:disc">
+ <li> 
+ {% assign content = post.content %} 
+ <article>
+ {% include snippets/post_link.html post=post %}
+ </article>
+ </li>
+</ul>
 {% endif %}
 {% endfor %}
