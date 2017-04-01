@@ -15,7 +15,7 @@ gallery:
 
 ![Alam Garcia Heredia]({{ site.url }}/thatslifesci/images/garciaheredia-01.jpg)
 
-[Website](http://www.microbiosymas.com/alam.html)
+[Personal Website](http://www.microbiosymas.com/alam.html)
 
 I am interested in studying the remodeling of the mycobacterial membrane.
 
