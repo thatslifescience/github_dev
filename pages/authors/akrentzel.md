@@ -9,11 +9,11 @@ teaser: PhD candidate in Neuroscience and Behavior
 header:
   image_fullwidth: you-can-delete-me-header.png
 gallery:
-- image_url: gallery-image-akrentzel.jpg
+- image_url: krentzel-01.jpg
   caption: Amanda Krentzel
 ---
 
-![Amanda Krentzel]({{ site.url }}/images/gallery-image-akrentzel.jpg)
+![Amanda Krentzel]({{ site.url }}/thatslifesci/images/krentzel-01.jpg)
 
 [Email](mailto:akrentze@cns.umass.edu)
 
@@ -29,11 +29,13 @@ I’m currently studying the role of estrogen in auditory processing. I focus on
 {% assign year = this_year %}
 <h3>{{ year }}</h3>
 {% endunless %}
-<li>
-{% assign content = post.content %}
-<article>
-{% include snippets/post_link.html post=post %}
-</article>
-</li>
+<ul style="list-style-type:disc">
+ <li> 
+ {% assign content = post.content %} 
+ <article>
+ {% include snippets/post_link.html post=post %}
+ </article>
+ </li>
+</ul>
 {% endif %}
 {% endfor %}
