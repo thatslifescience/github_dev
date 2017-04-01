@@ -4,13 +4,16 @@ permalink: "/authors/emelzer/"
 layout: page
 author: emelzer
 meta_title: Emily S. Melzer | That's Life [Science]
-subheadline: Contributor since 2016
-teaser: PhD student in Microbiology
+subheadline: Contributor since Fall 2015
+teaser: PhD Student in Microbiology
 header:
   image_fullwidth: you-can-delete-me-header.png
+gallery:
+- image_url: melzer-01.jpg
+  caption: Emily Melzer
 ---
 
-![Emily S. Melzer]({{ site.url }}/images/gallery-image-emelzer.jpg)
+![Emily S. Melzer]({{ site.url }}/thatslifesci/images/melzer-01.jpg)
 
 Research Area: Host-microbe interaction
 
@@ -25,11 +28,13 @@ I am also TLS treasurer.
 {% assign year = this_year %}
 <h3>{{ year }}</h3>
 {% endunless %}
-<li>
-{% assign content = post.content %}
-<article>
-{% include snippets/post_link.html post=post %}
-</article>
-</li>
+<ul style="list-style-type:disc">
+ <li> 
+ {% assign content = post.content %} 
+ <article>
+ {% include snippets/post_link.html post=post %}
+ </article>
+ </li>
+</ul>
 {% endif %}
 {% endfor %}
