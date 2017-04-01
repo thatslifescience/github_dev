@@ -5,7 +5,7 @@ layout: page
 author: astrauss
 meta_title: Amy V. H. Strauss | That's Life [Science]
 subheadline: Contributor since 2016
-teaser: PhD candidate in Organismic and Evolutionary Biology
+teaser: PhD Candidate in Organismic and Evolutionary Biology
 header:
   image_fullwidth: you-can-delete-me-header.png
 gallery:
@@ -15,7 +15,7 @@ gallery:
 
 ![Amy V.H. Strauss]({{ site.url }}/thatslifesci/images/strauss-01-01.jpg)
 
-[Website](http://gpls.cns.umass.edu/oeb/directory/amy-strauss)
+[Website](http://gpls.cns.umass.edu/oeb/directory/amy-strauss)<br>
 [Twitter](https://twitter.com/avstrauss)
 
 Research Area: communication behavior, environmental acoustics, and vocal learning in songbirds
