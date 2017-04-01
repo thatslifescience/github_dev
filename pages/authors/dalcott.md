@@ -5,15 +5,15 @@ layout: page
 author: dalcott
 meta_title: Derrick Alcott | That's Life [Science]
 subheadline: Contributor since 2016
-teaser: PhD candidate in Organismic and Evolutionary Biology
+teaser: PhD Candidate in Organismic and Evolutionary Biology
 header:
   image_fullwidth: you-can-delete-me-header.png
 gallery:
-- image_url: gallery-image-dalcott.jpg
+- image_url: alcott-01-01.jpg
   caption: Derrick Alcott
 ---
 
-![Derrick Alcott]({{ site.url }}/images/gallery-image-dalcott.jpg)
+![Derrick Alcott]({{ site.url }}/thatslifesci/images/alcott-01-01.jpg)
 
 [Website](https://gpls.cns.umass.edu/oeb/directory/derrick-alcott)
 
@@ -29,11 +29,13 @@ I am a co-founder and author/editor for That's Life [Science]. I study river her
 {% assign year = this_year %}
 <h3>{{ year }}</h3>
 {% endunless %}
-<li>
-{% assign content = post.content %}
-<article>
-{% include snippets/post_link.html post=post %}
-</article>
-</li>
+<ul style="list-style-type:disc">
+ <li> 
+ {% assign content = post.content %} 
+ <article>
+ {% include snippets/post_link.html post=post %}
+ </article>
+ </li>
+</ul>
 {% endif %}
 {% endfor %}
