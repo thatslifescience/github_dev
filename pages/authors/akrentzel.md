@@ -5,7 +5,7 @@ layout: page
 author: akrentzel
 meta_title: Amanda Krentzel | That's Life [Science]
 subheadline: Contributor since Fall 2016
-teaser: PhD candidate in Neuroscience and Behavior
+teaser: PhD Candidate in Neuroscience and Behavior
 header:
   image_fullwidth: you-can-delete-me-header.png
 gallery:
