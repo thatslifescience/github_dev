@@ -5,7 +5,7 @@ layout: page
 author: agrade
 meta_title: Aaron Grade | That's Life [Science]
 subheadline: Contributor since Fall 2015
-teaser: PhD student in Organismic and Evolutionary Biology
+teaser: PhD Candidate in Organismic and Evolutionary Biology
 header:
   image_fullwidth: you-can-delete-me-header.png
 gallery:
