@@ -4,18 +4,18 @@ permalink: "/authors/dvahaba/"
 layout: page
 author: dvahaba
 meta_title: Dan Vahaba | That's Life [Science]
-subheadline: Contributor since 2016
-teaser: PhD candidate in Neuroscience & Behavior
+subheadline: Contributor since Fall 2015
+teaser: PhD Candidate in Neuroscience & Behavior
 header:
   image_fullwidth: you-can-delete-me-header.png
 gallery:
-- image_url: gallery-image-dvahaba.jpg
+- image_url: vahaba-01.jpg
   caption: Dan Vahaba
 ---
 
-![Dan Vahaba]({{ site.url }}/images/gallery-image-dvahaba.jpg)
+![Dan Vahaba]({{ site.url }}/thatslifesci/images/vahaba-01.jpg)
 
-[Website](vahaba.weebly.com)
+[Personal Website](vahaba.weebly.com)
 
 Research Area: Vocal communication & learning; auditory processing; songbirds; rapid estrogen signaling in the brain
 
@@ -27,11 +27,14 @@ Research Area: Vocal communication & learning; auditory processing; songbirds; r
 {% assign year = this_year %}
 <h3>{{ year }}</h3>
 {% endunless %}
-<li>
-{% assign content = post.content %}
-<article>
-{% include snippets/post_link.html post=post %}
-</article>
-</li>
+<ul style="list-style-type:disc">
+ <li> 
+ {% assign content = post.content %} 
+ <article>
+ {% include snippets/post_link.html post=post %}
+ </article>
+ </li>
+</ul>
 {% endif %}
 {% endfor %}
+
