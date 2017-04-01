@@ -5,7 +5,7 @@ layout: page
 author: laguirre
 meta_title: Luis Aguirre | That's Life [Science]
 subheadline: Contributor since Fall 2016
-teaser: PhD Student in Organismic & Evolutionary Biology
+teaser: PhD Student in Organismic and Evolutionary Biology
 header:
   image_fullwidth: you-can-delete-me-header.png
 gallery:
