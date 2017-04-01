@@ -15,7 +15,7 @@ gallery:
 
 ![Maggie Bruce]({{ site.url }}/thatslifesci/images/Bruce-01.jpg)
 
-![Email](mailto:mabruce@umass.edu)
+![Email](mabruce@umass.edu)
 
 I am studying visual attention in jumping spiders. I hope to focus on the division of labor between principal and secondary eyes by tracking retinal movements. My research will help reveal the connectivity between the activity of a visual stimulus, eye activity, and neural activity involved with an animal navigating a complex environment.
 
