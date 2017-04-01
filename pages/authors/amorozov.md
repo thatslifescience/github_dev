@@ -15,8 +15,6 @@ gallery:
 
 ![Aleksey Morozov]({{ site.url }}/thatslifesci/images/Morozov-01.jpg)
 
-![Email](mailto:amorozov@umass.edu)
-
 I work as a manager for the Laboratory of Medical Zoology, which provides a service of testing ticks for transmittable pathogens. The data we collect is freely released to towns and departments of health for surveillance purposes. My previous research focus was on the transient, antibiotic tolerant phenotype of bacteria, specifically Pseudomonas aeruginosa. My current interest is emerging pathogens.
 
 I also serve as a Managing Editor for TLS.
