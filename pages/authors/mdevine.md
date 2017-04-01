@@ -4,16 +4,16 @@ permalink: "/authors/mdevine/"
 layout: page
 author: mdevine
 meta_title: Matt Devine | That's Life [Science]
-subheadline: Contributor since 2016
+subheadline: Contributor since Fall 2015
 teaser: M.S. Student in Fish & Wildlife Conservation Biology
 header:
   image_fullwidth: you-can-delete-me-header.png
 gallery:
-- image_url: gallery-image-mdevine.jpg
+- image_url: devine-01.jpg
   caption: Matt Devine
 ---
 
-![Matt Devine]({{ site.url }}/images/gallery-image-mdevine.jpg)
+![Matt Devine]({{ site.url }}/thatslifesci/images/devine-01.jpg)
 
 Research Area: Anadromous fish ecology; sampling methodology
 
@@ -27,11 +27,13 @@ My research focuses on anadromous alewife (Alsosa pseudoharengus) in the freshwa
 {% assign year = this_year %}
 <h3>{{ year }}</h3>
 {% endunless %}
-<li>
-{% assign content = post.content %}
-<article>
-{% include snippets/post_link.html post=post %}
-</article>
-</li>
+<ul style="list-style-type:disc">
+ <li> 
+ {% assign content = post.content %} 
+ <article>
+ {% include snippets/post_link.html post=post %}
+ </article>
+ </li>
+</ul>
 {% endif %}
 {% endfor %}
