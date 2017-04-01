@@ -5,7 +5,7 @@ layout: page
 author: agheredia
 meta_title: Alam Garcia Heredia | That's Life [Science]
 subheadline: Contributor since Fall 2015
-teaser: PhD student in Molecular and Cellular Biology
+teaser: PhD Student in Molecular and Cellular Biology
 header:
   image_fullwidth: you-can-delete-me-header.png
 gallery:
