@@ -15,7 +15,7 @@ gallery:
 
 ![Derrick Alcott]({{ site.url }}/thatslifesci/images/alcott-01-01.jpg)
 
-[Website](https://gpls.cns.umass.edu/oeb/directory/derrick-alcott)
+[Personal Website](https://gpls.cns.umass.edu/oeb/directory/derrick-alcott)
 
 Research Area: Aquatic ecology, anadromous fish migrations
 
