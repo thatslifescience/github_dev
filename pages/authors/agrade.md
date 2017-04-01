@@ -9,13 +9,13 @@ teaser: PhD student in Organismic and Evolutionary Biology
 header:
   image_fullwidth: you-can-delete-me-header.png
 gallery:
-- image_url: gallery-image-agrade.jpg
+- image_url: grade-01-01.jpg
   caption: Aaron Grade
 ---
 
-![Aaron Grade]({{ site.url }}/images/gallery-image-agrade.jpg)
+![Aaron Grade]({{ site.url }}/thatslifesci/images/grade-01-01.jpg)
 
-[Website](http://www.agradeeco.wordpress.com)
+[Personal Website](http://www.agradeeco.wordpress.com)
 
 Research Area: Conservation and wildlife biology, avian ecology, urban ecology, bioacoustics and animal behavior.
 
