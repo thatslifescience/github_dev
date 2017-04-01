@@ -5,7 +5,7 @@ layout: page
 author: cshaughnessy
 meta_title: Ciaran Shaughnessy | That's Life [Science]
 subheadline: Contributor since Fall 2015
-teaser: PhD candidate in Organismic and Evolutionary Biology
+teaser: PhD Candidate in Organismic and Evolutionary Biology
 header:
   image_fullwidth: you-can-delete-me-header.png
 gallery:
