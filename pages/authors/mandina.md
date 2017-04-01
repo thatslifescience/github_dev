@@ -9,11 +9,11 @@ teaser: PhD Student in Neuroscience & Behavior
 header:
   image_fullwidth: you-can-delete-me-header.png
 gallery:
-- image_url: gallery-image-mandina.jpg
+- image_url: Andina-01.jpg
   caption: Matias Andina
 ---
 
-![Matias Andina]({{ site.url }}/images/gallery-image-mandina.jpg)
+![Matias Andina]({{ site.url }}/thatslifesci/images/Andina-01.jpg)
 
 Research Area: Animal Behavior, Molecular and Cellular Neuroscience, Neural Circuits
 
@@ -27,11 +27,13 @@ I'm a PhD student in the Neuroscience and Behavior Program. I aim to understand 
 {% assign year = this_year %}
 <h3>{{ year }}</h3>
 {% endunless %}
-<li>
-{% assign content = post.content %}
-<article>
-{% include snippets/post_link.html post=post %}
-</article>
-</li>
+<ul style="list-style-type:disc">
+ <li> 
+ {% assign content = post.content %} 
+ <article>
+ {% include snippets/post_link.html post=post %}
+ </article>
+ </li>
+</ul>
 {% endif %}
 {% endfor %}
