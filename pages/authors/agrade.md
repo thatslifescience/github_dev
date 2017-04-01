@@ -29,7 +29,7 @@ I am interested in how wildlife interacts with natural ecosystems, urban areas, 
 {% assign year = this_year %}
 <h3>{{ year }}</h3>
 {% endunless %}
-<ul style="list-style-type:none">
+<ul style="list-style-type:disc">
  <li> 
  {% assign content = post.content %} 
  <article>
