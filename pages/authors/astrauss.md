@@ -15,7 +15,7 @@ gallery:
 
 ![Amy V.H. Strauss]({{ site.url }}/thatslifesci/images/strauss-01-01.jpg)
 
-[Website](http://gpls.cns.umass.edu/oeb/directory/amy-strauss)<br>
+[Personal Website](http://gpls.cns.umass.edu/oeb/directory/amy-strauss)<br>
 [Twitter](https://twitter.com/avstrauss)
 
 Research Area: communication behavior, environmental acoustics, and vocal learning in songbirds
