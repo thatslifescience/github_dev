@@ -4,18 +4,18 @@ permalink: "/authors/hbroadley/"
 layout: page
 author: hbroadley
 meta_title: Hannah J. Broadley | That's Life [Science]
-subheadline: Contributor since 2016
-teaser: PhD candidate in Organismic and Evolutionary Biology
+subheadline: Contributor since Fall 2015
+teaser: PhD Candidate in Organismic and Evolutionary Biology
 header:
   image_fullwidth: you-can-delete-me-header.png
 gallery:
-- image_url: gallery-image-hbroadley.jpg
+- image_url: broadley-01-01.jpg
   caption: Hannah J. Broadley
 ---
 
-![Hannah J. Broadley]({{ site.url }}/images/gallery-image-hbroadley.jpg)
+![Hannah J. Broadley]({{ site.url }}/thatslifesci/images/broadley-01-01.jpg)
 
-[Website](https://gpls.cns.umass.edu/oeb/directory/hannah-j.-broadley)
+[Personal Website](https://gpls.cns.umass.edu/oeb/directory/hannah-j.-broadley)
 
 Research Area: invasive insects, population and community ecology
 
@@ -31,11 +31,13 @@ Roles within the blog: Managing Editor, Writer, Peer-editor
 {% assign year = this_year %}
 <h3>{{ year }}</h3>
 {% endunless %}
-<li>
-{% assign content = post.content %}
-<article>
-{% include snippets/post_link.html post=post %}
-</article>
-</li>
+<ul style="list-style-type:disc">
+ <li> 
+ {% assign content = post.content %} 
+ <article>
+ {% include snippets/post_link.html post=post %}
+ </article>
+ </li>
+</ul>
 {% endif %}
 {% endfor %}
