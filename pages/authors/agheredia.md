@@ -9,11 +9,11 @@ teaser: PhD student in Molecular and Cellular Biology
 header:
   image_fullwidth: you-can-delete-me-header.png
 gallery:
-- image_url: gallery-image-agheredia.jpg
+- image_url: garciaheredia-01.jpg
   caption: Alam Garcia Heredia
 ---
 
-![Alam Garcia Heredia]({{ site.url }}/images/gallery-image-agheredia.jpg)
+![Alam Garcia Heredia]({{ site.url }}/thatslifesci/images/garciaheredia-01.jpg)
 
 [Website](http://www.microbiosymas.com/alam.html)
 
