@@ -4,16 +4,16 @@ permalink: "/authors/gchaput/"
 layout: page
 author: gchaput
 meta_title: Gina Chaput | That's Life [Science]
-subheadline: Contributor since 2016
-teaser: PhD student in Department of Microbiology
+subheadline: Contributor since Fall 2015
+teaser: PhD Candidate in Microbiology
 header:
   image_fullwidth: you-can-delete-me-header.png
 gallery:
-- image_url: gallery-image-gchaput.jpg
+- image_url: chaput-01.jpg
   caption: Gina Chaput
 ---
 
-![Gine Chaput]({{ site.url }}/images/gallery-image-gchaput.jpg)
+![Gina Chaput]({{ site.url }}/thatslifesci/images/chaput-01.jpg)
 
 [Twitter](https://twitter.com/g_chaput13)
 
@@ -29,11 +29,13 @@ If you want to talk about how awesome microbes are or how to bring awareness to 
 {% assign year = this_year %}
 <h3>{{ year }}</h3>
 {% endunless %}
-<li>
-{% assign content = post.content %}
-<article>
-{% include snippets/post_link.html post=post %}
-</article>
-</li>
+<ul style="list-style-type:disc">
+ <li> 
+ {% assign content = post.content %} 
+ <article>
+ {% include snippets/post_link.html post=post %}
+ </article>
+ </li>
+</ul>
 {% endif %}
 {% endfor %}
