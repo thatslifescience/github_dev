@@ -4,7 +4,7 @@ permalink: "/authors/dalcott/"
 layout: page
 author: dalcott
 meta_title: Derrick Alcott | That's Life [Science]
-subheadline: Contributor since 2016
+subheadline: Contributor since Fall 2015
 teaser: PhD Candidate in Organismic and Evolutionary Biology
 header:
   image_fullwidth: you-can-delete-me-header.png
