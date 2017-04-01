@@ -4,18 +4,18 @@ permalink: "/authors/lgriffin/"
 layout: page
 author: lgriffin
 meta_title: Lucas Griffin | That's Life [Science]
-subheadline: Contributor since 2016
-teaser: PhD student in Intercampus Marine Science Graduate Program
+subheadline: Contributor since Fall 2015
+teaser: PhD Candidate in Intercampus Marine Science Graduate Program
 header:
   image_fullwidth: you-can-delete-me-header.png
 gallery:
-- image_url: gallery-image-lgriffin.jpg
+- image_url: griffin-01-01.jpg
   caption: Lucas Griffin
 ---
 
-![Lucas Griffin]({{ site.url }}/images/gallery-image-lgriffin.jpg)
+![Lucas Griffin]({{ site.url }}/thatslifesci/images/griffin-01-01.jpg)
 
-[Website](https://lucas-griffin.squarespace.com)
+[Personal Website](https://lucas-griffin.squarespace.com)
 
 Research Area: Spatial and behavioral ecology
 
@@ -31,11 +31,13 @@ My dissertation focuses on the behavioral and spatial ecology of green sea turtl
 {% assign year = this_year %}
 <h3>{{ year }}</h3>
 {% endunless %}
-<li>
-{% assign content = post.content %}
-<article>
-{% include snippets/post_link.html post=post %}
-</article>
-</li>
+<ul style="list-style-type:disc">
+ <li> 
+ {% assign content = post.content %} 
+ <article>
+ {% include snippets/post_link.html post=post %}
+ </article>
+ </li>
+</ul>
 {% endif %}
 {% endfor %}
