@@ -13,12 +13,11 @@ gallery:
   caption: Elsa Cousins
 ---
 
-![Emily S. Melzer]({{ site.url }}/thatslifesci/images/cousins-01.jpg)
+![Elsa Cousins]({{ site.url }}/thatslifesci/images/cousins-01.jpg)
 
-Research Area: Host-microbe interaction
+Research Area: Pollination ecology, multi-trophic interactions.
 
-I am interested in host-microbe interaction, in the form of human and animal pathogenesis as well as normal flora in the human body and roles microbes play in our diet. I would love to apply microbiological discoveries to improve the lives of humans and animals alike. In my spare time I also have fun with microbiology in the kitchen - I get microbes to make sourdough and vegan yogurt and cheese!
-I am also TLS treasurer.
+I am interested in invasive plant biology, particularly how plant chemistry impacts novel landscapes, from soil biota to butterflies. I am currently a PhD student in the Stinson lab at UMass Amherst and I work at the Rocky Mountain Biological Laboratory during my summer field season to study invasive mustard plants in subalpine meadows. I am interested in how genetics and environment interact to determine plant fitness and invasion success.
 
 {% assign index = true %}
 {% for post in site.posts %}
