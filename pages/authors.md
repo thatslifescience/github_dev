@@ -55,11 +55,6 @@ header:
         </div>
         
         <div class="medium-3 columns">
-        <img src="{{ site.urlimg }}coomey-01.jpg" alt="Joshua H. Coomey">
-        <p><a href = "{{ site.url }}/authors/jcoomey"><b>Joshua H. Coomey</b></a></p>
-        </div>
-        
-        <div class="medium-3 columns">
         <img src="{{ site.urlimg }}cousins-01.jpg" alt="Elsa Cousins">
         <p><a href = "{{ site.url }}/authors/ecousins"><b>Elsa Cousins</b></a></p>
         </div>
@@ -78,7 +73,12 @@ header:
         <img src="{{ site.urlimg }}fusco-01.jpg" alt="Emily Fusco">
         <p><a href = "{{ site.url }}/authors/efusco"><b>Emily Fusco</b></a></p>
         </div>
-         
+
+        <div class="medium-3 columns">
+        <img src="{{ site.urlimg }}galindo" alt="Luisa Galindo">
+        <p><a href = "{{ site.url }}/authors/lgalindo"><b>Luisa Galindo</b></a></p>
+        </div>
+        
         <div class="medium-3 columns">
         <img src="{{ site.urlimg }}garciaheredia-01.jpg" alt="Alam Garcia Heredia">
         <p><a href = "{{ site.url }}/authors/agheredia"><b>Alam Garcia Heredia</b></a></p>
@@ -87,6 +87,11 @@ header:
         <div class="medium-3 columns">
         <img src="{{ site.urlimg }}grade-01-01.jpg" alt="Aaron Grade">
         <p><a href = "{{ site.url }}/authors/agrade"><b>Aaron Grade</b></a></p>
+        </div>
+        
+        <div class="medium-3 columns">
+        <img src="{{ site.urlimg }}griffin-01-01.jpg" alt="Lucas Griffin">
+        <p><a href = "{{ site.url }}/authors/lgriffin"><b>Lucas Griffin</b></a></p>
         </div>
         
         <div class="medium-3 columns">
@@ -160,16 +165,16 @@ header:
 
 <div class="row t30">
 <center><h3>Past Contributors</h3></center><br>
+
+        <div class="medium-3 columns">
+        <img src="{{ site.urlimg }}coomey-01.jpg" alt="Joshua H. Coomey">
+        <p><a href = "{{ site.url }}/authors/jcoomey"><b>Joshua H. Coomey</b></a></p>
+        </div>
         
         <div class="medium-3 columns">
         <img src="{{ site.urlimg }}devine-01.jpg" alt="Matt Devine">
         <p><a href = "{{ site.url }}/authors/mdevine"><b>Matt Devine</b></a></p>
         </div>        
-        
-        <div class="medium-3 columns">
-        <img src="{{ site.urlimg }}griffin-01-01.jpg" alt="Lucas Griffin">
-        <p><a href = "{{ site.url }}/authors/lgriffin"><b>Lucas Griffin</b></a></p>
-        </div>
         
         <div class="medium-3 columns">
         <img src="{{ site.urlimg }}ha-01.jpg" alt="Stephanie A. Ha">
