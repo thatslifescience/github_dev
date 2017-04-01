@@ -9,11 +9,11 @@ teaser: PhD Student in Organismic & Evolutionary Biology
 header:
   image_fullwidth: you-can-delete-me-header.png
 gallery:
-- image_url: gallery-image-mbruce.jpg
+- image_url: Bruce-01.jpg
   caption: Maggie Bruce
 ---
 
-![Maggie Bruce]({{ site.url }}/images/gallery-image-mbruce.jpg)
+![Maggie Bruce]({{ site.url }}/thatslifesci/images/Bruce-01.jpg)
 
 ![Email](mailto:mabruce@umass.edu)
 
@@ -27,11 +27,13 @@ I am studying visual attention in jumping spiders. I hope to focus on the divisi
 {% assign year = this_year %}
 <h3>{{ year }}</h3>
 {% endunless %}
-<li>
-{% assign content = post.content %}
-<article>
-{% include snippets/post_link.html post=post %}
-</article>
-</li>
+<ul style="list-style-type:disc">
+ <li> 
+ {% assign content = post.content %} 
+ <article>
+ {% include snippets/post_link.html post=post %}
+ </article>
+ </li>
+</ul>
 {% endif %}
 {% endfor %}
