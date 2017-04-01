@@ -9,11 +9,11 @@ teaser: Laboratory of Medical Zoology Manager
 header:
   image_fullwidth: you-can-delete-me-header.png
 gallery:
-- image_url: gallery-image-amorozov.jpg
+- image_url: Morozov-01.jpg
   caption: Aleksey Morozov
 ---
 
-![Aleksey Morozov]({{ site.url }}/images/gallery-image-amorozov.jpg)
+![Aleksey Morozov]({{ site.url }}/thatslifesci/images/Morozov-01.jpg)
 
 ![Email](mailto:amorozov@umass.edu)
 
@@ -29,11 +29,13 @@ I also serve as a Managing Editor for TLS.
 {% assign year = this_year %}
 <h3>{{ year }}</h3>
 {% endunless %}
-<li>
-{% assign content = post.content %}
-<article>
-{% include snippets/post_link.html post=post %}
-</article>
-</li>
+<ul style="list-style-type:disc">
+ <li> 
+ {% assign content = post.content %} 
+ <article>
+ {% include snippets/post_link.html post=post %}
+ </article>
+ </li>
+</ul>
 {% endif %}
 {% endfor %}
