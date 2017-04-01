@@ -4,16 +4,16 @@ permalink: "/authors/efusco/"
 layout: page
 author: efusco
 meta_title: Emily Fusco | That's Life [Science]
-subheadline: Contributor since 2016
-teaser: PhD candidate in Organismic and Evolutionary Biology
+subheadline: Contributor since Fall 2015
+teaser: PhD Candidate in Organismic and Evolutionary Biology
 header:
   image_fullwidth: you-can-delete-me-header.png
 gallery:
-- image_url: gallery-image-efusco.jpg
+- image_url: fusco-01.jpg
   caption: Emily Fusco
 ---
 
-![Emily Fusco]({{ site.url }}/images/gallery-image-efusco.jpg)
+![Emily Fusco]({{ site.url }}/thatslifesci/images/fusco-01.jpg)
 
 [Twitter](https://www.twitter.com/EmilyJFusco)
 
@@ -31,11 +31,13 @@ I am excited to participate as a contributing author so that I can write about t
 {% assign year = this_year %}
 <h3>{{ year }}</h3>
 {% endunless %}
-<li>
-{% assign content = post.content %}
-<article>
-{% include snippets/post_link.html post=post %}
-</article>
-</li>
+<ul style="list-style-type:disc">
+ <li> 
+ {% assign content = post.content %} 
+ <article>
+ {% include snippets/post_link.html post=post %}
+ </article>
+ </li>
+</ul>
 {% endif %}
 {% endfor %}
