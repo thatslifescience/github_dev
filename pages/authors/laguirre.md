@@ -9,17 +9,18 @@ teaser: PhD Student in Organismic & Evolutionary Biology
 header:
   image_fullwidth: you-can-delete-me-header.png
 gallery:
-- image_url: gallery-image-laguirre.jpg
+- image_url: Aguirre-01.jpg
   caption: Luis Aguirre
 ---
 
-![Luis Aguirre]({{ site.url }}/images/gallery-image-laguirre.jpg)
+![Luis Aguirre]({{ site.url }}/thatslifesci/images/Aguirre-01.jpg)
 
 Research Area: Pollination ecology, multi-trophic interactions.
 
 I am currently a PhD student in the Adler lab at UMass Amherst. I am interested in how plants interact simultaneously with mutualists and antagonists. I study how plant damage affects nectar chemistry and how changes in nectar chemistry modify how pollinators and plants interact. When plants are damaged by herbivores toxic chemicals in nectar often increase. One of the most intriguing possible effects of this is that pollinators that carry parasites will use such chemicals to self-medicate. Additionally, I want to investigate how nectar chemistry variations affect the structure of pollination networks. 
 
-Lastly, I am a writer and managing editor for That’s Life Science Blog.
+Lastly, I am a writer and managing editor for That’s Life [Science] Blog.
+
 
 {% assign index = true %}
 {% for post in site.posts %}
@@ -29,11 +30,13 @@ Lastly, I am a writer and managing editor for That’s Life Science Blog.
 {% assign year = this_year %}
 <h3>{{ year }}</h3>
 {% endunless %}
-<li>
-{% assign content = post.content %}
-<article>
-{% include snippets/post_link.html post=post %}
-</article>
-</li>
+<ul style="list-style-type:disc">
+ <li> 
+ {% assign content = post.content %} 
+ <article>
+ {% include snippets/post_link.html post=post %}
+ </article>
+ </li>
+</ul>
 {% endif %}
 {% endfor %}
