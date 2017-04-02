@@ -20,27 +20,15 @@ subheadline: “How to never use the wrong terminology again!”
 source-id: 1aZXL_pJKAdReiP1clLCPFHHvlF32MtQ4eQmceltPzv8
 published: true
 ---
-**Title:** Should I say sex or gender? Pt. 1
-
-**Subtitle:** How to never use the wrong terminology again!
-
-**Author:** Amanda A. Krentzel
-
-**Category:** How It Works
-
-**Key words:** Human, Brain, Culture, Hormones
-
-**Teaser:** Some people use 'sex' and ‘gender’ interchangeably, but here are the reasons why there’s is a big difference between these terms. 
-
-**Featured Photo:** Featured Image = Fig.  3
 
 If you've ever engaged in conversation about differences between females and males, you may have used "gender" or “sex” and not been sure which word to use. Do you say “sex” and risk offending people who think you mean intercourse? Is “gender” more polite? What is most correct?
 
 Well, studying how males and females develop, specifically their brains, is my specialty, and I'm here to break down all the nuances in terminology. Believe it or not, many people misunderstand this terminology, including scientists! 
 
-![image alt text]({{ site.url }}/public/OXRgRmEi8qjNPLcR6uiojA_img_0.png)
 
-*Figure 1.* Sometimes scientists also use sex and gender interchangeably in a way that's incorrect, and others work to clarify this misunderstanding. Source: [Veenemalab](https://twitter.com/veenemalab) 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/33406522320/in/dateposted-friend/" title="AKrentzel_Fig1"><img src="https://c1.staticflickr.com/4/3934/33406522320_643cb91290_b.jpg" width="878" height="595" alt="AKrentzel_Fig1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+**Figure 1.** Sometimes scientists also use sex and gender interchangeably in a way that's incorrect, and others work to clarify this misunderstanding. Source: [Veenemalab](https://twitter.com/veenemalab) 
 
 The real truth behind the difference between "sex" and “gender” is that we don't really know where sex ends and gender begins. It can be difficult to disentangle how culture and biological differences are shaping the body. However, the meaning behind these words are distinct and it’s important to use them correctly when you intend to mean one and not the other.   
 
@@ -72,3 +60,6 @@ In part 2, I will describe how sex can be just as nuanced as gender, and introdu
 
 [2] B. Auyeung, S. Baron-Cohen, E. Ashwin, R. Knickmeyer, K. Taylor, G. Hackett, M. Hines. "Fetal Testosterone Predicts Sexually Differentiated Childhood Behavior in Girls and in Boys." Psychological Science 20; 2 (2009): 144-148. 
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Our Ecosystems" %}
