@@ -34,7 +34,7 @@ The real truth behind the difference between "sex" and “gender” is that we d
 
 Sex is a term we use to refer to biological characteristics that make up males and females. There are many ways in which organisms are 'sexed'. We usually identify sex by secondary sexual characteristics that appear after puberty, such as beautiful plumage on male birds or a lion’s mane. We also can distinguish between sexes by determining what reproductive organs an organism has (vagina and ovaries for females, and penis and testes for males) or the kinds of chromosomes they have (in general XX for female mammals, XY for male mammals). Biological sex differences exist in all organs of the body, ranging from skin, fat, bone structures, liver, heart, muscles, immune system, and yes, even the brain. 
 
-<div style="text-align:center"><img src ="https://pixabay.com/en/lions-animal-male-female-lions-175934/"/></div>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/33661714231/in/dateposted-friend/" title="20170403_AKrentzel_Fig2"><img src="https://c1.staticflickr.com/3/2819/33661714231_fe8515de88_b.jpg" width="1024" height="768" alt="20170403_AKrentzel_Fig2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 **Figure 2** Manes on male lions are an example of secondary sex characteristics that develop after puberty. These characteristics are usually driven by hormones that are released as animals become reproductively mature. Source: [Pixabay](https://pixabay.com/en/lions-animal-male-female-lions-175934/) 
 
@@ -44,7 +44,7 @@ The term "gender" as we use it today originated from the social sciences. It ref
 
 Just because someone may have physical traits of one sex doesn't mean that they identify with a gender we typically associate with that sex. Transgender and nonbinary persons are great examples in which gender identity and expression is not constrained to a particular sex. Many transgender people identify with a single gender and change their body’s sexual characteristics in order to reflect their gender identity and feel more comfortable in one’s body (though this doesn’t have to be the case). 
 
-<div style="text-align:center"><img src ="[https://pixabay.com/en/](https://pixabay.com/en/women-men-people-human-gender-149577/)[women-men-people-human-gender-149577](https://pixabay.com/en/women-men-people-human-gender-149577/)[/](https://pixabay.com/en/women-men-people-human-gender-149577/)"/></div>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/33634884282/in/dateposted-friend/" title="20170402_AKrentzel_thumb"><img src="https://c1.staticflickr.com/3/2814/33634884282_9cf39b872a_b.jpg" width="1024" height="512" alt="20170402_AKrentzel_thumb"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 **Figure 3** As a society we have expectations about how someone's gender relates to their sex. There is a wide diversity of this relationship. Source: Pixabay
 
