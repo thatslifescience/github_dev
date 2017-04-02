@@ -16,7 +16,6 @@ header:
 image:
  thumb: 20170402_AKrentzel_thumb.png
 teaser: “Some people use ‘sex’ and ‘gender’ interchangeably, but here are the reasons why there’s is a big difference between these terms.”
-subheadline: “How to never use the wrong terminology again!”
 source-id: 1aZXL_pJKAdReiP1clLCPFHHvlF32MtQ4eQmceltPzv8
 published: true
 ---
@@ -36,7 +35,7 @@ Sex is a term we use to refer to biological characteristics that make up males a
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/33661714231/in/dateposted-friend/" title="20170403_AKrentzel_Fig2"><img src="https://c1.staticflickr.com/3/2819/33661714231_fe8515de88_b.jpg" width="1024" height="768" alt="20170403_AKrentzel_Fig2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-**Figure 2** Manes on male lions are an example of secondary sex characteristics that develop after puberty. These characteristics are usually driven by hormones that are released as animals become reproductively mature. Source: [Pixabay](https://pixabay.com/en/lions-animal-male-female-lions-175934/) 
+**Figure 2** Manes on male lions are an example of secondary sex characteristics that develop after puberty. These characteristics are usually driven by hormones that are released as animals become reproductively mature.
 
 Alright, so that gets sex out of the way. What about "gender"? Gender might seem more nuanced at first, but I'm going to argue to you that in many ways both what makes up sex and what makes up gender can be just as complicated. 
 
@@ -46,7 +45,7 @@ Just because someone may have physical traits of one sex doesn't mean that they 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/33634884282/in/dateposted-friend/" title="20170402_AKrentzel_thumb"><img src="https://c1.staticflickr.com/3/2814/33634884282_9cf39b872a_b.jpg" width="1024" height="512" alt="20170402_AKrentzel_thumb"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-**Figure 3** As a society we have expectations about how someone's gender relates to their sex. There is a wide diversity of this relationship. Source: Pixabay
+**Figure 3** As a society we have expectations about how someone's gender relates to their sex. There is a wide diversity of this relationship.
 
 Using the distinctions between "sex" and “gender” is helpful for how we study behaviors. One example is play behavior in adolescence. There are gendered aspects of play such as what colors are marketed to boys and girls and who boys and girls are encouraged to play with. There are also parts of play – known as rough-and-tumble play – which are sexually dimorphic in many species of animals where males mostly engage in this behavior more than females [1]. Check out [this video clip](https://youtu.be/DhTi9zvGYp8) to see examples of rough and tumble play behavior across mammals.  For humans however, what are driving play behavior differences in adolescence? Is it early brain development that was influenced by hormones [2]? Or are there cultural expectations on girls and boys that determines how and how often they play? Whether it's your hormones, changes in your gene expression, or how life experiences are changing your brain, your biology can greatly be impacted by cultural differences placed on the genders. And the divide between sex and gender starts to become blurry. 
 
