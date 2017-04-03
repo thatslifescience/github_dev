@@ -2,7 +2,7 @@
 title: Should I say sex or gender? Pt. 1
 
 layout: page
-author: AKrentzel
+author: akrentzel
 permalink: /2017-04-03-Should-I-use-sex-or-gender-pt-1-AKrentzel/
 tags:
 - hormones
@@ -10,7 +10,7 @@ tags:
 - brain
 - culture
 categories:
- How It Works
+- How It Works
 header:
  image_fullwidth: howitworks-header.jpg
 image:
