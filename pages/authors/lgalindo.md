@@ -9,11 +9,11 @@ teaser: PhD Candidate in Environmental Conservation
 header:
   image_fullwidth: you-can-delete-me-header.png
 gallery:
-- image_url: 
+- image_url: galindo-01.jpg
   caption: Luisa Galindo
 ---
 
-![Luisa Galindo]({{ site.url }}/thatslifesci/images/)
+![Luisa Galindo]({{ site.url }}/thatslifesci/images/galindo-01.jpg)
 
 Research Area: Social-ecological systems in watersheds
 
