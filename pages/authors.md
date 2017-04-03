@@ -75,7 +75,7 @@ header:
         </div>
 
         <div class="medium-3 columns">
-        <img src="{{ site.urlimg }}galindo" alt="Luisa Galindo">
+        <img src="{{ site.urlimg }}galindo-01.jpg" alt="Luisa Galindo">
         <p><a href = "{{ site.url }}/authors/lgalindo"><b>Luisa Galindo</b></a></p>
         </div>
         
