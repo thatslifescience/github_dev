@@ -48,7 +48,7 @@ The brain is the source of our thoughts and feelings, and we know through a long
 
 So while sex and gender are two distinct things, the variability by which these exist and how they inform each other is vast and constantly changing our understanding.  
 
-**References **
+**References**
 
 1) Buston, Peter M. "Territory inheritance in the clown anemonefish." Proc R Soc B (2004): S252-254.
 
