@@ -18,18 +18,6 @@ teaser: Sex is often presented as a dichotomy as either being male or female, bu
 source-id: 1j06oucAR0JgATgD_rvVZ62vHfB-biAwlT6NdzxOtioc
 published: true
 ---
-**Title:** Should I say sex or gender? Pt. 2
-
-**Author:** Amanda A. Krentzel
-
-**Category:** How It Works
-
-**Key words:** Human, Brain, Culture, Hormones
-
-**Teaser:** Sex is often presented as a dichotomy as either being male or female, but there is beautiful diversity in how sex presents itself across the animal kingdom.
-
-**Featured Photo:** Featured Image = Fig.  3
-
 In [part 1](http://thatslifesci.com.s3-website-us-east-1.amazonaws.com/2017-04-03-Should-I-use-sex-or-gender-pt-1-AKrentzel/), I broke down the difference between sex and gender and how these terms should be used. I also introduced how gender is nuanced, and that gender expression exists on a spectrum. Although sex seems like it is a dichotomy of an organism being exclusively male or exclusively female, there is a lot of diversity not only in the way different species exhibit sex, but also how sex is diverse within individuals. 
 
 As I discussed in the previous post, sex consists of many biological characteristics. Sex can be defined as sex chromosomes, reproductive organs, hormone levels, and presentation of secondary sex characteristics like breasts or beards. 
@@ -68,5 +56,7 @@ So while sex and gender are two distinct things, the variability by which these 
 
 3) McCarthy, MM, AP Arnold. "Reframing sexual differentiation in the brain." Nature Neuroscience (2011) Vol 14 Number 6: 677-683. 
 
-## More From Thats Life [Science]{: .t60 }{% include list-posts offset="1" entries='5' category="How It Works" %}
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="How It Works" %}
 
