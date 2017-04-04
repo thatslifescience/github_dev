@@ -32,7 +32,7 @@ There are also conditions in humans that lead to ambiguous sex development. One 
 
 But not all diversity in sex consist of rare genetic mutations. Some animals have evolved interesting sex characteristics.
 
-<div style="text-align:center"><img src ="[https://upload.wikimedia.org/wikipedia/commons/6/6d/A._ocellaris_y_C._jardinei.jpg](https://upload.wikimedia.org/wikipedia/commons/6/6d/A._ocellaris_y_C._jardinei.jpg%22/)"/></div>
+<div style="text-align:center"><img src ="https://upload.wikimedia.org/wikipedia/commons/6/6d/A._ocellaris_y_C._jardinei.jpg"/></div>
 
 **Figure 2** Clownfish defend territories around sea anemones. Only one dominant male and female can exist to mate, and the other fish will suppress their sexual development. By [Josuevg](https://upload.wikimedia.org/wikipedia/commons/6/6d/A._ocellaris_y_C._jardinei.jpg) via Wikimedia Commons
 
