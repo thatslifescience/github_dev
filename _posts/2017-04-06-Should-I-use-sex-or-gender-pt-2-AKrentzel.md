@@ -11,9 +11,9 @@ tags:
 categories:
  - How It Works
 header:
- image_fullwidth:howitworks-header.jpg
+ image_fullwidth: howitworks-header.jpg
 image:
- thumb: 20170406_AKrentzel_thumb.TIF
+ thumb: 20170406_AKrentzel_thumb.jpg
 teaser: Sex is often presented as a dichotomy as either being male or female, but there is beautiful diversity in how sex presents itself across the animal kingdom.
 source-id: 1j06oucAR0JgATgD_rvVZ62vHfB-biAwlT6NdzxOtioc
 published: true
