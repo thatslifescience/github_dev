@@ -65,6 +65,11 @@ header:
         </div>
         
         <div class="medium-3 columns">
+        <img src="{{ site.urlimg }}drake-01.jpg" alt="Joseph Drake">
+        <p><a href = "{{ site.url }}/authors/jdrake"><b>Joseph Drake</b></a></p>
+        </div>
+        
+        <div class="medium-3 columns">
         <img src="{{ site.urlimg }}falconi_lopez-01.jpg" alt="Nereyda Falconi">
         <p><a href = "{{ site.url }}/authors/nfalconi"><b>Nereyda Falconi</b></a></p>
         </div>
