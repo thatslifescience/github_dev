@@ -15,7 +15,7 @@ gallery:
 
 ![Joseph Drake]({{ site.url }}/thatslifesci/images/drake-01.jpg)
 
-[Personal Website](https://secretlifeofafieldbiologist.wordpress.com/)
+[Personal Website](https://secretlifeofafieldbiologist.wordpress.com/)<br>
 [Twitter](www.twitter.com/VAN_DLL)
 
 Research Area: I am currently trying to understand how dispersal influences connectivity and overcomes fragmentation for Water Voles in the Assynt Scotland.
