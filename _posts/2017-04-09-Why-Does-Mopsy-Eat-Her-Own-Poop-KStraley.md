@@ -20,24 +20,6 @@ subheadline: Double Digestion in Rabbits
 source-id: 1ICfvP_z6RmWMH8Y3yUjIlq_0ZpneqxiyJE_T0aqPvBw
 published: true
 ---
-**Title: Why Does Mopsy Eat Her Own Poop?**
-
-**Sub-headline: Double Digestion in Rabbits**
-
-Author: Kit Straley
-
- 
-
-Category: How It Works
-
-Keywords: Mammals, Anatomy, Behavior, Digestion, Poop
-
-Social Media Teaser: Have you ever seen a rabbit eat its own poop? It's not uncommon, in fact it’s necessary to live!
-
-Featured Photos: Thumbnail = Figure 1, Featured Image = Figure 2
-
- 
-
 It's springtime, and that means the emergence of spring animals from their winter burrows. As the plants come back to life, so does the activity of animals that eat them (also known as herbivores).
 
  
@@ -84,25 +66,18 @@ Why such different digestive tracts? During digestion foods are broken down into
 
 Herbivores have longer intestines because the breakdown of plant foods is more difficult due to plant fiber. The longer the intestines, the longer the time for food to be digested and the more space for food molecules to get absorbed. Many herbivorous animals have beneficial bacteria in their guts that help break down the tough plant fiber. In rabbits and other herbivores, those bacteria are located in the large intestine and cecum [1].
 
- 
-
 This presents an anatomical conundrum. If most of the absorption occurs in the small intestine, but it comes before the beneficial bacteria in the cecum and large intestine, doesn't that mean things are out of order? All of the new food molecules that the bacteria help produce are late in the game, and leave the body in the form of feces.
 
 <div style="text-align:center"><img src ="http://www.therabbithouse.com/diet/images/rabbit_digestion.png"/></div>
 
 **Fig. 4** A lovely diagram of the digestive process in rabbits, showing the production of hard pellets and nutritious cecotrope feces. Diagram by Tamsin Stone at[ http://www.therabbithouse.com/diet/rabbit-digestive-system.asp](http://www.therabbithouse.com/diet/rabbit-digestive-system.asp).
 
- 
-
 In rabbits and other herbivores with enlarged cecums, the cecum serves as a special storage and digestion center. It's necessary to get all of the nutrition that they can out of their plant-only diet. If only it came earlier in the digestion process! Since it doesn’t, the best solution for Mopsy to get her full nutrition is to eat some of her food twice. This behavior of eating poop is so important, it has its own vocabulary word: coprophagy [1]. Keep up the coprophagy, Mopsy!
-
- 
 
 References:
 
- 
-
 [1] Campbell, N.A. and J.B. Reece. 2008. *Biology*, eighth edition. Animal Nutrition. Pearson Benjamin Cummings, San Francisco.
 
- 
-
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries="5" category="How It Works" %}
