@@ -26,7 +26,7 @@ Every time we buy flowers that have been shipped from other countries we are act
 
 Through the trade of food and other goods the international market is creating artificial paths of water flow. These are driving forces that reshape the natural water cycle. During the last three decades two concepts have been amply used to explain this phenomenon. Water footprint is the first of them and it refers to the total amount of water used to produce an asset. Figure 1 shows the water footprint of different products. 
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/33938641265/in/dateposted-friend/" title="2017-04-13_LGalindo_fig1"><img src="https://c1.staticflickr.com/3/2831/33938641265_d50b804cca.jpg" width="500" height="313" alt="2017-04-13_LGalindo_fig1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/33938641265/in/dateposted-friend/" title="2017-04-13_LGalindo_fig1"><img src="https://c1.staticflickr.com/3/2831/33938641265_2df859d1bc_o.jpg" width="1440" height="900" alt="2017-04-13_LGalindo_fig1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 **Fig. 1** Water footprint of different commodities obtained through an [online calculator](http://waterfootprint.org/en/resources/interactive-tools/personal-water-footprint-calculator/). Notice all the water you could save by drinking just water in your meals; even beer consumes less water than wine.
 
@@ -34,7 +34,7 @@ Three types of water are considered when assessing a water footprint: there is b
 
 For example, in United States, the water footprint for beef has been estimated to be between 842 and 1,213 gallons per 0.5lb, depending on the farming system (grazing, mixed, or industrialized) [1]. Roughly 91% comes from green water attributable to the grain cultivated and delivered to feed the cows, 3.7% is blue water from water consumption of the cattle, and 5.3% from leaching and runoff of nitrogen-fertilizers.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/33095349524/in/dateposted-friend/" title="2017-04-13_LGalindo_fig2"><img src="https://c1.staticflickr.com/3/2880/33095349524_3f1853bc8c.jpg" width="500" height="375" alt="2017-04-13_LGalindo_fig2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/33095349524/in/dateposted-friend/" title="2017-04-13_LGalindo_fig2"><img src="https://c1.staticflickr.com/3/2880/33095349524_4bbebd3de8_o.jpg" width="940" height="360" alt="2017-04-13_LGalindo_fig2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 **Fig. 2** Proportion of the three types of water used for each commodity. Values from the [water footprint interactive tool](http://waterfootprint.org/en/resources/interactive-tools/personal-water-footprint-calculator/). 
 
@@ -42,7 +42,7 @@ The second concept used to explain international market influence on water cycle
 
 Notice that nation A is saving water when importing grapes, which account for the main portion of water footprint. On the other hand nation C is losing water when exporting grapes; however if nation C has abundant water resources and nation A suffers water stress the trade between these two nations is considered to be positive and then nation A will be saving water.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/33125837563/in/dateposted-friend/" title="2017-04-13_LGalindo_fig3"><img src="https://c1.staticflickr.com/3/2950/33125837563_0382edeedf.jpg" width="500" height="375" alt="2017-04-13_LGalindo_fig3"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/33125837563/in/dateposted-friend/" title="2017-04-13_LGalindo_fig3"><img src="https://c1.staticflickr.com/3/2950/33125837563_1b670e642a_o.jpg" width="960" height="720" alt="2017-04-13_LGalindo_fig3"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 **Fig. 3** Trade flow that saves water to nation A. Export of agricultural products between nations comprise the biggest global water savings [2]. Image modified from: [Water Footprint Network](http://waterfootprint.org/en/water-footprint/national-water-footprint/).
 
@@ -50,13 +50,13 @@ Virtual water allows accounting for the water balance between the places that ex
 
 California is one of the driest regions of the United States. Its average annual precipitation is 18.51in; this is very low when compared to the country average of 40.78in. Yet California's freshwater withdrawals (34.9E6 acre-feet per year) account for 11% of the national values. These withdrawals are mainly used for irrigating crops and producing food products that will be consumed outside of the state. Whereas California’s green water is very low, blue water usage is very high, causing stress on aquatic and terrestrial ecosystems that threatens their ecological health. An example of the opposite situation is found in Mexico which is a country that through yearly agricultural imports saves 17.5E6 acre-feet of blue water per year [2].
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/33095349374/in/dateposted-friend/" title="2017-04-13_LGalindo_fig4"><img src="https://c1.staticflickr.com/3/2936/33095349374_c7e14b6226.jpg" width="500" height="375" alt="2017-04-13_LGalindo_fig4"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/33095349374/in/dateposted-friend/" title="2017-04-13_LGalindo_fig4"><img src="https://c1.staticflickr.com/3/2936/33095349374_5949fcf2da_o.jpg" width="664" height="472" alt="2017-04-13_LGalindo_fig4"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 **Fig.4.** Changing our consumption habits is the first step towards the conservation of freshwater ecosystems. 
 
 Virtual water and water footprint can be used as an indicator for efficient water management and is currently used in cities such as Philadelphia through the [green city initiative](http://pecpa.org/program/green-infrastructure-green-cityclean-waters-program/). The Colorado Water Institute has been working on these concepts for the protection of the Colorado River [3]. 
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/33125837283/in/dateposted-friend/" title="2017-04-13_LGalindo_fig5"><img src="https://c1.staticflickr.com/4/3727/33125837283_af51ec0f22.jpg" width="500" height="375" alt="2017-04-13_LGalindo_fig5"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/33125837283/in/dateposted-friend/" title="2017-04-13_LGalindo_fig5"><img src="https://c1.staticflickr.com/4/3727/33125837283_6b2988064b_o.jpg" width="720" height="256" alt="2017-04-13_LGalindo_fig5"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 **Fig. 5** Facts like these are used by the Colorado Water Institute to educate the general public in adopting better consumption practices. Image modified from [Christian Guthler design](https://www.flickr.com/photos/wheatfields/7371706174/in/photolist-cepVqj-ihsYAC-znb1B4) flickr.
 
