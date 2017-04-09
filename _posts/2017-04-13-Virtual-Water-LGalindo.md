@@ -3,10 +3,6 @@ title: Water balance in a man-made world
 layout: page
 author: LGalindo
 permalink: /2017-04-13-Virtual-Water-LGalindo/
-title: Why Does Mopsy Eat Her Own Poop?
-layout: page
-author: kstraley
-permalink: /2017-04-09-Why-Does-Mopsy-Eat-Her-Own-Poop-KStraley/
 tags:
 - water
 - agriculture
@@ -24,20 +20,6 @@ subheadline: Saving water is no longer a matter of how short our showers are
 source-id: 1UrdQVXaAR1b2q_daUS3TFByLratb6BlGRczrXLcDbjk
 published: true
 ---
-**Title: **Water balance in a man-made world
-
-**Sub-headline:** Saving water is no longer a matter of how short our showers are
-
-**Author(s):** Luisa Galindo
-
-**Category:** How It Works	
-
-**Keywords:** water, agriculture, virtual water, water footprint, human
-
-**Teaser:** During the Anthropocene, conserving environmental flows for strategic ecosystems is not just about biophysical dynamics; water trade is becoming an undeniable influence
-
-**Featured Photo(s):  **Thumbnail = Figure 4
-
 Life on earth is tightly linked to the availability of water and its uneven distribution throughout the planet is responsible for the occurrence of diverse ecosystems and life forms. However, the production and trade of goods, along with our consumption habits, are influencing regional hydrological dynamics.
 
 Every time we buy flowers that have been shipped from other countries we are actually consuming the water that was necessary to grow those flowers somewhere else in the world. If you are a wine enthusiast it might surprise you how much water it is needed to grow the grapes for your wine. A single bottle of wine requires 173 gallons of water for its production; just imagine how much water is virtually contained in a liquor store. 
@@ -92,3 +74,6 @@ References
 
 [3] Waskom, Reagan; Akhbari, Masih and Grigg, Neil. 2014. U.S. Perspective on the Water-Energy-Food Nexus. Colorado Water Institute. Information Series No. 116.
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries="5" category="How It Works" %}
