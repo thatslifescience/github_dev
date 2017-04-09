@@ -16,7 +16,7 @@ header:
 image:
  thumb: 2017-04-10_kstraley_fig1.jpg
 teaser: Have you ever seen a rabbit eat its own poop? It’s not uncommon, in fact it’s necessary to live!
-subtitle: Double Digestion in Rabbits
+subheadline: Double Digestion in Rabbits
 source-id: 1ICfvP_z6RmWMH8Y3yUjIlq_0ZpneqxiyJE_T0aqPvBw
 published: true
 ---
