@@ -53,7 +53,7 @@ Science Café is a fun way for us graduate students to share our love of science
 
 **References**
 
-[1] Sievert LL, Masley A. 2015. "Are menopausal hot flashes an evolutionary byproduct of postpartum warming?" *The Journal of The North American Menopause Society. *22, 4. 377-383. 
+[1] Sievert LL, Masley A. 2015. "Are menopausal hot flashes an evolutionary byproduct of postpartum warming?" *The Journal of The North American Menopause Society.* 22, 4. 377-383. 
 
-[2] Smith EK, O'Neill J, Gerson AR, & Wolf BO. 2015. "Avian thermoregulation in the heat: resting metabolism, evaporative cooling and heat tolerance in Sonoran Desert doves and quail." *The Journal of experimental biology, 218* (Pt 22), 3636-46.
+[2] Smith EK, O'Neill J, Gerson AR, & Wolf BO. 2015. "Avian thermoregulation in the heat: resting metabolism, evaporative cooling and heat tolerance in Sonoran Desert doves and quail." *The Journal of experimental biology*, 218 (Pt 22), 3636-46.
 
