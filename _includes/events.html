@@ -7,9 +7,7 @@
 		<dt>
 		<b>{{ event.date | date:"%-d" }}{% if event.end-date %}-{{ event.end-date | date:"%-d" }}{% endif %}</b>
 		({{ event.date | date:"%a" }}{% if event.end-date %}-{{ event.end-date | date:"%a" }}{% endif %})- {{ event.name }}
-		{% if event.location %}- {{ event.location }}{% endif %}
-		{% if event.cost %}- {{ event.cost }}{% endif %}
-		{% if event.description %}- {{ event.description }}{% endif %}
+		{% if event.speaker %}- {{ event.speaker }}{% endif %}
 		</dt>
 		{% capture oldMonth %}{{ newMonth }}{% endcapture %}
 	{% endfor %}
