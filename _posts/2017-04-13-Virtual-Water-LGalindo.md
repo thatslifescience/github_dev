@@ -1,7 +1,7 @@
 ---
 title: Water balance in a man-made world
 layout: page
-author: lgalindo
+author: LGalindo
 permalink: /2017-04-13-Virtual-Water-LGalindo/
 tags:
 - water
