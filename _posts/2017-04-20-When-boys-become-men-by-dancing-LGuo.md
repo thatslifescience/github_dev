@@ -20,20 +20,6 @@ subheadline: Hot moves and sexy sons
 source-id: 1jb7TfFJ1LCqxgppotzgxHpfqoqc4MNjwCXV6THE3_2g
 published: true
 ---
-**Title: **When boys become men by dancing 
-
-**Subheadline:** Hot moves and sexy sons
-
-**Author:** Lian Guo
-
-**Category:** Earth's Organisms
-
-**Keywords:** adaptation, sexual selection, evolution, behavior
-
-**Social media blurb:** It's hard to catch the attention of ladies sometimes. So why not do a little dance, to make a little love? Let’s catch up on some of the best courtship dances in the natural world.
-
-**Featured Photo:** 
-
 In many animal species, males have to work very hard to catch the attention of females. If this seems odd to you, think about this. Females invest more energy into creating eggs, which are rich in nutrients, and into parental care for babies once they're born. Because males do not usually have these energetic costs, they have more energy available for mating multiple times. What this means is that females are limited by the resources that give them energy, while males are limited by the females they can mate with. The prevailing theory in evolution is that this causes females to be highly selective of males. 
 
 So, if you can be choosy, why not pick the guy with the brightest color patches, or the largest throat pouch? Courtship dances are a more extreme behavior that we tend to notice because they can be so bizarre and so very fascinating! 
@@ -63,4 +49,8 @@ Let's have a look at some of the best courtship dances out there!
 My, my, what lucky ladies to have such a selection to choose from! Anyone think I can get some of my fellow graduate students to imitate some of these courtship dances with me? Yeah, I didn't think so either…
 
 Note: Post thumbnail of a Australian peacock spider (*Maratus splendens*) was taken by [Jergen Otto](https://flic.kr/p/9H5jEJ)
+
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries="5" category="Earth's Organisms" %}
 
