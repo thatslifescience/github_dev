@@ -1,8 +1,8 @@
 ---
 title: Water balance in a man-made world
 layout: page
-author: LGalindo
-permalink: /2017-04-13-Virtual-Water-LGalindo/
+author: lgalindo
+permalink: /2017-04-17-Virtual-Water-LGalindo/
 tags:
 - water
 - agriculture
@@ -26,7 +26,7 @@ Every time we buy flowers that have been shipped from other countries we are act
 
 Through the trade of food and other goods the international market is creating artificial paths of water flow. These are driving forces that reshape the natural water cycle. During the last three decades two concepts have been amply used to explain this phenomenon. Water footprint is the first of them and it refers to the total amount of water used to produce an asset. Figure 1 shows the water footprint of different products. 
 
-<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/33938641265/in/dateposted-friend/" title="2017-04-13_LGalindo_fig1"><img src="https://c1.staticflickr.com/3/2831/33938641265_2df859d1bc_o.jpg" width="1440" height="900" alt="2017-04-13_LGalindo_fig1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/33938641265/in/dateposted-friend/" title="2017-04-13_LGalindo_fig1"><img src="https://c1.staticflickr.com/3/2831/33938641265_2df859d1bc_o.jpg" width="1440" height="900" alt="2017-04-13_LGalindo_fig1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 **Fig. 1** Water footprint of different commodities obtained through an [online calculator](http://waterfootprint.org/en/resources/interactive-tools/personal-water-footprint-calculator/). Notice all the water you could save by drinking just water in your meals; even beer consumes less water than wine.
 
@@ -34,7 +34,7 @@ Three types of water are considered when assessing a water footprint: there is b
 
 For example, in United States, the water footprint for beef has been estimated to be between 842 and 1,213 gallons per 0.5lb, depending on the farming system (grazing, mixed, or industrialized) [1]. Roughly 91% comes from green water attributable to the grain cultivated and delivered to feed the cows, 3.7% is blue water from water consumption of the cattle, and 5.3% from leaching and runoff of nitrogen-fertilizers.
 
-<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/33095349524/in/dateposted-friend/" title="2017-04-13_LGalindo_fig2"><img src="https://c1.staticflickr.com/3/2880/33095349524_4bbebd3de8_o.jpg" width="940" height="360" alt="2017-04-13_LGalindo_fig2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/33095349524/in/dateposted-friend/" title="2017-04-13_LGalindo_fig2"><img src="https://c1.staticflickr.com/3/2880/33095349524_4bbebd3de8_o.jpg" width="940" height="360" alt="2017-04-13_LGalindo_fig2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 **Fig. 2** Proportion of the three types of water used for each commodity. Values from the [water footprint interactive tool](http://waterfootprint.org/en/resources/interactive-tools/personal-water-footprint-calculator/). 
 
@@ -42,7 +42,7 @@ The second concept used to explain international market influence on water cycle
 
 Notice that nation A is saving water when importing grapes, which account for the main portion of water footprint. On the other hand nation C is losing water when exporting grapes; however if nation C has abundant water resources and nation A suffers water stress the trade between these two nations is considered to be positive and then nation A will be saving water.
 
-<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/33125837563/in/dateposted-friend/" title="2017-04-13_LGalindo_fig3"><img src="https://c1.staticflickr.com/3/2950/33125837563_1b670e642a_o.jpg" width="960" height="720" alt="2017-04-13_LGalindo_fig3"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/33125837563/in/dateposted-friend/" title="2017-04-13_LGalindo_fig3"><img src="https://c1.staticflickr.com/3/2950/33125837563_1b670e642a_o.jpg" width="960" height="720" alt="2017-04-13_LGalindo_fig3"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 **Fig. 3** Trade flow that saves water to nation A. Export of agricultural products between nations comprise the biggest global water savings [2]. Image modified from: [Water Footprint Network](http://waterfootprint.org/en/water-footprint/national-water-footprint/).
 
@@ -66,8 +66,7 @@ However, certain organizations such as the International Water Management Instit
 
 Despite this, water footprint and virtual water concepts are useful ways for measuring the impacts of different activities on the ecosystems. Calculating the amount of water that a region will save through better commercial agreements is starting to be taken into account by decision makers when planning for the protection of sensitive ecosystems. In the meantime, we should consider changing our habits. You can start by calculating your water footprint, take a look at the water footprint calculator [here](http://waterfootprint.org/en/resources/interactive-tools/personal-water-footprint-calculator/).
 
-**References**
-
+References
 [1] Maupin, M.A., Kenny, J.F., Hutson, S.S., Lovelace, J.K., Barber, N.L., and Linsey, K.S. 2014. Estimated use of water in the United States in 2010: U.S. Geological Survey Circular 1405, 56 p.
 [2] Mekonnen, M.M. and Hoekstra, A.Y. 2011. National water footprint accounts: the green, blue and grey water footprint of production and consumption, Value of Water Research Report Series No. 50, UNESCO - IHE, Delft, the Netherlands.
 [3] Waskom, Reagan; Akhbari, Masih and Grigg, Neil. 2014. U.S. Perspective on the Water-Energy-Food Nexus. Colorado Water Institute. Information Series No. 116.
