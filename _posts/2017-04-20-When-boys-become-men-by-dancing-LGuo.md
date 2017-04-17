@@ -30,15 +30,15 @@ Let's have a look at some of the best courtship dances out there!
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/zlpJJRPQqOQ" frameborder="0" allowfullscreen></iframe></center>
 
-2. **Peacock Spiders – Most Diverse Use of Hairy Legs (and Butts)**
+**2. Peacock Spiders – Most Diverse Use of Hairy Legs (and Butts)**
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/LzGasJiqNa4" frameborder="0" allowfullscreen></iframe></center>
 
-3. **Ostrich – Best Imitation of a Flamenco Dancer**
+**3. Ostrich – Best Imitation of a Flamenco Dancer**
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/ZWnNQH08l2I" frameborder="0" allowfullscreen></iframe></center>
 
-4. **Weedy Seadragons - Most Synchronized**
+**4. Weedy Seadragons - Most Synchronized**
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/9MKkr_1Kqcw" frameborder="0" allowfullscreen></iframe></center>
 
