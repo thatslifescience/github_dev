@@ -52,7 +52,7 @@ California is one of the driest regions of the United States. Its average annual
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/33095349374/in/dateposted-friend/" title="2017-04-13_LGalindo_fig4"><img src="https://c1.staticflickr.com/3/2936/33095349374_5949fcf2da_o.jpg" width="664" height="472" alt="2017-04-13_LGalindo_fig4"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-**Fig.4.** Changing our consumption habits is the first step towards the conservation of freshwater ecosystems. 
+**Fig. 4** Changing our consumption habits is the first step towards the conservation of freshwater ecosystems. 
 
 Virtual water and water footprint can be used as an indicator for efficient water management and is currently used in cities such as Philadelphia through the [green city initiative](http://pecpa.org/program/green-infrastructure-green-cityclean-waters-program/). The Colorado Water Institute has been working on these concepts for the protection of the Colorado River [3]. 
 
@@ -66,10 +66,10 @@ However, certain organizations such as the International Water Management Instit
 
 Despite this, water footprint and virtual water concepts are useful ways for measuring the impacts of different activities on the ecosystems. Calculating the amount of water that a region will save through better commercial agreements is starting to be taken into account by decision makers when planning for the protection of sensitive ecosystems. In the meantime, we should consider changing our habits. You can start by calculating your water footprint, take a look at the water footprint calculator [here](http://waterfootprint.org/en/resources/interactive-tools/personal-water-footprint-calculator/).
 
-References
-[1] Maupin, M.A., Kenny, J.F., Hutson, S.S., Lovelace, J.K., Barber, N.L., and Linsey, K.S. 2014. Estimated use of water in the United States in 2010: U.S. Geological Survey Circular 1405, 56 p.
-[2] Mekonnen, M.M. and Hoekstra, A.Y. 2011. National water footprint accounts: the green, blue and grey water footprint of production and consumption, Value of Water Research Report Series No. 50, UNESCO - IHE, Delft, the Netherlands.
-[3] Waskom, Reagan; Akhbari, Masih and Grigg, Neil. 2014. U.S. Perspective on the Water-Energy-Food Nexus. Colorado Water Institute. Information Series No. 116.
+**References**<br>
+[1] Maupin, M.A., Kenny, J.F., Hutson, S.S., Lovelace, J.K., Barber, N.L., and Linsey, K.S. 2014. Estimated use of water in the United States in 2010: U.S. Geological Survey Circular 1405, 56 p.<br>
+[2] Mekonnen, M.M. and Hoekstra, A.Y. 2011. National water footprint accounts: the green, blue and grey water footprint of production and consumption, Value of Water Research Report Series No. 50, UNESCO - IHE, Delft, the Netherlands.<br>
+[3] Waskom, Reagan; Akhbari, Masih and Grigg, Neil. 2014. U.S. Perspective on the Water-Energy-Food Nexus. Colorado Water Institute. Information Series No. 116.<br>
 
 ## More From Thats Life [Science]
 {: .t60 }
