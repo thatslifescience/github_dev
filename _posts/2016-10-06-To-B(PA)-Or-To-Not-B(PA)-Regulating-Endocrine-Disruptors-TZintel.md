@@ -1,7 +1,7 @@
 ---
-title: 'To B(PA) Or To Not B(PA): Regulating Endocrine Disruptors'
+title: 'To BPA Or To Not BPA: Regulating Endocrine Disruptors'
 date: 2016-10-06 00:00:00 Z
-permalink: "/2016-10-06-To-B(PA)-Or-To-Not-B(PA)-Regulating-Endocrine-Disruptors-TZintel/"
+permalink: "/2016-10-06-To-BPA-Or-To-Not-BPA-Regulating-Endocrine-Disruptors-TZintel/"
 categories:
 - How It Works
 tags:
