@@ -1,4 +1,4 @@
----
+--
 title: 'To BPA Or To Not BPA: Regulating Endocrine Disruptors'
 date: 2016-10-06 00:00:00 Z
 permalink: "/2016-10-06-To-BPA-Or-To-Not-BPA-Regulating-Endocrine-Disruptors-TZintel/"
