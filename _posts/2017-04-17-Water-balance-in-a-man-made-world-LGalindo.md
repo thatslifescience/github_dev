@@ -2,7 +2,7 @@
 title: "Water balance in a man-made world"
 layout: page
 author: lgalindo
-permalink: /2017-04-17-Virtual-Water-LGalindo/
+permalink: /2017-04-17-Water-balance-in-a-man-made-world-LGalindo/
 tags:
 - water
 - agriculture
