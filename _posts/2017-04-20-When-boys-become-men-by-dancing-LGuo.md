@@ -28,23 +28,23 @@ Let's have a look at some of the best courtship dances out there!
 
 **1. Great Argus Pheasant – Most Hypnotic Feathers**
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/zlpJJRPQqOQ" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/zlpJJRPQqOQ" frameborder="0" allowfullscreen></iframe></center><br>
 
 **2. Peacock Spiders – Most Diverse Use of Hairy Legs (and Butts)**
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/LzGasJiqNa4" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/LzGasJiqNa4" frameborder="0" allowfullscreen></iframe></center><br>
 
 **3. Ostrich – Best Imitation of a Flamenco Dancer**
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/ZWnNQH08l2I" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/ZWnNQH08l2I" frameborder="0" allowfullscreen></iframe></center><br>
 
 **4. Weedy Seadragons - Most Synchronized**
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/9MKkr_1Kqcw" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/9MKkr_1Kqcw" frameborder="0" allowfullscreen></iframe></center><br>
 
 **5. Clark's Grebe – Best Walk on Water** (wait for it…)
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/ZbRrxw-H6xA" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/ZbRrxw-H6xA" frameborder="0" allowfullscreen></iframe></center><br>
 
 My, my, what lucky ladies to have such a selection to choose from! Anyone think I can get some of my fellow graduate students to imitate some of these courtship dances with me? Yeah, I didn't think so either…
 
