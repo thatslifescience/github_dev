@@ -31,6 +31,7 @@ Hiding information in order to trick consumers to buy their products is troublin
 
 **Figure1** Source: [http://ticotimes.com/costa-rica/dna-helps-stop-illegal-sailfish-fishing](http://ticotimes.com/costa-rica/dna-helps-stop-illegal-sailfish-fishing)
 
+
 **References**
 
 [1] Emma Bryce, "Amazon's pink river dolphins reveal the bizarre impacts of seafood fraud” The guardian, September 30, 2016. Accessed October 04, 2016. [https://www.theguardian.com/environment/world-on-a-plate/2016/sep/30/killed-to-catch-a-fish-that-nobody-wants-the-amazons-pink-river-dolphins-reveal-the-bizarre-impacts-of-seafood?CMP=share_btn_fb](https://www.theguardian.com/environment/world-on-a-plate/2016/sep/30/killed-to-catch-a-fish-that-nobody-wants-the-amazons-pink-river-dolphins-reveal-the-bizarre-impacts-of-seafood?CMP=share_btn_fb)
