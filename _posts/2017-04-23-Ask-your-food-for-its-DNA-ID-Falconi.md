@@ -9,26 +9,15 @@ tags:
 - citizen science
 - human
 categories:
-Earth’s Organisms or Our Ecosystems or Grad School Diaries or  How It Works
+ Our Ecosystems
 header:
- image_fullwidth: image-file-name-here.jpg
+ image_fullwidth: ecosystem-header.jpg
 image:
  thumb: 20170424Falconi_thumb.jpg
-teaser: “DNA barcode reveals seafood fraud.”
+teaser: “DNA barcoding reveals seafood fraud.”
 source-id: 1X17u0Gr-9FkoDgFRLiMBE9428B2pfosg7i2hebwSKyU
 published: true
 ---
-**Title: **Ask your food for its DNA ID - Copyright issues and knowledge rights 
-
-**Author:** N Falconi
-
-**Category:  **Our Ecosystems
-
-**Key words:** citizen science, communication, human
-
-**Teaser: **DNA barcode reveals seafood fraud.
-
-**Featured Photo(**s): Thumbnail image=Fig. 1
 
 An[ article in The Guardian](https://www.theguardian.com/environment/world-on-a-plate/2016/sep/30/killed-to-catch-a-fish-that-nobody-wants-the-amazons-pink-river-dolphins-reveal-the-bizarre-impacts-of-seafood?CMP=share_btn_fb) recently reported on how food fraud affected the Amazon's Pink River Dolphins [1]. The article documented that the dolphins have been used as bait to catch scavenger fishes. It turns out scavenger fishes (e.g. catfish) are then sold as different and more profitable species in the markets because people dislike their status as "scavenger species". Researchers used DNA bar coding to identify mislabeled species for sale in the markets of Manaus, Brazil, and found that catfish were actually being sold under a total of three false names, 'douradinha’, ‘douradinho’, and ‘piratinga’ [2]. After reading this article, I became more curious about other mislabeled products in other countries.
 
