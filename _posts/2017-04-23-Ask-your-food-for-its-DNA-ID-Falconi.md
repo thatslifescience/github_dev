@@ -14,7 +14,7 @@ header:
  image_fullwidth: ecosystem-header.jpg
 image:
  thumb: 20170424Falconi_thumb.jpg
-teaser: “DNA barcoding reveals seafood fraud.”
+teaser: DNA barcoding reveals seafood fraud.
 source-id: 1X17u0Gr-9FkoDgFRLiMBE9428B2pfosg7i2hebwSKyU
 published: true
 ---
