@@ -1,7 +1,7 @@
 ---
 title: "Ask your food for its DNA ID"
 layout: page
-author: NFalconi
+author: nfalconi
 permalink: /2017-04-23-Ask-your-food-for-its-DNA-ID-Falconi/
 tags:
 - communication
@@ -9,7 +9,7 @@ tags:
 - citizen science
 - human
 categories:
- Our Ecosystems
+- Our Ecosystems
 header:
  image_fullwidth: ecosystem-header.jpg
 image:
@@ -46,3 +46,6 @@ Hiding information in order to trick consumers to buy their products is troublin
 
 [6] Wong, Eugene H-K., and Robert H. Hanner. "DNA barcoding detects market substitution in North American seafood." *Food Research International* 41, no. 8 (2008): 828-837.
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset='1' entries='5' category='Our Ecosystems' %}
