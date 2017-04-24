@@ -1,5 +1,5 @@
 ---
-title: "Ask your food for its DNA ID - Copyright issues and knowledge rights"
+title: "Ask your food for its DNA ID"
 layout: page
 author: NFalconi
 permalink: /2017-04-23-Ask-your-food-for-its-DNA-ID-Falconi/
