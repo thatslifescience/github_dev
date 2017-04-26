@@ -9,7 +9,7 @@ tags:
 - shark teeth
 - sicb2017
 categories:
- -Grad School Diaries
+ - Grad School Diaries
 header:
  image_fullwidth: gradschooldiaries-header.jpg
 image:
@@ -18,17 +18,6 @@ teaser: “I learned a new technique at a conference – sketch-noting!  Take a 
 source-id: 1_qNpHlnEExlSrYYomal0UwO-Y7ahrdC8B9ZKioCie-4
 published: true
 ---
-**Title**: Sketch-noting the Society for Integrative & Comparative Biology 2017 Meeting
-
-**Author**: Dina Navon
-
-**Category**: Grad School Diaries/Creative Mini-Posts
-
-**Keywords**: Evolution, stickleback armor, shark teeth, SICB2017
-
-**Teaser**: I learned a new technique at a conference – sketch-noting!  Take a look at sketch-notes I produced for two of the talks I saw there.
-
-**Featured photos**: Thumbnail image = Fig 1
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/33471528393/in/dateposted-friend/" title="20170427Navon_thumb"><img src="https://c1.staticflickr.com/5/4159/33471528393_5cd059f65e_m.jpg" width="229" height="221" alt="20170427Navon_thumb"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -50,5 +39,8 @@ This talk focused on the evolution of shark teeth, which typically come in two c
 
 It's a tale almost as old as evolutionary biology – during the last glacial retreat, oceanic threespine stickleback repeatedly and independently colonized many freshwater glacial lakes in the northern hemisphere.  As time went on, the freshwater populations often lost much of their armor, including the bony lateral plates on their sides that protect their vulnerable flanks.  Scientists counted the number of plates each individual had and managed to associate variation in lateral plate number to a single  gene position called EDA.  However, much of the variation in lateral plate number is not explained by EDA.  What other genes might be acting here?  Could ecological factors, such as the presence of certain types of predators, be influencing plate number?  Is calcium availability or temperature playing a role?  This research set out to answer some of these questions by examining a larger suite of "armor" traits , characterizing not just the number of plates but also their size, shape, and rate of bone mineralization.
 
-## More From Thats Life [Science]{: .t60 }{% include list-posts offset="1" entries='5' category="Our Ecosystems" %}
+
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Grad School Diaries" %}
 
