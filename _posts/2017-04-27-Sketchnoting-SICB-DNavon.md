@@ -5,7 +5,7 @@ author: dnavon
 permalink: /2017-04-27-Sketchnoting-SICB-DNavon/
 tags:
 - evolution
-- stikleback armor
+- stickleback armor
 - shark teeth
 - sicb2017
 categories:
@@ -22,8 +22,6 @@ published: true
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/33471528393/in/dateposted-friend/" title="20170427Navon_thumb"><img src="https://c1.staticflickr.com/5/4159/33471528393_5cd059f65e_m.jpg" width="229" height="221" alt="20170427Navon_thumb"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 **Figure 1** The SICB logo.  (Source: [Society for Integrative & Comparative Biology](http://www.sicb.org/images/sicb-logo-grad-transp75.gif))
-
-[http://www.sicb.org/images/sicb-logo-grad-transp75.gif](http://www.sicb.org/images/sicb-logo-grad-transp75.gif)
 
 This January I made my way down to New Orleans to attend the annual meeting for the Society for Integrative & Comparative Biology, also known as SICB.  This meeting is larger and  includes faculty members, post-docs, and graduate and undergraduate students.  Attendees come from many fields, including ecology, evolution, physiology, biomechanics, and genomics, and they are often interested in the intersection between two or more of those fields.  The vast majority of presentations are 15-minute talks organized into two-hour long sessions centered around a common theme, though there are also posters, longer talks, and workshops.  One of the workshops I attended helped me learn how to sketch-note, or take notes on a talk in a visually appealing and stimulating way.  Right away, I began practicing sketch-notes at many of the talks I watched.  
 
