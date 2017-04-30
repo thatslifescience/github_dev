@@ -22,7 +22,7 @@ I'm fascinated by the developmental mechanisms underlying song learning in birds
 
 …and sometimes, this entails picking up poop. For science!
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/34231400661/in/dateposted-friend/" title="2017-05-01_astrauss_fig1"><img src="https://c1.staticflickr.com/3/2820/34231400661_bda0d7994d_b.jpg" width="915" height="600" alt="2017-05-01_astrauss_fig1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/34231400661/in/dateposted-friend/" title="2017-05-01_astrauss_fig1"><img src="https://c1.staticflickr.com/3/2820/34231400661_ac75b7ddd4_b.jpg" width="915" height="600" alt="2017-05-01_astrauss_fig1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 **Figure 1.**  a) Baby birds in their nest in the lab, begging for food. b) Baby birds receive protein-rich food mixture via syringe from researchers -- the syringe simulates a parent bird's beak delivering food. (Photographs by Amy Strauss.)
 
