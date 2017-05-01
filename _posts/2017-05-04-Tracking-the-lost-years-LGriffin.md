@@ -29,7 +29,7 @@ Crush, the turtle, is highlighting the post-hatchling and early oceanic juvenile
 
 <div style="text-align:center"><img src ="http://www.dnr.sc.gov/marine/turtles/images/lifecycle.png"/></div>
 
-** Fig. 2** Generalized life cycle of sea turtles. ([Image source](http://www.dnr.sc.gov/marine/pub/seascience/seaturtle.html))
+**Fig. 2** Generalized life cycle of sea turtles. ([Image source](http://www.dnr.sc.gov/marine/pub/seascience/seaturtle.html))
 
 Scientists had hypothesized that these small juvenile sea turtles remain juvenile sea turtles stay in waters with comfortable temperatures and few predators for years. But it was nearly impossible to confirm this idea other than with vague oceanic models or the occasional sighting of a juvenile turtle in this kind of  habitat.
 
@@ -65,5 +65,7 @@ References:
 
 Mansfield KL, Wyneken J, Porter WP, Luo J. 2014 "[First satellite tracks of neonate sea turtles redefine the 'lost years' oceanic niche](http://rspb.royalsocietypublishing.org/content/281/1781/20133039)." Proc. R. Soc. B 281: 20133039. 
 
-## More From Thats Life [Science]{: .t60 }{% include list-posts offset="1" entries="5" category="Earth's Organisms" %}
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries="5" category="Earth's Organisms" %}
 
