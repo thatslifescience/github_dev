@@ -1,7 +1,7 @@
 ---
 title: Is Milk Bad for Me? Finding Scientific Truths in the "Post-Truth" Era
 layout: page
-author: AGrade
+author: agrade
 permalink: /2017-05-08-Is-Milk-Bad-For-Me-AGrade/
 tags:
 - communication
