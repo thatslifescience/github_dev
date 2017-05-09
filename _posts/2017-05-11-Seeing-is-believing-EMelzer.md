@@ -24,9 +24,12 @@ As you may imagine, looking at bacteria can be quite tricky. First of all, most 
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/34559484055/in/dateposted-friend/" title="2017-05-09-EMelzerA"><img src="https://c1.staticflickr.com/5/4180/34559484055_64ed014896_z.jpg" width="640" height="427" alt="2017-05-09-EMelzerA"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-**Fig. 1** Microscopes in the 1700s were much smaller and quite classy looking, weren't they? (Image source: [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/a/a2/1750-1770%2C_solar_microscope%2C_Benjamin_Martin%2C_London_-_Golub_Collection_of_Antique_Microscopes_-_DSC04857.JPG))**Magnifying Microbes**
+**Fig. 1** Microscopes in the 1700s were much smaller and quite classy looking, weren't they? (Image source: [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/a/a2/1750-1770%2C_solar_microscope%2C_Benjamin_Martin%2C_London_-_Golub_Collection_of_Antique_Microscopes_-_DSC04857.JPG))
 
-To deal with the unbelievable tiny size of our bacterial friends or foes we use microscopes. There are lots of different types of microscopes. Two common types are light microscopes, which magnify a specimen to thousands of times its actual size, and electron microscopes, which use electrons instead of light to visualize cells, and magnify by up to 10,000,000 times. That's right: 10 million times bigger! Whether it uses light or electrons, microscopy has come a long way since the invention of the first microscope in the 1600’s. We even have fancy computerized microscopes now that take tens of thousands of images, and compile them together to calculate the location of one single molecule. Technology is truly incredible! 
+**Magnifying Microbes**
+
+
+To deal with the unbelievable tiny size of our bacterial friends or foes we use microscopes. There are lots of different types of microscopes. Two common types are light microscopes, which magnify a specimen to thousands of times its actual size, and electron microscopes, which use electrons instead of light to visualize cells, and magnify by up to 10,000,000 times. That's right: 10 million times bigger! Whether it uses light or electrons, microscopy has come a long way since the invention of the first microscope in the 1600’s. We even have fancy computerized microscopes now that take tens of thousands of images, and compile them together to calculate the location of one single molecule. Technology is truly incredible! 
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/34559483785/in/dateposted-friend/" title="d2540-6"><img src="https://c1.staticflickr.com/5/4173/34559483785_8637aa31a2_z.jpg" width="640" height="421" alt="d2540-6"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
@@ -38,9 +41,10 @@ What about the fact that most cells are colorless and so are their contents? One
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/34559483585/in/dateposted-friend/" title="2017-05-09-EMelzerC"><img src="https://c1.staticflickr.com/5/4156/34559483585_d19f12088f_z.jpg" width="640" height="631" alt="2017-05-09-EMelzerC"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-**Fig. 3** *Mycobacterium smegmatis* is a* *relative of the bacterium that causes tuberculosis. Each elongated structure in the image is one cell, and the clusters of red color at the edge of the cells (indicated by arrows) are fluorescent proteins attached to a protein that is involved in building the cell wall in this organism. (Image source: Emily Melzer)
+**Fig. 3** *Mycobacterium smegmatis* is a relative of the bacterium that causes tuberculosis. Each elongated structure in the image is one cell, and the clusters of red color at the edge of the cells (indicated by arrows) are fluorescent proteins attached to a protein that is involved in building the cell wall in this organism. (Image source: Emily Melzer)
 
-Another way to visualize what is otherwise a clear specimen is by metabolic labeling. Our cells use nutrients from the food that we eat to build structures in our bodies like muscles and bones. Just like us, bacterial cells build structures using nutrients from their environment. Now imagine if you had a special kind of calcium that could fluoresce. Then you fed someone food that was rich in this special fluorescent calcium. You could use the fluorescence to track what bone got the fluorescence, telling you which bone was just built by the calcium that person had just consumed. We can follow that same idea with bacteria: we feed them their nutrients, which are tagged with a fluorescent molecule (a fluorophore). We then visualize where they incorporated those fluorophores. This informs us of the pattern of growth, protein production and transport, and much more. 
+
+Another way to visualize what is otherwise a clear specimen is by metabolic labeling. Our cells use nutrients from the food that we eat to build structures in our bodies like muscles and bones. Just like us, bacterial cells build structures using nutrients from their environment. Now imagine if you had a special kind of calcium that could fluoresce. Then you fed someone food that was rich in this special fluorescent calcium. You could use the fluorescence to track what bone got the fluorescence, telling you which bone was just built by the calcium that person had just consumed. We can follow that same idea with bacteria: we feed them their nutrients, which are tagged with a fluorescent molecule (a fluorophore). We then visualize where they incorporated those fluorophores. This informs us of the pattern of growth, protein production and transport, and much more. 
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/34559483535/in/dateposted-friend/" title="2017-05-09-EMelzerD"><img src="https://c1.staticflickr.com/5/4156/34559483535_2052f6dbe0_z.jpg" width="564" height="428" alt="2017-05-09-EMelzerD"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
@@ -48,5 +52,8 @@ What about the fact that most cells are colorless and so are their contents? One
 
 Fluorescence microscopy involves a lot of physics and chemistry, and although I wish they were, those are not my areas of expertise. I am definitely working on becoming a fluorescence microscopy expert, and until I am I will continue to enjoy the pretty pictures that I generate using these techniques. Sometimes, when the image is exceptionally colorful, it almost looks like the bacterial cells are throwing a teeny tiny rave, and they're having the times of their lives, but maybe that’s just me. 
 
- 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries="5" category="How It Works" %}
+
 
