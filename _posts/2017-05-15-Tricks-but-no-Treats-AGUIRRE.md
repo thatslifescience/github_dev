@@ -8,7 +8,7 @@ tags:
 - flowering plants
 - bees
 categories:
- -Earth’s Organisms
+ - Earth’s Organisms
 header:
  image_fullwidth: organisms-header.jpg
 image:
@@ -17,17 +17,6 @@ teaser: From mimicry to pseudocopulation, orchids have many tools to trick polli
 source-id: 1_JRt4JCGzPE9KDR7cprCHUtrht33bo4fIiBc5M4sNGE
 published: true
 ---
-Title: Tricks but no Treats: An Orchid's Guide to Making a Fool of Your Pollinator
-
-Author: Luis Aguirre
-
-Category: How It Works, Earth's Organisms
-
-Keywords: Pollination, Flowering Plants, Bees
-
-Teaser: From mimicry to pseudocopulation, orchids have many tools to trick pollinators. As the orchids say: "If you are not cheating, you are not trying hard enough."
-
-Featured Image: Fig. 1
 
 Flowering plants and pollinators have a unique relationship—they need each other to facilitate mating and pass on their genes. From the plant's perspective, it is imperative for them to attract pollinators; no pollinator visits mean no reproduction. Attracting pollinators can be difficult and some plants have by-passed this difficulty by evolving self-compatibility, meaning they can self-fertilize. However, the mixing of genes that occurs during sexual reproduction is still more evolutionarily beneficial. As a result, most flowering species reproduce by outcrossing, the mixing of genes with genetically different individuals. Therefore, flowering plants attract pollinators and reward them for their services. Plants advertise themselves by being colorful and emitting scents that entice bees and other insects to visit, and they produce nectar and pollen to reward them. 
 
@@ -71,3 +60,7 @@ Pollination is not as straightforward as it seems. Even though they need each ot
 
 [6] Scopece, Giovanni, et al. *The American Naturalist*, 175(1), 98-105. 2010.
 
+
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Earth's Organisms" %}
