@@ -20,7 +20,7 @@ published: true
 
 Flowering plants and pollinators have a unique relationship—they need each other to facilitate mating and pass on their genes. From the plant's perspective, it is imperative for them to attract pollinators; no pollinator visits mean no reproduction. Attracting pollinators can be difficult and some plants have by-passed this difficulty by evolving self-compatibility, meaning they can self-fertilize. However, the mixing of genes that occurs during sexual reproduction is still more evolutionarily beneficial. As a result, most flowering species reproduce by outcrossing, the mixing of genes with genetically different individuals. Therefore, flowering plants attract pollinators and reward them for their services. Plants advertise themselves by being colorful and emitting scents that entice bees and other insects to visit, and they produce nectar and pollen to reward them. 
 
-<div style = "text-align:center"><img src = “https://upload.wikimedia.org/wikipedia/commons/6/6e/Bee_Orchid_%28Ophrys_apifera%29_-_geograph.org.uk_-_1347538.jpg”/></div>
+<div style="text-align:center"><img src ="https://upload.wikimedia.org/wikipedia/commons/6/6e/Bee_Orchid_%28Ophrys_apifera%29_-_geograph.org.uk_-_1347538.jpg"/></div>
 
 **Fig. 1** Orchids have mastered the art of pollinator deception, creating a multitude of beautiful flower forms in the process. Image via Wikimedia Commons.
 
