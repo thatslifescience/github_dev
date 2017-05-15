@@ -1,5 +1,5 @@
 ---
-title: "Tricks but no Treats: An Orchid’s Guide to Making a Fool of Your Pollinator"
+title: "Tricks but no Treats - An Orchid’s Guide to Making a Fool of Your Pollinator"
 layout: page
 author: laguirre
 permalink: /2017-05-15-Tricks-but-no-Treats-AGUIRRE/
@@ -13,7 +13,7 @@ header:
  image_fullwidth: organisms-header.jpg
 image:
  thumb: 20170515Aguirre_thumb.jpg
-teaser: From mimicry to pseudocopulation, orchids have many tools to trick pollinators. As the orchids say: “If you are not cheating, you are not trying hard enough.”
+teaser: "From mimicry to pseudocopulation, orchids have many tools to trick pollinators. As the orchids say: 'If you are not cheating, you are not trying hard enough.'"
 source-id: 1_JRt4JCGzPE9KDR7cprCHUtrht33bo4fIiBc5M4sNGE
 published: true
 ---
