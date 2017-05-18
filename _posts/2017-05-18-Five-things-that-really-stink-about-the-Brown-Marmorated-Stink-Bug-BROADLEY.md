@@ -27,7 +27,7 @@ We recently found a brown marmorated stink bug crawling around in our office are
 **1.** The brown marmorated stink bug is non-native. This invasive insect was first noticed in Pennsylvania in the mid-1990s, but now is wreaking havoc across the country. It is native to China, Japan, Korea, and Taiwan, but even in its native range,  it is an occasional agricultural pest with outbreaks damaging crops, especially apples, pears, persimmons, and soybeans [1,2].     
   
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/34595942171/in/dateposted-friend/" title="20170518Broadley_fig2"><img src="https://c1.staticflickr.com/5/4167/34595942171_aa893886d4_m.jpg" width="480" height="370" alt="20170518Broadley_fig2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/34595942171/in/dateposted-friend/" title="20170518Broadley_fig2"><img src="https://c1.staticflickr.com/5/4167/34595942171_aa893886d4_m.jpg" width="552" height="426" alt="20170518Broadley_fig2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 **Fig. 2.** (click to enlarge) Brown Marmorated Stink Bug Distribution Map. Interactive version [here](http://www.stopbmsb.org/where-is-bmsb/state-by-state/). 
 
