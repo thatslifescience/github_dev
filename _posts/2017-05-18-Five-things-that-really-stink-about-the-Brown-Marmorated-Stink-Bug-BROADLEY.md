@@ -28,7 +28,7 @@ We recently found a brown marmorated stink bug crawling around in our office are
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/34595942171/in/dateposted-friend/" title="20170518Broadley_fig2"><img src="https://c1.staticflickr.com/5/4167/34595942171_aa893886d4_m.jpg" width="240" height="185" alt="20170518Broadley_fig2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-**Fig. 2.** Brown Marmorated Stink Bug Distribution Map. Interactive version [here](http://www.stopbmsb.org/where-is-bmsb/state-by-state/). 
+**Fig. 2.** (click to enlarge) Brown Marmorated Stink Bug Distribution Map. Interactive version [here](http://www.stopbmsb.org/where-is-bmsb/state-by-state/). 
 
 **2.** They damage many fruit crops leaving behind "cat facing" – a characteristic blemish to the flesh of the fruit.  They have nearly 200 host plants, including many trees and plants found in yards and forests. They can damage corn, soybeans, other bean varieties, nut crops, tomatoes, and green peppers [3,4]. The produce is still edible, but sure doesn't look appealing.
 
