@@ -27,7 +27,7 @@ We recently found a brown marmorated stink bug crawling around in our office are
 **1.** The brown marmorated stink bug is non-native. This invasive insect was first noticed in Pennsylvania in the mid-1990s, but now is wreaking havoc across the country. It is native to China, Japan, Korea, and Taiwan, but even in its native range,  it is an occasional agricultural pest with outbreaks damaging crops, especially apples, pears, persimmons, and soybeans [1,2].     
   
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/34595942171/in/dateposted-friend/" title="20170518Broadley_fig2"><img src="https://c1.staticflickr.com/5/4167/34595942171_aa893886d4_m.jpg" width="240" height="185" alt="20170518Broadley_fig2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/34595942171/in/dateposted-friend/" title="20170518Broadley_fig2"><img src="https://c1.staticflickr.com/5/4167/34595942171_aa893886d4_m.jpg" width="480" height="370" alt="20170518Broadley_fig2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 **Fig. 2.** (click to enlarge) Brown Marmorated Stink Bug Distribution Map. Interactive version [here](http://www.stopbmsb.org/where-is-bmsb/state-by-state/). 
 
@@ -61,9 +61,7 @@ Research into controlling stink bug numbers will take some time, so in the meant
 
 **References**
 
-[1] Jacobs, Steve, Sr. Extension Associate. "Insect Advice from Extension: Brown Marmorated Stink Bug." PennState College of Agricultural Sciences, Department of Entomology.  Feb. 2015. Accessed 16 Jan. 2017. 
-
-[http://ento.psu.edu/extension/factsheets/brown-marmorated-stink-bug](http://ento.psu.edu/extension/factsheets/brown-marmorated-stink-bug)
+[1] Jacobs, Steve, Sr. Extension Associate. "Insect Advice from Extension: Brown Marmorated Stink Bug." PennState College of Agricultural Sciences, Department of Entomology.  Feb. 2015. Accessed 16 Jan. 2017. [http://ento.psu.edu/extension/factsheets/brown-marmorated-stink-bug](http://ento.psu.edu/extension/factsheets/brown-marmorated-stink-bug)
 
 [2] Lee, DH, BD Short, SV Joseph, JC Bergh, and TC Leskey. 2013. Review of the biology, ecology and management of *Halyomorpha halys* (Hemiptera: Pentatomidae) in China, Japan, and the Republic of Korea. Population Ecology.  42(4): 627-641.
 
