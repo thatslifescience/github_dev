@@ -13,7 +13,7 @@ header:
  image_fullwidth: gradschooldiaries-header.jpg
 image:
  thumb: 2017-05-23_dalcott_fig1.jpg
-teaser: “Being an aquatic ecologist means getting paid to explore some of earth’s most beautiful natural locations, but it also means dealing with the harsher side of Mother Nature as well.”
+teaser: Being an aquatic ecologist means getting paid to explore some of earth’s most beautiful natural locations, but it also means dealing with the harsher side of Mother Nature as well.
 source-id: 1GyYO9B1Ch0U0gg_KQVV0u_kL8vc3sT2DEzgOm0Lqi6o
 published: true
 ---
