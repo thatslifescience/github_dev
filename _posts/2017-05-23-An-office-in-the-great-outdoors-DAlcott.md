@@ -66,7 +66,7 @@ I get to see beautiful new aspects of nature every single day and I love not bei
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/33133295911/in/dateposted-friend/" title="Wellfleet Harbor"><img src="https://c1.staticflickr.com/3/2901/33133295911_a3330d6424_k.jpg" width="2048" height="1536" alt="Wellfleet Harbor"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-**Fig. 5 **– Beautiful views of Wellfleet Harbor on the way to work never get old.
+**Fig. 5** – Beautiful views of Wellfleet Harbor on the way to work never get old.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/33133300141/in/dateposted-friend/" title="Ospreys"><img src="https://c1.staticflickr.com/4/3805/33133300141_bef917c2c8_k.jpg" width="2048" height="1536" alt="Ospreys"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
