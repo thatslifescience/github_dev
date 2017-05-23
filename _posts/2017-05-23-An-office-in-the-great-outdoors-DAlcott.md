@@ -50,7 +50,7 @@ Yep. I'm very lucky. I have these sorts of interactions fairly often this time o
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/33133290221/in/dateposted-friend/" title="TG Dwnstm rain"><img src="https://c1.staticflickr.com/4/3891/33133290221_0593783273_k.jpg" width="2048" height="1536" alt="TG Dwnstm rain"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-**Fig. 4 ** – Later in the spring snow is replaced by hard rains.
+**Fig. 4** – Later in the spring snow is replaced by hard rains.
 
 2. **Mother Nature doesn't take holidays off** - When I say seven days a week, that includes holidays too. This story began on the Friday before Memorial Day Weekend. Later that weekend, while others are enjoying a beer at a BBQ with friends and family, I’ll be back out on the river, working, because Mother Nature doesn’t celebrate Memorial Day Weekend. Unfortunately, the herring don’t take the weekend off from their migration and so I need to be out there collecting my data. Not having a day off for several months at a time begins to take its toll, even if all of those days were spent paddling a kayak.
 
