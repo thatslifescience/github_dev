@@ -17,7 +17,7 @@ header:
  image_fullwidth: organisms-header.jpg
 image:
  thumb: 2017-05-26_dnavon_fig2.jpg
-teaser: 
+teaser: Life’s transition out of the oceans changed some of the body’s most important structures. Recent research sheds light on this drastic shift.
 source-id: 1wjzV3qjA0P8CFpRqbPvkNJ2BQS1t0Gzv1CbzgOlq-WY
 published: true
 ---
