@@ -63,3 +63,6 @@ Nakamura, T., Gehrke, A.R., Lemberg, J., Szymaszek, J, and N.H. Shubin. 2016. "D
 
 Schneider, I. & N.H. Shubin. 2013. "The origin of the tetrapod limb: from expeditions to enhancers". *Trends in Genetics *29.7: 419-426. doi: [10.1016/j.tig.2013.01.012](http://www.sciencedirect.com/science/article/pii/S0168952513000243)
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Earth's Organisms" %}
