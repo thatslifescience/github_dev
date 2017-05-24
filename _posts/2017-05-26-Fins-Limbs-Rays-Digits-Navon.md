@@ -21,18 +21,6 @@ teaser:
 source-id: 1wjzV3qjA0P8CFpRqbPvkNJ2BQS1t0Gzv1CbzgOlq-WY
 published: true
 ---
-**Title**: Fins, Limbs, Rays, and Digits – A Beginner's Guide to Terrestrial Living
-
-**Author**: Dina Navon
-
-**Category**: Earth's Organisms
-
-**Keywords**: Evolution, fins to limbs, major life transitions, molecular homology, terrestrial, Hox, aquatic
-
-**Teaser**: Life's transition out of the oceans changed some of the body’s most important structures. Recent research sheds light on this drastic shift.
-
-**Featured photos**: Thumbnail image = Fig 2
-
 Late in the Devonian period of life, approximately 400 million years ago, fish-like vertebrates first crawled out of the water and onto solid ground.  This event marked one of the major transitions in the history of life, and all terrestrial life-forms are descended from those ancient adventurous animals.  This transition involved many changes to our ancestors' skeletons and muscles that allowed them to move, eat, and breathe on dry land.  One such adaptation was the evolution of limbs from some of the bones that underlay the fins in our more fish-like ancestors.  Specifically, it’s thought that the limbs of four-legged animals, or tetrapods, evolved from the expansion of the distal radials, a set of bones that help connect the fin to the trunk of the body.  The distal radials (and every bone in our limbs) are all endochondral bones, which means that they are built by mineralizing cartilage with calcium.
 
 Rather than our dexterous, jointed digits, fish have structures called fin rays: long, tube-like bones that project out from the distal radials, providing structural support for the fin.  Most modern bony fishes, like zebrafish, have fin rays (Fig 1; shown in gray).  Despite appearing superficially similar to your fingers, these structures are not thought to be directly related to our own digits, as fin rays are dermal bones, which differ from endochondral bones both structurally and developmentally.  Because we have no dermal bones in our limbs, our ancestors must have lost these fin rays, sometime during the evolution of limbs.  But a recent study in Nature by Nakamura and colleagues (2016) demonstrated that a suite of genes responsible for the development of digits in mammals is also involved in the development of fin rays in modern fishes, suggesting that these two structures are in fact related at a molecular level and highlighting the importance of these genes in the fin-to-limb transition.
