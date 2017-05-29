@@ -2,7 +2,7 @@
 title: "What’s up with bat echolocation?"
 layout: page
 author: astrauss
-permalink: /2017-05-29-Whats-up-with-bat-echolocation-?-AStrauss/
+permalink: /2017-05-29-Whats-up-with-bat-echolocation-AStrauss/
 tags:
 - echolocation
 - bat
@@ -50,3 +50,6 @@ Echolocation requires very specific sound production and perception capabilities
 
 [4] Rolf Muller, Philip Caspers, Yanqing Fu, and Anupam K. Gupta. "Bioinspired dynamic sensing of acoustic waves," *Proceedings of the ASME/JSME/KSME Joint Fluids Engineering Conference* 1 (2015): V001T04A002, accessed February 12, 2017, doi: [10.1115/AJKFluids2015-4680](http://proceedings.asmedigitalcollection.asme.org/proceeding.aspx?articleid=2473231). 
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries="5" category="How It Works" %}
