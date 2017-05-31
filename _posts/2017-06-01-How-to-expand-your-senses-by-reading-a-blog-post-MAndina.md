@@ -1,5 +1,5 @@
 ---
-title: How to Expand Your Senses by Reading  a Blog Post?
+title: How to Expand Your Senses by Reading a Blog Post
 layout: page
 author: mandina
 permalink: /2017-06-01-How-to-expand-your-senses-by-reading-a-blog-post-MAndina/
