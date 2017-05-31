@@ -28,13 +28,13 @@ This post is about sensing the world, but don't worry, this is not a pseudo-scie
 
 An easy way to think about sensing is that, somewhere in your brain, there are neurons that can translate from the physical language (e.g, sound or friction) into brain's language (i.e, neurons communication with each other so you can hear or touch). This often includes a "translator" or sensory organ. Sugar is sweet because you have sweet receptors on your tongue that recognize it and send the signal to the brain. Again, a physical thing such as sugar gets translated into neuron language. I trust your common sense – pun intended – to bear with me as I walk you through some brief examples.
 
-<h2>**Balance**</h2><br>
+<h3>Balance</h3><br>
 
 <iframe src="//giphy.com/embed/JaqbnoB9gOCZi" width="480" height="478.2978723404255" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/gymnastics-JaqbnoB9gOCZi">via GIPHY</a></p>
 
 Your sense of balance is one of the most neglected ones. The protagonist of this sense is the vestibular system, located in your inner ear (that's why super loud sounds can make you lose balance). This sense allows you to walk and do an amazing amount of crazy movements without falling (see above). It also works to stabilize the image projected from your eyes when you move your head. Try focusing on this word "HERE" and tilt your head from side to side. Without your vestibular system, the word “HERE” would also tilt side to side!
 
-<h2>**Temperature**</h2><br>
+<h3>Temperature</h3><br>
 
 <iframe src="//giphy.com/embed/26FLdaDQ5f72FPbEI" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/girl-fashion-snow-26FLdaDQ5f72FPbEI">via GIPHY</a></p>
 
