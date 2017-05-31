@@ -40,25 +40,25 @@ Your sense of balance is one of the most neglected ones. The protagonist of this
 
 Winter time means you avoid going outside, especially without a couple of extra clothing layers. Why? Because you can sense the temperature and low temperature can be dangerous, even deadly. Luckily, our body comes equipped with receptors activated by temperature and a quite impressing temperature management procedure (which is not within the focus of this post). Different types of receptors work in different ranges of temperature. A fun fact is that some of the temperature sensitive receptors can be activated by some substances present in plants; that's why red chili peppers feel "hot" or menthol gives you a “cool” sensation.
 
-<h2>**Time**</h2><br>
+<h3>Time</h3><br>
 
 <iframe src="//giphy.com/embed/tn8zWeNYA73G0" width="480" height="429.6" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/transparent-gallery-clock-tn8zWeNYA73G0">via GIPHY</a></p>
 
 Time perception works at different levels. The strongest evidence of time-keeping in our brain comes from a region called *suprachiasmatic nucleus*. This region is involved in synchronizing our day-to-day internal clock around the 24 hours it takes the Earth to rotate. Even in complete dark (which scientists call *free running*), animals have a sleep-activity cycle that revolves around 24 hours and that's thanks to the suprachiasmatic nucleus.
 
-<h2>**Pain**</h2><br>
+<h3>Pain</h3><br>
 
 <iframe src="//giphy.com/embed/3o6ZtpRoYe9wbyfcBi" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/family-guy-fox-family-guy-foxtv-3o6ZtpRoYe9wbyfcBi">via GIPHY</a></p>
 
 Pain is a very useful thing that nobody wants to feel. Feeling pain is useful because it prevents us from hurting ourselves and helps avoiding future harmful experiences. Thus, we have a pain-avoiding system turned on 24/7.  For example, pain can be sensed in skin via touch and thermal detectors (extreme pressure, stretching, heat, cold…). Although sensed in the skin, pain does not fit within touch or temperature, it is represented separately in the brain as a different sense (yes, you guessed it, the sense of pain).
 
-<h2>**Proprioception**</h2><br>
+<h3>Proprioception</h3><br>
 
 <iframe src="//giphy.com/embed/RGyUHwEV4L1dK" width="480" height="452.91428571428577" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/yoga-RGyUHwEV4L1dK">via GIPHY</a></p>
 
 If yoga lessons taught you anything, it is that you can sense when your muscles are stretched. When any muscle stretches too much, your *muscle spindle* sends a signal that will make you contract the muscle to protect it from injury. Without the muscle spindle, you'd "pull a muscle" way too often! This type of sensing also works for you to know where is your body in space.
 
-<h2>**Interoception**</h2><br>
+<h3>Interoception</h3><br>
 
 <iframe src="//giphy.com/embed/daLw3QnTCkDjG" width="480" height="358.5542168674699" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/food-pizza-jummy-daLw3QnTCkDjG">via GIPHY</a></p>
 
