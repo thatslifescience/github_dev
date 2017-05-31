@@ -66,3 +66,7 @@ This sense is related to your internal state and is strongly related to survival
 
 I don't want to miss the chance to speak about crazier senses that other animals have. Bats have a sonar-like system, called echolocation, which allows them to move around, hunt and avoid hitting each other in dark caves that have thousands of them flying. Many birds can sense the magnetic field of the Earth (not identical but close enough to a compass). [Other animals can see ](http://thatslifesci.com/2017-03-22-Mantis-Shrimp-Vision-Seeing-in-Secret-Code-MBruce/)[polarized light](http://thatslifesci.com/2017-03-22-Mantis-Shrimp-Vision-Seeing-in-Secret-Code-MBruce/), out of every corner senses keep appearing! Maybe someday there will be a complete list of human and non-human senses…but who’s counting anyway?
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries="5" category="How It Works" %}
+
