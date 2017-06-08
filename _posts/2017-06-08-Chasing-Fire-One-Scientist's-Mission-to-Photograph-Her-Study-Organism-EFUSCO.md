@@ -9,7 +9,7 @@ tags:
 - wildfire
 - environment
 categories:
-Grad School Diaries
+- Grad School Diaries
 header:
  image_fullwidth: gradschooldiaries-header.jpg
 image:
@@ -18,17 +18,6 @@ teaser: While many scientists handle their study organisms daily, #wildfires can
 source-id: 1NhB64VsoP9p2IhRWl6Jo0WsSHSA9eOTWwTMis_O1aVs
 published: true
 ---
-**Title: **Chasing Fire - One Scientist's Mission to Photograph Her Study Organism
-
-**Author(s): **Emily Fusco
-
-**Category: **Grad School Diaries
-
-**Keywords: **Ecology, Wildfire, Environment, Photographs
-
-**Teaser: **While many scientists handle their study organisms daily, #wildfires can remain elusive.** **
-
-**Featured photo(s): **Thumbnail image = Fig.1 
 
 Last summer I went on vacation to Grand Canyon National Park, and was looking forward to exploring some new and exciting terrain. I had been planning the trip for months, but a few weeks before I left, I found out that much of the area I had planned to explore would be closed because of a wildfire (Figure 1). I was thrilled.
 
@@ -68,3 +57,8 @@ Now I have become extra aware of potential wildfire related photos I can take du
 
 **Fig. 7** A wildland firefighter works on the 2007 Poomacha wildfire that burned in Southern California. Image Credit: [FEMA/ Andrea Booher](https://upload.wikimedia.org/wikipedia/commons/d/d3/FEMA_-_33311_-_Fire_crew_memeber_fighting_Poomacha_wildfire_in_California.jpg)
 
+
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Grad School Diaries" %}
+ 
