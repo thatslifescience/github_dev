@@ -46,7 +46,7 @@ Yes, I'm still playing Pokémon Go. And one of the things I love about the game 
 
 Can playing Pokémon Go replace or complement real-world contact with biodiversity? More broadly, how does playing Pokémon Go affect people's physical activities, their social lives, and their attitudes towards and use of parks, nature reserves, and other green spaces? For many, Pokémon Go was a fad that lasted only the month of July 2016, making these questions challenging to answer. While some researchers were quick to design surveys to measure the impact of the game, others were left wishing there could have been better partnership between industry (in this case, the company Niantic) and the research community [5].
 
-In the second post in this two-post series, I'll interview three Pokémon Go researchers about their experiences surveying and interviewing players and what they learned in the process!
+In the second post in this two-post series, I'll interview two Pokémon Go researchers about their experiences surveying and interviewing players and what they learned in the process!
 
 <div style="text-align:center"><img src ="http://68.media.tumblr.com/75df01eee6e1304d588dd950ecf04eb3/tumblr_oa0caiO9ap1vzlckho1_1280.jpg"/></div>
 
