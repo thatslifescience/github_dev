@@ -38,7 +38,7 @@ Let's explore this idea that contact with biodiversity helps us understand and a
 
 In [July 2016](http://www.guinnessworldrecords.com/news/2016/12/year-in-world-records-–-july-pokemon-go-takes-the-world-millions-of-trees-plant-456604), a very 21st century way of connecting people with biodiversity emerged.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/35288246365/in/dateposted-friend/" title="2017-06-15_ekuras_fig3"><img src="https://c1.staticflickr.com/5/4227/35288246365_2a18fa6e4c.jpg" width="321" height="500" alt="2017-06-15_ekuras_fig3"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/35288246365/in/dateposted-friend/" title="2017-06-15_ekuras_fig3"><img src="https://c1.staticflickr.com/5/4227/35288246365_50577c0854_o.jpg" width="1027" height="1600" alt="2017-06-15_ekuras_fig3"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 **Fig. 3** Real dog encounters the Pokémon fire dog growlithe (Photo Credit: Evan Kuras)
 
