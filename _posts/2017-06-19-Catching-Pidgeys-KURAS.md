@@ -99,3 +99,6 @@ So, does playing Pokémon Go bring people into contact with nature, and biodiver
 
 **Fig 7.** Catching pidgeys and noticing pigeons (Photo credit: Evan Kuras)
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Earth's Organisms" %}
