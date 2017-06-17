@@ -14,7 +14,7 @@ header:
  image_fullwidth: organisms-header.jpg
 image:
  thumb: 20170619_ekuras_thumb.png
-teaser: “Remember when #PokémonGo was a thing? Do researchers think #PoGo helped us appreciate both the pidgeys AND the pigeons?”
+teaser: “Remember when PokémonGo was a thing? Do researchers think '#PoGo' helped us appreciate both the pidgeys AND the pigeons?”
 source-id: 1vGHQwMVxTvn7QyXetvsfw8ljEs2SKIJTlNzuQIv0GLY
 published: true
 ---
