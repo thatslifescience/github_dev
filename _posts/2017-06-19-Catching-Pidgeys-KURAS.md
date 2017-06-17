@@ -13,20 +13,11 @@ categories:
 header:
  image_fullwidth: organisms-header.jpg
 image:
- thumb: ekuras_20170619_thumb.jpg
+ thumb: 20170619_ekuras_thumb.png
 teaser: “Remember when #PokémonGo was a thing? Do researchers think #PoGo helped us appreciate both the pidgeys AND the pigeons?”
 source-id: 1vGHQwMVxTvn7QyXetvsfw8ljEs2SKIJTlNzuQIv0GLY
 published: true
 ---
-2017-05-09-Catching-Pidgeys-KURAS 
-
-Title: Part 2 - Does catching Pidgeys help you notice Pigeons? Interviews with Pokémon Go Researchers
-
-Author: Evan KurasCategories: Earth's Organisms
-
-Keywords: Animal; Biodiversity; Human-Wildlife Interaction; Species
-
-Teaser: Remember when #PokémonGo was a thing? Do researchers think #PoGo helped us appreciate both the pidgeys AND the pigeons?Featured Photo = Fig. 7
 
 In [my last post](http://thatslifesci.com/2017-06-13-Biodiversity-in-my-Backyard-EKuras/), I discussed the value of *experiencing* the mind-boggling range of life we have on our planet, also known as biodiversity. I argued that when we interact with biodiversity, we understand it better, value it more, and support conservation measures that protect biodiversity. What a great feedback loop! 
 
@@ -44,7 +35,7 @@ First, meet Meghna Marjadi [Fig 2]. She is interested in perceptions of climate 
 
 **Fig 2.** Meghna Marjadi is a PhD student in Environment and Natural Resources at Ohio State University. Here she is presenting a poster about her Pokémon Go research at the 2017 American Association of Geographers meeting (Photo credit: Meghna Marjadi)
 
-*"**It was something new; they were exploring. I wanted to see if people who were visiting more and new parks while playing the game were having these increases in [environmental] attitudes and behaviors. Especially when it started coming out in the news – anecdotes about people visiting parks – so I wondered if it was a real trend.**"*
+*"It was something new; they were exploring. I wanted to see if people who were visiting more and new parks while playing the game were having these increases in [environmental] attitudes and behaviors. Especially when it started coming out in the news – anecdotes about people visiting parks – so I wondered if it was a real trend."*
 
 Next, meet Travis Windleharth. He and his group had been looking into Alternate Reality games, such as [Ingress](https://www.ingress.com/), so when Pokémon Go was announced in 2015 they quickly added it to their research agenda. Already, their lab group has published three [scientific papers](http://www.washington.edu/news/2017/03/28/parents-who-play-pokemon-go-with-kids-it-wasnt-really-about-the-pokemon/) on the game! During our interview, Travis told me about one of his projects concerning how zoos and aquariums were interacting with Pokémon Go.
 
@@ -52,7 +43,7 @@ Next, meet Travis Windleharth. He and his group had been looking into Alternate 
 
 **Fig 3.** Travis Windleharth is a PhD student and part of the [Gamer Research Group](http://gamer.ischool.uw.edu/) at the University of Washington. (Photo credit: Travis Windleharth)
 
-*"**[One thing] we noticed, in collecting info about Pokémon Go... was that museums, zoos and aquariums began creating events and posting them to [Pokémon Go Facebook] community pages. And not just one or two, but dozens… When you look at the infrastructure of the game, [“Pokéstops" and “Gyms” (Fig 4)] are created in interesting spots like statues, monuments, and plaques. Museum, zoos, and aquariums have a lot of these spots… There are over 50 Pokéstops in the Woodland Park Zoo here in Seattle!**”*
+*"[One thing] we noticed, in collecting info about Pokémon Go... was that museums, zoos and aquariums began creating events and posting them to [Pokémon Go Facebook] community pages. And not just one or two, but dozens… When you look at the infrastructure of the game, [“Pokéstops" and “Gyms” (Fig 4)] are created in interesting spots like statues, monuments, and plaques. Museum, zoos, and aquariums have a lot of these spots… There are over 50 Pokéstops in the Woodland Park Zoo here in Seattle!”*
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/34972990610/in/dateposted-friend/" title="20170619_ekuras_fig4"><img src="https://c1.staticflickr.com/5/4222/34972990610_03934b4356_c.jpg" width="800" height="416" alt="20170619_ekuras_fig4"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -84,7 +75,7 @@ Travis: That's a meaty question. In some of the event pages, the zoo or aquarium
 
 I then asked if the resemblance between Pokémon and animals made any difference to players, compared to the act of collecting other types of virtual thing, like coins or tokens.
 
-<div style="text-align:center"><img src ="[https://68.media.tumblr.com/132bc72d95c7fdf45b694670ff707246/tumblr_oaijia2BDD1ucrd07o1_400.jpg](https://68.media.tumblr.com/132bc72d95c7fdf45b694670ff707246/tumblr_oaijia2BDD1ucrd07o1_400.jpg)”/></div>
+<div style="text-align:center"><img src ="https://68.media.tumblr.com/132bc72d95c7fdf45b694670ff707246/tumblr_oaijia2BDD1ucrd07o1_400.jpg"/></div>
 
 **Fig 6.** Pokémon inspired signs made by a creative zookeeper at the Birmingham Zoo in Alabama ([Photo credit](https://zookeeperproblems.tumblr.com/post/147593322131/decided-to-jump-on-the-pokémon-go-hype-train-at): zookeeperproblems via tumblr)
 
