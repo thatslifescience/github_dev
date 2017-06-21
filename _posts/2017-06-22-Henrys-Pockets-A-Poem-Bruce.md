@@ -78,3 +78,7 @@ but after peer review.
 
 **Fig. 2** My cat Milton, sitting on the bed and showing off his Henry's pockets. (Source: Maggie Bruce)
 
+
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="How It Works" %}
