@@ -13,22 +13,11 @@ categories:
 header:
  image_fullwidth: howitworks-header.jpg
 image:
- thumb: 20170622_Bruce_thumb.jpg
+ thumb: 20170622_Bruce_thumb.JPG
 teaser: "A little rhyme about something I think about from time to time.”
 source-id: 1r39AA_AjOdtlILak8uurbSwo0SqcMie2r4_0Z1z-jsY
 published: true
 ---
-**Title: **Henry's Pocket**:**** **A Poem
-
-**Author: **Maggie Bruce
-
-**Category: **How it Works 
-
-**Keywords: **cats; Henry's pocket; evolution; anatomy; poem
-
-**Teaser: **A little rhyme about something I think about from time to time. 
-
-**Featured Photo: **Thumbnail image = Fig. 1; Featured Image = Fig. 2
 
 <div style="text-align:center"><img src ="[https://en.wikipedia.org/wiki/Henry%27s_pocket#/media/File:Katzenohr_seitlich.JPG](https://en.wikipedia.org/wiki/Henry%27s_pocket#/media/File:Katzenohr_seitlich.JPG)"/></div>
 
@@ -115,6 +104,8 @@ Bats and dogs have it, too.
 And someday we'll know its secrets,
 
 but after peer review.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/35314954281/in/dateposted-friend/" title="Bruce_20170622_fig2"><img src="https://c1.staticflickr.com/5/4254/35314954281_4939c92306_b.jpg" width="544" height="728" alt="Bruce_20170622_fig2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 **Fig. 2** My cat Milton, sitting on the bed and showing off his Henry's pockets. (Source: Maggie Bruce)
 
