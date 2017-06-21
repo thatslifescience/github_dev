@@ -1,5 +1,5 @@
 ---
-title: "Henry’s Pocket: A Poem"
+title: "Henry's Pocket: A Poem"
 layout: page
 author: mbruce
 permalink: /2017-06-22-Henry's-Pockets-A-Poem-Bruce/
