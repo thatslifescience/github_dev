@@ -23,10 +23,10 @@ published: true
 
 **Fig. 1** Looking at the side of a cat's ear gives you a great view of one of its Henry’s pockets, more formally known as cutaneous marginal pouches. (Source: [Mattes, Wikimedia Commons](https://en.wikipedia.org/wiki/Henry%27s_pocket)). 
 
-Every time I see my cats
-I am filled with joy.
-Each time they curl on my lap,
-Or bat around a toy. 
+Every time I see my cats  
+I am filled with joy.  
+Each time they curl on my lap,  
+Or bat around a toy.  
 
 Every whisker, each meow 
 does send me to the moon. 
