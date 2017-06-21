@@ -1,8 +1,8 @@
 ---
 title: "Henry's Pockets: A Poem"
 layout: page
-author: MBRUCE
-permalink: /2017-06-22-Henrys-Pockets-A-Poem-Bruce/
+author: mbruce
+permalink: /2017-06-22-Henrys-Pockets-A-Poem-MBruce/
 tags:
 - anatomy
 - evolution
@@ -14,21 +14,10 @@ header:
  image_fullwidth: howitworks-header.jpg
 image:
  thumb: 20170622_Bruce_thumb.JPG
-teaser: "A little rhyme about something I think about from time to time.”
+teaser: A little rhyme about something I think about from time to time.
 source-id: 1r39AA_AjOdtlILak8uurbSwo0SqcMie2r4_0Z1z-jsY
 published: true
 ---
-**Title: **Henry's Pocket**:**** **A Poem
-
-**Author: **Maggie Bruce
-
-**Category: **How it Works 
-
-**Keywords: **cats; Henry's pocket; evolution; anatomy; poem
-
-**Teaser: **A little rhyme about something I think about from time to time. 
-
-**Featured Photo: **Thumbnail image = Fig. 1; Featured Image = Fig. 2
 
 <div style="text-align:center"><img src ="https://upload.wikimedia.org/wikipedia/commons/4/4f/Katzenohr_seitlich.JPG"/></div>
 
