@@ -1,5 +1,5 @@
 ---
-title: 2017-04-16-Henry's-Pockets-A-Poem-Bruce.docx
+title: "Henry's Pockets: A Poem"
 layout: page
 author: MBRUCE
 permalink: /2017-06-22-Henrys-Pockets-A-Poem-Bruce/
