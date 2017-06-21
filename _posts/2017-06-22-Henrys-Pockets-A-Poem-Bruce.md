@@ -116,5 +116,7 @@ And someday we'll know its secrets,
 
 but after peer review.
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/35314954281/in/dateposted-friend/" title="Bruce_20170622_fig2"><img src="https://c1.staticflickr.com/5/4254/35314954281_4939c92306_b.jpg" width="544" height="728" alt="Bruce_20170622_fig2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 **Fig. 2** My cat Milton, sitting on the bed and showing off his Henry's pockets. (Source: Maggie Bruce)
 
