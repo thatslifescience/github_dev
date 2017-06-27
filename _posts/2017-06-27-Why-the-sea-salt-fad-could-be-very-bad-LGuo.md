@@ -19,7 +19,7 @@ teaser: Though it can be prettier and tastier than your average iodized salt, go
 source-id: 1Hq5pUNmYNI44FsmIgENwu3UXv45KEQgUXa_992MBiQI
 published: true
 ---
-<img src="2017-03-25-LGuoA.jpg">
+<img src="https://github.com/thatslifescience/thatslifesci/blob/gh-pages/images/2017-03-25-LGuoA.jpg">
 
 Gourmet salts with appealing names like Himalayan Salt and Black Truffle Sea Salt have become increasingly popular in recent years. In addition to their unique look and flavor, these alternatives to the usual iodized table salt have been advertised to be a healthier dietary choice. But are they? The reason why it's problematic to think gourmet salts are healthier is rooted in a health issue that drew national attention in the 1920s. 
 
