@@ -19,8 +19,6 @@ teaser: Though it can be prettier and tastier than your average iodized salt, go
 source-id: 1Hq5pUNmYNI44FsmIgENwu3UXv45KEQgUXa_992MBiQI
 published: true
 ---
-<img src="https://github.com/thatslifescience/thatslifesci/blob/gh-pages/images/2017-03-25-LGuoA.jpg">
-
 Gourmet salts with appealing names like Himalayan Salt and Black Truffle Sea Salt have become increasingly popular in recent years. In addition to their unique look and flavor, these alternatives to the usual iodized table salt have been advertised to be a healthier dietary choice. But are they? The reason why it's problematic to think gourmet salts are healthier is rooted in a health issue that drew national attention in the 1920s. 
 
 The story of iodized salt and human health can be seen in your own kitchen or in the spice aisle of the grocery store. If you pick up any salt container, you should see an inscription on the packaging mentioning the presence or absence of iodine (or iodide) (Fig. 1). While this text is often overlooked, including iodized salt in your diet is a simple and effective means to prevent iodine deficiency, a primary cause of [goiters](http://www.webmd.com/women/understanding-goiter-basics), [hypothyroidism](http://www.webmd.com/women/tc/hypothyroidism-topic-overview#1), and [cretinism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2791432/) (severely stunted physical and mental growth). Because we cannot make our own iodine, humans are dependent on our food to obtain iodine. These medical realizations led to some 120 countries mandating salt iodization in all food grade salts. However, salt iodization is still voluntary in the United States [1]. 
