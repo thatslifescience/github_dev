@@ -24,9 +24,7 @@ Last week was my turn to choose a paper and present it to the group, but trying 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/34883838393/in/dateposted-friend/" title="2017-07-03_emelzer_fig1"><img src="https://farm5.staticflickr.com/4232/34883838393_9e51806e04.jpg" width="494" height="264" alt="2017-07-03_emelzer_fig1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-**Fig 1.** Writing a post about FIV means that I get to look through old photos of my cats and it is an efficient use of my time!
-
-Source: Emily S. Melzer
+**Fig 1.** Writing a post about FIV means that I get to look through old photos of my cats and it is an efficient use of my time! Source: Emily S. Melzer
 
 There is a lot we can learn about HIV by comparing and contrasting to FIV.  It is thought that FIV has been infecting all species of cats for over 12,000 years [1]. This means both the virus and cats have had plenty of time to evolve defenses against each other in a never-ending arms race, as viruses and their hosts often do. The host will slowly develop an elegant immune response that will get in the way of viral infection, and given enough time the virus will develop a mechanism to counteract the host's defense. 
 
@@ -36,9 +34,7 @@ In contrast to the cat-FIV long term relationship, there is evidence that HIV is
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/34883838253/in/dateposted-friend/" title="2017-07-03_emelzer_fig2"><img src="https://farm5.staticflickr.com/4100/34883838253_65e739e610_z.jpg" width="640" height="525" alt="2017-07-03_emelzer_fig2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-**Fig 2.** Outdoor access is a major FIV risk factor
-
-Source: Emily S. Melzer
+**Fig 2.** Outdoor access is a major FIV risk factor. Source: Emily S. Melzer
 
 **What does FIV do?**
 
@@ -54,7 +50,7 @@ FIV infects about 2% of healthy domestic cats in the United States and 30% of hi
 
 If you have a cat or cats, first of all lucky you! I hope you're giving him/her all the attention and cuddles they deserve. But also, this post should not by any means scare you. FIV leaves cats with a weakened immune system, which means that there can either be no symptoms at all or there can be a variety of symptoms caused by whatever secondary infection has caught a ride with the cat’s dysfunctional immune system. Remember that vets can and do test for FIV. Even if your cat is FIV positive, both you and your cat can live out your relationship without worrying about the kitty’s health, as long as you listen to your vet. 
 
-References:
+**References**:
 
 [1] Bienzle, Dorothee. "FIV in cats–a useful model of HIV in people?." *Veterinary immunology and immunopathology* 159, no. 3 (2014): 171-179.
 
@@ -62,9 +58,9 @@ References:
 
 [3] Hartmann, Katrin. "Clinical aspects of feline retroviruses: a review." *Viruses* 4, no. 11 (2012): 2684-2710.
 
-[4] Miura, Y., and S. Kishida. "Neurological complications with HIV infection." *Brain and nerve= Shinkei kenkyu no shinpo* 65, no. 3 (2013): 275-281.
+[4] Miura, Y., and S. Kishida. "Neurological complications with HIV infection." *Brain and nerve = Shinkei kenkyu no shinpo* 65, no. 3 (2013): 275-281.
 
 
 ## More From Thats Life [Science]
 {: .t60 }
-{% include list-posts offset="1" entries="5" category="Earth's  Organisms" %}
+{% include list-posts offset="1" entries='5' category="Earth's Organisms" %}
