@@ -2,7 +2,7 @@
 title: Science for the Public – A Panel Discussion Hosted by TLS and OPD
 layout: page
 author: dnavon
-permalink: /2017-07-03-Science-for-the-Public-Panel-DNavon/
+permalink: /2017-07-06-Science-for-the-Public-Panel-DNavon/
 tags:
 - science communication
 - panel
@@ -18,20 +18,6 @@ teaser: TLS recently teamed up with the OPD to organize a panel with three scien
 source-id: 1T0kcHdU9TWDDesONDvxs1z80erL9fF87lOjJ4Fyqh0g
 published: true
 ---
-**Title**: Science for the Public – A Panel Discussion Hosted by TLS and OPD
-
-**Author**: Dina Navon
-
-**Category**: Grad School Diaries; Mini Post
-
-**Keywords**: Science Communication, Panel, Jargon, Scientific Literacy
-
-**Teaser**: TLS recently teamed up with the OPD to organize a panel with three science communicators. This post recounts a few of the highlights.
-
-For twitter, just use OPD.  For Facebook please write it out!!!
-
-**Featured photos**: Thumbnail image = Fig 1
-
 Scientists who want to share their stories with the general public need to understand their audience, said three science communicators during a recent panel sponsored by TLS and the UMass Amherst [Office of Professional Development](https://www.umass.edu/gradschool/node/615) (OPD).  The panel, consisting of two journalists and a science comic creator, emphasized the need to avoid both jargon and oversimplification simultaneously.  "We tend to overestimate readers' vocabulary and underestimate their intelligence," said one panelist – a delicate balance, difficult to achieve. When introducing a concept, they all stressed, it’s important to keep in mind that while the vocabulary may be unfamiliar, the idea itself might be fairly intuitive.  Keeping those explanations short could help move the story along to more interesting material.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/35697532085/in/dateposted-friend/" title="2017-07-06_dnavon_fig1"><img src="https://farm5.staticflickr.com/4066/35697532085_c2484104e6.jpg" width="500" height="375" alt="2017-07-06_dnavon_fig1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -42,3 +28,7 @@ The panelists included Maggie Villager, the Senior Science & Technology Editor f
 
 Overall, attendees found the panel interesting and informative. TLS was very excited to work with OPD to bring this fantastic panel to the UMass community, and we hope to continue organizing similar events in the future!
 
+
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Grad School Diaries" %}
