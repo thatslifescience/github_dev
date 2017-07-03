@@ -18,18 +18,6 @@ teaser: "Did you know that HIV has a lesser known pathogen cousin: FIV?"
 source-id: 1gnhulk8dgmEXQQOlEHEf0BCxY3lcT_FM98VhGR5cFk0
 published: true
 ---
-**Title: **Cats can have AIDS too**	**
-
-**Author(s):** Emily S. Melzer
-
-**Category:** Earth's Organisms
-
-**Keywords: **Microbiology, viruses, cats, pathogens
-
-**Teaser:** Did you know that HIV has a lesser known pathogen cousin: FIV? 
-
-**Featured Photo(s): **Thumbnail image = Fig 3.; 
-
 This semester I joined my department's pathogenesis journal club, which means that every week we meet to discuss a paper that describes how a certain disease causing agent (pathogen) gets its job done. I know that sounds like a really morbid way to spend a Wednesday afternoon, but hearing about the creative ways that bacteria, viruses, fungi, and parasites have found to use (and damage) their hosts is quite fascinating. 
 
 Last week was my turn to choose a paper and present it to the group, but trying to pick one out of countless known pathogens felt impossible. "What do I care about?" I asked myself, and the answer “CATS!” immediately popped into my head. While there are many cat pathogens to choose from, I decided to go with Feline Immunodeficiency Virus (FIV). If that acronym sounds familiar to you it's because FIV is a cousin of Human Immunodeficiency Virus (HIV). Although they are distantly related viruses, they both wreak havoc on the patient’s immune system, most notably leading to the destructive Acquired Immune Deficiency Syndrome (AIDS).
