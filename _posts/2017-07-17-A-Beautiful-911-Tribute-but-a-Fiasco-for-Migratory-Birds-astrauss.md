@@ -8,13 +8,14 @@ tags:
 - migration
 - memorial
 - 9/11
+- light
 categories:
 - Earth’s Organisms
 header:
  image_fullwidth: organisms-header.jpg
 image:
  thumb: 20170717_AStrauss_thumb.jpg
-teaser: “Manhattan’s dramatic Tribute In Light memorial to 9/11 unintentionally created a major hazard for birds during fall migration – learn all about it here!”
+teaser: Manhattan’s dramatic Tribute In Light memorial to 9/11 unintentionally created a major hazard for birds during fall migration – learn all about it here!
 source-id: 18GRVhmi-dxKJOaibsWCePkfiwhY5k4Ti7CeaJwqelwk
 published: true
 ---
