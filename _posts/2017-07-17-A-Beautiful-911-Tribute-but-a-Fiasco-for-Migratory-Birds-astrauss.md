@@ -18,17 +18,6 @@ teaser: “Manhattan’s dramatic #TributeInLight memorial to #911 unintentional
 source-id: 18GRVhmi-dxKJOaibsWCePkfiwhY5k4Ti7CeaJwqelwk
 published: true
 ---
-** ****Title**: A Beautiful 9/11 Tribute, but a Fiasco for Migratory Birds
-
-**Author**: Amy V. H. Strauss
-
-**Category**: Earth's Organisms
-
-**Keywords**: birds, light, migration, 9/11, memorial 
-
-**Social media blurb: **Manhattan's dramatic #TributeInLight memorial to #911 unintentionally created a major hazard for #birds during fall #migration – learn all about it here!
-
-**Featured Photo(s)**: Thumbnail image = Fig. 1, Featured image = Fig. 1
 
 Every year on September 11th, two brilliant light beams are projected high into the sky from Lower Manhattan as a powerful tribute to those lost during the tragic attacks of September 11th, 2001 (Fig. 1). The beams were initially set up as a temporary installation by the Municipal Art Society of New York, but have been so well received that they are now an annual installation of remembrance run by the National 9/11 Memorial & Museum. 
 
@@ -68,3 +57,6 @@ With a little teamwork and a lot of communication across groups, a simple soluti
 
 [3] "Making the 9/11 Memorial Lights Bird-Safe". The National Audubon Society, 2015. Web. [www.audubon.org](http://www.audubon.org). Access 28 March 2017.
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Earth's Organisms" %}
