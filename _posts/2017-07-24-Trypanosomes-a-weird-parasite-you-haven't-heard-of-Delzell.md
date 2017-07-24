@@ -18,16 +18,6 @@ teaser: Ever wonder what parasites are up to when they’re not bothering people
 source-id: 1G07n9ivIcwVDti5irZNUo40UOz5xtLNoUnwAgsQKNdk
 published: true
 ---
-Title: African Trypanosomes: A Weird Pathogen You Haven't Heard Of
-
-Author: Stephanie Delzell
-
-Category: Earth's Organisms
-
-Teaser:  Ever wonder what parasites are up to when they're not bothering people? Take a look at the secret lives of parasites.
-
-Keywords: Parasites, Trypanosomes, Trypanosomiasis, humans
-
 I am personally always enthralled to hear the stories of people who have lived lives with a diverse array of experiences, bouncing from career to career or country to country as they please, perfectly adapting to each new role. People like this are so impressive to me because of how they are able to re-create themselves to succeed in a number of environments, while many of us learn the rules and habits of one world, get comfortable, and stick to it. 
 
 What is more impressive than these people who adapt to different lifestyles are the parasites that have adapted to infect them. Most parasites by nature live in an array of different hosts throughout a single lifetime, and have to change their physical form drastically to be able to survive in these different environments. 
@@ -38,7 +28,7 @@ This is not a  much more akin to the crazy-pants, unbelievable change of transfo
 
 Another parasite that has to make big life changes is the African trypanosome. If you've never heard of such a thing, don’t feel too bad. Neither had I until recently, when I started doing research on the little guys. Now their mysterious inner workings possess a great deal of my mental capacity, and the maintenance of their health in my lab takes up a chunk of my time every day. In short, I promise they are a real thing (but don’t take my word for it, check out my citations!). Trypanosomes, like *Plasmodium*, are a single-celled parasite, but instead of being spread by mosquitoes, they are spread by an insect called the Tsetse fly. I promise this is also a real thing. Tsetse flies are found in Sub-Saharan Africa and have a painful bite.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/35299867474/in/dateposted-friend/" title="Print"><img src="https://farm5.staticflickr.com/4304/35299867474_a686d960b8_z.jpg" width="640" height="267" alt="Print"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/35299867474/in/dateposted-friend/" title="Print"><img src="https://farm5.staticflickr.com/4304/35299867474_a686d960b8_z.jpg" width="640" height="267" alt="Print"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
 **Fig. 1** Bloodstream-form trypanosomes among red blood cells (left) and a Tsetse fly at meal time (right) (https://www.cdc.gov/parasites/sleepingsickness/epi.html).
 
@@ -52,7 +42,11 @@ Without treatment, African Trypanosomiasis is fatal, and treatment in the second
 
 [1] "Parasites – African Trypanosomiasis" Center for Disease Control. Last modified: August 29, 2012 [https://www.cdc.gov/parasites/sleepingsickness/gen_info/index.html](https://www.cdc.gov/parasites/sleepingsickness/gen_info/index.html),
 
-# [2] "Trypanosomiasis, human African (sleeping sickness)" World Health Organization. Last modified: January 2017. [http://www.who.int/mediacentre/factsheets/fs259/en/](http://www.who.int/mediacentre/factsheets/fs259/en/)
+[2] "Trypanosomiasis, human African (sleeping sickness)" World Health Organization. Last modified: January 2017. [http://www.who.int/mediacentre/factsheets/fs259/en/](http://www.who.int/mediacentre/factsheets/fs259/en/)
 
-[3]Lutje, Vittoria, Jorge Seixas, and Adrian Kennedy. "[Chemotherapy for second-stage Human African trypanosomiasis.](http://onlinelibrary.wiley.com/doi/10.1002/14651858.CD006201.pub2/full)" *Cochrane Database of Systematic Reviews* 8 (2010).
+[3] Lutje, Vittoria, Jorge Seixas, and Adrian Kennedy. "[Chemotherapy for second-stage Human African trypanosomiasis.](http://onlinelibrary.wiley.com/doi/10.1002/14651858.CD006201.pub2/full)" *Cochrane Database of Systematic Reviews* 8 (2010).
+
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries="5" category="Earth's Organisms" %}
 
