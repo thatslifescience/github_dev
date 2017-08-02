@@ -21,7 +21,7 @@ published: true
 ---
 Every time an episode of Bones or CSI opens with someone not realizing they have stumbled upon a body until they are covered in its juices, I can't help but wonder how they managed to get so close to the corpse without vomiting. For it is a severe understatement to say that rotting flesh – a scent which can punctuate an otherwise fine summer’s day – smells horrendous. 
 
-*But why does death smell so much like – well – death? *
+*But why does death smell so much like – well – death?*
 
 This is yet [another](http://thatslifesci.com.s3-website-us-east-1.amazonaws.com/2016-11-01-Employee-of-the-Month-Hire-a-Microbe-to-Do-Your-Work-Melzer/) thing we can thank microbes for.
 
@@ -29,13 +29,13 @@ When an animal dies, it typically undergoes a [four stage decomposition process]
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/36155093802/in/dateposted-friend/" title="Print"><img src="https://farm5.staticflickr.com/4342/36155093802_dbf2fbc514_z.jpg" width="640" height="485" alt="Print"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-****Fig. ****1******** The complete decomposition process of a pig. Top left – a fresh body. Top right – bloat phase. Bottom left – rupture phase, where the surrounding vegetation has been killed by the sudden influx of nutrients from the body. The white dots are – as you probably guessed – maggots. This is the stage you really, really do not want to fall over onto. Bottom right – skeleton. Image from Hbreton19 via [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/c/ce/Example_of_a_pig_carcass_in_the_active_decay_stage_of_decomposition.jpg).  
+**Fig. 1** The complete decomposition process of a pig. Top left – a fresh body. Top right – bloat phase. Bottom left – rupture phase, where the surrounding vegetation has been killed by the sudden influx of nutrients from the body. The white dots are – as you probably guessed – maggots. This is the stage you really, really do not want to fall over onto. Bottom right – skeleton. Image from Hbreton19 via [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/c/ce/Example_of_a_pig_carcass_in_the_active_decay_stage_of_decomposition.jpg).  
 
 This enzymatic activity causes the body to become this nice soupy free-for-all in which bacteria present in the gut of the animal begin to really proliferate. Some of the more distinctive smells of death begin to form at this time. For instance, as the proteins which make up our muscles, heart, gut, and other body tissues break down, putrescine and cadaverine are produced (Figure 2). As distinctive odor components of the kinds of rotting meat we would want to avoid eating, we have evolved to be able to smell even the tiniest amounts of these compounds.
 
 <div style="text-align:center"><img src ="http://www.compoundchem.com/wp-content/uploads/2014/10/The-Chemistry-of-the-Smell-of-Death.png"/></div>
 
-****Fig. 2**** Becoming a skeleton is a stinky business! This image, taken from [Compound Interest](http://www.compoundchem.com/wp-content/uploads/2014/10/The-Chemistry-of-the-Smell-of-Death.png), shows a subset of the compounds that make bodies smell.
+**Fig. 2** Becoming a skeleton is a stinky business! This image, taken from [Compound Interest](http://www.compoundchem.com/wp-content/uploads/2014/10/The-Chemistry-of-the-Smell-of-Death.png), shows a subset of the compounds that make bodies smell.
 
 The next phase of decomposition is referred to as the "bloating phase". Microbes produce gases as waste products when they rapidly consume the body, and these trapped gases cause the belly to become distended. The microbes eat so fast during this time that they use up most of the oxygen present in the corpse; like us, many bacteria prefer to “breathe” oxygen and make carbon dioxide as a waste product. However, when all the oxygen available is consumed, bacteria start to use other compounds which form much stinkier products such as hydrogen sulfide (rotten egg smell). Putrescine, cadaverine, and other stinkers such as skatole (faeces), indole (mothballs), methanethiol (rotting cabbage), and dimethyl disulfide (garlic) continue to be produced as a wide variety of microbes use different methods to break down the various components of the decaying body. Some of these compounds are semi-characteristic of human decomposition, including diethyl-disulfide (oniony), propyl propionate (pineapple-scented), and pyridine (rotting fish smell) [3]. 
 
@@ -47,11 +47,16 @@ Finally, the body doesn't smell offensive and you can breathe freely until the n
 
 **References:**
 
- [1] Metcalf, Jessica L., Laura Wegener Parfrey, Antonio Gonzalez, Christian L. Lauber, Dan Knights, Gail Ackermann, Gregory C. Humphrey et al. "[A microbial clock provides an accurate estimate of the postmortem interval in a mouse model system](https://elifesciences.org/articles/01104)." *eL**ife* 2 (2013): e01104.
+[1] Metcalf, Jessica L., Laura Wegener Parfrey, Antonio Gonzalez, Christian L. Lauber, Dan Knights, Gail Ackermann, Gregory C. Humphrey et al. "[A microbial clock provides an accurate estimate of the postmortem interval in a mouse model system](https://elifesciences.org/articles/01104)." *eLife* 2 (2013): e01104.
 
-[2] Can, Ismail, Gulnaz T. Javan, Alexander E. Pozhitkov, and Peter A. Noble. "[Distinctive thanatomicrobiome signatures found in the blood and internal organs of humans](https://www.researchgate.net/publication/264502497_Distinctive_thanatomicrobiome_signatures_found_in_the_blood_and_internal_organs_of_humans)." *Journal of **M**icrobiological **M**ethods* 106 (2014): 1-7.
+[2] Can, Ismail, Gulnaz T. Javan, Alexander E. Pozhitkov, and Peter A. Noble. "[Distinctive thanatomicrobiome signatures found in the blood and internal organs of humans](https://www.researchgate.net/publication/264502497_Distinctive_thanatomicrobiome_signatures_found_in_the_blood_and_internal_organs_of_humans)." *Journal of Microbiological Methods* 106 (2014): 1-7.
 
-[3] Rosier, Elien, S. Loix, Wim Develter, Wim Van de Voorde, Jan Tytgat, and Eva Cuypers. "[The search for a volatile human specific marker in the decomposition process](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0137341)." *P**LO**S **ONE* 10, no. 9 (2015): e0137341.
+[3] Rosier, Elien, S. Loix, Wim Develter, Wim Van de Voorde, Jan Tytgat, and Eva Cuypers. "[The search for a volatile human specific marker in the decomposition process](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0137341)." *PLOS ONE* 10, no. 9 (2015): e0137341.
 
-[4] Hyde, Embriette R., Daniel P. Haarmann, Joseph F. Petrosino, Aaron M. Lynne, and Sibyl R. Bucheli. "[Initial insights into bacterial succession during human decomposition](https://www.researchgate.net/publication/268877024_Initial_insights_into_bacterial_succession_during_human_decomposition)." *International **J**ournal of **L**egal **M**edicine* 129, no. 3 (2015): 661-671.
+[4] Hyde, Embriette R., Daniel P. Haarmann, Joseph F. Petrosino, Aaron M. Lynne, and Sibyl R. Bucheli. "[Initial insights into bacterial succession during human decomposition](https://www.researchgate.net/publication/268877024_Initial_insights_into_bacterial_succession_during_human_decomposition)." *International *Journal of Legal Medicine* 129, no. 3 (2015): 661-671.
+
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries="5" category="How It Works" %}
+
 
