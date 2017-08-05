@@ -18,18 +18,6 @@ teaser: “Hormones can get hairy. Find out 5 things you might not have known ab
 source-id: 1bfvW9SY0zTg7aER6ljTwPyZ_LTmEng6GMA-NUkazpi8
 published: true
 ---
-**Title:** 5 Fun Facts about Hormones
-
-**Author:** Amanda A. Krentzel
-
-**Category:** How It Works
-
-**Key words:** Hormones, Human, Brain, Myths
-
-**Teaser:** Hormones can get hairy. Find out 5 things you might not have known about these chemicals.
-
-**Featured Photo:** Featured Image = Fig.  4
-
 Hormones get a lot of attention. We attribute them to why teenagers are moody, and we're wary of how they’re affecting the food we eat. Most people have a sense that they’re important players in sexual attraction, aggression, and pregnancy. But sometimes there are misconceptions about the complexity of hormones and just how cool they can be. Here are 5 things you might not have known about hormones!
 
 *1. Both men and women need estrogen and testosterone*
@@ -42,7 +30,7 @@ Testosterone and estradiol (which is the proper name for "estrogen") are known a
 
 **Figure 1** Steroids are defined by their four carbon rings chemical structure. Here, you can see how the chemical structure of both testosterone and estradiol are similar to cholesterol. Source: own figure adapted from [public domain](https://commons.wikimedia.org/wiki/File%3ASteroidogenesis.png). 
 
-*2. Women aren't exactly "hormonal" when they are on their periods. *
+*2. Women aren't exactly "hormonal" when they are on their periods.*
 
 A common misconception in the media is that women are being "hormonal" when they have their period – also known as menses. During the menstrual cycle, there is a short time window when the ovary makes a lot of estradiol that triggers the release of an egg. When this egg is waiting to be fertilized, the other steroid hormone, progesterone increases. When fertilization doesn't occur, both estradiol and progesterone levels dramatically drop. This lack of hormones is what triggers the uterus to contract and dispel its contents. So, when women have their periods, this is the lowest their hormones are in their cycle.
 
