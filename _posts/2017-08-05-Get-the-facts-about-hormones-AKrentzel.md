@@ -9,7 +9,7 @@ tags:
 - brain
 - myths
 categories:
-Earth’s Organisms or Our Ecosystems or Grad School Diaries or  How It Works
+- How It Works
 header:
  image_fullwidth: howitworks-header.jpg
 image:
