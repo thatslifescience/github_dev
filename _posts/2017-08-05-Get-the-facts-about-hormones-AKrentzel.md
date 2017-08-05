@@ -14,7 +14,7 @@ header:
  image_fullwidth: howitworks-header.jpg
 image:
  thumb: 20170805AKrentzel_thumb.jpg
-teaser: “Hormones can get hairy. Find out 5 things you might not have known about these chemicals.”
+teaser: Hormones can get hairy. Find out 5 things you might not have known about these chemicals.
 source-id: 1bfvW9SY0zTg7aER6ljTwPyZ_LTmEng6GMA-NUkazpi8
 published: true
 ---
