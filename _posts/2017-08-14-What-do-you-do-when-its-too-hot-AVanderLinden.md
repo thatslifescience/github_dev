@@ -53,9 +53,9 @@ Feasibility for me: sounds good, this will be my strategy for the next several m
 
 **References:**
 
-1. Robertshaw, D. "[Mechanisms for the control of respiratory evaporative heat loss in panting animals](http://jap.physiology.org/content/101/2/664)." *Journal of Applied Physiology * 101 (2006): 664-668
+1. Robertshaw, D. "[Mechanisms for the control of respiratory evaporative heat loss in panting animals](http://jap.physiology.org/content/101/2/664)." *Journal of Applied Physiology* 101 (2006): 664-668
 
-2. Kearney, M. "[Hot rocks and much-too-hot rocks: seasonal patterns of retreat-site selection by a nocturnal ectotherm.](http://www.sciencedirect.com/science/article/pii/S0306456501000857)" *Journal of Thermal Biology *27 (2002): 205-218
+2. Kearney, M. "[Hot rocks and much-too-hot rocks: seasonal patterns of retreat-site selection by a nocturnal ectotherm.](http://www.sciencedirect.com/science/article/pii/S0306456501000857)" *Journal of Thermal Biology* 27 (2002): 205-218
 
 3. Geiser, F. "[Aestivation in mammals and birds](https://link.springer.com/chapter/10.1007/978-3-642-02421-4_5)." *Aestivation: Molecular and Physiological Aspects* (2009): 95-111. 
 
