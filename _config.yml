@@ -29,7 +29,7 @@ description:
 credits: "<p>Created with &hearts; in Amherst, MA</p>"
 author: 
 url: ""
-baseurl: "/thatslifesci"
+baseurl: "/thatslifesci/"
 improve_content: 
 urlimg: "/thatslifesci/images/"
 logo: logo.png
