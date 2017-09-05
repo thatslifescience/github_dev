@@ -14,7 +14,7 @@ categories:
 header:
  image_fullwidth: organisms-header.jpg
 image:
- thumb: astrauss_20170905_thumb.jpg
+ thumb: astrauss_20170905_thumb2.jpg
 teaser: Humans aren’t the only nosy creatures out there – animals eavesdrop too! Read all about eavesdropping in the animal kingdom
 source-id: 1AWq8Bh3ZlTRXBClDT6kuDdI-_ux6Lu9CoN9JKNSE4kg
 published: true
