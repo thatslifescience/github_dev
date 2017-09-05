@@ -19,18 +19,6 @@ teaser: “Humans aren’t the only nosy creatures out there – animals eavesdr
 source-id: 1AWq8Bh3ZlTRXBClDT6kuDdI-_ux6Lu9CoN9JKNSE4kg
 published: true
 ---
-**Title: **Eavesdropping in the Animal Kingdom: Sneaky Creatures Just Trying to Get Ahead
-
-**Author**: Amy V. H. Strauss
-
-**Category**: Earth's Organisms
-
-**Keywords**: eavesdropping, evolution, communication, birds, whales
-
-**Social Media Blurb**: #Humans aren't the only nosy #creatures out there – #animals #eavesdrop too! Read all about #eavesdropping in the #animalkingdom.
-
-**Featured Photo(s)**: Thumbnail image = Fig. 2, Featured image = Fig. 2
-
 Humans do it all the time – commuters listen in on the chatty group behind them on the train, kids try to hear their parents arguing, and employees eavesdrop on their bosses making important phone calls. Eavesdropping, the act of secretly listening in on a conversation between other people, stems from genuine curiosity…but it can also be helpful for obtaining information that may be useful to us, despite it not being *meant* for us. It turns out that this practice isn't unique to humans – eavesdropping has been documented in many animal species and it may even be adaptive, leading to improved survival or increased reproductive success for those sneaky individuals that can use the information they glean through eavesdropping. 
 
 A great example of a likely 'eavesdropper'-‘eavesdroppee’ relationship is predators and their prey. Snakes, for example, might be more successful at catching frogs if they listen for the frogs’ courtship calls (calls intended to lure in sexy lady frogs…*not* intended to help out hungry snake predators). Snakes can use this intercepted information (the calls) to determine the location of the frogs and their eggs (delicious food). This is just one example of how an animal might use eavesdropping to get ahead. This phenomenon, however, creates a conflict of interest between animal eavesdroppers and eavesdroppees. Sometimes, an ‘evolutionary arms race’ scenario emerges where over time, one group evolves enhanced eavesdropping abilities (like better hearing – that’d be the snakes) while the other group counters that by evolving defenses against being eavesdropped on (like more cryptic communication – that’d be the frogs). Over time, communication in frogs likely evolves to maximize the *intended* functions (i.e. attracting lady frogs) while minimizing the *unintended* consequences (i.e. getting eaten). An evolutionary balancing act, no doubt. Read on as we explore some recent research into the world of sneaky eavesdropping animals!
@@ -57,3 +45,6 @@ These are just two examples of recent case studies of eavesdropping documented i
 
 [2] Rebecca A. Dunlop and Michael J. Noad. "The “risky" business of singing: tactical use of song during joining by humpback whales,” *Behavioral Ecology and Sociobiology *70 (2016): 2149-2160, accessed April 2, 2017, doi: [10.1007/s00265-016-2218-8](http://link.springer.com/article/10.1007/s00265-016-2218-8).
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Earth's Organisms" %}
