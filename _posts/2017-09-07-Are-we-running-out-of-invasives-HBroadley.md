@@ -18,17 +18,6 @@ teaser: Have we already experienced so many invasive species that we’re exhaus
 source-id: 1v6XwoKpcGdpVe5pm9uQINB0ZcTf95iLwfSJ2P-7R7wE
 published: true
 ---
-**Title:** Are We Running Out of Invasives?  
-
-**Author:** Hannah J. Broadley 
-
-**Teaser:** Have we already experienced so many invasive species that we're exhausting the pool of potential species?  
-
-**Category:** Our Ecosystems
-
-**Keywords:** Invasive species, insects, environmental conservation, regulation 
-
-**Featured photo:** Fig. 2 
 
 We live in a time of global trade, and with this trade of goods we often unwittingly introduce invasive, non-native species.  Invasive species are non-native species that get moved from their native place of origin to a new location, establish, and reproduce such that they outcompete native species.  They are typically able to thrive in their new environment because they are released from the sources of mortality (e.g. pathogens, parasites, predators, competition, limited resources, or climatic conditions) that they experienced in their native range.  In the United States, have we already experienced so many introductions of invasive species that we're starting to exhaust the pool of potential species?  This is a vital question for predicting the future welfare of our agriculture, environment, and society.  
 
@@ -60,19 +49,17 @@ This research is the first step. To mitigate the effects of accidental introduct
 
 As a graduate student [studying the invasive forest insect winter moth](http://thatslifesci.com.s3-website-us-east-1.amazonaws.com/2017-03-27-The-hungry-caterpillar-in-real-life-HBroadley/), I have invested my career in studying the effects and management strategies of invasives that have already established in the United States.  However, I hope to see fewer and fewer species of concern as my career unfolds. Unfortunately, we can't expect this to happen all by itself. From Dr. Leibhold’s research, it seems that rates of new invasive introductions will only slow down if the United States follows the lead of other countries and implements more rigorous screening programs for incoming vessels and their cargo.  
 
-**References: **
+**References:**
 
 1. Journey with Nature: Kudzu. The Nature Conservancy. [https://www.nature.org/ourinitiatives/regions/northamerica/unitedstates/indiana/journeywithnature/kudzu-invasive-species.xml](https://www.nature.org/ourinitiatives/regions/northamerica/unitedstates/indiana/journeywithnature/kudzu-invasive-species.xml). (accessed June 17, 2017).
 
 2. Webster, C.R.; Jenkins, M. A. & Jose, S. "Woody Invaders and the Challenges They Pose to Forest Ecosystems in the Eastern United States" *Journal of Forestry*, 2006. 104: p. 366-274.
 
- 3. USDA/Agricultural Research Service. "Controlling Kudzu With Naturally Occurring Fungus." *ScienceDaily*. [www.sciencedaily.com/releases/2009/07/090719185107.htm](http://www.sciencedaily.com/releases/2009/07/090719185107.htm) (accessed June 17, 2017).
+3. USDA/Agricultural Research Service. "Controlling Kudzu With Naturally Occurring Fungus." *ScienceDaily*. [www.sciencedaily.com/releases/2009/07/090719185107.htm](http://www.sciencedaily.com/releases/2009/07/090719185107.htm) (accessed June 17, 2017).
 
 4. EAB Information Network. [http://www.emeraldashborer.info/](http://www.emeraldashborer.info/) (accessed June 17, 2017).
 
 5. Pimentel, D., R. Zuniga, and D. Morrison. 2004. Update on the environmental and economic costs associated with alien-invasive species in the United States. *Ecological Economics, *2005*. *52 (3):p. 273-288
-
- 
 
 6. Corn, L.C., E.H. Buck, J. Rawson, and E. Fischer. Harmful Non-Native Species: Issues for Congress. *Congressional Research Service Issue Brief*, RL30123, 1999.
 
