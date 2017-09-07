@@ -9,7 +9,7 @@ tags:
 - regulation
 - environmental conservation
 categories:
- -Our Ecosystems
+- Our Ecosystems
 header:
  image_fullwidth: ecosystem-header.jpg
 image:
