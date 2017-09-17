@@ -29,9 +29,9 @@ description:
 credits: "<p>Created with &hearts; in Amherst, MA</p>"
 author: 
 url: ""
-baseurl: "/thatslifesci"
+baseurl: ""
 improve_content: 
-urlimg: "/thatslifesci/images/"
+urlimg: "/images/"
 logo: logo.png
 gems:
 - jekyll-gist
