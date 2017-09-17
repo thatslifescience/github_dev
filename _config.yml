@@ -58,7 +58,7 @@ paginate_path: "/page:num/"   # Pagination path › Important for blog page in /
 
 # Theme works best with Kramdown (using the table of contents function)
 markdown: kramdown
-permalink: /:categories/:title/
+permalink: /thatslifesci/:categories/:title/
 highlight: rouge
 excerpt_separator: "<!--more-->"
 include: ['.htaccess']
