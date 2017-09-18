@@ -41,7 +41,7 @@ Fixating our eyes is the way we see the world in super resolution. Scientists us
 Here's [another](https://www.youtube.com/watch?v=G-lN8vWm3m0 ) example of how different competing stimulations can mess with our perception depending on where you direct your attention. 
 
 **Is this going to be on the test?**
-Phenomena like these are found in everyday life. If you grab a blender and mix 2 parts of perception attentional modulation, with 3 parts competing stimuli (noises, odors, …) and one big emotional event, you can create a very distorted reality that will be stored as a *[false memory](https://en.wikipedia.org/wiki/False_memory)*. False memories are recollections of events that did not happen . I'm OK remembering the time when I discovered teleportation, but when you need someone to testify whether a car ran into the intersection during a red light or identify faces in a prison lineup, false memories can cause big problems [3].      
+Phenomena like these are found in everyday life. If you grab a blender and mix 2 parts of perception attentional modulation, with 3 parts competing stimuli (noises, odors, …) and one big emotional event, you can create a very distorted reality that will be stored as a *[false memory](https://en.wikipedia.org/wiki/False_memory)*. False memories are recollections of events that did not happen. I'm OK remembering the time when I discovered teleportation, but when you need someone to testify whether a car ran into the intersection during a red light or identify faces in a prison lineup, false memories can cause big problems [3].      
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/37139786772/in/dateposted-friend/" title="2017-09-18-MAndinaD"><img src="https://farm5.staticflickr.com/4430/37139786772_a23b1df5c6.jpg" width="500" height="282" alt="2017-09-18-MAndinaD"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 **Fig 4.** Image taken from "The Usual Suspects" ([https://es.wikipedia.org/wiki/The_Usual_Suspects](https://es.wikipedia.org/wiki/The_Usual_Suspects)). Edited by Matias Andina.
@@ -54,6 +54,7 @@ Note: Throughout the article I used a loose, non-scientific, definition of atten
 [1] [http://www.dansimons.com/research.html](http://www.dansimons.com/research.html)
 [2] Abrams, R. A., and S. E. Christ. "Motion Onset Captures Attention." Psychological Science 14, no. 5 (2003): 427-32. doi:10.1111/1467-9280.01458.
 [3] [http://www.nature.com/news/evidence-based-justice-corrupted-memory-1.13543](http://www.nature.com/news/evidence-based-justice-corrupted-memory-1.13543)
+
 
 ## More From Thats Life [Science]
 {: .t60 }
