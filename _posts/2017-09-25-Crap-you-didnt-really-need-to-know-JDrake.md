@@ -8,7 +8,7 @@ tags:
 - animals
 - field work
 categories:
- How It Works
+- How It Works
 header:
  image_fullwidth: howitworks-header.jpg
 image:
@@ -49,5 +49,7 @@ And that's what we can figure out just by finding the poo, let alone looking int
 
 [2] Woodroffe, G. L., J. H. Lawton, and W. L. Davidson. "P[atterns in the production of latrines by water voles (Arvicola terrestris) and their use as indices of abundance in population surveys](http://onlinelibrary.wiley.com/doi/10.1111/j.1469-7998.1990.tb04317.x/full)." *Journal of Zoology* 220, no. 3 (1990): 439-445
 
-## More From Thats Life [Science]{: .t60 }{% include list-posts offset="1" entries='5' category="How It Works" %}.
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="How It Works" %}.
 
