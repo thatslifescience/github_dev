@@ -8,7 +8,7 @@ tags:
 - animals
 - field work
 categories:
- -How It Works
+- How It Works
 header:
  image_fullwidth: howitworks-header.jpg
 image:
