@@ -13,7 +13,7 @@ header:
  image_fullwidth: howitworks-header.jpg
 image:
  thumb: jdrake_thumb.jpg
-teaser:  How do you count an animal you can’t see, hear, or find? By its poo of course!
+teaser:  "How do you count an animal you can’t see, hear, or find? By its poo of course!"
 source-id: 1S2k2P4AjuXZykzY8AAhKyEoiGVjUP40KHgRmRpOlrgQ
 published: true
 ---
