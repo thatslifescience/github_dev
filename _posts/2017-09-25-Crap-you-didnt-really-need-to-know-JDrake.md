@@ -1,5 +1,5 @@
 ---
-title: Crap you didn’t really need to know…
+title: "Crap you didn’t really need to know…"
 layout: page
 author: jdrake
 permalink: /2017-09-25-Crap-you-didnt-really-need-to-know-JDrake/
