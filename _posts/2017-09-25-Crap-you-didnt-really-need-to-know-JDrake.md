@@ -1,11 +1,11 @@
 ---
-title: "Crap you didn’t really need to know…"
+title: Crap you didn’t really need to know
 layout: page
 author: jdrake
 permalink: /2017-09-25-Crap-you-didnt-really-need-to-know-JDrake/
 tags:
-- ecology
 - animals
+- ecology
 - field work
 categories:
 - How It Works
@@ -13,7 +13,7 @@ header:
  image_fullwidth: howitworks-header.jpg
 image:
  thumb: jdrake_thumb.jpg
-teaser:  "How do you count an animal you can’t see, hear, or find? By its poo of course!"
+teaser: "How do you count an animal you can’t see, hear, or find? By its poo of course!"
 source-id: 1S2k2P4AjuXZykzY8AAhKyEoiGVjUP40KHgRmRpOlrgQ
 published: true
 ---
