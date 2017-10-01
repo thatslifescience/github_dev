@@ -1,5 +1,5 @@
 ---
-title: *Monotropa uniflora* - This wildflower is pretty wild
+title: Monotropa uniflora - This wildflower is pretty wild
 layout: page
 author: efusco
 permalink: /2017-10-02-Monotropa-uniflora-This-wildflower-is-pretty-wild-EFusco/
