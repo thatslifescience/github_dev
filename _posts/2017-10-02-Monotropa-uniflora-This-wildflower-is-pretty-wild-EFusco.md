@@ -27,9 +27,9 @@ If you go for a summer walk in the woods almost anywhere in the US, you could st
 **Fig. 2** A closer look at the inside of an Indian pipe flower. Image credit: Emily Fusco
 
 **References:**
-[1] "Monotropa uniflora – Ghost Plant, Indian Pipe." Monotropa uniflora. Accessed September 1, 2017. https://www.fs.fed.us/wildflowers/beauty/mycotrophic/monotropa_uniflora.shtml.
-[2] Wilson, Hugh D. Monotropacae- The Indian Pipe Family. Monotropacae Page. May 2011. Accessed September 1, 2017. [http://botany.csdl.tamu.edu/FLORA/Wilson/tfp/dil/mntpage2.htm](http://botany.csdl.tamu.edu/FLORA/Wilson/tfp/dil/mntpage2.htm)
-[3] Yang, S., & Pfister, D. H. (2006).[ Monotropa uniflora plants of eastern Massachusetts form mycorrhizae with a diversity of russulacean fungi](http://www.tandfonline.com/doi/full/10.1080/15572536.2006.11832656). *Mycologia*, *98*(4), 535-540.
+[1] "Monotropa uniflora – Ghost Plant, Indian Pipe." Monotropa uniflora. Accessed September 1, 2017. https://www.fs.fed.us/wildflowers/beauty/mycotrophic/monotropa_uniflora.shtml.<br>
+[2] Wilson, Hugh D. Monotropacae- The Indian Pipe Family. Monotropacae Page. May 2011. Accessed September 1, 2017. [http://botany.csdl.tamu.edu/FLORA/Wilson/tfp/dil/mntpage2.htm](http://botany.csdl.tamu.edu/FLORA/Wilson/tfp/dil/mntpage2.htm)<br>
+[3] Yang, S., & Pfister, D. H. (2006).[ Monotropa uniflora plants of eastern Massachusetts form mycorrhizae with a diversity of russulacean fungi](http://www.tandfonline.com/doi/full/10.1080/15572536.2006.11832656). *Mycologia*, *98*(4), 535-540.<br>
 
 ## More From Thats Life [Science]
 {: .t60 }
