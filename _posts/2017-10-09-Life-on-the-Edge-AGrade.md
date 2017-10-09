@@ -9,7 +9,7 @@ tags:
 - edge effects
 - landscape ecology
 categories:
-Our Ecosystems
+- Our Ecosystems
 header:
  image_fullwidth: ecosystem-header.jpg
 image:
@@ -18,21 +18,9 @@ teaser: “Edges exist in nature, but what happens when humans continue to fragm
 source-id: 1FNVHQNU3Jn0RINLYG6J-yrLnKnQ4IKCpb3qHWzXvLIU
 published: true
 ---
-**Title:** Life on the Edge: 3 Important Ways that Habitat Edges Affect Forests 
-
-**Author:** Aaron Grade
-
-**Categories:** Our Ecosystems
-
-**Keywords: **Ecology, Conservation, Edge Effects, Landscape Ecology
-
-**Teaser:** Edges exist in nature, but what happens when humans continue to fragment habitat? 
-
-**Featured Image: Fig 4**
-
 	Sometimes, while flying to some far-off destination, I look down at the patchwork of roads, forests, cities, and farms that make up the New England landscape. Staring out the window, I wonder how humans, the ultimate "[ecosystem engineers](https://en.wikipedia.org/wiki/Ecosystem_engineer)", have altered the natural way that plants, animals, and the landscape interact with each other. In 2002, a paper was published in the journal *Conservation Biology* that summarized the findings of a 22-year-long study on just this question [1]. When I first read “[Ecosystem Decay of Amazonian Forest Fragments: A 22-Year Investigation](http://plantecology.syr.edu/conbio/readings/Laurance_ea2002.pdf)” by William Laurance and colleagues, I was struck by both the massive scale of the study and the results they found.
-
-![image alt text]({{ site.url }}/public/76v8sYXpwlsMZVa53v3A_img_0.jpg)
+	
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/37543084136/in/dateposted-friend/" title="agrade20171009_1"><img src="https://farm5.staticflickr.com/4504/37543084136_c00ab3cb55_c.jpg" width="800" height="418" alt="agrade20171009_1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 **Fig. 1** The study area for the Biological Dynamics of Forest Fragments Project, one of the largest, longest running, and most expensive ecological experiments in history. [[1](http://onlinelibrary.wiley.com/doi/10.1046/j.1523-1739.2002.01025.x/epdf)] Reproduced with permission from Conservation Biology. Copyright 2002 John Wiley & Sons, Ltd.
 
@@ -48,7 +36,7 @@ Here are three key findings from the study:
 
 	When the forest area was fragmented, scientists found lower species richness - a simple count of number of species - than in a forest area of the same size that wasn't fragmented from the rest of the forest. What this means is you might have 100 species of birds in a soccer field-sized forest surrounded by farms, but a soccer field-sized area of forest inside of a much larger forest would have 200 species of birds. 
 
-![image alt text]({{ site.url }}/public/76v8sYXpwlsMZVa53v3A_img_1.png)
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/37333542520/in/dateposted-friend/" title="agrade20171009_3"><img src="https://farm5.staticflickr.com/4455/37333542520_987c6b89bb_z.jpg" width="599" height="514" alt="agrade20171009_3"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 **Fig. 3** Even when surveying the same amount of forest, the number of species in a given area is far greater when it is within an intact forest than when it is fragmented[[1](http://onlinelibrary.wiley.com/doi/10.1046/j.1523-1739.2002.01025.x/epdf)] Reproduced with permission from Conservation Biology. Copyright 2002 John Wiley & Sons, Ltd.
 
