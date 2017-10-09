@@ -27,7 +27,7 @@ Sometimes, while flying to some far-off destination, I look down at the patchwor
 
 The famed [Dr. Thomas Lovejoy](http://centerforbiodiversityandsustainability.weebly.com/about.html), along with many other researchers of the [Biological Dynamics of Forest Fragments Project](https://www.amazonbiodiversitycenter.org/about_us) (BDFFP) experimentally manipulated a 1,000-square kilometer forest in the Amazon by working with ranchers to strategically clear pastures for cattle grazing. The patches of forest surrounded by clearings were measured in hectares, and 1 hectare is about the size of a soccer field. They wound up with forest patches that were either 1 hectare, 10 hectares, or 100 hectares (see **Fig 1**). They then selected plots of the same sizes within *intact* forests that didn't have any fragmentation to monitor and compare with the isolated forest patches. In addition to the 1, 10, and 100 hectare sizes, they also had 3 intact forest plots that were 1,000 hectares. These forests were intensely monitored for 22-years to see how cutting off a forest patch from the rest of the forest can affect habitat and wildlife over time. 
 
-<div style="text-align:center"><img src ="[https://commons.wikimedia.org/wiki/File:Myrmotherula_brachyura_-_Pigmy_antwren.JPG](https://commons.wikimedia.org/wiki/File:Myrmotherula_brachyura_-_Pigmy_antwren.JPG)"/></div>
+<div style="text-align:center"><img src ="https://upload.wikimedia.org/wikipedia/commons/7/7e/Myrmotherula_brachyura_-_Pigmy_antwren.JPG"/></div>
 
 **Fig. 2** This Amazonian study area is host to incredible biodiversity, including this Pigmy Antwren. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Myrmotherula_brachyura_-_Pigmy_antwren.JPG. ) 
 
@@ -51,7 +51,7 @@ Life in the forest interior of the Amazon has evolved to cope with a specific se
 
 In most ecosystems, you end up having some usable habitat patches that are occupied by a species, while other usable habitat patches aren't occupied. Over time, species in occupied patches go "extinct" within the patch, but then the patch is recolonized by members of a patch nearby. The trick is that species in a patch need to be able to *get *to the unoccupied patch next door. And as someone who has seen his fair share of roadkill, this is easier said than done. In the Amazonian fragmentation study, the scientists found that clearing just a 15-meter-wide strip of forest is enough to pose a serious challenge for dung beetles to cross. And we need them to save the [world](https://thewire.in/124993/dung-beetles-habitat-ivermectin/)! An unpaved logging road, or a paved highway can hinder the movement of understory birds, bats, small mammals, tree and plant seeds. All this isolation works to keep new individuals from entering new patches. Especially for species with small populations to begin with, this can threaten the species’ survival in the long term.
 
-<div style="text-align:center"><img src ="[https://upload.wikimedia.org/wikipedia/commons/b/b9/Amazonie_deforestation.jpg](https://upload.wikimedia.org/wikipedia/commons/b/b9/Amazonie_deforestation.jpg)"/></div>
+<div style="text-align:center"><img src ="https://upload.wikimedia.org/wikipedia/commons/b/b9/Amazonie_deforestation.jpg"/></div>
 
 **Fig. 5** Fragmentation, such as these logging sites in the Amazon, isolates populations of species within forest patches. The light green areas are roads and logging sites cleared by loggers. Source: [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/b/b9/Amazonie_deforestation.jpg.) 
 
