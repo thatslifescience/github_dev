@@ -20,20 +20,6 @@ teaser: "Intrigued by graduate student life? If so, read on to discover the 6 th
 source-id: 1bL2qVxQNLbWsF_ZHyf3hncrwTvA4AKt5XqYt9VDLjGA
 published: true
 ---
-**Title:** What I wish I had known: Advice about graduate school (and life) to my younger self
-
-**Author: **Laura Hancock
-
-**Category: **Grad School Diaries
-
-**Keywords: **Behavior, Human, Advice, Research, Graduate School
-
-**Teaser:  **Intrigued by graduate student life? If so, read on to discover the 6 things I wish I had known when I started grad school.
-
-**Featured Photo: **Thumbnail = Fig. 1
-
- 
-
 As some of you may have noticed, I haven't written for TLS in a while. This isn’t because I left the blog - or graduated - but because I took last semester off from blog duties to focus on finishing my master’s thesis. It’s almost(!) done and I’m so excited.
 
 Graduate school can be a wonderful, but also frustrating & confusing time. Over the past few months, as I've been getting closer and closer to actually finishing my master’s degree, I’ve been doing a lot of introspection; with this chapter coming to a close, I’ve found myself thinking a lot about all of the ways I’ve grown and everything I’ve learned. That being said, I realized that there is so, so much I wish I had known when I started graduate school in the fall of 2014 that could have made this whole experience a little more wonderful and a little less frustrating and confusing. I wanted to use this blog to write out the main things that I wish my 24-year-old self had known, and hopefully, my advice might be helpful for you, too. 
@@ -79,4 +65,8 @@ Without further ado, my sage advice:
  
 
 These are just a few things that I try to remind myself of every day, so that I can be a happier, healthier, and more productive me. (Because we **all** deserve to be happy.) Hopefully, some of these tips also apply to you and can help to improve your life, whether you're a graduate student or not. 
+
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries="5" category="Grad School Diaries" %}
 
