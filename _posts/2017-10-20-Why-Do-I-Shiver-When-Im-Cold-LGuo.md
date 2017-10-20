@@ -9,7 +9,7 @@ tags:
 - physiology
 - thermogenesis
 categories:
- How It Works
+- How It Works
 header:
  image_fullwidth: howitworks-header.jpg
 image:
@@ -18,23 +18,8 @@ teaser: Body shivering, teeth chattering, why does our body descend into a twitc
 source-id: 177jgGtSLsWWNg0DyOw1ZuI0HJAXoE52JujsxE4xM438
 published: true
 ---
-**Title: **Why Do I Shiver When It's Cold?
-
-**Author:** Lian Guo
-
-**Category:** How It Works
-
-**Keywords:** mammal, adaptation, physiology, thermogenesis
-
-**Time Sensitivity: **Before winter ends?
-
-**Social media blurb:** Body shivering, teeth chattering, why does our body descend into a twitching mess in the cold? Learn how odd behaviors work to keep us warm!   
-
-**Thumbnail:** Fig 1
-
 When it gets cold out, goosebumps start to rise, teeth chatter, and shivering sets in. It turns out that shivering is an adaptation we have maintained to increase the amount of heat in our body. Let's take a look at how this odd jerky motion performs thermogenesis—the creation of heat. 
 
-![image alt text]({{ site.url }}/public/PYcnbe1XXOC6cBCaFx1WQA_img_0.jpg)
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/vainsang/5404135067/in/photolist-9exB5x-9d1wDR-98THYY-93Edq3-8PCvvA-7K4apc-7FNwVb-7FGmni-7DvBgg-7zNfEk-7yVitd-7y5YS3-7xQJ78-7ufK6r-7peLyH-7nYehF-6v3fPX-6do9Ps-5XPVoD-5PkCeq-5NDJ5A-5EqbsN-5tB2Jr-5gZqqs-4thZhm-4onErp-4onviq-4j1kph-4gD4zF-4f62bn-45sPXH-s5FvK-miWRA7-bAE38e-GgexGw-6GDMCp-5PDhAg-5JR8Jp-EKhreW-ExCbG1-D3R8QD-CHGbE8-AHNqaF-kocB2n-kcG5wn-k6Wdzn-jMgRZF-jwtVAL-jjJHhQ-jgFtAe/" title="Running in the Cathedral"><img src="https://c4.staticflickr.com/6/5214/5404135067_7a03f24d86_z.jpg" width="560" height="640" alt="Running in the Cathedral"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
 
@@ -44,7 +29,6 @@ Humans and other mammals are endotherms, which means that they constantly regula
 
 Mammals like us have evolved with the endothermic strategy. As a result, many of our physiological processes and the molecular components that comprise them (e.g. enzymes) are adapted to function in a strict range of temperatures that reflect our normal body temperature. In humans, this range is 95-104˚F (35-40˚C) [1]. If the body temperature reaches the lower or upper part of this range, it will induce physiological changes, like shivering and sweating. You're probably familiar with the idea that body temperatures that are too low or too high can have serious consequences, which is why we use body temperature as an indicator of sickness.
 
-![image alt text]({{ site.url }}/public/PYcnbe1XXOC6cBCaFx1WQA_img_1.jpg)
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/kitsa_sakurako/1468796830/in/photolist-7CBT3P-JEppv-4rfgoD-4FYtNY-6vkK8s-8hrFDY-jGsJyK-ojrkRA-uvQsH-aReb7M-5DvQRw-TaTsf-4wwFUP-3eMY8h-4irswb-4qmiBD-9aW34m-8HzuwC-698Hs1-82WSRX-7FmVjo-7wmwe4-5ED4co-38ARMV-AGdGJ-5Uhv2Y-7LMuEV-4jKWpA-6XiR3x-5Ud7uX-2heXJm-814Dr-66D7P5-5V8T66-GhM52-8m4oHh-9iYJDq-8Yc3sj-8Y91qP-592zUL-5qTLgp-bjTv3-a64cCu-wv2eq-6uDiXr-DjXDh5" title="sick bento 2"><img src="https://c7.staticflickr.com/2/1099/1468796830_85d0845bc2.jpg" width="500" height="385" alt="sick bento 2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
 
@@ -58,7 +42,6 @@ In situations where heat loss is greater than heat produced, thermoreceptors in 
 
 3. **Shivering, **or involuntary shaking, typically begins below a threshold of ~ 95.9˚F (35.5˚C). Shivering can substantially increase metabolic rate 5-6x higher than the resting rate, producing needed heat as the body begins to drop to dangerously cold temperatures [3]. 
 
-![image alt text]({{ site.url }}/public/PYcnbe1XXOC6cBCaFx1WQA_img_2.jpg)
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/hernanpc/13914420343/in/photolist-ncz3p2-6kYitM-nG2BL2-5K3pUf-jRz1JW-DRc9XM-hjGcGL-g1cnEf-qLKjje-bdzoAF-dJ4L8r-r32xpQ-5e9VAW-k5gmcv-e6Uma6-qMvYSp-DRtYhf-dVQQHP-EJPLi2-qvofmn-7wLHip-6DYeBg-oTunfm-qb2th4-jftrcX-ni5YGL-9fdPd2-pvizMz-hxVLNJ-dm2hdm-4Sam7u-EUsw2G-jRz1Ty-AzLvAz-4HZ2UH-oKLCrt-7vFttq-zg94T-qhQt2r-3oxca-pR2EFk-j8h3jr-jRxvPc-pMJVSr-eH74Nv-oxuWjw-9nMEfr-dpxApV-qskMbm-mRbtZZ" title="Landscape"><img src="https://c8.staticflickr.com/8/7244/13914420343_ebaf351286.jpg" width="500" height="304" alt="Landscape"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -68,7 +51,6 @@ In situations where heat loss is greater than heat produced, thermoreceptors in 
 
 Shivering is utilized for thermogenesis by nearly all adult endotherms (mammals and birds) but has also been seen in snakes and insects. For example, pythons will wrap their body around their eggs and use shivering in trunk muscles, raising their temperature almost 45˚F (25˚C) above ambient temperature to incubate their eggs for quicker development [5]. Insects also utilize shivering to warm muscles needed for flight, sometimes increasing muscle temperature to 104˚F (40˚C)!
 
-![image alt text]({{ site.url }}/public/PYcnbe1XXOC6cBCaFx1WQA_img_3.jpg)
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/30943956116/in/dateposted-friend/" title="2016_shivering_LGuo1"><img src="https://c5.staticflickr.com/6/5548/30943956116_b1d90eeff2.jpg" width="500" height="375" alt="2016_shivering_LGuo1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -88,3 +70,9 @@ Maintaining the correct body temperature is essential for proper functioning, no
 
 [5] Harlow, Peter, and Gordon Grigg. ["Shivering thermogenesis in a brooding diamond python, Python spilotes spilotes." ](http://www.jstor.org.silk.library.umass.edu/stable/1445340)*Copeia* (1984): 959-965.
 
+
+
+
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="How It Works" %}
