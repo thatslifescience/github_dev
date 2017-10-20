@@ -36,11 +36,11 @@ Mammals like us have evolved with the endothermic strategy. As a result, many of
 
 In situations where heat loss is greater than heat produced, thermoreceptors in the central nervous system will be stimulated to induce higher levels of thermogenesis [1]. This causes the body to start recruiting various mechanisms to increase body temperature back to the optimal temperature range:
 
-1. When the body temperature begins to drop below ~ 98˚F (36.8˚C), blood flow to the skin surface will be decreased due to constriction of blood vessels, a process called **vasoconstriction **[1]. This minimizes loss of heat from the warm blood in the core of the body.
+1. When the body temperature begins to drop below ~ 98˚F (36.8˚C), blood flow to the skin surface will be decreased due to constriction of blood vessels, a process called **vasoconstriction** [1]. This minimizes loss of heat from the warm blood in the core of the body.
 
 2. Below ~ 96.8˚F (36˚C), the body initiates **nonshivering thermogenesis**, a process where fat in [brown adipose tissue](http://www.medicalnewstoday.com/articles/240989.php) is rapidly broken down to produce large amounts of heat [2]. Essentially, fats (lipids) are used as fuel for cellular metabolism; a byproduct of metabolism is heat, so increasing one's metabolic rate increases the amount of heat produced. 
 
-3. **Shivering, **or involuntary shaking, typically begins below a threshold of ~ 95.9˚F (35.5˚C). Shivering can substantially increase metabolic rate 5-6x higher than the resting rate, producing needed heat as the body begins to drop to dangerously cold temperatures [3]. 
+3. **Shivering**, or involuntary shaking, typically begins below a threshold of ~ 95.9˚F (35.5˚C). Shivering can substantially increase metabolic rate 5-6x higher than the resting rate, producing needed heat as the body begins to drop to dangerously cold temperatures [3]. 
 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/hernanpc/13914420343/in/photolist-ncz3p2-6kYitM-nG2BL2-5K3pUf-jRz1JW-DRc9XM-hjGcGL-g1cnEf-qLKjje-bdzoAF-dJ4L8r-r32xpQ-5e9VAW-k5gmcv-e6Uma6-qMvYSp-DRtYhf-dVQQHP-EJPLi2-qvofmn-7wLHip-6DYeBg-oTunfm-qb2th4-jftrcX-ni5YGL-9fdPd2-pvizMz-hxVLNJ-dm2hdm-4Sam7u-EUsw2G-jRz1Ty-AzLvAz-4HZ2UH-oKLCrt-7vFttq-zg94T-qhQt2r-3oxca-pR2EFk-j8h3jr-jRxvPc-pMJVSr-eH74Nv-oxuWjw-9nMEfr-dpxApV-qskMbm-mRbtZZ" title="Landscape"><img src="https://c8.staticflickr.com/8/7244/13914420343_ebaf351286.jpg" width="500" height="304" alt="Landscape"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
