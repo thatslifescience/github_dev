@@ -54,7 +54,7 @@ Shivering is utilized for thermogenesis by nearly all adult endotherms (mammals 
 
 Maintaining the correct body temperature is essential for proper functioning, not only in humans but in animals across the tree of life. While shivering may seem somewhat inconvenient or even uncomfortable, know it is just your muscles and cells working hard to keep you warm! 
 
-**References:**
+**References:**<br>
 [1] Stocks, Jodie M., et al. "[Human physiological responses to cold exposure](https://www.researchgate.net/profile/Mike_Tipton/publication/8553221_Human_Physiological_Responses_to_Cold_Exposure/links/54a6b0840cf256bf8bb69245.pdf)." *Aviation, space, and environmental medicine* 75.5 (2004): 444-457.<br>
 [2] Ouellet, Véronique, et al. "[Brown adipose tissue oxidative metabolism contributes to energy expenditure during acute cold exposure in humans.](http://www.jci.org.silk.library.umass.edu/articles/view/60433?key=5e3684aee3d55b74adc8&version=meter+at+null&module=meter-Links&pgtype=article&contentId=&mediaId=&referrer=&priority=true&action=click&contentCollection=meter-links-click)" *The Journal of clinical investigation* 122.2 (2012): 545-552.<br>
 [3] Iampietro, P. F., et al. "[Heat production from shivering.](http://nsrdec.natick.army.mil.silk.library.umass.edu/LIBRARY/59-69/R60-08.pdf)" *Journal of applied physiology* 15.4 (1960): 632-634.<br>
