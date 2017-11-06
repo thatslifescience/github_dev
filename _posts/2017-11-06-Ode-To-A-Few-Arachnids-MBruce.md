@@ -34,7 +34,7 @@ You'll become a predation event!
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/teejaybee/2903639065/in/photolist-5qzUJv-6HKA3q-8FoueR-3kveSk-6cqLAo-6cvzoc-8FoujM-3f1spF-3kUBZE-5htyxH-dDYGdV-ovokJ-6owrmE-dE54Dh-cuDoT1-34YkRd-5uRxNF-kMqQQ-4hgYUh-oc3Yfb-aovG3N-r9My9-9uj6j9-6eYG4g-5uNoxJ-8CpkFj-6f3f" title="spidey"><img src="https://farm4.staticflickr.com/3150/2903639065_f35c72db31_z.jpg?zz&#x3D;1" width="640" height="513" alt="spidey"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-* ***Fig. 1** A jumping spider inside its silk "pup tent," where it molts, takes shelter, and store eggs.  (Source: [teejaybee](https://www.flickr.com/photos/teejaybee/2903639065/in/photolist-5qzUJv-6HKA3q-8FoueR-3kveSk-6cqLAo-6cvzoc-8FoujM-3f1spF-3kUBZE-5htyxH-dDYGdV-ovokJ-6owrmE-dE54Dh-cuDoT1-34YkRd-5uRxNF-kMqQQ-4hgYUh-oc3Yfb-aovG3N-r9My9-9uj6j9-6eYG4g-5uNoxJ-8CpkFj-6f3f))
+**Fig. 1** A jumping spider inside its silk "pup tent," where it molts, takes shelter, and store eggs.  (Source: [teejaybee](https://www.flickr.com/photos/teejaybee/2903639065/in/photolist-5qzUJv-6HKA3q-8FoueR-3kveSk-6cqLAo-6cvzoc-8FoujM-3f1spF-3kUBZE-5htyxH-dDYGdV-ovokJ-6owrmE-dE54Dh-cuDoT1-34YkRd-5uRxNF-kMqQQ-4hgYUh-oc3Yfb-aovG3N-r9My9-9uj6j9-6eYG4g-5uNoxJ-8CpkFj-6f3f))
 
 *Net-casting Spiders –Family Deinopidae*
 
@@ -94,9 +94,9 @@ The size of his penis is shocking.
 
 <div style="text-align:center"><img src ="https://upload.wikimedia.org/wikipedia/commons/1/1f/Britannica_Harvester.png"/></div>
 
-**Fig. 4**** **Profile of a male *Phalangium cornutum *harvestman, where the eye and ocular tubercle are indicated by *a, *and the mandible is indicated by *b. *The penis (indicated by *e* in the diagram), its sheath (*d*) and glans (*f*) are not present in other arachnids. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Harvestman_anatomy#/media/File:Britannica_Harvester.png))
+**Fig. 4** Profile of a male *Phalangium cornutum* harvestman, where the eye and ocular tubercle are indicated by *a,* and the mandible is indicated by *b.* The penis (indicated by *e* in the diagram), its sheath (*d*) and glans (*f*) are not present in other arachnids. (Source: [Wikipedia](https://en.wikipedia.org/wiki/Harvestman_anatomy#/media/File:Britannica_Harvester.png))
 
-**Order Scorpiones **
+**Order Scorpiones**
 
 Though her tail may deliver a sting,
 
