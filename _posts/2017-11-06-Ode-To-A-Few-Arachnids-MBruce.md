@@ -50,7 +50,7 @@ For her main dish
 She'll have tadpoles or fish  
 'Cause she feels the vibrations they make. 
 
-<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/79452129@N02/11330244576/in/photolist-igdDZm-igdsYq-aku7LG-7GuDwJ-6MPsPd-q5Szsd-g4MaLj-pqrS4d-7gUK22-6Ye7ww-nonEYr-cdJBMJ-qxuZM7-6MPsDd-ahgeTo-a1rmzU-RomBa-bWnhiZ-qYhFJq-egyuu3-2UDCVF-6Ba9Mv-cFrW8E-3Euhm-bZYd3W-bZYd25" title="Six-spotted Fishing Spider - Dolomedes triton"><img src="https://farm3.staticflickr.com/2805/11330244576_b692671d46_z.jpg" width="599" height="640" alt="Six-spotted Fishing Spider - Dolomedes triton"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/79452129@N02/11330244576/in/photolist-igdDZm-igdsYq-aku7LG-7GuDwJ-6MPsPd-q5Szsd-g4MaLj-pqrS4d-7gUK22-6Ye7ww-nonEYr-cdJBMJ-qxuZM7-6MPsDd-ahgeTo-a1rmzU-RomBa-bWnhiZ-qYhFJq-egyuu3-2UDCVF-6Ba9Mv-cFrW8E-3Euhm-bZYd3W-bZYd25" title="Six-spotted Fishing Spider - Dolomedes triton"><img src="https://farm3.staticflickr.com/2805/11330244576_b692671d46_z.jpg" width="599" height="640" alt="Six-spotted Fishing Spider - Dolomedes triton"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 **Fig. 3** A six-spotted fishing spider (Dolomedes triton) uses surface tension and water-repellent hairs on its body to stand on the surface of a body of water. (Source: [Fyn Kynd](https://www.flickr.com/photos/79452129@N02/11330244576/in/photolist-igdDZm-igdsYq-aku7LG-7GuDwJ-6MPsPd-q5Szsd-g4MaLj-pqrS4d-7gUK22-6Ye7ww-nonEYr-cdJBMJ-qxuZM7-6MPsDd-ahgeTo-a1rmzU-RomBa-bWnhiZ-qYhFJq-egyuu3-2UDCVF-6Ba9Mv-cFrW8E-3Euhm-bZYd3W-bZYd25))
 
