@@ -1,6 +1,5 @@
 ---
 title: Ode to a Few Arachnids
-
 layout: page
 author: mbruce
 permalink: /2017-11-06-Ode-To-A-Few-Arachnids-MBruce/
@@ -9,7 +8,7 @@ tags:
 - animal
 - ecology
 categories:
-Earth’s Organisms
+- Earth’s Organisms
 header:
  image_fullwidth: organisms-header.jpg
 image:
