@@ -2,7 +2,7 @@
 title: "Tuberculosis: A Romantic Disease?"
 layout: page
 author: emelzer
-permalink: /2017-11-13--a-romantic-disease-melzer/
+permalink: /2017-11-13-a-romantic-disease-melzer/
 tags:
 - microbiology
 - bacteria
