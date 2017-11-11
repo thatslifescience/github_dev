@@ -1,5 +1,5 @@
 ---
-title: Tuberculosis: A Romantic Disease?
+title: "Tuberculosis: A Romantic Disease?"
 layout: page
 author: emelzer
 permalink: /2017-11-13--a-romantic-disease-melzer/
@@ -14,7 +14,7 @@ header:
  image_fullwidth: organisms-header.jpg
 image:
  thumb: Figure2_melzer.jpg
-teaser: A survey of an unlikely pair: Tuberculosis and art
+teaser: A survey of an unlikely pair - Tuberculosis and art
 
 source-id: 1r5uf7uqc6Ecqyy98S0rsBmil0NsvJdWfNltRlLNgShg
 published: true
