@@ -4,9 +4,12 @@ layout: page
 author: emelzer
 permalink: /2017-11-13--a-romantic-disease-melzer/
 tags:
-- microbiology, bacteria, pathogens, art
+- microbiology
+- bacteria
+- pathogens
+- art
 categories:
-Earth’s Organisms
+- Earth’s Organisms
 header:
  image_fullwidth: organisms-header.jpg
 image:
@@ -17,7 +20,7 @@ source-id: 1r5uf7uqc6Ecqyy98S0rsBmil0NsvJdWfNltRlLNgShg
 published: true
 ---
 
-Studying the bacterial species *Mycobacterium smegmatis, *which is what I spend my days doing, hardly feels like an art form. This nonpathogenic (harmless) species is closely related to *Mycobacterium tuberculosis, *which causes the deadly disease tuberculosis (TB). Because *M. smegmatis *is both safer and easier to work with than the actual pathogen, *M. tuberculosis, *my lab is one of many that study *M. smegmatis* in the hopes of getting humanity closer to eradicating TB. We look at how this family of organisms grows and divides, to generate information that can possibly be used to develop more effective treatment methods. Since we are on a mission to end this disease, when I think about TB, I think about an extremely painful pulmonary infection, that is difficult to treat, and has killed 1.4 million people in 2015 alone [1]. However, TB has been on the minds of not only scientists, but numerous artists in history,  providing a perspective that is very different from my day to day lab work.
+Studying the bacterial species *Mycobacterium smegmatis*, which is what I spend my days doing, hardly feels like an art form. This nonpathogenic (harmless) species is closely related to *Mycobacterium tuberculosis*, which causes the deadly disease tuberculosis (TB). Because *M. smegmatis* is both safer and easier to work with than the actual pathogen, *M. tuberculosis*, my lab is one of many that study *M. smegmatis* in the hopes of getting humanity closer to eradicating TB. We look at how this family of organisms grows and divides, to generate information that can possibly be used to develop more effective treatment methods. Since we are on a mission to end this disease, when I think about TB, I think about an extremely painful pulmonary infection, that is difficult to treat, and has killed 1.4 million people in 2015 alone [1]. However, TB has been on the minds of not only scientists, but numerous artists in history,  providing a perspective that is very different from my day to day lab work.
 
 TB is a major public health concern in African and East Asian countries, but it is not currently much of a threat in the west. However, TB was still a significant health concern in Europe and the US as late as the 20th century, before a vaccine and antibiotics were introduced. Since this disease can be fatal, the combination of art and TB may seem unlikely at first. But considering it has been destroying lives for as long as human history has been recorded (even found in Egyptian Mummies!) [2], why wouldn't it play a major role in books, films, paintings, and other creative media? 
 
@@ -26,7 +29,7 @@ Over the years, many famous artists have either lost loved ones or died of TB, a
 <div style="text-align:center"><img src ="https://upload.wikimedia.org/wikipedia/commons/9/9f/Claude_Monet%2C_1879%2C_Camille_sur_son_lit_de_mort%2C_oil_on_canvas%2C_90_x_68_cm%2C_Musée_d%27Orsay%2C_Paris.jpg"/></div>
 **Fig 1.** "Camille on Her Deathbed" (Claude Monet, 1879) It has been said that Monet was impressed by the colors brought on by his wife's tuberculosis. Source: [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/9/9f/Claude_Monet%2C_1879%2C_Camille_sur_son_lit_de_mort%2C_oil_on_canvas%2C_90_x_68_cm%2C_Musée_d%27Orsay%2C_Paris.jpg) 
 
-Despite the tragic loss associated with TB, for some reason, it was surprisingly referred to as "the romantic disease". In the short story “*Metzengerstein: A Tale in Imitation of the German*”, the American poet** **Edgar Allan Poe, who would later lose his wife to TB, wrote about a woman dying of the disease: “It is a path I have prayed to follow. I would wish all I love to perish of that gentle disease.” Maybe it was the combination of a slow death and the appearance of TB patients that contributed to the notion that this was a positive way to go: The patient's skin would become pale, a look that was considered attractive in those days. This could also explain why tuberculosis was sometimes called “the white plague”. This change in the patient’s complexion is so striking, that as the story goes, after painting his dying wife (Fig 1.), Claude Monet wrote: “finding myself at the deathbed of a loved one, I was surprised by the colors that death brought to her immobile face." 
+Despite the tragic loss associated with TB, for some reason, it was surprisingly referred to as "the romantic disease". In the short story “*Metzengerstein: A Tale in Imitation of the German*”, the American poet Edgar Allan Poe, who would later lose his wife to TB, wrote about a woman dying of the disease: “It is a path I have prayed to follow. I would wish all I love to perish of that gentle disease.” Maybe it was the combination of a slow death and the appearance of TB patients that contributed to the notion that this was a positive way to go: The patient's skin would become pale, a look that was considered attractive in those days. This could also explain why tuberculosis was sometimes called “the white plague”. This change in the patient’s complexion is so striking, that as the story goes, after painting his dying wife (Fig 1.), Claude Monet wrote: “finding myself at the deathbed of a loved one, I was surprised by the colors that death brought to her immobile face." 
 
 <div style="text-align:center"><img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Munch_Det_Syke_Barn_1896.jpg/1166px-Munch_Det_Syke_Barn_1896.jpg"/></div>
 
