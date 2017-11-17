@@ -41,25 +41,25 @@ Lepidoptera means "scaled wings" in Greek. Both butterflies and moths have large
 
 Nonetheless, in the pursuit of my answer, I have outlined the guidelines below in order of most steadfast to least reliable.          
 
-"**1. Antennae:**”  
+**1. Antennae:**  
 
 * Most groups of butterflies have antennae that are thin with club-shape at end.  This is true for all but the [Hedylid butterflies](http://www.learnaboutbutterflies.com/Andes%20-%20Macrosoma%20heliconaria.htm) (or "moth-butterflies"), which are butterflies, but look like moths.  They don't have clubbed antennae, but rather are feather shaped.   
 
 * Moth's antennae are feathery or saw-edged 
 
-"**2. Wing posture:**”
+**2. Wing posture:**
 
 * Butterflies tend to fold their wings vertically up over their backs 
 
 * Moths typically fold their wings tent-like over their abdomens 
 
-"**3. Body shape:**”
+**3. Body shape:**
 
 * Butterflies tend to be slender and smooth
 
 * Moths tend to be stout and fuzzy
 
-"**4. Activity:**”
+**4. Activity:**
 
 * Butterflies tend to be diurnal, meaning that they fly during the day.  Along with this, more often butterflies have coloration cues for attracting mates and deterring predators and thus tend to be brightly colored.  
 
