@@ -33,7 +33,7 @@ But that response gets old.  No time like the present for me to get back to all 
 
 Lepidoptera means "scaled wings" in Greek. Both butterflies and moths have large front and hind wings, which as the name implies, are covered with tiny scales (Fig. 2)[2]. This feature sets them apart from all other insects  (e.g. dragonflies, grasshoppers, beetles, flies, bees).  The immature (or larval) stage of both butterflies and moths are caterpillars. [Caterpillars are fascinating and can even be cute](https://www.wired.com/2015/07/samuel-jaffe-caterpillars-of-new-england-capterillars/), but because they eat plant material (roots, leaves, stems), they are probably more destructive to agricultural crops and forest trees than any other group of insects (see my earlier post “[The hungry caterpillar in real life](http://thatslifesci.com.s3-website-us-east-1.amazonaws.com/2017-03-27-The-hungry-caterpillar-in-real-life-HBroadley/)”). Because of their close relationship with plants (they eat them), butterflies and moths are thought to have evolved along with flowering plants. Following the caterpillar-stage, all butterflies and moths go through a metamorphosis to become their adult, winged form.  
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/26695923769/in/dateposted-friend/" title="Broadley_Figure2"><img src="https://farm5.staticflickr.com/4583/26695923769_2d99c3e08a_c.jpg" width="800" height="600" alt="Broadley_Figure2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/38453866552/in/dateposted-friend/" title="Broadley_Figure2_updated"><img src="https://farm5.staticflickr.com/4548/38453866552_e4cd50b99a_c.jpg" width="607" height="800" alt="Broadley_Figure2_updated"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 **Fig 2.** Image of the (A) wing scales of a (B) blue morpho butterfly.  Modified using photos by [Argonne National Laboratoy](https://www.flickr.com/photos/argonne/8023114584) and [TexasEagle](https://www.flickr.com/photos/texaseagle/7023938029).    
 
@@ -65,7 +65,7 @@ Nonetheless, in the pursuit of my answer, I have outlined the guidelines below i
 
 * Moths tend to be nocturnal, meaning that they fly at night.  Therefore they do not need coloration and thus tend to be more subtly colored. There are exceptions though - the Madagascan sunset moth, for example, is brightly colored and active during the day.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/24599831718/in/dateposted-friend/" title="Broadley_Figure3"><img src="https://farm5.staticflickr.com/4565/24599831718_907db3ee87_c.jpg" width="800" height="600" alt="Broadley_Figure3"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/38453868052/in/dateposted-friend/" title="Broadley_Figure3_updated"><img src="https://farm5.staticflickr.com/4580/38453868052_46a210bbe7_c.jpg" width="595" height="800" alt="Broadley_Figure3_updated"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 **Fig. 3** Distinguishing features between a butterfly and a moth. Modified using photos from [Pixabay](https://pixabay.com/en/isolated-butterfly-butterfly-1852106/) and [Wikipedia Commons](https://upload.wikimedia.org/wikipedia/commons/a/a8/Attacus_atlas_qtl1.jpg). 
 
