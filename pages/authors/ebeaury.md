@@ -13,8 +13,10 @@ gallery:
   caption: Eve Beaury
 ---
 
-![Eve Beaury]({{ site.url }}/thatslifesci/images/ebeaury-01.jpg)
-Research Area: Biogeography of invasive plants to understand the patterns of invasion in the context of global change
+![Eve Beaury]({{ site.url }}/thatslifescience/thatslifesci/images/ebeaury-01.jpg)<br>
+
+Research Area: Biogeography of invasive plants to understand the patterns of invasion in the context of global change<br>
+
 [Email](mailto:eve.beaury@gmail.com)
 
 I fell in love with plant biology when I was in high school and it has stayed with me ever since. I am really interested in understanding the ways plants interact with one another and how global change affects plant ecology. I focus specifically on invasive plants and how our understanding of where they are in time and space can improve our management of these invasions. I’m also interested in communicating this information in a way that everyone can understand and be just as excited about as I am. I am a writer for the TLS blog and also on the outreach committee so that I can help share the wonderful world of science.
