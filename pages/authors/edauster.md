@@ -13,9 +13,10 @@ gallery:
   caption: Emma Dauster
 ---
 
-![Emma Dauster]({{ site.url }}/thatslifesci/images/edauster-01.jpg)
-Research Area: Sex differences in neural circuits involved in attention
+![Emma Dauster]({{ site.url }}/thatslifesci/images/edauster-01.jpg)<br>
 [Email](mailto:edauster@umass.edu)
+
+Research Area: Sex differences in neural circuits involved in attention
 
 Especially in this age of personalized medicine, it is imperative that we consider sex differences in drug effects.  I am currently using an ADHD model to test the effects of Ritalin on female rats compared to males.  I study a small region in the dorsal pons of the brainstem called the locus coerleus (LC).  The LC is a major source of norepinephrine, and new studies suggest dopamine as well, with projections throughout most of the cortex.  We know that the LC is larger in females with greater dendritic arborizations than in males, but we don't know the functional consequences of these differences.  I study the effects of chemogenetically upregulating LC activity in female rats compared to male rats upon completion of an operant behavioral paradigm.  I plan to assess LC activity and projection differences between male and female rats using electrophysiological techniques in the near future.  At TLSblog, I am a contributing author and part of the managing editors committee.
 
