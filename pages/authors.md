@@ -43,7 +43,7 @@ header:
         <img src="{{ site.urlimg }}rbell-01.jpg" alt="Rachel Bell">
         <p><a href = "{{ site.url }}/authors/rbell"><b>Rachel Bell</b></a></p>
         </div>
-  
+        
         <div class="medium-3 columns">
         <img src="{{ site.urlimg }}broadley-01-01.jpg" alt="Hannah J. Broadley">
         <p><a href = "{{ site.url }}/authors/hbroadley"><b>Hannah J. Broadley</b></a></p>
@@ -113,7 +113,7 @@ header:
         <img src="{{ site.urlimg }}melzer-01.jpg" alt="Emily S. Melzer">
         <p><a href = "{{ site.url }}/authors/emelzer"><b>Emily S. Melzer</b></a></p>
         </div>
-     
+        
         <div class="medium-3 columns">
         <img src="{{ site.urlimg }}emurenzi-01.jpg" alt="Edwin Murenzi">
         <p><a href = "{{ site.url }}/authors/emurenzi"><b>Edwin Murenzi</b></a></p>
