@@ -13,10 +13,11 @@ gallery:
   caption: Rachel Bell
 ---
 
-![Rachel Bell]({{ site.url }}/thatslifesci/images/rbell-01.jpg)
-Research Area: Ecology and evolution of primate hair morphology
+![Rachel Bell]({{ site.url }}/thatslifesci/images/rbell-01.jpg)<br>
 [Email](mailto:rbbell@umass.edu)
 [Twitter](https://twitter.com/primate_eco_evo)
+
+Research Area: Ecology and evolution of primate hair morphology
 
 I am interested in how primate hair morphology has been shaped by different ecological and evolutionary factors. I am currently conducting research on primate hair microbiome diversity, and hope to connect my ecological and evolutionary research with primate conservation issues. I am also passionate about science outreach and education, and am a member of the TLS Outreach Committee.
 
