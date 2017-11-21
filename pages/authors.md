@@ -18,22 +18,18 @@ header:
         <img src="{{ site.urlimg }}Aguirre-01.jpg" alt="Luis Aguirre">
         <p><a href = "{{ site.url }}/authors/laguirre"><b>Luis Aguirre</b></a></p>
         </div>
-        
         <div class="medium-3 columns">
         <img src="{{ site.urlimg }}alcott-01-01.jpg" alt="Derrick Alcott">
         <p><a href = "{{ site.url }}/authors/dalcott"><b>Derrick Alcott</b></a></p>
         </div>
-        
         <div class="medium-3 columns">
         <img src="{{ site.urlimg }}alteio-01.jpg" alt="Lauren Alteio">
         <p><a href = "{{ site.url }}/authors/lalteio"><b>Lauren Alteio</b></a></p>
         </div>
-        
         <div class="medium-3 columns">
         <img src="{{ site.urlimg }}jbarnett-01.jpg" alt="Jacob R. Barnett">
         <p><a href = "{{ site.url }}/authors/jbarnett"><b>Jacob R. Barnett</b></a></p>
         </div>
-        
         <div class="medium-3 columns">
         <img src="{{ site.urlimg }}ebeaury-01.jpg" alt="Eve Beaury">
         <p><a href = "{{ site.url }}/authors/ebeaury"><b>Eve Beaury</b></a></p>
