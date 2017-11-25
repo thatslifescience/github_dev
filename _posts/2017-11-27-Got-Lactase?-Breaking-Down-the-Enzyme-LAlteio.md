@@ -14,7 +14,6 @@ header:
 image:
  thumb: 2017-11-25-LAlteioA.jpg
 teaser: We've been told that dairy is a miracle food for good health and strong bones, but most of the human population can't even digest it.
-
 source-id: 14tdRKhrpb-hwXyIJKcuw5SUbW8AvCVL0pCLgm5Sb9G8
 published: true
 ---
