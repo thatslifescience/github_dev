@@ -18,17 +18,6 @@ teaser: We've been told that dairy is a miracle food for good health and strong 
 source-id: 14tdRKhrpb-hwXyIJKcuw5SUbW8AvCVL0pCLgm5Sb9G8
 published: true
 ---
-**Title: **Got Lactase? Breaking Down the Enzyme 
-
-**Author:** Lauren V. Alteio
-
-**Keywords: **Evolution, Human, Lactose Intolerance
-
-**Category: **How it Works
-
-**Teaser: **We've been told that dairy is a miracle food for good health and strong bones, but most of the human population can't even digest it. 
-
-**Featured Photo: **Thumbnail = Fig 1, Banner=default
 
 Nothing is better than a sweet ice cream treat with a good group of friends or family. All those times you've had ice cream cake at birthdays, or relaxed on a summer afternoon with a cone of rocky road bring back good memories. It’s no wonder that after a long, hard day of work you and a group of friends decide to go out for ice cream. But wait! One of those friends is lactose intolerant! Besides there being tons of excellent non-dairy ice cream alternatives nowadays, your friend's condition is actually very common. 
 
@@ -36,7 +25,7 @@ Nothing is better than a sweet ice cream treat with a good group of friends or f
 
 **Fig 1.** Ice cream! It's widely consumed and loved by many, but most of the world's population can't digest the lactose sugar contained within milk. 
 
-Source: [Pixabay ](https://pixabay.com/en/ice-cream-sundae-ice-dessert-761415/)
+Source: [Pixabay](https://pixabay.com/en/ice-cream-sundae-ice-dessert-761415/)
 
 At first, you might think that your friend has made up their lactose intolerance – *everyone* eats dairy after all. We've been told from an early age to drink our milk for strong bones, were fed macaroni and cheese as comfort food, and ate plenty of ice cream on simmering summer afternoons. However, about 65% of the world's adult population can't digest milk products [1]. This majority may suffer the unfortunate consequences of abdominal cramping, bloating, and diarrhea when they consume dairy in its many forms [1]. 
 
@@ -64,3 +53,6 @@ So now that you understand your friend's condition a little better, you might re
 
 [4] Leonardi, M., Gerbault., P., Thomas, M.G., and Burger, J. (2012). The Evolution of Lactase Persistence in Europe. A Synthesis of Archeological and Genetic Evidence. *International Dairy Journal. **[file:///home/lauren/Downloads/Leonardi_IDJ12_Lactase_Final.pd*f](file:///export/hda3/borglet/local_ram_fs_dirs/2.prod.changeling-worker-libreoffice.apps-docs-changeling-worker-libreoffice.65739226845.549eedb1e9d07f8c/ramdisk/Downloads/Leonardi_IDJ12_Lactase_Final.pdf)*. *
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries="5" category="How It Works" %}
