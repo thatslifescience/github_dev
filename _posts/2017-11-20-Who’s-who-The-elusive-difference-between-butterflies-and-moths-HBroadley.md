@@ -15,7 +15,7 @@ header:
  image_fullwidth: organisms-header.jpg
 image:
  thumb: Broadley_Figure2.jpg
-teaser: “Have you ever wondered what the difference is between a butterfly and a moth?  Me too.  This is what I found out.”
+teaser: Have you ever wondered what the difference is between a butterfly and a moth?  Me too. This is what I found out.
 source-id: 1TcTA2EXjQxkGBkoXTCObxlXvasEVokYBW1jppEhz1Mw
 published: true
 ---
