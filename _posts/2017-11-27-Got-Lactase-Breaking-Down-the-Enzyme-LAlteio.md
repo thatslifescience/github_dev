@@ -2,7 +2,7 @@
 title: "Got Lactase? Breaking Down the Enzyme"
 layout: page
 author: lalteio
-permalink: /2017-11-27-Got-Lactase?-Breaking-Down-the-Enzyme-LAlteio/
+permalink: /2017-11-27-Got-Lactase-Breaking-Down-the-Enzyme-LAlteio/
 tags:
 - evolution
 - human
