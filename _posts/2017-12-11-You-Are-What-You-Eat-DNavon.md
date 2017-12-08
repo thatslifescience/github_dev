@@ -19,18 +19,6 @@ teaser: “Building a face requires a delicate interplay between genes and the e
 source-id: 1k2OcPO9K3ECGDQw5KkAA0uOqqhlv2E6wdGtltM0CGSA
 published: true
 ---
-**Title**: You Are What You Eat – Measuring the Impact of Diet on Jaw Bone Growth in Fish, part I
-
-**Author**: Dina Navon
-
-**Category**: Grad School Diaries/Creative Mini-Posts
-
-**Keywords**: diet, plasticity, African cichlids, bone growth
-
-**Teaser**: Building a face requires a delicate interplay between genes and the environment!
-
-**Featured photos**: Thumbnail image = Fig 1
-
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/24051510117/in/dateposted-friend/" title="DNavon_Figure_1_12_8_17"><img src="https://farm5.staticflickr.com/4584/24051510117_a8bf40f63a_z.jpg" width="635" height="573" alt="DNavon_Figure_1_12_8_17"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 **Figure 1.** Micro-CT scan of an African cichlid head, highlighting two key bones: the maxilla (teal) and mandible (magenta).  
