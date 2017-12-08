@@ -13,7 +13,7 @@ categories:
 header:
 image_fullwidth: gradschooldiaries-header.jpg
 image:
- thumb: <a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/24051510117/in/dateposted-friend/" title="DNavon_Figure_1_12_8_17"><img src="https://farm5.staticflickr.com/4584/24051510117_a8bf40f63a_z.jpg" width="635" height="573" alt="DNavon_Figure_1_12_8_17"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+thumb: DNavon_Figure_1_12_8_17.png
 teaser: “Building a face requires a delicate interplay between genes and the environment!”
 
 source-id: 1k2OcPO9K3ECGDQw5KkAA0uOqqhlv2E6wdGtltM0CGSA
