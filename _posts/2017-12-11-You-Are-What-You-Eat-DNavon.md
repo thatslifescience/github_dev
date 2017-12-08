@@ -39,7 +39,7 @@ Our lab is currently focusing on discovering those genes, and our previous resea
 
 **Figure 3.** The maxilla (top left) and mandible (top right) dissected out of our experimental fish.  Benthic fish (middle panels) grow more bone in the same time frame than pelagic fish (bottom panels) in these and other bones.  You can see this by looking at the length of the blue lines.  
 
-It seems like, in some species, the bones of the face are growing more in the benthic fish than in their suction feeding counterparts! This is likely a direct response to the increased pressure they must put on their jaws during feeding. The pictures you see in Figure 3 are from fish that are approximately the same size. You can clearly see that the benthic fish (top) has a wider space between the fluorescent labels than the pelagic fish (bottom) in both the maxilla and the mandible (as highlighted by the royal blue line). This is exciting preliminary data. Stay tuned in the fall for more results!
+It seems like, in some species, the bones of the face are growing more in the benthic fish than in their suction feeding counterparts! This is likely a direct response to the increased pressure they must put on their jaws during feeding. The pictures you see in Figure 3 are from fish that are approximately the same size. You can clearly see that the benthic fish (top) has a wider space between the fluorescent labels than the pelagic fish (bottom) in both the maxilla and the mandible (as highlighted by the royal blue line). This is exciting preliminary data. Stay tuned!
 
 ## More From Thats Life [Science]
 {: .t60 }
