@@ -41,3 +41,5 @@ Our lab is currently focusing on discovering those genes, and our previous resea
 
 It seems like, in some species, the bones of the face are growing more in the benthic fish than in their suction feeding counterparts! This is likely a direct response to the increased pressure they must put on their jaws during feeding. The pictures you see in Figure 3 are from fish that are approximately the same size. You can clearly see that the benthic fish (top) has a wider space between the fluorescent labels than the pelagic fish (bottom) in both the maxilla and the mandible (as highlighted by the royal blue line). This is exciting preliminary data. Stay tuned in the fall for more results!
 
+## More From Thats Life [Science]{: .t60 }{% include list-posts offset="1" entries='5' category="Grad School Diaries" %}
+
