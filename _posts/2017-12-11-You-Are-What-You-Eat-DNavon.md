@@ -10,9 +10,10 @@ tags:
 - bone growth
 categories:
 - Grad School Diaries
-header: image_fullwidth: gradschooldiaries-header.jpg
+header: 
+ image_fullwidth: gradschooldiaries-header.jpg
 image: 
-thumb: DNavon_Figure_1_12_8_17.png
+ thumb: DNavon_Figure_1_12_8_17.png
 teaser: “Building a face requires a delicate interplay between genes and the environment!”
 
 source-id: 1k2OcPO9K3ECGDQw5KkAA0uOqqhlv2E6wdGtltM0CGSA
