@@ -19,13 +19,6 @@ teaser: This post will finally answer all the questions you never had about why 
 source-id: 1H874vkxXR90lRm54fJaS_-S4KEKGKGN3QKBBKpcZxao
 published: true
 ---
-Title: Some people just love plants
-
-Author: Evan KurasCategories: Our Ecosystems
-
-Keywords: Biodiversity; Species; Plants; Human Dimensions; Cities
-
-Teaser: This post will finally answer all the questions you never had about why your sister has so many plants in her houseFeatured Photo = Figure 2
 
 If you've ever walked down a street ([not looking at your phone catching Pokémon](http://thatslifesci.com/2017-06-13-Biodiversity-in-my-Backyard-EKuras/), of course) you’ve probably seen what I like to call a "Randomly Planty House." These are houses or apartments that are just bursting with plants of every color, shape, and size, either outside or inside.
 
@@ -96,4 +89,8 @@ Perhaps houses aren't *randomly* planty after all, once you take into considerat
 [7] Lubbe, C. S., Siebert, S. J., & Cilliers, S. S. (2010). Political legacy of South Africa affects the plant diversity patterns of urban domestic gardens along a socio-economic gradient. *Scientific Research and Essays*, *19*(19), 2900–2910. 
 
 [8] Vila-ruiz, C. P., Meléndez-ackerman, E., Santiago-bartolomei, R., Garcia-montiel, D., Lastra, L., Cielo, E. F., & Fumero-Cában, J. (2014). Plant species richness and abundance in residential yards across a tropical watershed : implications for urban sustainability. *Ecology and Society*, *19*(3), 22.
+
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries="5" category="Our Ecosystems" %}
 
