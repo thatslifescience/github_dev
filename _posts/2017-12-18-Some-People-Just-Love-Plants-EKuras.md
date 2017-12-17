@@ -28,7 +28,7 @@ If you've ever walked down a street ([not looking at your phone catching Pokémo
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/25224664768/in/dateposted-friend/" title="2017-12-18-EKurasB"><img src="https://farm5.staticflickr.com/4566/25224664768_f9a5f05531.jpg" width="500" height="306" alt="2017-12-18-EKurasB"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 **Figure 2.** Inside a randomly planty house in Cambridge, Massachusetts. (Photo credit: Sarah Blair)
 
-Why are some houses randomly planty, you may ask? The obvious answer is that some people just LOVE plants. But if the answer was that simple, you probably wouldn't be reading a blog post about the topic! Let’s break this down systematically …
+Why are some houses randomly planty, you may ask? The obvious answer is that some people just LOVE plants. But if the answer were that simple, you probably wouldn't be reading a blog post about the topic! Let’s break this down systematically …
 
 In order for randomly planty houses to exist, people need to somehow *obtain* all their random plants. Stop and consider the plants in your yard or inside your home. Some plants you bought from a plant nursery or grocery store, others were given to you by your sister when she went away on vacation, and the rest were probably there when you moved in. Am I right? When researchers asked this question to residents in cities like Puerto Rico, USA, Costa Brava, Spain, and Ballarat, Australia, these three sources were the primary explanations [1, 2, 3]. Let's dig deeper into each one.
 
