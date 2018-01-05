@@ -1,5 +1,5 @@
 ---
-title: "Making a Murdered - A Matter of Biology?":
+title: "Making a Murdered - A Matter of Biology?"
 layout: page
 author: lguo
 permalink: /2018-01-08-Making-A-Murderer-LGuo/
