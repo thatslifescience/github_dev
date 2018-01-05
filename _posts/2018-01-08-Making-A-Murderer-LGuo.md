@@ -58,3 +58,8 @@ Thank you to David Dorough for the great topic suggestion!
 
 [4] Baum, Matthew L. "[The monoamine oxidase A (MAOA) genetic predisposition to impulsive violence: Is it relevant to criminal trials?](http://www.pc.rhul.ac.uk/sites/rheg/wp-content/uploads/2011/12/genetic-italy-case.pdf)." Neuroethics 6, no. 2 (2013): 287-306.
 
+
+
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Our Ecosystems" %}
