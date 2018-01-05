@@ -13,7 +13,7 @@ categories:
 header:
  image_fullwidth: howitworks-header.jpg
 image:
- thumb: 20180108_LGuo_thumb.jpg
+ thumb: 20180108_LGuo_Thumb.jpg
 teaser: “As technology advances, we are gaining a better understanding of how biology underlies human behavior. When it comes to crime, can we blame someone’s biology?”
 source-id: 19hlEZM2-4z0MPa-EGcBJrKetzLepcq748BjJF3cXs5Y
 published: true
