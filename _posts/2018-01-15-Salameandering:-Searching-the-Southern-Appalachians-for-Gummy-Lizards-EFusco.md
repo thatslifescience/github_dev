@@ -15,7 +15,7 @@ header:
  image_fullwidth: gradschooldiaries-header.jpg
 image:
  thumb: fusco_fig2_salamander.jpg
-teaser: “In the Southern Appalachians, salamander diversity is tops. I went to see how many species I could find.”
+teaser: In the Southern Appalachians, salamander diversity is tops. I went to see how many species I could find.
 source-id: 1pPIe_0t3OAbWmHwIR59frbnIu_Yz96SuLS7Jd2tnCGw
 published: true
 ---
