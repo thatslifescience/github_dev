@@ -1,8 +1,8 @@
 ---
 title: Salameandering – Searching the Southern Appalachians for Gummy Lizards
-layout: post
+layout: page
 author: efusco
-permalink: 2018-01-15-Salameandering:-Searching-the-Southern-Appalachians-for-Gummy-Lizards-EFusco.md
+permalink: /2018-01-15-Salameandering:-Searching-the-Southern-Appalachians-for-Gummy-Lizards-EFusco
 tags:
 - animals
 - salamander
