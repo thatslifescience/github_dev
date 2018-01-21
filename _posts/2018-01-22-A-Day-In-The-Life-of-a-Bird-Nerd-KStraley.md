@@ -38,7 +38,7 @@ published: true
 *9:00 AM* Lab meeting - paper discussion and brainstorming for undergraduate thesis project on nest ectoparasites (a parasite, like a tick, that lives on the outside of its host). Many puns about mites and ticks.
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/37780857121/in/dateposted-friend/" title="20171015StraleyFig3"><img src="https://farm5.staticflickr.com/4468/37780857121_171afee056_z.jpg" width="640" height="480" alt="20171015StraleyFig3"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center><br>
-**Figure 3.** Lab-mate Evan takes control of the white board, and the puns.  Photo Credit: Kit Straley.
+**Figure 3.** Lab-mate Evan takes control of the white board, and the puns. Photo Credit: Kit Straley.
 
 *10:00 AM* Meet with first research student of the day, supervise bird nest dissection and identification of building materials. Stare at twigs and grasses really hard to ensure they are indeed twigs and grasses, and not other materials like the stems of non-woody plants. This sounds simple, but is surprisingly difficult when you've been agonizing over a pile of dead plant material for some time.
 
@@ -64,7 +64,7 @@ published: true
 *3:30 PM* Drag myself out of the facebook hole – I love watching [videos of otters](https://www.facebook.com/oceanwise/videos/vb.2005964629626861/2061275114095812/?type=2&theater)! And greet the final student of the day.
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/37781067931/in/dateposted-friend/" title="20171015StraleyFig7"><img src="https://farm5.staticflickr.com/4470/37781067931_d80d6518dc_z.jpg" width="640" height="480" alt="20171015StraleyFig7"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center><br>
-**Figure 7.** Screen grab of the otter video to tempt you to watch it. Otters are awesome.  Photo Credit: Kit Straley.
+**Figure 7.** Screen grab of the otter video to tempt you to watch it. Otters are awesome. Photo Credit: Kit Straley.
 
 *3:30-4:30 PM* Work with student intermittently as she dissects nests. When she doesn't have questions, I figure out which nest videos my students are going to watch tomorrow.
 
@@ -80,7 +80,7 @@ published: true
 *6:00-6:15 PM* Help my student finish up her nest dissection work by labeling tons of plastic bags for each material for her. We always go over time.
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/37522823750/in/dateposted-friend/" title="20171015StraleyFig9"><img src="https://farm5.staticflickr.com/4505/37522823750_05f06ed246_z.jpg" width="480" height="640" alt="20171015StraleyFig9"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center><br>
-**Figure 9.** Bags and bags of separated nest materials.  Photo Credit: Kit Straley.
+**Figure 9.** Bags and bags of separated nest materials. Photo Credit: Kit Straley.
 
 *6:30 PM* Hit the road to go home, call the hubby to see what we're eating for dinner. Realize we don’t have any groceries, and we both don’t feel like picking any up tonight.
 
