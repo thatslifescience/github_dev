@@ -22,7 +22,8 @@ published: true
 ---
 *5:00 AM* Wake up, shower, feed cats, get breakfast.
 
-<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/37749145152/in/dateposted-friend/" title="20171015StraleyFig1"><img src="https://farm5.staticflickr.com/4459/37749145152_02b8bc719c_c.jpg" width="600" height="800" alt="20171015StraleyFig1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/37749145152/in/dateposted-friend/" title="20171015StraleyFig1"><img src="https://farm5.staticflickr.com/4459/37749145152_02b8bc719c_c.jpg" width="600" height="800" alt="20171015StraleyFig1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
 **Figure 1.** Felix (back) and Milo (front) don't want me to leave.  Photo Credit: Kit Straley.
 
@@ -32,27 +33,25 @@ published: true
 
 *6:30-8:45 AM* Bird banding! My friend and fellow graduate student [Mariamar](https://twitter.com/chiroxiphia81) is banding fall migrants as they move through campus. I volunteer to get more experience handling a variety of bird species. Normally, I would not consider myself a "morning person," but if there's a bird to be held, I am there!
 
-<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/37749231902/in/dateposted-friend/" title="20171015StraleyFig2"><img src="https://farm5.staticflickr.com/4460/37749231902_f721c1258e_z.jpg" width="509" height="640" alt="20171015StraleyFig2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/37749231902/in/dateposted-friend/" title="20171015StraleyFig2"><img src="https://farm5.staticflickr.com/4460/37749231902_f721c1258e_z.jpg" width="509" height="640" alt="20171015StraleyFig2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
 **Figure 2.** A) Mariamar looking up info on this Chestnut-sided Warbler; B) A newly banded White-eyed Vireo waiting to be measured; C) Measuring the wing length of a male Black-throated Blue Warbler; D) The setup of the banding table with all of our tools. While those pliers may look daunting, we use them to open up the metal bands for the birds. The process of banding a bird does not actually harm them. We measure the length of their wings and legs and measure their weight, and then release them unharmed. Photo Credit: Kit Straley.
 
 *9:00 AM* Lab meeting - paper discussion and brainstorming for undergraduate thesis project on nest ectoparasites (a parasite, like a tick, that lives on the outside of its host). Many puns about mites and ticks.
 
-<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/37780857121/in/dateposted-friend/" title="20171015StraleyFig3"><img src="https://farm5.staticflickr.com/4468/37780857121_171afee056_z.jpg" width="640" height="480" alt="20171015StraleyFig3"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/37780857121/in/dateposted-friend/" title="20171015StraleyFig3"><img src="https://farm5.staticflickr.com/4468/37780857121_171afee056_z.jpg" width="640" height="480" alt="20171015StraleyFig3"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
 **Figure 3.** Lab-mate Evan takes control of the white board, and the puns.  Photo Credit: Kit Straley.
 
 *10:00 AM* Meet with first research student of the day, supervise bird nest dissection and identification of building materials. Stare at twigs and grasses really hard to ensure they are indeed twigs and grasses, and not other materials like the stems of non-woody plants. This sounds simple, but is surprisingly difficult when you've been agonizing over a pile of dead plant material for some time.
 
-<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/37732342926/in/dateposted-friend/" title="20171015StraleyFig4"><img src="https://farm5.staticflickr.com/4506/37732342926_78c3c65815_z.jpg" width="507" height="640" alt="20171015StraleyFig4"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/37732342926/in/dateposted-friend/" title="20171015StraleyFig4"><img src="https://farm5.staticflickr.com/4506/37732342926_78c3c65815_z.jpg" width="507" height="640" alt="20171015StraleyFig4"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
 **Figure 4.** A) A full nest of the Gray Catbird, viewed from above; B) Plastic material taken out of the nest, including a rye bread bag (we know it was rye because the ingredients list was still legible); C) shredded stems taken from the nest during dissection; D) pieces of bark from the nest, each item carefully selected by the female catbird. Photo Credit: Kit Straley.
 
-*10:30 AM-1:30 PM* Two new students come in, sorting leaf litter invertebrates and prepping samples that have already been sorted to be dried and weighed. Help identify cool critters, make hundreds of tiny labels for individual vials. 
+*10:30 AM-1:30 PM* Two new students come in, sorting leaf litter invertebrates and prepping samples that have already been sorted to be dried and weighed. Help identify cool critters, make hundreds of tiny labels for individual vials. At 12:30, realize we've been sorting inverts and labeling vials for 2 whole hours without music. Scoff, and pick a Pandora station.
 
-**At 12:30, realize we've been sorting inverts and labeling vials for 2 whole hours without music. Scoff, and pick a Pandora station.
-
-<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/37781048641/in/dateposted-friend/" title="20171015StraleyFig5"><img src="https://farm5.staticflickr.com/4514/37781048641_547e4ffea1_z.jpg" width="513" height="630" alt="20171015StraleyFig5"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/37781048641/in/dateposted-friend/" title="20171015StraleyFig5"><img src="https://farm5.staticflickr.com/4514/37781048641_547e4ffea1_z.jpg" width="513" height="630" alt="20171015StraleyFig5"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
 **Figure 5.** A) Sorting inverts into groups and then vialing them; B) A view of a Diptera (fly) under the microscope, identified via the "nubbin" [halteres](https://en.wikipedia.org/wiki/Halteres); C) A spider under the microscope; D) Trays and trays of tiny vials full of inverts. Photo Credit: Kit Straley.
 
@@ -62,7 +61,7 @@ published: true
 
 *2:30 PM* Check two different email addresses. Respond to inquiries from my advisor about research, my fellow graduate students about a meeting for this blog (TLS), and undergrads about research hours.
 
-<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/37781058871/in/dateposted-friend/" title="20171015StraleyFig6"><img src="https://farm5.staticflickr.com/4481/37781058871_0030c62813_z.jpg" width="640" height="480" alt="20171015StraleyFig6"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/37781058871/in/dateposted-friend/" title="20171015StraleyFig6"><img src="https://farm5.staticflickr.com/4481/37781058871_0030c62813_z.jpg" width="640" height="480" alt="20171015StraleyFig6"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
 **Figure 6.** Obligatory photo of a computer, because we use computers a lot. Photo Credit: Kit Straley.
 
@@ -70,13 +69,13 @@ published: true
 
 *3:30 PM* Drag myself out of the facebook hole – I love watching [videos of otters](https://www.facebook.com/oceanwise/videos/vb.2005964629626861/2061275114095812/?type=2&theater)! And greet the final student of the day.
 
-<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/37781067931/in/dateposted-friend/" title="20171015StraleyFig7"><img src="https://farm5.staticflickr.com/4470/37781067931_d80d6518dc_z.jpg" width="640" height="480" alt="20171015StraleyFig7"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/37781067931/in/dateposted-friend/" title="20171015StraleyFig7"><img src="https://farm5.staticflickr.com/4470/37781067931_d80d6518dc_z.jpg" width="640" height="480" alt="20171015StraleyFig7"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
 **Figure 7.** Screen grab of the otter video to tempt you to watch it. Otters are awesome.  Photo Credit: Kit Straley.
 
 *3:30-4:30 PM* Work with student intermittently as she dissects nests. When she doesn't have questions, I figure out which nest videos my students are going to watch tomorrow.
 
-<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/37111196693/in/dateposted-friend/" title="20171015StraleyFig8"><img src="https://farm5.staticflickr.com/4488/37111196693_61d20e151e_z.jpg" width="640" height="640" alt="20171015StraleyFig8"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/37111196693/in/dateposted-friend/" title="20171015StraleyFig8"><img src="https://farm5.staticflickr.com/4488/37111196693_61d20e151e_z.jpg" width="640" height="640" alt="20171015StraleyFig8"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
 **Figure 8.** Screen grab of a Wood Thrush nest video, showing a big chick (right) next to its parent (left). The chick is distinguishable because it has not grown its tail yet! Photo Credit: Kit Straley.
 
@@ -88,7 +87,7 @@ published: true
 
 *6:00-6:15 PM* Help my student finish up her nest dissection work by labeling tons of plastic bags for each material for her. We always go over time.
 
-<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/37522823750/in/dateposted-friend/" title="20171015StraleyFig9"><img src="https://farm5.staticflickr.com/4505/37522823750_05f06ed246_z.jpg" width="480" height="640" alt="20171015StraleyFig9"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/37522823750/in/dateposted-friend/" title="20171015StraleyFig9"><img src="https://farm5.staticflickr.com/4505/37522823750_05f06ed246_z.jpg" width="480" height="640" alt="20171015StraleyFig9"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
 **Figure 9.** Bags and bags of separated nest materials.  Photo Credit: Kit Straley.
 
@@ -118,3 +117,6 @@ published: true
 
 As a graduate student, I wear many different hats during my day. I am a volunteer for my friend's research, a mentor for my research undergraduates, a student who needs to keep up with her reading, and a human being who loves cats, needs food, and gets distracted by TV and the internet. Each day I make a little bit more progress towards finishing my project and my degree, all the while tackling small problems as they arise. It can be exhausting, exhilarating, frustrating, and fun.
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries="5" category="Grad School Diaries" %}
