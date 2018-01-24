@@ -36,6 +36,10 @@
 #   Navigation to the right › side: right
 #
 
+- title: "Submit"
+  url: "/submit/"
+  side: right
+  
 - title: "Contact"
   url: "/contact/"
   side: right
