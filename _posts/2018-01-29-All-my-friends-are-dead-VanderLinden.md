@@ -13,6 +13,7 @@ categories:
 - Grad School Diaries
 header:
  image_fullwidth: gradschooldiaries-header.jpg
+image: 
  thumb: AVLinden_20180129_thumb.jpg
 teaser: For an anatomist, museum basements are a magnificent scientific wonderland full of skulls, bones, and biodiversity!
 source-id: 1pGI_zXhdNOSt0JuWpigetkkSv-_03kEsV3MOgBP6wss
