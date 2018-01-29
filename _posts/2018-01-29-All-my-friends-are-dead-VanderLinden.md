@@ -10,25 +10,14 @@ tags:
 - anatomy
 - summer postcard
 categories:
- -Grad School Diaries
+- Grad School Diaries
 header:
  image_fullwidth: gradschooldiaries-header.jpg
-thumb: AVLinden_20180129_thumb.jpg
+ thumb: AVLinden_20180129_thumb.jpg
 teaser: For an anatomist, museum basements are a magnificent scientific wonderland full of skulls, bones, and biodiversity!
 source-id: 1pGI_zXhdNOSt0JuWpigetkkSv-_03kEsV3MOgBP6wss
 published: true
 ---
-**Title****:** All My Friends Are Dead - A Day in the Museum Basement
-
-**Author:** Abby Vander Linden
-
-**Teaser:** For an anatomist, museum basements are a magnificent scientific wonderland full of skulls, bones, and biodiversity!
-
-**Featured photo:**  Fig. 1
-
-**Category:** Grad School Diaries
-
-**Keywords:** animals, bones, museums, anatomy, summer postcard
 
 To: 	That's Life [Science] Headquarters
 
