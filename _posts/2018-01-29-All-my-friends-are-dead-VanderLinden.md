@@ -1,8 +1,8 @@
 ---
-title: "All My Friends Are Dead - A Day in the Museum Basement"
-layout: post
+title: All My Friends Are Dead - A Day in the Museum Basement
+layout: page
 author: avlinden
-permalink: /2018-01-29-All-my-friends-are-dead-VanderLinden/
+permalink: /2018-01-29-All-my-friends-are-dead-VanderLinden
 tags:
 - animals
 - bones
@@ -13,7 +13,7 @@ categories:
 - Grad School Diaries
 header:
  image_fullwidth: gradschooldiaries-header.jpg
-image: 
+image:
  thumb: AVLinden_20180129_thumb.jpg
 teaser: For an anatomist, museum basements are a magnificent scientific wonderland full of skulls, bones, and biodiversity!
 source-id: 1pGI_zXhdNOSt0JuWpigetkkSv-_03kEsV3MOgBP6wss
@@ -38,11 +38,11 @@ From: 	Abby "Bone Whisperer" Vander Linden
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/24550658448/in/dateposted-friend/" title="sheep-box"><img src="https://farm5.staticflickr.com/4516/24550658448_4354c05707_z.jpg" width="640" height="360" alt="sheep-box"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-**Fig. 1** Skeleton of a [sheep](http://animaldiversity.org/accounts/Ovis_aries/) from a [museum collection of mammal bones](http://www.mcz.harvard.edu/Departments/Mammalogy/). Sometimes finding the bones I need to measure is like sorting through puzzle pieces--only better, because I hate puzzles but love skeletal anatomy. (puzzle lovers, don't @ me) (Image by Abby Vander Linden; specimen copyright Museum of Comparative Zoology, Harvard University)
+**Fig. 1** Skeleton of a [sheep](http://animaldiversity.org/accounts/Ovis_aries/) from a [museum collection of mammal bones](http://www.mcz.harvard.edu/Departments/Mammalogy/). Sometimes finding the bones I need to measure is like sorting through puzzle pieces--only better, because I hate puzzles but love skeletal anatomy. (puzzle lovers, don't "@" me) (Image by Abby Vander Linden; specimen copyright Museum of Comparative Zoology, Harvard University)
 
 Dearest TLS,
 
-Forget going outside--I spent a summer day in the most magical place on earth, a.k.a. a museum basement full of mammal bones! I was there to collect data for a research project looking at whether animals with horns and antlers (sheep, goats, antelopes, deer, and friends) have specially shaped neck vertebrae to help them 1) hold up that fancy headgear and 2) hit competitors in the face with it during the mating season. I spent my day in the museum twirling through specimen cabinets like Belle in the Beast's enormous library, pulling out drawers full of amazing bones and skulls and taking them to my measurement station.
+Forget going outside - I spent a summer day in the most magical place on earth, a.k.a. a museum basement full of mammal bones! I was there to collect data for a research project looking at whether animals with horns and antlers (sheep, goats, antelopes, deer, and friends) have specially shaped neck vertebrae to help them 1) hold up that fancy headgear and 2) hit competitors in the face with it during the mating season. I spent my day in the museum twirling through specimen cabinets like Belle in the Beast's enormous library, pulling out drawers full of amazing bones and skulls and taking them to my measurement station.
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/24550659588/in/dateposted-friend/" title="horn-drawer"><img src="https://farm5.staticflickr.com/4560/24550659588_a2d68b4cac_z.jpg" width="640" height="360" alt="horn-drawer"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
