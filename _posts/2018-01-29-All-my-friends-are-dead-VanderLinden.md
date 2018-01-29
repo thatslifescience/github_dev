@@ -57,3 +57,9 @@ Abby
 
 **Fig. 3** My new plan to get rich quick in grad school is to design football helmets that look like [musk ox](http://animaldiversity.org/accounts/Ovibos_moschatus/) skulls. Check out that protective horn growth over the top of the head! I'm sure my helmets will be shockingly popular with both players and fans. (Image by Abby Vander Linden; specimen copyright Museum of Comparative Zoology, Harvard University)
 
+
+
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Grad School Diaries" %}
+
