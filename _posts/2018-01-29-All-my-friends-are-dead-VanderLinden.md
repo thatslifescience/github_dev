@@ -2,7 +2,7 @@
 title: All My Friends Are Dead - A Day in the Museum Basement
 layout: page
 author: avlinden
-permalink: /2018-01-29-All-my-friends-are-dead-VanderLinden
+permalink: /2018-01-29-All-my-friends-are-dead-VanderLinden/
 tags:
 - animals
 - bones
