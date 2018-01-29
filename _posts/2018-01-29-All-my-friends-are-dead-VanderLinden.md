@@ -2,7 +2,7 @@
 title: All My Friends Are Dead - A Day in the Museum Basement
 layout: page
 author: avlinden
-permalink: : /2018-01-29-All-my-friends-are-dead-VanderLinden/
+permalink: /2018-01-29-All-my-friends-are-dead-VanderLinden/
 tags:
 - animals
 - bones
@@ -16,6 +16,7 @@ header:
 image:
  thumb: AVLinden_20180129_thumb.jpg
 teaser: : For an anatomist, museum basements are a magnificent scientific wonderland full of skulls, bones, and biodiversity!
+
 source-id: 1pGI_zXhdNOSt0JuWpigetkkSv-_03kEsV3MOgBP6wss
 published: true
 ---
