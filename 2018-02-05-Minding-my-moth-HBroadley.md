@@ -1,5 +1,5 @@
 ---
-title: Minding my Moth and Meandering in Malaysia 
+title: 2017-10-15-Minding-my-moth-HBroadley.docx
 layout: page
 author: hbroadley
 permalink: /2018-02-05-Minding-my-moth-HBroadley/
@@ -9,7 +9,7 @@ tags:
 - scientific meeting
 - summer postcard
 categories:
-- Grad School Diaries
+ Grad School Diaries 
 header:
  image_fullwidth: gradschooldiaries-header.jpg
 image:
