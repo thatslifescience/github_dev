@@ -18,6 +18,14 @@ teaser: “I never thought I’d get the chance to go to Malaysia, but I went fo
 source-id: 1ae28-C2-LD3atFwYSm9PW66iezAyyos7sCTBkkuMZQQ
 published: true
 ---
+Title: Minding my Moth and Meandering in Malaysia
+
+Author: Hannah Broadley
+
+Category: Grad Student Diaries
+
+Keywords: Invasive species, Communication, Scientific meeting, Summer postcards
+
 To: 	That's Life [Science] Headquarters
 
 	1 Science Communication Drive
