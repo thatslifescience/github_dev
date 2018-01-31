@@ -1,5 +1,5 @@
 ---
-title: 2017-10-15-Minding-my-moth-HBroadley.docx
+title: Minding my Moth and Meandering in Malaysia
 layout: page
 author: hbroadley
 permalink: /2018-02-05-Minding-my-moth-HBroadley/
