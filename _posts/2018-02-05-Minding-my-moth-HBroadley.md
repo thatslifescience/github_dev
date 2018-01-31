@@ -14,7 +14,7 @@ header:
  image_fullwidth: gradschooldiaries-header.jpg
 image:
  thumb: 20180205_Broadley_Fig3.jpg
-teaser: “I never thought I’d get the chance to go to Malaysia, but I went for a scientific meeting and it was an experience of a lifetime.”
+teaser: I never thought I’d get the chance to go to Malaysia, but I went for a scientific meeting and it was an experience of a lifetime.
 source-id: 1ae28-C2-LD3atFwYSm9PW66iezAyyos7sCTBkkuMZQQ
 published: true
 ---
