@@ -36,6 +36,10 @@
 #   Navigation to the right › side: right
 #
 
+- title: "Contest"
+  url: "/2016-05-01-welcome-to-that's-life-science/"
+  side: right
+
 - title: "Submit"
   url: "/submit/"
   side: right
