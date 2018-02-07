@@ -1,5 +1,5 @@
 ---
-title: TLS Writing Contest Post
+title: TLS Writing Contest
 layout: page
 permalink: /2018-02-06-TLS-Writing-Contest-Post/
 tags:
