@@ -8,7 +8,7 @@ tags:
 - contest
 - announcements
 header:
- image_fullwidth: image-file-name-here.jpg
+ image_fullwidth: you-can-delete-me-header.png
 image:
  thumb: ContestAnnouncement_Thumb.jpg
 teaser: TLS is hosting a writing competition where the winning article will be posted on our blog! Details here.
