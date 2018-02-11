@@ -13,7 +13,7 @@ gallery:
   caption: Dina Navon
 ---
 
-![Dina Navon]({{ site.url }}/thatslifesci/images/navon-01-01.jpg)
+![Dina Navon]({{ site.urlimg }}/navon-01-01.jpg)
 
 Research Area: Evolutionary development
 

@@ -13,7 +13,7 @@ gallery:
   caption: Lian Guo
 ---
 
-![Lian Guo]({{ site.url }}/thatslifesci/images/guo-01.jpg)
+![Lian Guo]({{ site.urlimg }}/guo-01.jpg)
 
 Research Area: Environmental physiology, effects of stressors
 

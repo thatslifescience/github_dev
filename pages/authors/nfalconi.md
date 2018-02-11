@@ -13,7 +13,7 @@ gallery:
   caption: Nereyda Falconi
 ---
 
-![Nereyda Falconi]({{ site.url }}/thatslifesci/images/falconi_lopez-01.jpg)
+![Nereyda Falconi]({{ site.urlimg }}/falconi_lopez-01.jpg)
 
 Research Area: My research aims to develop distribution models and analyze the effects of the changing landscape on spectacled bear’s habitat in Peru.
 

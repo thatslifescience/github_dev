@@ -13,7 +13,7 @@ gallery:
   caption: Rachel Bell
 ---
 
-![Rachel Bell]({{ site.url }}/thatslifesci/images/rbell-01.jpg)<br>
+![Rachel Bell]({{ site.urlimg }}/rbell-01.jpg)<br>
 [Email](mailto:rbbell@umass.edu)
 [Twitter](https://twitter.com/primate_eco_evo)
 

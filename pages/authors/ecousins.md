@@ -13,7 +13,7 @@ gallery:
   caption: Elsa Cousins
 ---
 
-![Elsa Cousins]({{ site.url }}/thatslifesci/images/cousins-01.jpg)
+![Elsa Cousins]({{ site.urlimg }}/cousins-01.jpg)
 
 Research Area: Pollination ecology, multi-trophic interactions.
 

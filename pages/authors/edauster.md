@@ -13,7 +13,7 @@ gallery:
   caption: Emma Dauster
 ---
 
-![Emma Dauster]({{ site.url }}/thatslifesci/images/edauster-01.jpg)<br>
+![Emma Dauster]({{ site.urlimg }}/edauster-01.jpg)<br>
 [Email](mailto:edauster@umass.edu)
 
 Research Area: Sex differences in neural circuits involved in attention

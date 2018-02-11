@@ -13,7 +13,7 @@ gallery:
   caption: Lauren Alteio
 ---
 
-![Lauren Alteio]({{ site.url }}/thatslifesci/images/alteio-01.jpg)
+![Lauren Alteio]({{ site.urlimg }}/alteio-01.jpg)
 
 [Twitter](https://twitter.com/lvalteio)
 

@@ -13,7 +13,7 @@ gallery:
   caption: Joseph Drake
 ---
 
-![Joseph Drake]({{ site.url }}/thatslifesci/images/drake-01.jpg)
+![Joseph Drake]({{ site.urlimg }}/drake-01.jpg)
 
 [Personal Website](https://secretlifeofafieldbiologist.wordpress.com/)<br>
 [Twitter](https://twitter.com/VAN_DLL)<br>

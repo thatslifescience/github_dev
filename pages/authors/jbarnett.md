@@ -13,7 +13,7 @@ gallery:
   caption: Jacob R. Barnett
 ---
 
-![Jacob R. Barnett]({{ site.url }}/thatslifesci/images/jbarnett-01.jpg)<br>
+![Jacob R. Barnett]({{ site.urlimg }}/jbarnett-01.jpg)<br>
 [Twitter](https://twitter.com/barnett7science)
 
 Research Area: Microbiomes, soils, microbial ecology, metagenomics

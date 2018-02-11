@@ -1,12 +1,11 @@
 ---
 title: Contact
 permalink: "/contact/"
-layout: page
+layout: page-fullwidth
 meta_title: Contact Us
 subheadline: ''
 teaser: ''
-header:
-  image_fullwidth: you-can-delete-me-header.png
+header: no
 ---
 
 <!-- Change the width and height values to suit you best -->

@@ -13,7 +13,7 @@ gallery:
   caption: Lucas Griffin
 ---
 
-![Lucas Griffin]({{ site.url }}/thatslifesci/images/griffin-01-01.jpg)
+![Lucas Griffin]({{ site.urlimg }}/griffin-01-01.jpg)
 
 [Personal Website](https://lucas-griffin.squarespace.com)
 

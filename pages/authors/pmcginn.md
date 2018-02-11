@@ -13,7 +13,7 @@ gallery:
   caption: Peter N. McGinn
 ---
 
-![Peter N. McGinn]({{ site.url }}/thatslifesci/images/pmcginn-01.jpg)<br>
+![Peter N. McGinn]({{ site.urlimg }}/pmcginn-01.jpg)<br>
 [Email](mailto:PMcGinn@UMass.edu)
 
 Research Area: Probiotics as a non-pharmacological solution towards reducing self-injurious behaviors in Rhesus Macaque monkeys

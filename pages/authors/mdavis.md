@@ -13,7 +13,7 @@ gallery:
   caption: Monica Davis
 ---
 
-![Monica Davis]({{ site.url }}/thatslifesci/images/davis-01.jpg)
+![Monica Davis]({{ site.urlimg }}/davis-01.jpg)
 
 Research Area: population dynamics and molecular systematics of invasive insects
 

@@ -13,7 +13,7 @@ gallery:
   caption: Abby Vander Linden
 ---
 
-![Abby Vander Linden]({{ site.url }}/thatslifesci/images/vanderlinden-01-01.jpg)
+![Abby Vander Linden]({{ site.urlimg }}/vanderlinden-01-01.jpg)
 
 Research Area: Mammal functional morphology and evolution
 

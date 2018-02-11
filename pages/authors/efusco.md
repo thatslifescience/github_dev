@@ -13,7 +13,7 @@ gallery:
   caption: Emily Fusco
 ---
 
-![Emily Fusco]({{ site.url }}/thatslifesci/images/fusco-01.jpg)
+![Emily Fusco]({{ site.urlimg }}/fusco-01.jpg)
 
 [Twitter](https://www.twitter.com/EmilyJFusco)
 

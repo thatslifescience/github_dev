@@ -13,7 +13,7 @@ gallery:
   caption: Edwin Murenzi
 ---
 
-![Edwin Murenzi]({{ site.url }}/thatslifesci/images/emurenzi-01.jpg)<br>
+![Edwin Murenzi]({{ site.urlimg }}/emurenzi-01.jpg)<br>
 [Personal Website](https://www.vasci.umass.edu/contact-us/gradstudents/edwin-murenzi)
 [Email](mailto:emurenzi@vasci.umass.edu)
 

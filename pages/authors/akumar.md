@@ -13,7 +13,7 @@ gallery:
   caption: Ajay Kumar
 ---
 
-![Ajay Kumar]({{ site.url }}/thatslifesci/images/kumar-01.jpg)
+![Ajay Kumar]({{ site.urlimg }}/kumar-01.jpg)
 
 
 

@@ -12,7 +12,7 @@ gallery:
 - image_url: ebeaury-01.jpg
   caption: Eve Beaury
 ---
-![Eve Beaury]({{ site.url }}/thatslifesci/images/ebeaury-01.jpg)<br>
+![Eve Beaury]({{ site.urlimg }}/ebeaury-01.jpg)<br>
 [Email](mailto:eve.beaury@gmail.com)
 
 Research Area: Biogeography of invasive plants to understand the patterns of invasion in the context of global change<br>

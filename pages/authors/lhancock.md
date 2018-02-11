@@ -13,7 +13,7 @@ gallery:
   caption: Laura Hancock
 ---
 
-![Laura Hancock]({{ site.url }}/thatslifesci/images/hancock-01-01.jpg)
+![Laura Hancock]({{ site.urlimg }}/hancock-01-01.jpg)
 
 [Personal Website](https://gpls.cns.umass.edu/oeb/directory/laura-m.-s.-hancock)
 

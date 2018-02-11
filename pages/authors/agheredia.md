@@ -13,7 +13,7 @@ gallery:
   caption: Alam Garcia Heredia
 ---
 
-![Alam Garcia Heredia]({{ site.url }}/thatslifesci/images/garciaheredia-01.jpg)
+![Alam Garcia Heredia]({{ site.urlimg }}/garciaheredia-01.jpg)
 
 [Personal Website](http://www.microbiosymas.com/alam.html)
 

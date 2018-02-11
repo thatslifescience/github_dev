@@ -13,7 +13,7 @@ gallery:
   caption: Kit Straley
 ---
 
-![Kit Straley]({{ site.url }}/thatslifesci/images/straley-01.jpg)
+![Kit Straley]({{ site.urlimg }}/straley-01.jpg)
 
 [Personal Website](http://www.kstraleyeco.wordpress.com )
 
