@@ -24,7 +24,7 @@ We hope you will join us in welcoming That's Life [Science] to the web universe.
 
 That's Life [Science] Team
 
-###Spring 2016
+<h3>Spring 2016</h3>
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/40210754861/in/dateposted-friend/" title="SPR2016_TLSfunny"><img src="https://farm5.staticflickr.com/4603/40210754861_eb1bd889a9_c.jpg" width="800" height="534" alt="SPR2016_TLSfunny"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
