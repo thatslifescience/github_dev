@@ -35,15 +35,14 @@
 #
 #   Navigation to the right › side: right
 #
-
 - title: "Contest"
-  url: "/2016-05-01-welcome-to-that's-life-science/"
+  url: "/2018-02-06-TLS-Writing-Contest-Post/"
   side: right
 
-- title: "Submit"
+- title: "Submit A Post"
   url: "/submit/"
   side: right
-  
+
 - title: "Contact"
   url: "/contact/"
   side: right
