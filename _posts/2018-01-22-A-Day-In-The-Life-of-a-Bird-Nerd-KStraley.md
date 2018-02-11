@@ -14,7 +14,7 @@ categories:
 header:
  image_fullwidth: gradschooldiaries-header.jpg
 image:
- thumb: 2018-01-21-KStraleyA.jpg
+ thumb: 2018-01-21-KStraleyA.png
 teaser: Have you ever wondered what graduate students actually do? While every day is a new adventure, here’s a sample of one of my Wednesdays…
 
 source-id: 1nXfOS-lXVIdqYzarCD3nXe-fIjrGqF0eC1WyxpKNfmo

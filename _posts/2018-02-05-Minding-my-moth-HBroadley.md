@@ -9,7 +9,7 @@ tags:
 - scientific meeting
 - summer postcard
 categories:
- Grad School Diaries 
+- Grad School Diaries 
 header:
  image_fullwidth: gradschooldiaries-header.jpg
 image:

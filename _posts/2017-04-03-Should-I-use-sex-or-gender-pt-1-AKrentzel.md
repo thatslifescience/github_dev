@@ -15,7 +15,7 @@ header:
  image_fullwidth: howitworks-header.jpg
 image:
  thumb: 20170402_AKrentzel_thumb.png
-teaser: “Some people use ‘sex’ and ‘gender’ interchangeably, but here are the reasons why there’s is a big difference between these terms.”
+teaser: Some people use ‘sex’ and ‘gender’ interchangeably, but here are the reasons why there’s is a big difference between these terms.
 source-id: 1aZXL_pJKAdReiP1clLCPFHHvlF32MtQ4eQmceltPzv8
 published: true
 ---
@@ -61,4 +61,5 @@ In part 2, I will describe how sex can be just as nuanced as gender, and introdu
 
 ## More From Thats Life [Science]
 {: .t60 }
-{% include list-posts offset="1" entries='5' category="Our Ecosystems" %}
+{% include list-posts offset="1" entries="5" category="Our Ecosystems" %}
+
