@@ -10,24 +10,19 @@ tags:
 - summer postcard
 - frogs
 categories:
- Grad School Diaries
+- Grad School Diaries
 header:
  image_fullwidth: gradschooldiaries-header.jpg
 image:
- thumb: image-file-name-here.jpg
+ thumb: 20180217_ekuras_thumb.jpg
 teaser: When your research is about environmental education, you end up spending all your time at school!
 source-id: 1lzmovzWcCJZeueNQjizkDnJ_tpeQ8tYbpHDlOW3LLLI
 published: true
 ---
-Title: A graduate student in elementary school
-
-Author: Evan KurasCategories: Grad School Diaries
-
-Keywords: biodiversity; outreach; education; summer postcard; frogs
-
-Teaser: When your research is about environmental education, you end up spending all your time at school!Featured Photo: Fig. 1
-
-From: 	Evan KurasClifford A. Phaneuf Environmental Center Porter Lake, Forest ParkSpringfield, MA
+From: 	Evan Kuras
+Clifford A. Phaneuf Environmental Center 
+Porter Lake, Forest Park
+Springfield, MA
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/26544981619/in/dateposted-friend/" title="ECOS building"><img src="https://farm5.staticflickr.com/4556/26544981619_958eb2a908.jpg" width="500" height="281" alt="ECOS building"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
