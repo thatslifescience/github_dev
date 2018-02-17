@@ -36,3 +36,8 @@ Cheerio,
 
 Evan
 
+
+
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Grad School Diaries" %}
