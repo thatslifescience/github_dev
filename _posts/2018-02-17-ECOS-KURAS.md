@@ -24,7 +24,7 @@ Clifford A. Phaneuf Environmental Center
 Porter Lake, Forest Park
 Springfield, MA
 
-<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/26544981619/in/dateposted-friend/" title="ECOS building"><img src="https://farm5.staticflickr.com/4556/26544981619_958eb2a908.jpg" width="500" height="281" alt="ECOS building"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/26544981619/in/dateposted-friend/" title="ECOS building"><img src="https://farm5.staticflickr.com/4556/26544981619_958eb2a908.jpg" width="500" height="281" alt="ECOS building"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> </center>
 
 **Fig. 1** The Clifford A. Phaneuf Environmental Center on a sunny morning before the students arrive (Photo credit: Evan Kuras). 
 
