@@ -1,7 +1,10 @@
 ---
 title: What do cockroaches, power tools, and pollinator gardens have in common? 
 layout: post
-author: ebeaury hbisbee mharris
+author: 
+- ebeaury 
+- hbisbee 
+- mharris
 permalink: /2018-02-26-What-do-cockroaches-power-tools-and-pollinator-gardens-have-in-common-BEAURY/
 tags:
 - biodiversity
@@ -81,3 +84,6 @@ References:
 
 [2] Hebets, Eileen A., Eben J. Gering, Verner P. Bingman, and Daniel D. Wiegmann. "[Nocturnal homing in the tropical amblypygid Phrynus pseudoparvulus (Class Arachnida, Order Amblypygi).](https://doi.org/10.1007/s10071-013-0718-8)" Animal cognition 17, no. 4 (2014): 1013-1018.
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Grad School Diaries" %}
