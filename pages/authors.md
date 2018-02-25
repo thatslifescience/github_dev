@@ -40,7 +40,7 @@ header: no
         <div class="large-3 columns">
         <img src="{{ site.urlimg }}broadley-01-01.jpg" alt="Hannah J. Broadley">
         <p><a href = "{{ site.url }}/authors/hbroadley"><b>Hannah J. Broadley</b></a></p>
-        end</div>
+        </div>
 </div>
 <div class="row row-centered">
         <div class="large-3 columns">
@@ -183,5 +183,5 @@ header: no
         <div class="large-3 columns">
         <img src="{{ site.urlimg }}shaughnessy-01-01.jpg" alt="Ciaran A. Shaughnessy">
         <p><a href = "{{ site.url }}/authors/cshaughnessy"><b>Ciaran A. Shaughnessy</b></a></p>
-        </div>end
+        end</div>
 </div>
