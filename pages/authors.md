@@ -11,35 +11,37 @@ header: no
 <center><h3>Current Contributors</h3></center><br>
 
 <div class="row">
-        <div class="small-1 columns">
+        <div class="large-1 columns">
         <img src="{{ site.urlimg }}Aguirre-01.jpg" alt="Luis Aguirre">
         <p><a href = "{{ site.url }}/authors/laguirre"><b>Luis Aguirre</b></a></p></div>
-        <div class="small-1 columns">
+        <div class="large-1 columns">
         <img src="{{ site.urlimg }}alcott-01-01.jpg" alt="Derrick Alcott">
         <p><a href = "{{ site.url }}/authors/dalcott"><b>Derrick Alcott</b></a></p></div>
-        <div class="small-1 columns">
+        <div class="large-1 columns">
         <img src="{{ site.urlimg }}alteio-01.jpg" alt="Lauren Alteio">
         <p><a href = "{{ site.url }}/authors/lalteio"><b>Lauren Alteio</b></a></p></div>
-        <div class="small-1 columns">
+        <div class="large-1 columns">
         <img src="{{ site.urlimg }}Andina-01.jpg" alt="Matias Andina">
         <p><a href = "{{ site.url }}/authors/mandina"><b>Matias Andina</b></a></p></div>
 </div>
-        <div class="large-4 columns">
+<div class="row">
+        <div class="large-1 columns">
         <img src="{{ site.urlimg }}jbarnett-01.jpg" alt="Jacob R. Barnett">
         <p><a href = "{{ site.url }}/authors/jbarnett"><b>Jacob R. Barnett</b></a></p>
         </div>
-        <div class="large-4 columns">
+        <div class="large-1 columns">
         <img src="{{ site.urlimg }}ebeaury-01.jpg" alt="Eve Beaury">
         <p><a href = "{{ site.url }}/authors/ebeaury"><b>Eve Beaury</b></a></p>
         </div>
-        <div class="large-4 columns">
+        <div class="large-1 columns">
         <img src="{{ site.urlimg }}rbell-01.jpg" alt="Rachel Bell">
         <p><a href = "{{ site.url }}/authors/rbell"><b>Rachel Bell</b></a></p>
         </div>
-        <div class="large-4 columns">
+        <div class="large-1 columns">
         <img src="{{ site.urlimg }}broadley-01-01.jpg" alt="Hannah J. Broadley">
         <p><a href = "{{ site.url }}/authors/hbroadley"><b>Hannah J. Broadley</b></a></p>
         </div>
+</div>
         <div class="large-4 columns">
         <img src="{{ site.urlimg }}Bruce-01.jpg" alt="Maggie Bruce">
         <p><a href = "{{ site.url }}/authors/mbruce"><b>Maggie Bruce</b></a></p>
