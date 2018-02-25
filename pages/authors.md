@@ -39,7 +39,7 @@ header: no
         </div>
         <div class="large-3 columns">
         <img src="{{ site.urlimg }}broadley-01-01.jpg" alt="Hannah J. Broadley">
-        <p><a href = "{{ site.url }}/authors/hbroadley"><b>Hannah J. Broadley</b></a></p>
+        <p><a href = "{{ site.url }}/authors/hbroadley"><b>Hannah J. Broadley</b></a></p>end
         </div>
 </div>
         <div class="large-4 columns">
