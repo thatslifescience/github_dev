@@ -127,7 +127,7 @@ header: no
         <img src="{{ site.urlimg }}vahaba-01.jpg" alt="Dan Vahaba">
         <p><a href = "{{ site.url }}/authors/dvahaba"><b>Dan Vahaba</b></a></p>
         </div>
-        <div class="large-3 columns">
+        <div class="large-3 columns end">
         <img src="{{ site.urlimg }}vanderlinden-01-01.jpg" alt="Abby Vander Linden">
         <p><a href = "{{ site.url }}/authors/avlinden"><b>Abby Vander Linden</b></a></p>
         </div>        
@@ -180,8 +180,8 @@ header: no
         <img src="{{ site.urlimg }}Morozov-01.jpg" alt="Aleksey Morozov">
         <p><a href = "{{ site.url }}/authors/amorozov"><b>Aleksey Morozov</b></a></p>
         </div>
-        <div class="large-3 columns">
+        <div class="large-3 columns end">
         <img src="{{ site.urlimg }}shaughnessy-01-01.jpg" alt="Ciaran A. Shaughnessy">
         <p><a href = "{{ site.url }}/authors/cshaughnessy"><b>Ciaran A. Shaughnessy</b></a></p>
-        end</div>
+        </div>
 </div>
