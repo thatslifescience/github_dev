@@ -26,6 +26,10 @@ header: no
         <p><a href = "{{ site.url }}/authors/lalteio"><b>Lauren Alteio</b></a></p>
         </div>
         <div class="large-4 columns">
+        <img src="{{ site.urlimg }}Andina-01.jpg" alt="Matias Andina">
+        <p><a href = "{{ site.url }}/authors/mandina"><b>Matias Andina</b></a></p>
+        </div>
+        <div class="large-4 columns">
         <img src="{{ site.urlimg }}jbarnett-01.jpg" alt="Jacob R. Barnett">
         <p><a href = "{{ site.url }}/authors/jbarnett"><b>Jacob R. Barnett</b></a></p>
         </div>
@@ -62,6 +66,10 @@ header: no
         <p><a href = "{{ site.url }}/authors/jdrake"><b>Joseph Drake</b></a></p>
         </div>
         <div class="large-4 columns">
+        <img src="{{ site.urlimg }}falconi_lopez-01.jpg" alt="Nereyda Falconi">
+        <p><a href = "{{ site.url }}/authors/nfalconi"><b>Nereyda Falconi</b></a></p>
+        </div>
+        <div class="large-4 columns">
         <img src="{{ site.urlimg }}fusco-01.jpg" alt="Emily Fusco">
         <p><a href = "{{ site.url }}/authors/efusco"><b>Emily Fusco</b></a></p>
         </div>
@@ -92,10 +100,6 @@ header: no
         <div class="large-4 columns">
         <img src="{{ site.urlimg }}melzer-01.jpg" alt="Emily S. Melzer">
         <p><a href = "{{ site.url }}/authors/emelzer"><b>Emily S. Melzer</b></a></p>
-        </div>
-        <div class="large-4 columns">
-        <img src="{{ site.urlimg }}emurenzi-01.jpg" alt="Edwin Murenzi">
-        <p><a href = "{{ site.url }}/authors/emurenzi"><b>Edwin Murenzi</b></a></p>
         </div>
         <div class="large-4 columns">
         <img src="{{ site.urlimg }}navon-01-01.jpg" alt="Dina Navon">
@@ -131,10 +135,6 @@ header: no
         <p><a href = "{{ site.url }}/authors/eaperkins"><b>Elisha Allan-Perkins</b></a></p>
         </div>
         <div class="large-4 columns">
-        <img src="{{ site.urlimg }}Andina-01.jpg" alt="Matias Andina">
-        <p><a href = "{{ site.url }}/authors/mandina"><b>Matias Andina</b></a></p>
-        </div>
-        <div class="large-4 columns">
         <img src="{{ site.urlimg }}coomey-01.jpg" alt="Joshua H. Coomey">
         <p><a href = "{{ site.url }}/authors/jcoomey"><b>Joshua H. Coomey</b></a></p>
         </div>     
@@ -146,10 +146,6 @@ header: no
         <img src="{{ site.urlimg }}devine-01.jpg" alt="Matt Devine">
         <p><a href = "{{ site.url }}/authors/mdevine"><b>Matt Devine</b></a></p>
         </div>         
-        <div class="large-4 columns">
-        <img src="{{ site.urlimg }}falconi_lopez-01.jpg" alt="Nereyda Falconi">
-        <p><a href = "{{ site.url }}/authors/nfalconi"><b>Nereyda Falconi</b></a></p>
-        </div>
         <div class="large-4 columns">
         <img src="{{ site.urlimg }}galindo-01.jpg" alt="Luisa Galindo">
         <p><a href = "{{ site.url }}/authors/lgalindo"><b>Luisa Galindo</b></a></p>
