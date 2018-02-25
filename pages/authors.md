@@ -11,18 +11,18 @@ header: no
 <center><h3>Current Contributors</h3></center><br>
 
 <div class="row">
-        <div class="small-4 columns">
+        <div class="small-1 columns">
         <img src="{{ site.urlimg }}Aguirre-01.jpg" alt="Luis Aguirre">
-        <p><a href = "{{ site.url }}/authors/laguirre"><b>Luis Aguirre</b></a></p>
-        <div class="small-4 columns">
+        <p><a href = "{{ site.url }}/authors/laguirre"><b>Luis Aguirre</b></a></p></div>
+        <div class="small-1 columns">
         <img src="{{ site.urlimg }}alcott-01-01.jpg" alt="Derrick Alcott">
-        <p><a href = "{{ site.url }}/authors/dalcott"><b>Derrick Alcott</b></a></p>
-        <div class="small-4 columns">
+        <p><a href = "{{ site.url }}/authors/dalcott"><b>Derrick Alcott</b></a></p></div>
+        <div class="small-1 columns">
         <img src="{{ site.urlimg }}alteio-01.jpg" alt="Lauren Alteio">
-        <p><a href = "{{ site.url }}/authors/lalteio"><b>Lauren Alteio</b></a></p>
-        <div class="small-4 columns">
+        <p><a href = "{{ site.url }}/authors/lalteio"><b>Lauren Alteio</b></a></p></div>
+        <div class="small-1 columns">
         <img src="{{ site.urlimg }}Andina-01.jpg" alt="Matias Andina">
-        <p><a href = "{{ site.url }}/authors/mandina"><b>Matias Andina</b></a></p>
+        <p><a href = "{{ site.url }}/authors/mandina"><b>Matias Andina</b></a></p></div>
 </div>
         <div class="large-4 columns">
         <img src="{{ site.urlimg }}jbarnett-01.jpg" alt="Jacob R. Barnett">
