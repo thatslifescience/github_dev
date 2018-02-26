@@ -13,7 +13,15 @@ gallery:
   caption: Elisha Allan-Perkins
 ---
 
+<<<<<<< HEAD
 ![Elisha Allan-Perkins]({{ site.url }}/images/perkins-01.jpg)
+=======
+<<<<<<< HEAD
+![Elisha Allan-Perkins]({{ site.url }}/images/perkins-01.jpg)
+=======
+![Elisha Allan-Perkins]({{ site.urlimg }}/perkins-01.jpg)
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
+>>>>>>> a38c40457bba7c350119f97bd3c064bad2806f7a
 
 My research focuses on how organic and conventional turf management affect soil microbe and nematode communities with an emphasis on how these practices may influence disease management.
 

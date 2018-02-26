@@ -13,7 +13,15 @@ gallery:
   caption: Maggie Bruce
 ---
 
+<<<<<<< HEAD
 ![Maggie Bruce]({{ site.url }}/images/Bruce-01.jpg)
+=======
+<<<<<<< HEAD
+![Maggie Bruce]({{ site.url }}/images/Bruce-01.jpg)
+=======
+![Maggie Bruce]({{ site.urlimg }}/Bruce-01.jpg)
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
+>>>>>>> a38c40457bba7c350119f97bd3c064bad2806f7a
 
 I am studying visual attention in jumping spiders. I hope to focus on the division of labor between principal and secondary eyes by tracking retinal movements. My research will help reveal the connectivity between the activity of a visual stimulus, eye activity, and neural activity involved with an animal navigating a complex environment.
 

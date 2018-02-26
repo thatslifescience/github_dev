@@ -3,7 +3,7 @@ title:  'Thats Life Science'
 slogan: 'An Interdisciplinary Life Science Outreach Blog from UMass Amherst'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: ''
+description: 'An Interdisciplinary Life Science Outreach Blog from UMass Amherst'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Created with &hearts; in Amherst, MA</p>'
@@ -14,7 +14,12 @@ author:
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
+<<<<<<< HEAD
 url: ''
+=======
+
+url: 'https://thatslifescience.github.io/thatslifesci'
+>>>>>>> a38c40457bba7c350119f97bd3c064bad2806f7a
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
@@ -27,8 +32,12 @@ improve_content:
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
+<<<<<<< HEAD
 urlimg: '/images/'
+=======
+>>>>>>> a38c40457bba7c350119f97bd3c064bad2806f7a
 
+urlimg: '/thatslifesci/images/'
 
 # Logo size is 600x80 pixels
 logo: "logo.png"
@@ -50,7 +59,13 @@ gems:
     - jekyll-feed
     - algoliasearch-jekyll
     - jekyll-sitemap
+<<<<<<< HEAD
 paginate: 15000                # Paginates all X entries
+=======
+    - jekyll-assets
+    - jekyll-twitter-plugin
+paginate: 10000
+>>>>>>> a38c40457bba7c350119f97bd3c064bad2806f7a
 paginate_path: "/page:num/"   # Pagination path › Important for blog page in /blog/ to work
 
 
@@ -71,7 +86,22 @@ exclude:
     - README.md
     - INSTALL.md
     - vendor
+    - bin/*
+    - circle.yml
+    - package.json
+    - yarn.lock
+    - s3_website.yml
+    - deploy.sh
 
+assets:
+  plugins:
+    css: { autoprefixer: {}}
+    img: { optim: {}}
+  source_maps: false
+  sources:
+    - _assets/js
+    - _assets/css
+    - _assets/yarn
 # The language setting is used in /includes/header.html for html-settings
 language: 'en'
 

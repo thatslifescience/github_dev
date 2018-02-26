@@ -27,7 +27,11 @@
 	
   <meta name="google-site-verification" content="" />
 	<meta name="msvalidate.01" content="" />
+<<<<<<< HEAD
 	<meta name="description" content="" />
+=======
+	<meta name="description" content="An Interdisciplinary Life Science Outreach Blog from UMass Amherst" />
+>>>>>>> a38c40457bba7c350119f97bd3c064bad2806f7a
 
 	<link rel="author" href=""/>
 
@@ -110,7 +114,11 @@
 	<meta property="og:locale" content="en_EN" />
 	<meta property="og:type" content="website" />
 	<meta property="og:title" content="RSS Feed (Styled)" />
+<<<<<<< HEAD
 	<meta property="og:description" content="" />
+=======
+	<meta property="og:description" content="An Interdisciplinary Life Science Outreach Blog from UMass Amherst" />
+>>>>>>> a38c40457bba7c350119f97bd3c064bad2806f7a
 	<meta property="og:url" content="http://localhost:4000//assets/xslt/rss.xslt" />
 	<meta property="og:site_name" content="Thats Life Science" />
 	

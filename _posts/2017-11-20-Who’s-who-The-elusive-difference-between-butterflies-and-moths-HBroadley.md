@@ -1,0 +1,86 @@
+---
+title: "Who’s who? The elusive difference between butterflies and moths"
+layout: page
+author: hbroadley
+permalink: /2017-11-20-Who’s-who-The-elusive-difference-between-butterflies-and-moths-HBroadley/
+tags:
+- insects
+- butterfly
+- moth
+- species
+- identification
+categories:
+- Earth's Organisms
+header:
+ image_fullwidth: organisms-header.jpg
+image:
+ thumb: Broadley_Figure2.jpg
+teaser: Have you ever wondered what the difference is between a butterfly and a moth?  Me too. This is what I found out.
+source-id: 1TcTA2EXjQxkGBkoXTCObxlXvasEVokYBW1jppEhz1Mw
+published: true
+---
+As an entomologist (scientist who studies insects), I often get asked about butterflies and moths.  The question is usually something like this: "What is the difference between a butterfly and a moth?" And my response is typically something like this: “Hum, I know there are a number of distinctions, but I don't know them all that well.  I’ll get back to you on that.” 
+
+But that response gets old.  No time like the present for me to get back to all those that have asked me this. I dug through some of my textbooks, guidebooks, and online resources and have outlined the following for myself and all those who have posed the question.  
+
+**Starting with the common ground between the two.** Both butterflies and moths are insects  ([class](https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Biological_classification_L_Pengo_vflip.svg/399px-Biological_classification_L_Pengo_vflip.svg.png&imgrefurl=https://en.wikipedia.org/wiki/Order_(biology)&h=1024&w=399&tbnid=gC7200hNlkWp9M:&tbnh=160&tbnw=62&usg=__YnNJiFrRbQWbzIrimEQYeBFj9fI=&vet=10ahUKEwj1w_Db5vXVAhVIJCYKHTspCjcQ9QEILDAA..i&docid=GBIq4p9wPa6RLM&sa=X&ved=0ahUKEwj1w_Db5vXVAhVIJCYKHTspCjcQ9QEILDAA) Insecta) and thus have a hard exoskeleton, six segmented legs, [a three-part body](http://entomology.unl.edu/scilit/basic-insect-morphology) (head, thorax, and abdomen), antennae, and compound eyes (with numerous visual units) [1].  Within this class of animals, both butterfly and moths are in the order Lepidoptera (Fig. 1) 
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/26695923849/in/dateposted-friend/" title="Broadley_Figure1"><img src="https://farm5.staticflickr.com/4531/26695923849_1afd8fd4e3_c.jpg" width="800" height="600" alt="Broadley_Figure1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+**Fig 1.** Some of the common insect orders (groups) within the overarching [class](https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Biological_classification_L_Pengo_vflip.svg/399px-Biological_classification_L_Pengo_vflip.svg.png&imgrefurl=https://en.wikipedia.org/wiki/Order_(biology)&h=1024&w=399&tbnid=gC7200hNlkWp9M:&tbnh=160&tbnw=62&usg=__YnNJiFrRbQWbzIrimEQYeBFj9fI=&vet=10ahUKEwj1w_Db5vXVAhVIJCYKHTspCjcQ9QEILDAA..i&docid=GBIq4p9wPa6RLM&sa=X&ved=0ahUKEwj1w_Db5vXVAhVIJCYKHTspCjcQ9QEILDAA) of insects (Insecta).  The butterflies and moths are highlighted in blue. This phylogenetic tree shows their evolutionary relationship to each other. Adapted from an [image](https://en.wikipedia.org/wiki/File:Phylogeny_of_insect_orders.svg) from Wikipedia Commons. 
+
+  
+
+Lepidoptera means "scaled wings" in Greek. Both butterflies and moths have large front and hind wings, which as the name implies, are covered with tiny scales (Fig. 2)[2]. This feature sets them apart from all other insects  (e.g. dragonflies, grasshoppers, beetles, flies, bees).  The immature (or larval) stage of both butterflies and moths are caterpillars. [Caterpillars are fascinating and can even be cute](https://www.wired.com/2015/07/samuel-jaffe-caterpillars-of-new-england-capterillars/), but because they eat plant material (roots, leaves, stems), they are probably more destructive to agricultural crops and forest trees than any other group of insects (see my earlier post “[The hungry caterpillar in real life](http://thatslifesci.com.s3-website-us-east-1.amazonaws.com/2017-03-27-The-hungry-caterpillar-in-real-life-HBroadley/)”). Because of their close relationship with plants (they eat them), butterflies and moths are thought to have evolved along with flowering plants. Following the caterpillar-stage, all butterflies and moths go through a metamorphosis to become their adult, winged form.  
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/38453866552/in/dateposted-friend/" title="Broadley_Figure2_updated"><img src="https://farm5.staticflickr.com/4548/38453866552_e4cd50b99a_c.jpg" width="607" height="800" alt="Broadley_Figure2_updated"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+**Fig 2.** Image of the (A) wing scales of a (B) blue morpho butterfly.  Modified using photos by [Argonne National Laboratoy](https://www.flickr.com/photos/argonne/8023114584) and [TexasEagle](https://www.flickr.com/photos/texaseagle/7023938029).    
+
+**Now for the differences between the two.**  Taxonomically, butterflies and moths are different.  The order Lepidoptera is subdivided into two suborders—Rhopalocera, or butterflies and Heterocera, or moths.  However, it looks like the features to distinguish between butterflies and moths are more guidelines rather than hard and fast rules.  And things are particularly complicated for moths, which includes more species and more variation in how they look or where they can be found than is the case with butterflies.  One entomologist even went as far as to say:  "The only definition that can be given of Heterocera [moths] is that all Lepidoptera that aren't butterflies are Heterocera" [3].   
+
+Nonetheless, in the pursuit of my answer, I have outlined the guidelines below in order of most steadfast to least reliable.          
+
+**1. Antennae:**  
+
+* Most groups of butterflies have antennae that are thin with club-shape at end.  This is true for all but the [Hedylid butterflies](http://www.learnaboutbutterflies.com/Andes%20-%20Macrosoma%20heliconaria.htm) (or "moth-butterflies"), which are butterflies, but look like moths.  They don't have clubbed antennae, but rather are feather shaped.   
+
+* Moth's antennae are feathery or saw-edged 
+
+**2. Wing posture:**
+
+* Butterflies tend to fold their wings vertically up over their backs 
+
+* Moths typically fold their wings tent-like over their abdomens 
+
+**3. Body shape:**
+
+* Butterflies tend to be slender and smooth
+
+* Moths tend to be stout and fuzzy
+
+**4. Activity:**
+
+* Butterflies tend to be diurnal, meaning that they fly during the day.  Along with this, more often butterflies have coloration cues for attracting mates and deterring predators and thus tend to be brightly colored.  
+
+* Moths tend to be nocturnal, meaning that they fly at night.  Therefore they do not need coloration and thus tend to be more subtly colored. There are exceptions though - the Madagascan sunset moth, for example, is brightly colored and active during the day.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/38453868052/in/dateposted-friend/" title="Broadley_Figure3_updated"><img src="https://farm5.staticflickr.com/4580/38453868052_46a210bbe7_c.jpg" width="595" height="800" alt="Broadley_Figure3_updated"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+**Fig. 3** Distinguishing features between a butterfly and a moth. Modified using photos from [Pixabay](https://pixabay.com/en/isolated-butterfly-butterfly-1852106/) and [Wikipedia Commons](https://upload.wikimedia.org/wikipedia/commons/a/a8/Attacus_atlas_qtl1.jpg). 
+
+Size is not a determinant, but is fun to discuss as a side note. The largest known butterflies in the world are the [birdwings](http://elegantentomology.weebly.com/bird-wing-butterflies.html). The Queen Alexandra Birdwing (*Ornithoptera alexandrae*) and the Goliath birdwing (*Ornithoptera goliath*) both from the rainforests of Papua New Guinea have a wingspan of 11 inches. The largest known moths are the Atlas moths (*Saturniidae*) with wingspans as large as 12 inches.  On the other end of the spectrum, the smallest known butterflies are the blues (*Lycaenidae*) with wingspans from 1/4 - 1/2 inches. The smallest known moths are from the pygmy moth family (*Nepticulidae*) with wingspans as small as one tenth of an inch.  Check out [this fun Library of Congress page](https://www.loc.gov/rr/scitech/mysteries/butterflymoth.html) for more info.  
+
+In the end, it looks like there are no hard and fast rules, but I am now equipped with some guidelines to determine if something is a butterfly or a moth, and so are you! Thanks for coming along for the ride.    
+
+**References**
+
+1. Gullan, P.J. and P.S. Cranston.  2010. The Insects: An Outline of Entomology.  Wiley-Blackwell. 
+
+2. Johnson, N.F. and C.A. Triplehorn. 2005. Borror and Delong's Introduction to the Study of Insects, 7th edition.  Brooks/Cole Publishing Co. 
+
+3. Holland, W.J. 1968. The Moth Book: A Popular Guide to a Knowledge of the Moths of North America. Dover Publications, Inc. New York, New York.   
+
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Earth's Organisms" %}

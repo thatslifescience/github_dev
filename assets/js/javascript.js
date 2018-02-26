@@ -2431,7 +2431,15 @@ function FastClick(a,b){"use strict";function c(a,b){return function(){return a.
         if (!$dropdown.find('.title.back').length) {
 
           if (settings.mobile_show_parent_link == true && url) {
+<<<<<<< HEAD
             $titleLi = $('<li class="title back js-generated"><h5><a href="javascript:void(0)"></a></h5></li><li class="parent-link show-for-small-only"><a class="parent-link js-generated" href="' + url + '">' + $link.html() +'</a></li>');
+=======
+<<<<<<< HEAD
+            $titleLi = $('<li class="title back js-generated"><h5><a href="javascript:void(0)"></a></h5></li><li class="parent-link show-for-small-only"><a class="parent-link js-generated" href="' + url + '">' + $link.html() +'</a></li>');
+=======
+            $titleLi = $('<li class="title back js-generated"><h5><a href="javascript:void(0)"></a></h5></li><li class="parent-link hide-for-large-up"><a class="parent-link js-generated" href="' + url + '">' + $link.html() +'</a></li>');
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
+>>>>>>> a38c40457bba7c350119f97bd3c064bad2806f7a
           } else {
             $titleLi = $('<li class="title back js-generated"><h5><a href="javascript:void(0)"></a></h5>');
           }
@@ -3346,4 +3354,12 @@ $(document).foundation({
       animation: 'fade',
   animation_speed: 250
   }
+<<<<<<< HEAD
 });
+=======
+<<<<<<< HEAD
+});
+=======
+});
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
+>>>>>>> a38c40457bba7c350119f97bd3c064bad2806f7a

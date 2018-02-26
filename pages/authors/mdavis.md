@@ -13,7 +13,15 @@ gallery:
   caption: Monica Davis
 ---
 
+<<<<<<< HEAD
 ![Monica Davis]({{ site.url }}/images/davis-01.jpg)
+=======
+<<<<<<< HEAD
+![Monica Davis]({{ site.url }}/images/davis-01.jpg)
+=======
+![Monica Davis]({{ site.urlimg }}/davis-01.jpg)
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
+>>>>>>> a38c40457bba7c350119f97bd3c064bad2806f7a
 
 Research Area: population dynamics and molecular systematics of invasive insects
 

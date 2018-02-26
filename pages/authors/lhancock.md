@@ -5,7 +5,11 @@ layout: page
 author: lhancock
 meta_title: Laura Hancock | That's Life [Science]
 subheadline: Contributor since Fall 2015
+<<<<<<< HEAD
 teaser: MS/PhD Student, Organismic and Evolutionary Biology
+=======
+teaser: PhD Candidate in Organismic and Evolutionary Biology
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 header:
   image_fullwidth: you-can-delete-me-header.png
 gallery:
@@ -13,6 +17,10 @@ gallery:
   caption: Laura Hancock
 ---
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a38c40457bba7c350119f97bd3c064bad2806f7a
 ![Laura Hancock]({{ site.url }}/images/hancock-01-01.jpg)
 
 [Personal Website](https://gpls.cns.umass.edu/oeb/directory/laura-m.-s.-hancock)
@@ -22,6 +30,15 @@ I'm a third year master’s/PhD student in the Organismic and Evolutionary Biolo
 Even though I’ve been studying plant ecology for over six years, for my PhD, I'm making a big change and switching into the wonderful world of bat conservation and behavior. Outside of research, my passions are sleeping, eating, and animal welfare. (My pet guinea pigs are pretty darn cute, too.)
 
 I am very excited to be a part of TLS, so I try and contribute as much as I can. I write and edit blogs as well as act as a managing editor for TLS. I’m also a part of the communication committee. (picture taken by Peter Muka)
+=======
+![Laura Hancock]({{ site.urlimg }}/hancock-01-01.jpg)
+
+[Personal Website](https://gpls.cns.umass.edu/oeb/directory/laura-m.-s.-hancock)
+
+Research Area: Conservation & management, bat ecology, plant ecology
+
+My research has changed scope (microhabitat to landscape-scale) and study taxa (plants and insects to bats) over the past several years, but overall I'm interested in applied ecological research that informs conservation and management practices to better protect our natural systems. Besides writing and editing for TLS, I am also a member of the outreach committee. (Picture courtesy of Peter Muka)
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 
 {% assign index = true %}
 {% for post in site.posts %}

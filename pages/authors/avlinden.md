@@ -13,7 +13,15 @@ gallery:
   caption: Abby Vander Linden
 ---
 
+<<<<<<< HEAD
 ![Abby Vander Linden]({{ site.url }}/images/vanderlinden-01-01.jpg)
+=======
+<<<<<<< HEAD
+![Abby Vander Linden]({{ site.url }}/images/vanderlinden-01-01.jpg)
+=======
+![Abby Vander Linden]({{ site.urlimg }}/vanderlinden-01-01.jpg)
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
+>>>>>>> a38c40457bba7c350119f97bd3c064bad2806f7a
 
 Research Area: Mammal functional morphology and evolution
 
