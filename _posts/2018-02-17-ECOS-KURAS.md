@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
 title: 'A graduate student in elementary school'
-=======
-title: A graduate student in elementary school
->>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 layout: page
 author: ekuras
 permalink: /2018-02-17-ECOS-KURAS/
