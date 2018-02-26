@@ -1,8 +1,16 @@
 ---
+<<<<<<< HEAD
 layout: null
 source: 'http://www.evagoras.com/2011/02/10/improving-an-xml-feed-display-through-css-and-xslt/'
 breadcrumbs: true
 ---
+=======
+layout: 
+source: http://www.evagoras.com/2011/02/10/improving-an-xml-feed-display-through-css-and-xslt/
+breadcrumbs: true
+---
+
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" {{ page.stylesheetAttributes }}>
 <xsl:output method="html" encoding="utf-8" />

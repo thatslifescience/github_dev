@@ -1,12 +1,20 @@
 ---
 title: Being selfish means staying alive
+<<<<<<< HEAD
 layout: page
 author: lguo
 permalink: /2016-08-22-Being-selfish-means-staying-alive-LGuo/
+=======
+date: 2016-08-22 00:00:00 Z
+permalink: "/2016-08-22-Being-selfish-means-staying-alive-LGuo/"
+categories:
+- How It Works
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 tags:
 - altruism
 - fitness
 - animal behavior
+<<<<<<< HEAD
 categories:
  - How It Works
 header:
@@ -18,6 +26,23 @@ subheadline: Part I - Why true altruism is a rare behavior in the animal kingdom
 source-id: 1XsEi3sYx14K5T0CGFySCr2_hJsF7aO1owOt1-XSiIns
 published: true
 ---
+=======
+layout: page
+author: lguo
+header: false
+image:
+  title: 2016-08-17_lguo-feature.jpg
+  caption: Sharing is caring? (Photo from pixabay.com)
+  caption_url: https://pixabay.com/en/love-valentine-s-day-pose-heart-903178/
+  thumb: 2016-08-17_lguo-feature.jpg
+teaser: When I say altruism, you probably think of giving to others. As humans, we
+  admire when someone acts altruistic and consider altruism to be a good personality
+  trait. Why then, is true altruism in the animal kingdom rare?
+subheadline: Part I - Why true altruism is a rare behavior in the animal kingdom
+source-id: 1XsEi3sYx14K5T0CGFySCr2_hJsF7aO1owOt1-XSiIns
+---
+
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 When I say altruism, you probably think of giving to others. As humans, we admire when someone acts altruistic and consider altruism to be a good personality trait. Why then, is true altruism in the animal kingdom rare? Let's start with some definitions [1](http://www.merriam-webster.com/dictionary/altruism).
 
 "Altruism:
@@ -64,9 +89,13 @@ For more, check out this ["quick guide"](http://www.zoo.ox.ac.uk/group/west/pdf/
 
 [1] [http://www.merriam-webster.com/dictionary/altruism](http://www.merriam-webster.com/dictionary/altruism)
 
+<<<<<<< HEAD
 [2] West, Stuart A., Andy Gardner, and Ashleigh S. Griffin. "Altruism." *Current Biology* 16, no. 13 (2006): R482-R483. ([http://www.zoo.ox.ac.uk/group/west/pdf/West_etal_06_altruism.pdf](http://www.zoo.ox.ac.uk/group/west/pdf/West_etal_06_altruism.pdf))
 
 ## More From Thats Life [Science]
 {: .t60}
 {% include list-posts offset="11" entries="5" category="How It Works" %} 
 
+=======
+[2] West, Stuart A., Andy Gardner, and Ashleigh S. Griffin. "Altruism." *Current Biology* 16, no. 13 (2006): R482-R483. ([http://www.zoo.ox.ac.uk/group/west/pdf/West_etal_06_altruism.pdf](http://www.zoo.ox.ac.uk/group/west/pdf/West_etal_06_altruism.pdf))
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342

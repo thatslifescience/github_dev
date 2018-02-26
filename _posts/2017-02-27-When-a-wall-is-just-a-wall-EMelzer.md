@@ -1,14 +1,22 @@
 ---
 title: When a Wall is just a Wall
+<<<<<<< HEAD
 layout: page
 author: emelzer
 permalink: /2017-02-27-When-a-wall-is-just-a-wall-EMelzer/
+=======
+date: 2017-02-27 00:00:00 Z
+permalink: "/2017-02-27-When-a-wall-is-just-a-wall-EMelzer/"
+categories:
+- Earth's Organisms
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 tags:
 - microbiology
 - bacteria
 - disease
 - cell wall
 - plants
+<<<<<<< HEAD
 categories:
 - Earth's Organisms
 header:
@@ -20,6 +28,21 @@ subheadline: Recent talk of walls in the media has brought up a lot of emotions,
 source-id: 1RTWsPuj8K40ktZbNT3E30Ih2PcTWYe8kIl0qrcXlwiA
 published: true
 ---
+=======
+layout: page
+author: emelzer
+header:
+  image_fullwidth: organisms-header.jpg
+image:
+  thumb: 2017-28-02_emelzer_fig1.jpg
+teaser: Take a break from arguing about political walls and learn what a cell wall
+  can do
+subheadline: Recent talk of walls in the media has brought up a lot of emotions, but
+  what do walls do in nature?
+source-id: 1RTWsPuj8K40ktZbNT3E30Ih2PcTWYe8kIl0qrcXlwiA
+---
+
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 There have been many controversial walls and barriers in recent human history: The Berlin wall, The Israeli West Bank Barrier, and the most recent hot topic: The US-Mexico border wall. But there are some walls which have been around for much longer than humans, and are undeniably good: Cell walls. Numerous life forms require the protection of a cell wall for survival.  They come in many different flavours and their structure is custom made for each organism, whether it is a fungus, bacterium, or a plant. 
 
 <div style="text-align:center"><img src ="https://upload.wikimedia.org/wikipedia/commons/5/5d/Berlinermauer.jpg"/></div>

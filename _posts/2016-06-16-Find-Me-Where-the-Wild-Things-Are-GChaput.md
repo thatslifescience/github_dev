@@ -1,14 +1,22 @@
 ---
 title: Find Me Where the Wild Things Are
+<<<<<<< HEAD
 layout: page
 author: gchaput
 permalink: /2016-06-16-Find-Me-Where-the-Wild-Things-Are-GChaput/
+=======
+date: 2016-06-16 00:00:00 Z
+permalink: "/2016-06-16-Find-Me-Where-the-Wild-Things-Are-GChaput/"
+categories:
+- Earth's Organisms
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 tags:
 - microbial ecology
 - baas-becking hypothesis
 - microbial community structure
 - soil
 - community structure
+<<<<<<< HEAD
 categories:
  - Earth's Organisms
 header:
@@ -19,6 +27,20 @@ teaser: Take a minute and think - what do you consider “wild things”? Would 
 source-id: 1IMnLJ9StPtjecN59N7yTKb1W9dYoRMV-v04xtlXVrTg
 published: true
 ---
+=======
+layout: page
+author: gchaput
+header:
+  image_fullwidth: 2016-06-16_gchaput_fig1.jpg
+image:
+  thumb: 2016-06-16_gchaput_fig1.jpg
+teaser: Take a minute and think - what do you consider “wild things”? Would bacteria
+  count in your book? Click to explore the tiny world of microbes and learn about
+  some fundamental microbial ecology!
+source-id: 1IMnLJ9StPtjecN59N7yTKb1W9dYoRMV-v04xtlXVrTg
+---
+
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 ![image alt text]({{ site.url }}/images/2016-06-16_gchaput_fig1.jpg)
 
 **Fig. 1** "Where the Wild Things Are" (Source: Maurice Sendak, 1963) 

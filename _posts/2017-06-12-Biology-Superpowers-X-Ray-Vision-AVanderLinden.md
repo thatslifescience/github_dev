@@ -2,7 +2,11 @@
 title: "Biology Superpowers: X-Ray Vision"
 layout: page
 author: avlinden
+<<<<<<< HEAD
 permalink: /2017-06-12-Biology-Superpowers-X-Ray-Vision-AVanderLinden/
+=======
+permalink: /2017-06-12-Biology-Superpowers-X-Ray-Vision-AVanderLinden.md/
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 tags:
 - anatomy
 - medicine

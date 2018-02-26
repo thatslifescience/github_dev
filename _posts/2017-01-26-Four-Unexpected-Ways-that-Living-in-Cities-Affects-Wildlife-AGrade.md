@@ -1,13 +1,21 @@
 ---
 title: Four Unexpected Ways that Living in Cities Affects Wildlife
+<<<<<<< HEAD
 layout: page
 author: agrade
 permalink: /2017-01-26-Four-Unexpected-Ways-that-Living-in-Cities-Affects-Wildlife-AGrade/
+=======
+date: 2017-01-26 00:00:00 Z
+permalink: "/2017-01-26-Four-Unexpected-Ways-that-Living-in-Cities-Affects-Wildlife-AGrade/"
+categories:
+- Our Ecosystems
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 tags:
 - urban ecology
 - wildlfie
 - biodiversity
 - conservation
+<<<<<<< HEAD
 categories:
 - Our Ecosystems
 header:
@@ -17,6 +25,17 @@ image:
 teaser: “Many people make cities home – But did you know that many species of wildlife do as well?"
 source-id: 17go99slqdtQov1ZJo7iMJ-_E8IPkKyUmWbCwU9cBHqQ
 published: true
+=======
+layout: page
+author: agrade
+header:
+  image_fullwidth: ecosystem-header.jpg
+image:
+  thumb: 20170126_AGrade_thumb.JPG
+teaser: “Many people make cities home – But did you know that many species of wildlife
+  do as well?"
+source-id: 17go99slqdtQov1ZJo7iMJ-_E8IPkKyUmWbCwU9cBHqQ
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 ---
 
 As of today, more people live in cities than ever before. In fact, scientists predict that by 2050, 66% of the world's population will be living in cities [1]. A "city" can mean a lot of things to **urban ecologists**, or scientists that study living things within human built environments. A “city” can be defined as anything from an informal settlement of housing such as pictured below in Cape Town, South Africa, to a megacity such as Tokyo, Japan, that is characterized by dense populations within the official city limits.

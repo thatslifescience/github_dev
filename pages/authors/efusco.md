@@ -13,7 +13,11 @@ gallery:
   caption: Emily Fusco
 ---
 
+<<<<<<< HEAD
 ![Emily Fusco]({{ site.url }}/images/fusco-01.jpg)
+=======
+![Emily Fusco]({{ site.urlimg }}/fusco-01.jpg)
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 
 [Twitter](https://www.twitter.com/EmilyJFusco)
 

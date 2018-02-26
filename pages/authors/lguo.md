@@ -13,11 +13,21 @@ gallery:
   caption: Lian Guo
 ---
 
+<<<<<<< HEAD
 ![Lian Guo]({{ site.url }}/images/guo-01.jpg)
 
 Research Area: Environmental physiology, effects of stressors
 
 I fell in love with fish the summer before my senior year of high school. I’ve worked with barnacles, seastars, and larval fish, but now I am finally working with FISH fish (see picture above). I am very excited to be working with the McCormick Lab and the Jordaan Lab at UMass Amherst. I am interested in exploring the effects of various stressors (like temperature and chemicals) on fish physiology and ecology. I would like to explore the molecular mechanisms underlying stressor response and how they may interact with one another when multiple stressors are present. I plan to work collaboratively with researchers abroad, especially in China, where waterways have been radically modified by dams and water pollution. I love to do science outreach and am involved in Science Café (http://oebsciencecafe.org/) and Graduate Women in STEM's Outreach Committee. I am founding organizer, writer, editor, and Web & Graphic Design committee member for That’s Life [Science]. 
+=======
+![Lian Guo]({{ site.urlimg }}/guo-01.jpg)
+
+[Graduate website](https://gpls.cns.umass.edu/oeb/directory/lian-winslow-guo)
+
+Research Area: Environmental physiology, effects of stressors
+
+I fell in love with fish the summer before my senior year of high school. I’ve worked with barnacles, seastars, and larval fish, but now I am finally working with FISH fish (see picture above). I am very excited to be working with the Jordaan Lab and McCormick Lab at UMass Amherst. I am interested in exploring the effects of various stressors (like temperature and chemicals) on fish physiology and ecology. I would like to explore the physiological mechanisms underlying acclimation and adaptation to suboptimal environmental conditions and how this affect fish populations. I plan to work collaboratively with researchers abroad, especially in China, where waterways have been radically modified by dams and water pollution. I love to do science outreach and am involved in Science Café (http://oebsciencecafe.org/) and Graduate Women in STEM's Outreach Committee. I am founding organizer, writer, editor, and Web & Graphic Design committee member for That’s Life [Science]. 
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 
 {% assign index = true %}
 {% for post in site.posts %}

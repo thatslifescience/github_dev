@@ -1,8 +1,15 @@
 ---
 title: Stop, evaluate, and listen - serotonin surges when a female is present
+<<<<<<< HEAD
 layout: page
 author: dvahaba
 permalink: /2016-09-12-Stop-Evaluate-and-Listen-DVahaba/
+=======
+date: 2016-09-12 00:00:00 Z
+permalink: "/2016-09-12-Stop-Evaluate-and-Listen-DVahaba/"
+categories:
+- Earth's Organisms
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 tags:
 - courtship
 - communication
@@ -15,6 +22,7 @@ tags:
 - social behavior
 - hearing
 - animal communication
+<<<<<<< HEAD
 categories:
 - Earth's Organisms
 header:
@@ -25,6 +33,19 @@ teaser: A brain region involved in hearing surges with serotonin in male mice wh
 source-id: 1RQTEIAHdRJ2hgWNR2K6D9TiF5OzPvWEMQehG6gYNDGA
 published: true
 ---
+=======
+layout: page
+author: dvahaba
+header:
+  image_fullwidth: organisms-header.jpg
+image:
+  thumb: 2016-09-12_dvahaba_fig1.jpg
+teaser: A brain region involved in hearing surges with serotonin in male mice when
+  a female is present but drops if the mouse is romantically rejected.
+source-id: 1RQTEIAHdRJ2hgWNR2K6D9TiF5OzPvWEMQehG6gYNDGA
+---
+
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 ![image alt text]({{ site.url }}/images/2016-09-12_dvahaba_fig1.jpg)
 **Fig.1** Mice are keenly aware when they're not desired. Photograph by George Shuklin, [distributed under a CC-BY 2.0 license]( http://creativecommons.org/licenses/by/2.0/)
 
@@ -45,13 +66,21 @@ Recently [1], Indiana University neuroscientist Laura Hurley and colleagues expl
 By placing an electrode into the inferior colliculus (**_IC_**; a brain region involved in hearing and processing social vocalizations; **Fig. 2**), the researchers could peer in to how levels of serotonin changed in male mice's brain when a female was placed in an adjacent cage for 30 mins.
 
 
+<<<<<<< HEAD
 <div style="text-align:center"><img src ="https://raw.githubusercontent.com/thatslifescience/thatslifesci/gh-pages/public/W7vEV3QK3c45hJLZtXuxg_img_0.png" /></div>
+=======
+<div style="text-align:center"><img src ="https://raw.githubusercontent.com/thatslifesci/thatslifesci/gh-pages/public/W7vEV3QK3c45hJLZtXuxg_img_0.png" /></div>
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 
 **Fig. 2** Hearing pathway - from the ear to the brain (image from the [University of Edinburgh Scottish Sensory Centre](http://www.ssc.education.ed.ac.uk/courses/pictures/dnov10i.jpg))
 
 The findings reveal that just as E2 in the brains of zebra finches, 5HT rapidly increases in the IC of males by nearly 20% during social encounters and is specific to the female mouse being around (****Fig. 3****). Quickly after researchers removed the adjacent female, 5HT dropped by ~15%. So 5HT in the brain of male mice is linked to social context, in this case presence of Minnie Mouse. But what is serotonin's function?
 
+<<<<<<< HEAD
 <div style="text-align:center"><img src ="https://raw.githubusercontent.com/thatslifescience/thatslifesci/gh-pages/public/W7vEV3QK3c45hJLZtXuxg_img_1.png" /></div>
+=======
+<div style="text-align:center"><img src ="https://raw.githubusercontent.com/thatslifesci/thatslifesci/gh-pages/public/W7vEV3QK3c45hJLZtXuxg_img_1.png" /></div>
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 
 **Fig.3** The rise and fall of serotonin during courtship. Figure adapted from [1]. 
 
@@ -83,4 +112,8 @@ An earlier version of this article originally appeared [here](http://scicommumas
 
 ## More From Thats Life [Science]
 {: .t60 }
+<<<<<<< HEAD
 {% include list-posts offset="15" entries ="5" category="Earth's Organisms" %}
+=======
+{% include list-posts offset="1" category="Earth's Organisms" %}
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342

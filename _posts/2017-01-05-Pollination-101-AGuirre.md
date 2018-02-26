@@ -1,13 +1,21 @@
 ---
 title: Pollination 101
+<<<<<<< HEAD
 layout: page
 author: laguirre
 permalink: /2017-01-05-Pollination-101-AGuirre/
+=======
+date: 2017-01-05 00:00:00 Z
+permalink: "/2017-01-05-Pollination-101-AGuirre/"
+categories:
+- How It Works
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 tags:
 - polination
 - flowering plants
 - bees
 - conservation
+<<<<<<< HEAD
 categories:
 - How It Works
 header:
@@ -18,6 +26,17 @@ teaser: Pollinators are not only beautiful but are also integral to our food sys
 subheadline:  A Pollinator’s Job Description and Why We Should All Care About Them
 source-id: 1K2HTbtRszMlcCMaUwaHwL3oyEJrT8dNNdJfA0OoBN2Y
 published: true
+=======
+layout: page
+author: laguirre
+header: image_fullwidth:howitworks-header.jpg
+image:
+  thumb: Aguirre_thumb.jpg
+teaser: Pollinators are not only beautiful but are also integral to our food system.
+  Unfortunately, pollinators are in trouble.
+subheadline: A Pollinator’s Job Description and Why We Should All Care About Them
+source-id: 1K2HTbtRszMlcCMaUwaHwL3oyEJrT8dNNdJfA0OoBN2Y
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 ---
 
 <div style="text-align:center"><img src ="https://upload.wikimedia.org/wikipedia/commons/5/55/Bumblebee-2009-04-19-01.jpg"/></div> **Fig. 1** Plants can't move around to have sex; they employ pollinators to do it for them. source: [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/5/55/Bumblebee-2009-04-19-01.jpg)
@@ -26,7 +45,11 @@ published: true
 
 The stationary life of plants presents them with several major complications. Not only can they not escape herbivory (being eaten by animals), but they also have a hard time mating with other plants. To overcome this challenge, plants have evolved several methods to mate at a distance. For example, conifers and grasses rely on wind carrying their pollen grains (male genes) across large distances. However, this strategy is very inefficient. The probability of any single pollen grain landing in the female receptacle of another individual is infinitesimally small. Ever notice there are more kinds of flowering plants than conifers? That is because flowering plants have evolved a more efficient method to disperse their genetic material. Flowering plants, being immobile, rely on insects or other animals to carry their pollen to the stigmas of other plants. This is the way most flowering plants reproduce [1].
 
+<<<<<<< HEAD
 <div style="text-align:center"><img src ="http://www.pollinator.org/Images/NativeBeesNumberedPoster.jpg"/></div>
+=======
+<div style="text-align:center"><img src ="https://www.pollinator.org/Images/NativeBeesNumberedPoster.jpg"/></div>
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 
 **Fig. 2** In addition to the European honey bees that we all know, there are a multitude of native pollinators that do the same job, if not more efficiently. Credit: [Steve Buchanan](http://www.pollinator.org/Images/NativeBeesNumberedPoster.jpg)
 
@@ -56,5 +79,9 @@ So what does all of this mean? Even if you have no interest in bees or butterfli
 
 ## More From Thats Life [Science]
 {: .t60 }
+<<<<<<< HEAD
 {% include list-posts offset="11" entries = "5" category="How It Works" %} 
+=======
+{% include list-posts offset="1" entries = "5" category="How It Works" %} 
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 

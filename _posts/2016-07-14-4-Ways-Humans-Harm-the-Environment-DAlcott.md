@@ -1,5 +1,6 @@
 ---
 title: 4 ways humans harm the environment (when they are trying to help)
+<<<<<<< HEAD
 layout: page
 author: dalcott
 permalink: /2016-07-14-4-Ways-Humans-Harm-the-Environment-DAlcott/
@@ -17,6 +18,29 @@ subheadline: Good intentions sometimes lead to unfortunate outcomes
 source-id: 1XqjfPHessvAyqT3_9vyZupmMYxkUxN-h6KxUg2gHhM0
 published: true
 ---
+=======
+date: 2016-07-14 00:00:00 Z
+permalink: "/2016-07-14-4-Ways-Humans-Harm-the-Environment-DAlcott/"
+categories:
+- Our Ecosystems
+tags:
+- environment
+- human impacts
+layout: page
+author: dalcott
+header:
+  image_fullwidth: ecosystem-header.jpg
+image:
+  thumb: 2016-07-14_dalcott_fig2.jpg
+teaser: There’s no question that human activities impact the natural environment.
+  Some human activities have devastating consequences on the environment, while others
+  have the sole purpose of improving or restoring the environment. Unfortunately,
+  the latter occasionally has negative results, despite having positive intentions.
+subheadline: Good intentions sometimes lead to unfortunate outcomes
+source-id: 1XqjfPHessvAyqT3_9vyZupmMYxkUxN-h6KxUg2gHhM0
+---
+
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 Humans negatively impact the environment in many ways: pollutants from industrial plants dumped into waterways, cutting down entire sections of forest, and prolific burning of fossil fuels resulting in global climate change are just a few examples. In the Good, the Bad, and the Ugly of human impacts on the environment, these things would certainly fall into the "Ugly". However, there are times when humans have good intentions, but our attempts to help the environment actually hurt it. Here are 4 times human attempts to improve the environment back fired.
 
 1) **Osborne Tire Reef**  - In the 1970's, over 2 million old tires were sunk to the sea floor off the coast of Fort Lauderdale, Florida to create an artificial reef. Seem like a dumb idea already? Well, on the surface, the plan wasn’t that bad. Many sea creatures like mussels, barnacles, and tube worms need solid structure to attach to. These organisms can help build the base of a food web to feed larger organisms like fish. Not to mention, many fish like having structure to hide in or around. You may be thinking that the tires would leach chemicals into the water, but that actually wasn’t the problem. The problem was the tires were tethered together and anchored to the bottom with steel clips attached to concrete blocks. The clips corroded allowing the tires to break free, eventually smashing into natural reefs during storms. Oops.

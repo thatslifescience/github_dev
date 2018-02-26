@@ -1,14 +1,22 @@
 ---
 title: Watching Your Every Move
+<<<<<<< HEAD
 layout: page
 author: mbruce
 permalink: /2016-10-31-watching-your-every-move-MBruce/
+=======
+date: 2016-10-31 00:00:00 Z
+permalink: "/2016-10-31-watching-your-every-move-MBruce/"
+categories:
+- Earth's Organisms
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 tags:
 - animal
 - anatomy
 - spiders
 - vision
 - courtship
+<<<<<<< HEAD
 categories:
 - Earth's Organisms
 header:
@@ -19,6 +27,19 @@ teaser: Jumping spiders can change the direction of their gaze without changing 
 subheadline: Vision in Jumping Spiders
 source-id: 1OfnWjTH2tEzm6FqfpNYETE4HYvaLXB8vaKb__LpE-_c
 published: true
+=======
+layout: page
+author: mbruce
+header:
+  image_fullwidth: organisms-header.jpg
+image:
+  thumb: jumping-spider.jpg
+teaser: Jumping spiders can change the direction of their gaze without changing their
+  body’s position. If you think about it, it’s just like a creepy painting with eyes
+  that follow you across a room…
+subheadline: Vision in Jumping Spiders
+source-id: 1OfnWjTH2tEzm6FqfpNYETE4HYvaLXB8vaKb__LpE-_c
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 ---
 
 In the invertebrate world, moveable eyes are pretty uncommon. This is hard to imagine as humans because we can look up, down, and side to side without moving our heads or bodies at all. But think of a bumblebee or a cockroach. To look at something, their bodies must be oriented in the right direction. Jumping spiders (family *Salticidae*) are a unique case.

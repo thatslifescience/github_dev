@@ -1,9 +1,16 @@
 ---
+<<<<<<< HEAD
 title: 'What I wish I had known: advice about graduate school (and life) to my younger
   self'
 layout: page
 author: lhancock
 permalink: "/2017-10-16-What-I-Wish-I-Had-Known-LHancock/"
+=======
+title: "What I wish I had known: advice about graduate school (and life) to my younger self"
+layout: page
+author: lhancock
+permalink: /2017-10-16-What-I-Wish-I-Had-Known-LHancock/
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 tags:
 - behavior
 - human
@@ -13,6 +20,7 @@ tags:
 categories:
 - Grad School Diaries
 header:
+<<<<<<< HEAD
   image_fullwidth: gradschooldiaries-header.jpg
 image:
   thumb: 2017-10-16-LHancockB.jpg
@@ -22,6 +30,16 @@ source-id: 1bL2qVxQNLbWsF_ZHyf3hncrwTvA4AKt5XqYt9VDLjGA
 published: true
 ---
 
+=======
+ image_fullwidth: gradschooldiaries-header.jpg
+image:
+ thumb: 2017-10-16-LHancockB.jpg
+teaser: "Intrigued by graduate student life? If so, read on to discover the 6 things I wish I had known when I started grad school."
+
+source-id: 1bL2qVxQNLbWsF_ZHyf3hncrwTvA4AKt5XqYt9VDLjGA
+published: true
+---
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 As some of you may have noticed, I haven't written for TLS in a while. This isn’t because I left the blog - or graduated - but because I took last semester off from blog duties to focus on finishing my master’s thesis. It’s almost(!) done and I’m so excited.
 
 Graduate school can be a wonderful, but also frustrating & confusing time. Over the past few months, as I've been getting closer and closer to actually finishing my master’s degree, I’ve been doing a lot of introspection; with this chapter coming to a close, I’ve found myself thinking a lot about all of the ways I’ve grown and everything I’ve learned. That being said, I realized that there is so, so much I wish I had known when I started graduate school in the fall of 2014 that could have made this whole experience a little more wonderful and a little less frustrating and confusing. I wanted to use this blog to write out the main things that I wish my 24-year-old self had known, and hopefully, my advice might be helpful for you, too. 
@@ -70,4 +88,9 @@ These are just a few things that I try to remind myself of every day, so that I 
 
 ## More From Thats Life [Science]
 {: .t60 }
+<<<<<<< HEAD
 {% include list-posts offset="1" entries="5" category="Grad School Diaries" %}
+=======
+{% include list-posts offset="1" entries="5" category="Grad School Diaries" %}
+
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342

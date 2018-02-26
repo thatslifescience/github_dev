@@ -37,9 +37,15 @@ Each of a mantis shrimp's two compound eyes also contain a 'mid-band’ that app
 
 **Fig. 2** The eye of an *O. scyllarus* mantis shrimp. Here, the mid-band is visible stretching horizontally across the center of the eye. (Source: Marshall et al. 2007).
 
+<<<<<<< HEAD
 All of these photoreceptors put the shrimp's visual range into the ultraviolet region, and some even specialize in seeing polarized light. Wavelengths of natural light are capable of travelling in any variety of directions. When light is polarized, however, all of its waves travel in one direction, on a single plane. This type of light is only perceived by humans when we see partially polarized light reflecting off of the surface water or glass. However, mantis shrimps are much more sensitive to polarization, and probably use it to see their underwater world in higher contrast. In addition to seeing it, many species of mantis shrimp have body markings that reflect polarized light [2], which may be used in communication [3].
 
 These special body markings pose one problem, however. In the sea, a handful of other animals, like cuttlefish and octopuses, can also see polarized light patterns [2]. Since these animals would love nothing more than to snack on a tasty mantis shrimp, some species have taken their secret polarized light code one step further and developed sensitivities to circularly polarized light [3].
+=======
+All of these photoreceptors put the shrimp's visual range into the ultraviolet region, and some even specialize in seeing polarized light. Wavelengths of natural light are capable of travelling in any variety of directions. When light is polarized, however, all of its waves travel in one direction, on a single plane. This type of light is only perceived by humans when we see partially polarized light reflecting off of the surface water or glass. However, mantis shrimps are much more sensitive to polarization, and probably use it to see their underwater world in higher contrast. In addition to seeing it, many species of mantis shrimp have body markings that reflect polarized light [2], which may be used in communication [3].     
+
+These special body markings pose one problem, however. In the sea, a handful of other animals, like cuttlefish and octopuses, can also see polarized light patterns [2]. Since these animals would love nothing more than to snack on a tasty mantis shrimp, some species have taken their secret polarized light code one step further and developed sensitivities to circularly polarized light** **[3].
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 
 In addition to moving linearly, polarized light can also move in helix-like formations. In general, this happens when two waves of light travel on planes that are perpendicular to one another.
 
@@ -55,17 +61,28 @@ One species of mantis shrimp, *Gonodactylaceus falcatus*, may use circular polar
 
 The position of these markings may also be a clue to their function. Their positing around the face and claws suggest an involvement in aggression, because mantis shrimps typically display these areas during fights [3]. However, scientists will need a few more clues before we can fully crack the mysterious codes involved in mantis shrimps' secret signaling and vision.
 
+<<<<<<< HEAD
 References
+=======
+**References**
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 
 [1] Marshall, J., Cronin, T.W., and Kleinlogel, S. (2007). Stomatopod eye structure and function: a review. *Arthropod Structure and Development*. 36. 420-448.
 
 [2] Young, Ed. "Mantis shrimps have a unique way of seeing." *National Geographic*. 21 Mar 2008. < http://phenomena.nationalgeographic.com/2008/03/21/mantis-shrimps-have-a-unique-way-of-seeing>
 
+<<<<<<< HEAD
 [3] Chiou, T., Kleinlogel, S., Cronin, T., Caldwell, R., Loeffler, B., Siddiqi, A., Goldizen, A., Marshall, J. (2008). Circular Polarization Vision in a Stomatopod Crustacean. Current Biology.
+=======
+[3] Chiou, T., Kleinlogel, S., Cronin, T., Caldwell, R., Loeffler, B., Siddiqi, A., Goldizen, A., Marshall, J. (2008). Circular Polarization Vision in a Stomatopod Crustacean. *Current Biology.*
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 
 [4] Gagnon, Y.L., Templin, R.M., How, M.J., Marshall, N.J. (2015). Circularly Polarized Light as a Communication Signal in Mantis Shrimps. *Current Biology*. 25. 3074-3078.
 
 ## More From Thats Life [Science]
 {: .t60 }
 {% include list-posts offset="1" entries="5" category="Earth's Organisms" %}
+<<<<<<< HEAD
 
+=======
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342

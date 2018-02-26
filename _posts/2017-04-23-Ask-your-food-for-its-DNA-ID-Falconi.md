@@ -19,7 +19,11 @@ source-id: 1X17u0Gr-9FkoDgFRLiMBE9428B2pfosg7i2hebwSKyU
 published: true
 ---
 
+<<<<<<< HEAD
 An [article in The Guardian](https://www.theguardian.com/environment/world-on-a-plate/2016/sep/30/killed-to-catch-a-fish-that-nobody-wants-the-amazons-pink-river-dolphins-reveal-the-bizarre-impacts-of-seafood?CMP=share_btn_fb) recently reported on how food fraud affected the Amazon's Pink River Dolphins [1]. The article documented that the dolphins have been used as bait to catch scavenger fishes. It turns out scavenger fishes (e.g. catfish) are then sold as different and more profitable species in the markets because people dislike their status as "scavenger species". Researchers used DNA bar coding to identify mislabeled species for sale in the markets of Manaus, Brazil, and found that catfish were actually being sold under a total of three false names, 'douradinha’, ‘douradinho’, and ‘piratinga’ [2]. After reading this article, I became more curious about other mislabeled products in other countries.
+=======
+An[ article in The Guardian](https://www.theguardian.com/environment/world-on-a-plate/2016/sep/30/killed-to-catch-a-fish-that-nobody-wants-the-amazons-pink-river-dolphins-reveal-the-bizarre-impacts-of-seafood?CMP=share_btn_fb) recently reported on how food fraud affected the Amazon's Pink River Dolphins [1]. The article documented that the dolphins have been used as bait to catch scavenger fishes. It turns out scavenger fishes (e.g. catfish) are then sold as different and more profitable species in the markets because people dislike their status as "scavenger species". Researchers used DNA bar coding to identify mislabeled species for sale in the markets of Manaus, Brazil, and found that catfish were actually being sold under a total of three false names, 'douradinha’, ‘douradinho’, and ‘piratinga’ [2]. After reading this article, I became more curious about other mislabeled products in other countries.
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 
 A recent paper published in 2013 [3] reviewed cases of mislabeling. They used the term "Economically Motivated Adulterations (EMA)" to describe these cases. Since 1980, they identified 137 cases of food EMA. The most frequent type of mislabeling were fish, other types of seafood, dairy products, fruit juices, oils, and fats. The most frequent EMA cases in the U.S were fish and seafood, totaling 47 cases. DNA barcoding indicated 24 of 96 fish and seafood product samples were mislabeled in New York and Toronto [6]. The problem is more worrisome when food adulteration has health consequence for consumers, most commonly in the form of allergies. For example, in China close to 300,000 children became ill as a result of mislabeling milk products containing melamine [4]. 
 
@@ -49,4 +53,7 @@ Hiding information in order to trick consumers to buy their products is troublin
 ## More From Thats Life [Science]
 {: .t60 }
 {% include list-posts offset='1' entries='5' category='Our Ecosystems' %}
+<<<<<<< HEAD
 
+=======
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342

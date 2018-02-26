@@ -1,5 +1,6 @@
 ---
 title: I Get Knocked Down But I Get Up Again
+<<<<<<< HEAD
 layout: page
 author: gchaput
 permalink: /2016-11-06-I-Get-Knocked-Down-But-I-Get-Up-Again-GChaput/
@@ -16,6 +17,26 @@ teaser: "As a researcher, you can’t be afraid of failure. This is the #1 rule 
 source-id: 1Mbm9v6_IerFXEdUgK79qKPK7jFxBUQ78lXjc1zlM4b8
 published: true
 ---
+=======
+date: 2016-11-06 00:00:00 Z
+permalink: "/2016-11-06-I-Get-Knocked-Down-But-I-Get-Up-Again-GChaput/"
+categories:
+- Grad School Diaries
+tags:
+- mentoring
+- students
+layout: page
+author: gchaput
+header:
+  image_fullwidth: gradschooldiaries-header.jpg
+image:
+  thumb: 2016-11-06_gchaput_fig2.jpg
+teaser: 'As a researcher, you can’t be afraid of failure. This is the #1 rule you
+  should stress when mentoring in a lab setting.'
+source-id: 1Mbm9v6_IerFXEdUgK79qKPK7jFxBUQ78lXjc1zlM4b8
+---
+
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 ![image alt txt](https://thatslifescience.github.io/thatslifesci/public/fWbKz8obQN2zF6hNdMp4IQ_img_0.png)
 
 **Image 1.** Sure we all trip up on failure, but it's how you get back up that makes the real success. (Photo by OpenIcons on pixabay.com)
@@ -40,9 +61,15 @@ Whenever I teach an introductory course to microbiology, the students are given 
 
 – they then have to determine what their unknown is (see **Fig 1** for an example). It is a very straightforward lab lesson that encompasses all that the students have learned with a little fun in figuring out a mystery of "Who's in your the test tube?" However, with the exception of the odd unfortunate contamination, it will always work. It was designed to work. The teaching assistants have the answer key of what results students should see, based on the fact that we’ve already test-run the experiments to make sure we don’t lead the students astray. The important part of this exercise is that the students are learning fundamental laboratory techniques.
 
+<<<<<<< HEAD
 ![image alt txt]({{ site.url }}/public/fWbKz8obQN2zF6hNdMp4IQ_img_1.png)
 
 **Figure 1.** Left: Media plate with bacteria (a single colony is highlighted by a black circle). For this particular plate, the colony morphology would be circular for shape, smooth surface for texture, and an opaque white for color. (Photo by Gina Chaput). Right: Image of bacteria under the microscope at 1000x magnification. Colors are based on [Gram staining](https://en.wikipedia.org/wiki/Gram_staining) that determines cell wall properties. In purple are Gram positive cocci (circular shaped cells) and in pink are Gram positive bacilli (rod shaped cells). (Photo by Y. tambe on wikipedia.com)
+=======
+![image alt txt](https://thatslifescience.github.io/thatslifesci/public/fWbKz8obQN2zF6hNdMp4IQ_img_1.png)
+
+**Figure 1.** Left: Media plate with bacteria (a single colony is highlighted by a black circle). For this particular plate, the colony morphology would be circular for shape, smooth surface for texture, and an opaque white for color. (Photo by Gina Chaput). Right: Image of bacteria under the microscope at 1000x magnification. Colors are based on[ Gram staining](https://en.wikipedia.org/wiki/Gram_staining) that determines cell wall properties. In purple are Gram positive cocci (circular shaped cells) and in pink are Gram positive bacilli (rod shaped cells). (Photo by Y. tambe on wikipedia.com)
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 
  
 
@@ -50,7 +77,11 @@ The truth is, however, that microbiology does not work that way. In fact, if a p
 
  
 
+<<<<<<< HEAD
 ![image alt txt]({{ site.url }}/public/fWbKz8obQN2zF6hNdMp4IQ_img_2.png)
+=======
+![image alt txt](https://thatslifescience.github.io/thatslifesci/public/fWbKz8obQN2zF6hNdMp4IQ_img_2.png)
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 
 **Image 2.** Working with success and failure in lab (Art by Gina Chaput)
 
@@ -92,4 +123,8 @@ Thanks to my personal failures along the way, whenever I take on a student, on t
 
 ## More From Thats Life [Science]
 {: .t60 }
+<<<<<<< HEAD
 {% include list-posts offset="10" entries="5" category="Grad School Diaries" %}
+=======
+{% include list-posts offset="1" category="Grad School Diaries" %}
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342

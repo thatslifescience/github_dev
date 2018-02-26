@@ -1,14 +1,22 @@
 ---
 title: The Mercurial Path of Mercury to Aquatic Ecosystems
+<<<<<<< HEAD
 layout: page
 author: hbroadley
 permalink: /2016-08-15-The-Mercurial-Path-of-Mercury-through-Ecosystems-HBroadley/
+=======
+date: 2016-08-15 00:00:00 Z
+permalink: "/2016-08-15-The-Mercurial-Path-of-Mercury-through-Ecosystems-HBroadley/"
+categories:
+- Our Ecosystems
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 tags:
 - environmental health
 - food chain
 - mercury
 - contamination
 - fish
+<<<<<<< HEAD
 categories:
 - Our Ecosystems
 header:
@@ -20,6 +28,20 @@ teaser: The trophic transfer of mercury has bearing on my life. I eat fish regul
 source-id: 1h2rHvoOodWTfw-oZHPqTV1MM6XtFZmvLyX3TZYchIV8
 published: true
 ---
+=======
+layout: page
+author: hbroadley
+header:
+  image_fullwidth: 2016-08-15_hbroadley_fig1_opac.jpg
+image:
+  thumb: 2016-08-15_hbroadley_fig2.jpg
+subheadline: How Mercury in Fish Could End Up in Your Dish
+teaser: The trophic transfer of mercury has bearing on my life. I eat fish regularly,
+  but select small species. Let me explain why.
+source-id: 1h2rHvoOodWTfw-oZHPqTV1MM6XtFZmvLyX3TZYchIV8
+---
+
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 ![image alt text]({{ site.url }}/public/fHgn7VL5arvzpLwsggb6g_img_0.jpg)
 
 **Fig. 1.** Contoocook Lake in Jaffrey New Hampshire. This is an example of an ecosystem that may suffer from the impact of mercury. Photo credit: John Phelan, Wikipedia commons.

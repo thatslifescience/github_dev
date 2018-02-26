@@ -2,7 +2,11 @@
 title: Trickle-Down Academics - Facing the Loss of the NSF DDIG in Biology
 layout: page
 author: dnavon
+<<<<<<< HEAD
 permalink: /2017-08-21-Trickle-Down-Academics-DNavon/
+=======
+permalink: /thatslifesci/2017-08-21-Trickle-Down-Academics-DNavon/
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 tags:
 - nsf
 - ddig
@@ -41,4 +45,9 @@ In light of probable slashes to the NSF's federal funding, it is perfectly under
 
 ## More From Thats Life [Science]
 {: .t60 }
+<<<<<<< HEAD
 {% include list-posts offset="1" entries="5" category="Grad School Diaries" %}
+=======
+{% include list-posts offset="1" entries="5" category="Grad School Diaries" %}
+
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342

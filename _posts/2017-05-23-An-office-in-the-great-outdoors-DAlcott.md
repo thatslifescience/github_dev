@@ -82,5 +82,9 @@ I get to see beautiful new aspects of nature every single day and I love not bei
 
 ## More From Thats Life [Science]
 {: .t60 }
+<<<<<<< HEAD
 {% include list-posts offset="1" entries="5" category="Grad School Diaries" %}
 
+=======
+{% include list-posts offset="1" entries='5' category="Grad School Diaries" %}
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342

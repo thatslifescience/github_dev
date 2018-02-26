@@ -1,14 +1,22 @@
 ---
 title: The Earth is a blue marble (and the world is green)
+<<<<<<< HEAD
 layout: page
 author: efusco
 permalink: /2017-02-13-The-Earth-Is-A-Blue-Marble-EFusco/
+=======
+date: 2017-02-13 00:00:00 Z
+permalink: "/2017-02-13-The-Earth-Is-A-Blue-Marble-EFusco/"
+categories:
+- Our Ecosystems
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 tags:
 - plant
 - ecology
 - green
 - classics
 - hypothesis
+<<<<<<< HEAD
 categories:
 - Our Ecosystems
 header:
@@ -18,6 +26,17 @@ image:
 teaser: “You may have heard the Earth called the blue marble, but do you know why the world is also green?”
 source-id: 1EJPIWHCWm4zt96RKjw06Ehk-5eh9iFTEebPebQ-aXng
 published: true
+=======
+layout: page
+author: efusco
+header:
+  image_fullwidth: ecosystem-header.jpg
+image:
+  thumb: Fusco_thumbnail_20170213.jpg
+teaser: "“You may have heard the Earth called the blue marble, but do you know why
+  the world is also green?”"
+source-id: 1EJPIWHCWm4zt96RKjw06Ehk-5eh9iFTEebPebQ-aXng
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 ---
 
 Try image searching [nature](https://www.google.com/search?site=&tbm=isch&source=hp&biw=1366&bih=638&q=concepts+in+ecology&oq=concepts+in+ecology&gs_l=img.3..0i24k1.910.4970.0.5069.25.16.3.6.7.0.107.1391.13j3.16.0....0...1ac.1.64.img..0.25.1397...0j0i10k1.b2WeRh96FLY#tbm=isch&q=nature), [ecosystem](https://www.google.com/search?site=&tbm=isch&source=hp&biw=1366&bih=638&q=concepts+in+ecology&oq=concepts+in+ecology&gs_l=img.3..0i24k1.910.4970.0.5069.25.16.3.6.7.0.107.1391.13j3.16.0....0...1ac.1.64.img..0.25.1397...0j0i10k1.b2WeRh96FLY#tbm=isch&q=ecosys), [ecology](https://www.google.com/search?site=&tbm=isch&source=hp&biw=1366&bih=638&q=concepts+in+ecology&oq=concepts+in+ecology&gs_l=img.3..0i24k1.910.4970.0.5069.25.16.3.6.7.0.107.1391.13j3.16.0....0...1ac.1.64.img..0.25.1397...0j0i10k1.b2WeRh96FLY#tbm=isch&q=ecology), or any variation of these words. Better yet, if you live near a natural setting (and it isn't too far into those dreaded cold seasons) just look out your window. Do things look particularly… green?  Even if we take a look at the world itself, it is overwhelmingly green (Figure 1). Have you ever wondered why?

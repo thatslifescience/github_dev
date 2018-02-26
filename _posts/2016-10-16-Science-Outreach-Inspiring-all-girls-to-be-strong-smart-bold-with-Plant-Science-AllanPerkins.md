@@ -1,14 +1,26 @@
 ---
+<<<<<<< HEAD
 title: "Science Outreach: “Inspiring all girls to be strong, smart & bold” with Plant Science!"
 layout: page
 author: eaperkins
 permalink: /2016-10-16-Science-Outreach-Inspiring-all-girls-to-be-strong-smart-bold-with-Plant-Science-AllanPerkins/
 tags:
 - "Girls, Inc., Eureka!"
+=======
+title: 'Science Outreach: “Inspiring all girls to be strong, smart & bold” with Plant
+  Science!'
+date: 2016-10-16 00:00:00 Z
+permalink: "/2016-10-16-Science-Outreach-Inspiring-all-girls-to-be-strong-smart-bold-with-Plant-Science-AllanPerkins/"
+categories:
+- Grad School Diaries
+tags:
+- Girls, Inc., Eureka!
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 - outreach
 - plant science
 - agronomy farm
 - teaching
+<<<<<<< HEAD
 categories:
  - Grad School Diaries
 header:
@@ -19,6 +31,19 @@ teaser: Our 1-day and 3-day workshops on Plant Science were described as “lit�
 source-id: 1sxhxiW-IaDBcmOADj4UJWW4dZyqSW-zqY-r_q5PvLaU
 published: true
 ---
+=======
+layout: page
+author: eaperkins
+header:
+  image_fullwidth: gradschooldiaries-header.jpg
+image:
+  thumb: 2016-10-16_eaperkins_fig8.jpg
+teaser: Our 1-day and 3-day workshops on Plant Science were described as “lit” by
+  the Eureka! Girls.
+source-id: 1sxhxiW-IaDBcmOADj4UJWW4dZyqSW-zqY-r_q5PvLaU
+---
+
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 July can be a hectic time for plant scientists.  We are in the middle of our field season during which many of us are in 90+ degree weather farming. For me as a [plant ](http://thatslifesci.com.s3-website-us-east-1.amazonaws.com/2016-05-02-what-is-phytopathology-eallanperkins/)[pathologist](http://thatslifesci.com.s3-website-us-east-1.amazonaws.com/2016-05-02-what-is-phytopathology-eallanperkins/), I count the level of disease on plots of grass and take soil samples.  Not only is field season in full swing, but we are all still running experiments in the laboratory, preparing for conferences, and creating lesson plans for the upcoming fall semester.  However, one great way to beat the stress is scientific outreach! For the fourth year in a row my [Stockbridge School of Agriculture](https://stockbridge.cns.umass.edu/) colleagues, [Dr. Michelle DaCosta](https://stockbridge.cns.umass.edu/michelle-dacosta), [Kelly Allen](https://gpls.cns.umass.edu/pb/directory/kelly-allen), and [Rachael Bernstein](https://gpls.cns.umass.edu/pb/directory/rachael-bernstein), and I were lucky enough to participate in the Eureka! Program through Girls, Inc. of Holyoke, Ma.  
 
 ![image alt txt]({{ site.url }}/public/nGRKLW2UpiEMOKkaptyPOw_img_0.jpg)

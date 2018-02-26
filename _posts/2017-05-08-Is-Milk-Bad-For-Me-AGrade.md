@@ -40,7 +40,11 @@ Here are some handy guidelines for making sure that when your news feed shows yo
 
 2. *What is the article referencing?* Does the article cite scientific papers in well-known peer-reviewed journals (Science, Nature, PNAS, etc.)? Is the scientist from a well-known University or research facility, and has a Ph.D. or M.Sc.? Is it about just *one *study, or many? Always be wary of articles that make huge claims from just one study--that's not how science works.
 
+<<<<<<< HEAD
 3. *Extraordinary claims require extraordinary evidence.* If the article claims that Congress has been taken over by [Lizard-People](https://www.theatlantic.com/national/archive/2013/04/12-million-americans-believe-lizard-people-run-our-country/316706/) (as 12 million Americans believe), there better be a consensus in the scientific community that Lizard-People even exist. A good first place to investigate is [www.snopes.com](http://www.snopes.com), a site that tends to be good at filtering the rumor mill.
+=======
+3. *Extraordinary claims require extraordinary evidence.* If the article claims that Congress has been taken over by [Lizard-People](https://www.theatlantic.com/national/archive/2013/04/12-million-americans-believe-lizard-people-run-our-country/316706/) (as 12 million Americans believe), there better be a consensus in the scientific community that Lizard-People even exist. A good first place to investigate is [www.snopes.com](http://www.snopes.com), a site that tends to be good at filtering the rumor mill.  
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 
 4. *Is the claim even "testable"?* Science can only explore things that can be disproven by evidence (a.k.a. falsifiable). If something is impossible to disprove, it is not in the realm of science.
 
@@ -59,10 +63,18 @@ If you're a proficient computer user, all this could take you five minutes. Your
 
 [2] "Scientific theory." Dictionary.com. Accessed February 01, 2017. [http://www.dictionary.com/browse/scientific-theory](http://www.dictionary.com/browse/scientific-theory). 
 
+<<<<<<< HEAD
 [3] "TEDx's Guide to Spotting Pseudoscience." Ultraculture. February 19, 2016. Accessed February 01, 2017. [http://ultraculture.org/blog/2012/12/11/tedxs-guide-to-spotting-pseudoscience/](http://ultraculture.org/blog/2012/12/11/tedxs-guide-to-spotting-pseudoscience/).
+=======
+[3] "TEDx's Guide to Spotting Pseudoscience." Ultraculture. February 19, 2016. Accessed February 01, 2017. [http://ultraculture.org/blog/2012/12/11/tedxs-guide-to-spotting-pseudoscience/](http://ultraculture.org/blog/2012/12/11/tedxs-guide-to-spotting-pseudoscience/).  
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 
 [4] Shermer, Michael. "The Difference between Science and Pseudoscience." Scientific American. September 03, 2015. Accessed February 01, 2017. [https://www.scientificamerican.com/article/the-difference-between-science-and-pseudoscience/](https://www.scientificamerican.com/article/the-difference-between-science-and-pseudoscience/)
 
 ## More From Thats Life [Science]
 {: .t60 }
 {% include list-posts offset="1" entries="5" category="Grad School Diaries" %}
+<<<<<<< HEAD
+=======
+
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342

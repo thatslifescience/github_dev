@@ -1,12 +1,20 @@
 ---
 title: Culturing the Least Cultured Members of Society
+<<<<<<< HEAD
 layout: page
 author: gpold
 permalink: /2016-08-04-Culturing-the-least-cultured-members-of-society-GPold/
+=======
+date: 2016-08-04 00:00:00 Z
+permalink: "/2016-08-04-Culturing-the-least-cultured-members-of-society-GPold/"
+categories:
+- Earth's Organisms
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 tags:
 - bacteria
 - cultivation
 - microbes
+<<<<<<< HEAD
 categories:
  - Earth's Organisms
 header:
@@ -18,6 +26,22 @@ subheadline: Finding new ways to grow bacteria to progress science
 source-id: 12s89XKdlCM_siIqo0n0STylezMYjB75mVwOuz2cScpw
 published: true
 ---
+=======
+layout: page
+author: gpold
+header:
+  image_fullwidth: 2016-08-04_gpold_fig1_opac.jpg
+image:
+  thumb: 2016-08-04_gpold_fig1.jpg
+teaser: Bacteria are everywhere, and we are very effective at growing billions of
+  them in our guts, on our shower curtains, and on our food. But those bacteria we
+  think about every day cover just a tiny fraction of the diversity of bacteria that
+  exist in the world. How do we learn about all these other bacteria?
+subheadline: Finding new ways to grow bacteria to progress science
+source-id: 12s89XKdlCM_siIqo0n0STylezMYjB75mVwOuz2cScpw
+---
+
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 You've probably heard more than enough about bacteria recently. They make delicious foods such as sauerkraut and yogurt. They can[ rescue you from gut problems](http://www.newyorker.com/magazine/2014/12/01/excrement-experiment).[ Radioactive-resistant ones have been found on the New York subway](http://cohanlab.research.wesleyan.edu/files/2015/10/topic131104_2_1500.jpg). You can[ buy microbe-themed art](https://www.etsy.com/search/art-and-collectibles/prints?q=bacteria&ref=esearch_group0) to decorate your house with, or toys to entertain your children. And they are the "[engines](https://www.youtube.com/watch?v=m9ZTIIufRcg)" which drive all the earth's major nutrient cycles.
 
 	

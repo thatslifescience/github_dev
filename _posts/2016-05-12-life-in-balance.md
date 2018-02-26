@@ -1,13 +1,21 @@
 ---
 title: Life in the balance
+<<<<<<< HEAD
 layout: page
 author: dnavon
 permalink: /2016-05-12-life-in-balance/
+=======
+date: 2016-05-12 00:00:00 Z
+permalink: "/2016-05-12-life-in-balance/"
+categories:
+- Grad School Diaries
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 tags:
 - genetics
 - research
 - day-in-the-life
 - work/life-balance
+<<<<<<< HEAD
 categories: 
  - Grad School Diaries
 header: 
@@ -19,6 +27,20 @@ subheadline: Juggling teaching, research, and outreach
 source-id: 1WwrKVFq8yJYhAb_4kjdOEir2vtuENs_e8q1mEvCgKOA
 published: true
 ---
+=======
+layout: page
+author: dnavon
+header:
+  image_fullwidth: gradschooldiaries-header.jpg
+image:
+  thumb: dnavon-fig3.jpg
+teaser: I’m a up-and-coming molecular biologist, and I study genetics, evolution,
+  and development.  But what do I actually do all day?
+subheadline: Juggling teaching, research, and outreach
+source-id: 1WwrKVFq8yJYhAb_4kjdOEir2vtuENs_e8q1mEvCgKOA
+---
+
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 If I ask to you imagine a scientist, you'll probably summon up images of white lab coats and coke-bottle-thick glasses, middle-aged white men working at sterile lab benches with various instruments and chemicals.  But if I asked you to imagine what a scientist does all day…you may have more trouble with that.
 
 I'm a biologist.  More specifically, I’m a third year PhD candidate in the Organismic and Evolutionary Biology (OEB) program at the University of Massachusetts Amherst.  What does all that mean?  It means I study organisms that evolve (more on that later, I’m sure), and I’m coming to the end of the middle of my graduate career.  I’ve passed my qualification exams, which in my program means that I took a 3-hour-long oral test on various subjects related to my field.  Now I need to develop, present, and defend an extensive body of research in order to achieve my doctoral degree. But what exactly do I do all day?  The answer to that question really depends on the day – so here’s a snapshot of one of mine, to give you a better idea of what it means to be a grad student.

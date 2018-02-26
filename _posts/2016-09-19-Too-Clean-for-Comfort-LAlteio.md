@@ -1,13 +1,21 @@
 ---
 title: How our obsession with cleanliness might be hurting our health
+<<<<<<< HEAD
 layout: page
 author: lalteio
 permalink: /2016-09-19-Too-Clean-for-Comfort-LAlteio/
+=======
+date: 2016-09-19 00:00:00 Z
+permalink: "/2016-09-19-Too-Clean-for-Comfort-LAlteio/"
+categories:
+- Earth's Organisms
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 tags:
 - hygiene hypothesis
 - co-evolution
 - health
 - allergies
+<<<<<<< HEAD
 categories:
 - Earth's Organisms
 header:
@@ -19,6 +27,21 @@ subheadline: Too Clean for Comfort
 source-id: 1idOvgk5R9PS9fyW-eLb6EYKyRR7YXgLiIvACGsIBklo
 published: true
 ---
+=======
+layout: page
+author: lalteio
+header:
+  image_fullwidth: organisms-header.jpg
+image:
+  thumb: 2016-09-19_lalteio_fig3.jpg
+teaser: The old adage “a little dirt never hurt” might actually be good health advice
+  after all! Find out how our obsession with being “clean” might be doing more harm
+  than good for our health.
+subheadline: Too Clean for Comfort
+source-id: 1idOvgk5R9PS9fyW-eLb6EYKyRR7YXgLiIvACGsIBklo
+---
+
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 Public health and technology have done wonders for preventing the spread of infectious diseases. It's all thanks to improved sanitation that we no longer have to worry so much about cholera and plague. But with all of the sanitizers and anti-bacterial soaps currently on the market, are we actually doing more harm than good? Whenever the topic of allergies comes up in conversation, more and more people seem to have them. From peanuts and wheat, to pet dander and pollen – allergies abound! Autoimmune diseases such as Crohn's and celiac disease also seem to be more prevalent. Did people always have such negative responses to their environment and the foods they ate, or is this really something new? Why are our bodies suddenly reacting to our environment in this way?
 
 ![image alt text](https://c4.staticflickr.com/6/5536/11725696795_5ac2053db1_b.jpg)

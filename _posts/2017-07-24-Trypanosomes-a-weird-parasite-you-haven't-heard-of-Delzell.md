@@ -48,4 +48,9 @@ Without treatment, African Trypanosomiasis is fatal, and treatment in the second
 
 ## More From Thats Life [Science]
 {: .t60 }
+<<<<<<< HEAD
 {% include list-posts offset="1" entries="5" category="Earth's Organisms" %}
+=======
+{% include list-posts offset="1" entries="5" category="Earth's Organisms" %}
+
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342

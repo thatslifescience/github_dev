@@ -13,7 +13,11 @@ gallery:
   caption: Alam Garcia Heredia
 ---
 
+<<<<<<< HEAD
 ![Alam Garcia Heredia]({{ site.url }}/images/garciaheredia-01.jpg)
+=======
+![Alam Garcia Heredia]({{ site.urlimg }}/garciaheredia-01.jpg)
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 
 [Personal Website](http://www.microbiosymas.com/alam.html)
 

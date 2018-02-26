@@ -1,14 +1,22 @@
 ---
 title: How Pistol Shrimp Kill with Bubbles
+<<<<<<< HEAD
 layout: page
 author: astrauss
 permalink: /2016-12-26-How-Pistol-Shrimp-Kill-With-Bubbles-AStrauss/
+=======
+date: 2016-12-26 00:00:00 Z
+permalink: "/2016-12-26-How-Pistol-Shrimp-Kill-With-Bubbles-AStrauss/"
+categories:
+- Earth's Organisms
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 tags:
 - pistol shrimp
 - predator
 - adaptation
 - marine
 - behavior
+<<<<<<< HEAD
 categories:
 - Earth's Organisms
 header:
@@ -19,6 +27,20 @@ teaser: Pistol shrimp are aptly named. Despite their small, unassuming presence,
 subheadline: Snap! Flash! Bang! Find out how ocean-dwelling pistol shrimp fire bubble ‘bullets’ to stun their unsuspecting prey.
 source-id: 1el395GzEawBHFvvQnuR5hDDWtFJ7Px6xwgm9nJ53384
 published: true
+=======
+layout: page
+author: astrauss
+header:
+  image_fullwidth: organisms-header.jpg
+image:
+  thumb: 2016-12-24-AStrauss.jpg
+teaser: Pistol shrimp are aptly named. Despite their small, unassuming presence, they
+  carry with them an impressive weapon that can discharge powerful underwater ‘bullets’
+  capable of stunning or even killing prey.
+subheadline: Snap! Flash! Bang! Find out how ocean-dwelling pistol shrimp fire bubble
+  ‘bullets’ to stun their unsuspecting prey.
+source-id: 1el395GzEawBHFvvQnuR5hDDWtFJ7Px6xwgm9nJ53384
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 ---
 
 Their built-in weapon comes in the form of a single, highly adapted, enlarged claw (seen in Fig. 1) that can crank open and snap shut with incredible speed. It looks similar to a boxing glove. When a shrimp fires this weapon, it releases intense light, heat, and sound via the formation and collapse of underwater bubbles. This reaction is one of the most fascinating phenomena in the natural world. So let's dive underwater and explore this extreme behavior in a bizarre crustacean, the pistol shrimp! 

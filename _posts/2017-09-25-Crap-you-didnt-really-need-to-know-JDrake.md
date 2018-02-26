@@ -45,12 +45,20 @@ Think of it as a series of empty and rented apartments in a high rise.  By track
 
 And that's what we can figure out just by finding the poo, let alone looking into it!  When we start 'digging deeper’ into the poo, we can explore the genetic signatures, diets, health, parasites, and loads of other things about individual animals and the population as a whole.  But each of those is a subject unto itself! So I will just pinch it off there.  
 
+<<<<<<< HEAD
 **References**
 
+=======
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 [1] Marques, Fernanda FC, Stephen T. Buckland, David Goffin, Camilla E. Dixon, David L. Borchers, Brenda A. Mayle, and Andrew J. Peace. "[Estimating deer abundance from line transect surveys of dung: sika deer in southern Scotland.](http://onlinelibrary.wiley.com/doi/10.1046/j.1365-2664.2001.00584.x/full)" *Journal of Applied Ecology* 38, no. 2 (2001): 349-363.
 
 [2] Woodroffe, G. L., J. H. Lawton, and W. L. Davidson. "P[atterns in the production of latrines by water voles (Arvicola terrestris) and their use as indices of abundance in population surveys](http://onlinelibrary.wiley.com/doi/10.1111/j.1469-7998.1990.tb04317.x/full)." *Journal of Zoology* 220, no. 3 (1990): 439-445
 
 ## More From Thats Life [Science]
 {: .t60 }
+<<<<<<< HEAD
 {% include list-posts offset="1" entries='5' category="How It Works" %}.
+=======
+{% include list-posts offset="1" entries='5' category="How It Works" %}.
+
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342

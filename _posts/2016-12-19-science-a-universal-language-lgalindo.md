@@ -1,13 +1,21 @@
 ---
 title: Science - A Universal Language
+<<<<<<< HEAD
 layout: page
 author: lgalindo
 permalink: /2016-12-19-science-a-universal-language-lgalindo/
 subheadline: "Science may be a universal language, but for international students, many other things are lost in translation."
+=======
+date: 2016-12-19 00:00:00 Z
+permalink: "/2016-12-19-science-a-universal-language-lgalindo/"
+categories:
+- Grad School Diaries
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 tags:
 - study abroad
 - international student
 - journey
+<<<<<<< HEAD
 categories:
 - Grad School Diaries
 header:
@@ -18,6 +26,22 @@ teaser: "Studying abroad is an opportunity for advancing in a scientific career;
 source-id: 1-dBRpDdKQ9ut58EnP3AfT0024gZf688f4E2VbAbNGpo
 published: true
 ---
+=======
+layout: page
+author: lgalindo
+subheadline: Science may be a universal language, but for international students,
+  many other things are lost in translation.
+header:
+  image_fullwidth: gradschooldiaries-header.jpg
+image:
+  thumb: 2016-12-19_lagalindo_fig1.jpg
+teaser: Studying abroad is an opportunity for advancing in a scientific career; it
+  is also a test to one’s endurance. Hear from those who decided to embark on this
+  journey.
+source-id: 1-dBRpDdKQ9ut58EnP3AfT0024gZf688f4E2VbAbNGpo
+---
+
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 There are many reasons for you to start your studies abroad: meeting new people, experiencing different cultures, and seeing how science is done in another part of the world. There is, however, another less romantic side of life abroad. Living in a foreign place exposes you to unknown dangers and it challenges your learning capacity. Also, in some occasions your interaction with new peers, professors, and mentors is clouded by cultural differences that are difficult to overcome. But in the end, all these experiences will contribute to your personal development. These learnings show you new ways to observe the world which influences the ways in which you do science.
 
 ![Fig 1.]({{ site.url }}/images/2016-12-19_lagalindo_fig1L.jpg)

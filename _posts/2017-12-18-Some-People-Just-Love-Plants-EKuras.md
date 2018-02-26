@@ -34,6 +34,7 @@ In order for randomly planty houses to exist, people need to somehow *obtain* al
 
 <h3>Reason #1: Ecology of Prestige</h3>
 
+<<<<<<< HEAD
 Do you like succulents? I know I do. They are cute, small, versatile, and easy to take care of (AKA: you barely have to take care of them at all). And they are also [quite hip](http://www.heraldsun.com.au/lifestyle/home-mag/indoor-succulents-are-experiencing-a-spike-in-popularity/news-story/cc656b3f12945024969bc74c60618b8b).
 
 Researchers use the term, "Ecology of Prestige," to describe environmental decisions that are motivated by a sense of group identity and perceived social status [4]. Owning succulents, therefore, is a way to express membership in the group of cool, young, hip people living in small urban apartments. It's not that different from buying a Mustang or an SUV in part to show that you are wealthy or a soccer mom. Of course, I don’t buy succulents *specifically* to uphold my social status. But all of my hip friends have succulents, and I probably associate succulents with hipness, so I end up buying them and putting them in adorable planters.
@@ -46,11 +47,29 @@ In American cities such as Baltimore, New York City, and Phoenix, researchers ha
 <h3>Reason #2: Gifts and Greens</h3>
 
 While you may not have the means, opportunity, or desire to buy plants, you may nevertheless end up with a randomly planty house due to gifts from family, friends, and neighbors. On my street in Northampton, Massachusetts, neighbors send emails about plants they are trying to get rid of or would like to share.
+=======
+Do you like succulents? I know I do. They are cute, small, versatile, and easy to take care of (AKA: you barely have to take care of them at all). And they are also [quite hip](http://www.heraldsun.com.au/lifestyle/home-mag/indoor-succulents-are-experiencing-a-spike-in-popularity/news-story/cc656b3f12945024969bc74c60618b8b). 
+
+Researchers use the term, "Ecology of Prestige," to describe environmental decisions that are motivated by a sense of group identity and perceived social status [4]. Owning succulents, therefore, is a way to express membership in the group of cool, young, hip people living in small urban apartments. It's not that different from buying a Mustang or an SUV in part to show that you are wealthy or a soccer mom. Of course, I don’t buy succulents *specifically* to uphold my social status. But all of my hip friends have succulents, and I probably associate succulents with hipness, so I end up buying them and putting them in adorable planters. 
+
+<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/25224664648/in/dateposted-friend/" title="2017-12-18-EKurasC"><img src="https://farm5.staticflickr.com/4728/25224664648_7ec2f43d29.jpg" width="461" height="500" alt="2017-12-18-EKurasC"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
+**Figure 3.** My favorite succulent. (Photo credit: Evan Kuras) 
+
+In American cities such as Baltimore, New York City, and Phoenix, researchers have identified similar motivations behind people's selection of plants, especially in front yards where their plants are most visible [4, 5, 6]. In other words, when an individual buys plants for their home, they may be motivated by a sense of *prestige* and a desire to uphold or advance it. 
+
+<h3>Reason #2: Gifts and Greens</h3>
+
+While you may not have the means, opportunity, or desire to buy plants, you may nevertheless end up with a randomly planty house due to gifts from family, friends, and neighbors. On my street in Northampton, Massachusetts, neighbors send emails about plants they are trying to get rid of or would like to share. 
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/38209029055/in/dateposted-friend/" title="2017-12-18-EKurasD"><img src="https://farm5.staticflickr.com/4542/38209029055_85f65160a7_z.jpg" width="579" height="199" alt="2017-12-18-EKurasD"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 **Figure 4.** Emails from my neighborhood listserv about available plants for the taking (Photo credit: Evan Kuras)
 
+<<<<<<< HEAD
 Gift plants can be ornamental (like the irises in the June 18 email) or utilitarian (like the vegetable starters in the May 27 email). Such useful plants can provide food or income to households that may face financial instability throughout the year. For example, in Tlokwe City Municipality, South Africa, yards in neighborhoods with lower rates of socio-economic advantage (think employment, schooling, access to basic services) had significantly higher numbers of fruit trees [7]. In regards to useful plants, prestige may be less important than the need for edible greens. For example, in San Juan, Puerto Rico, researchers found that households tended to plant their utilitarian species in the back yard while placing their ornamental species in the more visible front yard [8].
+=======
+Gift plants can be ornamental (like the irises in the June 18 email) or utilitarian (like the vegetable starters in the May 27 email). Such useful plants can provide food or income to households that may face financial instability throughout the year. For example, in Tlokwe City Municipality, South Africa, yards in neighborhoods with lower rates of socio-economic advantage (think employment, schooling, access to basic services) had significantly higher numbers of fruit trees [7]. In regards to useful plants, prestige may be less important than the need for edible greens. For example, in San Juan, Puerto Rico, researchers found that households tended to plant their utilitarian species in the back yard while placing their ornamental species in the more visible front yard [8]. 
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 
 <h3>Reason #3: Power</h3>
 
@@ -69,6 +88,7 @@ Perhaps houses aren't *randomly* planty after all, once you take into considerat
 
 **References:**
 
+<<<<<<< HEAD
 [1] Torres-camacho, K. A., Meléndez-ackerman, E. J., Díaz, E., Correa, N., Vila-Ruiz, C., Olivero-Lora, S., … Seguinot, J. (2017). Intrinsic and extrinsic drivers of yard vegetation in urban residential areas: implications for conservation planning. *Urban Ecosystems*, *20*, 403–413.
 
 [2] Cubino, J. P., Subirós, J. V., & Lozano, C. B. (2016). Floristic and structural differentiation between gardens of primary and secondary residences in the Costa Brava (Catalonia, Spain). *Urban Ecosystems*, *19*, 505–521.
@@ -82,9 +102,28 @@ Perhaps houses aren't *randomly* planty after all, once you take into considerat
 [6] Larsen, L., Harlan, S.L. (2006). Desert dreamscapes: residential landscape preference and behavior. *Landscape and Urban Planning* *78*, 85–100.
 
 [7] Lubbe, C. S., Siebert, S. J., & Cilliers, S. S. (2010). Political legacy of South Africa affects the plant diversity patterns of urban domestic gardens along a socio-economic gradient. *Scientific Research and Essays*, *19*(19), 2900–2910.
+=======
+[1] Torres-camacho, K. A., Meléndez-ackerman, E. J., Díaz, E., Correa, N., Vila-Ruiz, C., Olivero-Lora, S., … Seguinot, J. (2017). Intrinsic and extrinsic drivers of yard vegetation in urban residential areas: implications for conservation planning. *Urban Ecosystems*, *20*, 403–413. 
+
+[2] Cubino, J. P., Subirós, J. V., & Lozano, C. B. (2016). Floristic and structural differentiation between gardens of primary and secondary residences in the Costa Brava (Catalonia, Spain). *Urban Ecosystems*, *19*, 505–521.
+
+[3] Kendal, D., Williams, K. J. H., & Williams, N. S. G. (2012). Landscape and Urban Planning Plant traits link people's plant preferences to the composition of their gardens. *Landscape and Urban Planning*, *105*(1–2), 34–42. 
+
+[4] Grove, J. M., Troy, a. R., O'Neil-Dunne, J. P. M., Burch, W. R., Cadenasso, M. L., & Pickett, S. T. a. (2006). Characterization of households and its implications for the vegetation of urban ecosystems. *Ecosystems*, *9*(4), 578–597. 
+
+[5] Grove, J. M., Locke, D. H., & O'Neil-Dunne, J. P. M. (2014). An ecology of prestige in New York City: Examining the relationships among population density, socio- economic status, group identity, and residential canopy cover. *Environmental Management*, *54*, 402–419. 
+
+[6] Larsen, L., Harlan, S.L. (2006). Desert dreamscapes: residential landscape preference and behavior. *Landscape and Urban Planning* *78*, 85–100.
+
+[7] Lubbe, C. S., Siebert, S. J., & Cilliers, S. S. (2010). Political legacy of South Africa affects the plant diversity patterns of urban domestic gardens along a socio-economic gradient. *Scientific Research and Essays*, *19*(19), 2900–2910. 
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 
 [8] Vila-ruiz, C. P., Meléndez-ackerman, E., Santiago-bartolomei, R., Garcia-montiel, D., Lastra, L., Cielo, E. F., & Fumero-Cában, J. (2014). Plant species richness and abundance in residential yards across a tropical watershed : implications for urban sustainability. *Ecology and Society*, *19*(3), 22.
 
 ## More From Thats Life [Science]
 {: .t60 }
 {% include list-posts offset="1" entries="5" category="Our Ecosystems" %}
+<<<<<<< HEAD
+=======
+
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342

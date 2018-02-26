@@ -1,13 +1,21 @@
 ---
 title: An American Graduate Student in France
+<<<<<<< HEAD
 layout: page
 author: jcoomey
 permalink: /2016-12-31-an-american-graduate-student-in-france-jcoomey/
+=======
+date: 2016-12-31 00:00:00 Z
+permalink: "/2016-12-31-an-american-graduate-student-in-france-jcoomey/"
+categories:
+- Grad School Diaries
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 tags:
 - plant
 - molecular
 - fellowship
 - france
+<<<<<<< HEAD
 categories:
 - Grad School Diaries
 header:
@@ -17,6 +25,17 @@ image:
 teaser: Graduate school can be challenging, but it has its perks. Getting to travel and do science abroad is one of the best!
 source-id: 1clBPve7FN9D4V2wKpe_eg1urRpX_hjHrwb03vBJ2C1s
 published: true
+=======
+layout: page
+author: jcoomey
+header:
+  image_fullwidth: gradschooldiaries-header.jpg
+image:
+  thumb: image-Coomey_thumb.jpg
+teaser: Graduate school can be challenging, but it has its perks. Getting to travel
+  and do science abroad is one of the best!
+source-id: 1clBPve7FN9D4V2wKpe_eg1urRpX_hjHrwb03vBJ2C1s
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 ---
 
 **The fellowship**

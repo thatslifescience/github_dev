@@ -65,6 +65,9 @@ Massive undertakings like this Amazonian fragmentation study are rare and diffic
 
 1. Laurance, William F., Thomas E. Lovejoy, Heraldo L. Vasconcelos, Emilio M. Bruna, Raphael K. Didham, Philip C. Stouffer, Claude Gascon, Richard O. Bierregaard, Susan G. Laurance, and Erica Sampaio. "Ecosystem decay of Amazonian forest fragments: a 22‐year investigation." *Conservation Biology *16, no. 3 (2002): 605-618. Accessed August 01, 2017. doi: [10.1046/j.1523-1739.2002.01025.x](http://onlinelibrary.wiley.com/doi/10.1046/j.1523-1739.2002.01025.x/abstract)
 
+<<<<<<< HEAD
 ## More From Thats Life [Science]
 {: .t60 }
 {% include list-posts offset="1" entries='5' category="Our Ecosystems" %}.
+=======
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342

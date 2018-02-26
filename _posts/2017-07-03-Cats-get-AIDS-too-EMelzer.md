@@ -63,4 +63,8 @@ If you have a cat or cats, first of all lucky you! I hope you're giving him/her 
 
 ## More From Thats Life [Science]
 {: .t60 }
+<<<<<<< HEAD
 {% include list-posts offset="1" entries='5' category="Earth's Organisms" %}
+=======
+{% include list-posts offset="1" entries='5' category="Earth's Organisms" %}
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342

@@ -1,8 +1,15 @@
 ---
 title: Why did orange prices increase?
+<<<<<<< HEAD
 layout: page
 author: eaperkins
 permalink: /2016-07-18-Why-did-orange-prices-increase--EAllanPerkins/
+=======
+date: 2016-07-18 00:00:00 Z
+permalink: "/2016-07-18-Why-did-orange-prices-increase--EAllanPerkins/"
+categories:
+- How It Works
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 tags:
 - plant disease
 - phytopathology
@@ -12,6 +19,7 @@ tags:
 - citrus greening
 - yellow shoot disease
 - invasive species
+<<<<<<< HEAD
 categories:
  - How It Works
 header:
@@ -23,6 +31,22 @@ subheadline: What is wrong with my tomatoes?...And other plant disease questions
 source-id: 16SlP04hgRO40_KdJSFxuUvJWcXUlpToKtkNHB2QzG6w
 published: true
 ---
+=======
+layout: page
+author: eaperkins
+header:
+  image_fullwidth: 2016-07-14_eperkins_fig1_opac.jpg
+image:
+  thumb: 2016-07-14_eperkins_fig3.jpg
+teaser: Citrus greening disease, also known as Huanglongbing or Dragon Yellows, is
+  causing devastating losses to citrus trees in Africa, Asia, Brazil, and the southern
+  United States.  Plant pathologists are working hard to combat this disease and keep
+  oranges on our tables (and at a reasonable price)!
+subheadline: What is wrong with my tomatoes?...And other plant disease questions
+source-id: 16SlP04hgRO40_KdJSFxuUvJWcXUlpToKtkNHB2QzG6w
+---
+
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 **The Problem**
 
 Citrus prices in the United States have increased over the past year and are expected to continue rising as citrus greening disease keeps killing citrus trees throughout the southern United States [1].  Citrus greening, also called Huanglongbing or Dragon Yellows, is believed to be native to parts of Asia and Africa and was detected in Brazil and Florida in 2004 and 2005, respectively.  Since arriving in Florida, it has now been found in orange groves in California in the last few years.  This disease is devastating in its new hosts, where it is estimated to have caused 30-40% loss of yield and about $4 billion of loss from 2006-2011 in Florida [5,7].  

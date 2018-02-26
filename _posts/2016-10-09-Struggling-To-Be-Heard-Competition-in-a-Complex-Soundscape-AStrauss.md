@@ -1,8 +1,15 @@
 ---
 title: Struggling to be Heard - Competition in a Complex Soundscape
+<<<<<<< HEAD
 layout: page
 author: astrauss
 permalink: /2016-10-09-Struggling-To-Be-Heard-Competition-in-a-Complex-Soundscape-AStrauss/
+=======
+date: 2016-10-09 00:00:00 Z
+permalink: "/2016-10-09-Struggling-To-Be-Heard-Competition-in-a-Complex-Soundscape-AStrauss/"
+categories:
+- Earth's Organisms
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 tags:
 - bioacoustics
 - frogs
@@ -10,6 +17,7 @@ tags:
 - invasive species
 - competition
 - behavior
+<<<<<<< HEAD
 categories:
 - Earth's Organisms
 header:
@@ -21,6 +29,21 @@ subheadline: What happens when frogs have to compete for acoustic space and a ch
 source-id: 1fDTI3TbCFSbF8V92QMbmmUVjJFNYHgNUfQ1HQoUkIhM
 published: true
 ---
+=======
+layout: page
+author: astrauss
+header:
+  image_fullwidth: organisms-header.jpg
+image:
+  thumb: Cuban-Tree-Frog.jpg
+teaser: When a loud, invasive frog species acoustically overpowers native frog calling,
+  important communication can be blocked. Then what?
+subheadline: What happens when frogs have to compete for acoustic space and a chance
+  to be heard?
+source-id: 1fDTI3TbCFSbF8V92QMbmmUVjJFNYHgNUfQ1HQoUkIhM
+---
+
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 If you've ever passed by a pond on a warm spring or summer evening, you’ve undoubtedly heard the loud sound of breeding frogs. Whether you realized it or not, you were overhearing a remarkable mixed-species chorus of frogs, all using sound to navigate the crowded pond in the dark and to find potential mates of their own species. To our ears, it sounds like a racket – but to the frogs, this racket is orchestrated in such a way that allows for successful intraspecific communication (communication between members of the same species).
 
 …or at least, that is how the system evolved over many, many generations – before humans began introducing loud highways, industrial noise, and other obstacles to vocal communication into the environment. Have you ever tried to chat with a friend while a car alarm is going off in the background? Or near a passing train? It's a challenge, and frogs face that same challenge. As environmental noise conditions change, frogs may be forced to alter their calling behavior in response to real-time noise conditions. If acoustic communication systems are challenged by newly introduced sounds, then frogs may have trouble finding mates and whole populations could become threatened.

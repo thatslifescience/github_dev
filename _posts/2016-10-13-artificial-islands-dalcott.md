@@ -1,5 +1,6 @@
 ---
 title: Artificial Islands
+<<<<<<< HEAD
 layout: page
 author: dalcott
 permalink: /2016-10-13-artificial-islands-dalcott/
@@ -17,6 +18,27 @@ image:
 source-id: 1psFhEutEgdIWWQAqmwr0pTKQ1N1rkmujPtFXBL4goZs
 published: true
 ---
+=======
+date: 2016-10-13 00:00:00 Z
+permalink: "/2016-10-13-artificial-islands-dalcott/"
+categories:
+- How It Works
+tags:
+- human impacts
+- artificial islands
+layout: page
+author: dalcott
+subheadline: The Effects of Custom Build Paradise
+header:
+  image_fullwidth: howitworks-header.jpg
+teaser: Artificial islands have been build all around the world for a variety of reasons.
+  But what is their impact on the local ecological communities?
+image:
+  thumb: islands-dalcott.jpg
+source-id: 1psFhEutEgdIWWQAqmwr0pTKQ1N1rkmujPtFXBL4goZs
+---
+
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 Wouldn't it be nice to have your own tropical island? Your own little slice of paradise? One that isn’t already developed and crowded? If only you could just build your own island from scratch to the exact size and shape you want and only allow family and friends on to the island. That would be the dream, wouldn’t it? If you have ever had thoughts like this, you aren’t the first. In fact, artificial islands have been around since ancient Egyptian civilizations, albeit for less glamorous purposes than we may think of today.
 
 ![image alt text]({{ site.url }}/public/KaKo5OXK7dQuAelLn4jSJQ_img_0.png)

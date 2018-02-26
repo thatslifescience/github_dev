@@ -1,12 +1,20 @@
 ---
 title: You May Say I’m Biased, But I’m Not the Only One
+<<<<<<< HEAD
 layout: page
 author: mandina
 permalink: /2016-12-29-You-May-Say-Im-Biased-But-Im-Not-The-Only-One-MAndina/
+=======
+date: 2016-12-29 00:00:00 Z
+permalink: "/2016-12-29-You-May-Say-Im-Biased-But-Im-Not-The-Only-One-MAndina/"
+categories:
+- How It Works
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 tags:
 - behavior
 - human
 - cognitive bias
+<<<<<<< HEAD
 categories:
 - How It Works
 header:
@@ -19,6 +27,20 @@ subheadline:
 source-id: 1JiF8QugfqqxeM27JABuRujrTlOo6RPGs1wHGhWTljMc
 published: true
 ---
+=======
+layout: page
+author: mandina
+header:
+  image_fullwidth: howitworks-header.jpg
+image:
+  thumb: 2016-12-29-MAndina.png
+teaser: Being human, otherwise known as the art of making decisions without sufficient
+  data.
+subheadline: 
+source-id: 1JiF8QugfqqxeM27JABuRujrTlOo6RPGs1wHGhWTljMc
+---
+
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 **Have you ever wished you could know the future?**
 
 You might want to bet that team A will beat team B in The Ultimate Championship of Some Kind of Sport, decide whether to drink from that carton of milk that has been opened in the fridge too long, or maybe just figure out which way home has the least traffic. Whatever situation you find yourself in, you have to make choices without the benefit of knowing what will happen in advance. To live is to choose.

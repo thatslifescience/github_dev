@@ -1,5 +1,6 @@
 ---
 title: It's Standing Room Only At The Equator
+<<<<<<< HEAD
 layout: page
 author: efusco
 permalink: /2016-03-19-tropics-life/
@@ -25,6 +26,29 @@ header:
 source-id: 1bz9VMOpn4VcCHpOrXLe40XCMPRPghWpSn1EtW5p9ysA
 published: true
 ---
+=======
+date: 2016-03-19 00:00:00 Z
+permalink: "/2016-03-19-tropics-life/"
+categories:
+- Our Ecosystems
+tags:
+- Species
+- Biodiversity
+- Biogeography
+- Tropics
+layout: page
+author: efusco
+subheadline: A closer look at species diversity in the tropics
+teaser: Ever wonder why the tropics have more plants and animals than places closer
+  to the poles? You aren't alone.
+image:
+  thumb: tropics-life-1.jpg
+header:
+  image_fullwidth: ecosystem-header.jpg
+source-id: 1bz9VMOpn4VcCHpOrXLe40XCMPRPghWpSn1EtW5p9ysA
+---
+
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 Imagine the [North Pole](https://upload.wikimedia.org/wikipedia/commons/4/4c/Baffin_Island_Northeast_Coast_1997-08-07.jpg){:target="_blank"}. Now imagine the [Amazon Rainforest](https://upload.wikimedia.org/wikipedia/commons/e/e8/Amazon_jungle_from_above.jpg){:target="_blank"}. Which place is home to more plants and animals? This seems like a very simple question, and it is. The Amazon has more plants, animals, and species in general than the North Pole. Perhaps, the better question here is WHY are there so many more species in the Amazon?
 
 This observation is true for places other than the North Pole and the Amazon Rainforest. With few exceptions, you can pick any place at the equator, and as you move north or south (poleward), you will find lower species diversity. The pattern, known as the Latitudinal Diversity Gradient, simply means that as you increase in latitude, you decrease in biodiversity (number of species).

@@ -1,5 +1,6 @@
 ---
 title: Unexpected Encounters of the Human Kind
+<<<<<<< HEAD
 layout: page
 author: astrauss
 permalink: /2016-04-26-unexpected-encounters-of-the-human-kind-astrauss/
@@ -25,6 +26,35 @@ header:
 source-id: 1A31LUmk4y9iAokw0Ug6cWiWEG2erPFCyko_Wbq5zb6Y
 published: true
 ---
+=======
+date: 2016-04-26 00:00:00 Z
+permalink: "/2016-04-26-unexpected-encounters-of-the-human-kind-astrauss/"
+categories:
+- Grad School Diaries
+tags:
+- field
+- research
+- fieldwork
+- unpredictability
+- the public
+- humans
+layout: page
+author: astrauss
+subheadline: What happens when a researcher steps outside the lab and into the public
+  sphere?
+teaser: Research in a lab setting allows for control over many environmental variables
+  and conditions, but can be limiting due to the unnatural context. Research in a
+  field setting can be more natural and realistic, however that tight control over
+  the environment is lost. One unpredictable source of a challenging field environment?
+  People.
+image:
+  thumb: 20160306_Strauss_Fig3.jpg
+header:
+  image_fullwidth: gradschooldiaries-header.jpg
+source-id: 1A31LUmk4y9iAokw0Ug6cWiWEG2erPFCyko_Wbq5zb6Y
+---
+
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 "You want me to shoot it for you?" 
 
 The wrinkle-faced man was completely perplexed by my research partner and me. It was a hot summer morning in rural Kansas, and we were idling on the side of a dirt road, staring silently through binoculars at a small songbird singing on a telephone wire. 
@@ -69,4 +99,8 @@ Working in the field means being subject not only to the weather and the element
 
 ## More From Thats Life [Science]
 {: .t60 }
+<<<<<<< HEAD
 {% include list-posts offset="19" entries="5" category="Grad School Diaries" %}
+=======
+{% include list-posts entries='1' category='Grad School Diaries' %}
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342

@@ -1,13 +1,22 @@
 ---
+<<<<<<< HEAD
 title: "Invasive Species and Invasion: Part 1"
 layout: page
 author: lhancock
 permalink: /2016-10-03-Invasive-Species-and-Invasion-Part-1-LHancock/
+=======
+title: 'Invasive Species and Invasion: Part 1'
+date: 2016-10-03 00:00:00 Z
+permalink: "/2016-10-03-Invasive-Species-and-Invasion-Part-1-LHancock/"
+categories:
+- Earth's Organisms
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 tags:
 - exotic species
 - invasive species
 - native species
 - non-native species
+<<<<<<< HEAD
 categories: 
 - Earth's Organisms
 header:
@@ -19,6 +28,21 @@ subheadline: Think Genghis Khan and Napoleon were the most successful invaders? 
 source-id: 1257w89qltSdGt_Ag6EQUWYTVwiKV5p-7g1vOXrEdzUI
 published: true
 ---
+=======
+layout: page
+author: lhancock
+header:
+  image_fullwidth: organisms-header.jpg
+image:
+  thumb: 2016-10-03-lhancock_fig2.jpg
+teaser: Confused about invasive species? Read on to learn more about the how, what,
+  and why of invasive species.
+subheadline: Think Genghis Khan and Napoleon were the most successful invaders? Think
+  again.
+source-id: 1257w89qltSdGt_Ag6EQUWYTVwiKV5p-7g1vOXrEdzUI
+---
+
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 What is invasion? Most of us probably have a very general idea of what this concept is: some form of intrusion, disruption, or interruption. The concept of an invasive species might be less familiar, though. So what does "invasive species" *really* mean? To answer the question of *how* a species is able to invade, scientists have come up with dozens and dozens of theories. To answer *what* is an invasive species, the answer is slightly simpler, though there are different variations of the definition depending on your source. 
 
 An invasive species is: 1) a non-native species that 2) is causing or is likely to cause ecological, economic, or human health problems in its new ecosystem [1]. We commonly hear about invasive plants and insects, but invasive species can be any type of living organism such as a plant, fungus, animal, or microbe. 

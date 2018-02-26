@@ -1,5 +1,6 @@
 ---
 title: 3D Printing for Fun and Science
+<<<<<<< HEAD
 teaser: "Almost any conceivable object can now be 3D printed into reality. The process is fun and futuristic, but it’s also opening new doors for biological research."
 layout: page
 author: avlinden
@@ -18,6 +19,28 @@ image:
 source-id: 1OOaQY8t8a1A8QdVm55WFswHew-GMopguXIhSPoFi7uY
 published: true
 ---
+=======
+date: 2016-05-07 00:00:00 Z
+permalink: "/2016-05-07-3D-printing-for-fun-and-science/"
+categories:
+- How It Works
+tags:
+- animals
+- morphology
+- biomechanics
+- 3D printing
+teaser: Almost any conceivable object can now be 3D printed into reality. The process
+  is fun and futuristic, but it’s also opening new doors for biological research.
+layout: page
+author: avlinden
+header:
+  image_fullwidth: howitworks-header.jpg
+image:
+  thumb: 2016-05-09-avlinden-Fig1.jpg
+source-id: 1OOaQY8t8a1A8QdVm55WFswHew-GMopguXIhSPoFi7uY
+---
+
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 ![image alt text]({{ site.url }}/public/LYWEjbwePusGw76KIs7OJw_img_0.jpg)
 
 **Fig. 1** A 3D printed macaque monkey skull (left) next to the original bone specimen (right). *Source*: Abby Vander Linden.
@@ -48,7 +71,11 @@ Crofts and Summers found that teeth with a convex surface took less force to bre
 
 Because the plastic snail shells have different material properties than real shells made of calcium carbonate (and squishy snail innards), this study was not about measuring how much actual force it takes to crush snails. Rather, by making hundreds of copies of the same shells, the researchers were able to take differences in snail size and shape out of the equation and test how different tooth shapes performed under identical conditions. This kind of controlled mechanical experiment would have been extremely difficult without access to a 3D printer. 
 
+<<<<<<< HEAD
 3D printed models of animal bones and shells are fun to look at and play with, but they can also play an important role in the process of experimental science! And even though it's not pulling its weight in the scientific process, I love having my plastic macaque skull on my desk to remind me that we are living in the 3D printed future.
+=======
+3D printed models of animal bones and shells are fun to look at and play with, but they can also play an important role in the process of experimental science! And even though it's not pulling its weight in the scientific process, I love having my plastic macaque skull on my desk to remind me that we are living in the 3D printed future.   
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 
 References:
 
@@ -56,4 +83,8 @@ References:
 
 ## More From Thats Life [Science]
 {: .t60 }
+<<<<<<< HEAD
 {% include list-posts offset="19" entries="5" category="How It Works" %}
+=======
+{% include list-posts offset="1" category="How It Works" %}
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342

@@ -1,14 +1,22 @@
 ---
 title: Why Do Mothers Mother?
+<<<<<<< HEAD
 layout: page
 author: mandina
 permalink: /2017-03-06-Why-Do-Mothers-Mother-MAndina/
+=======
+date: 2017-03-06 00:00:00 Z
+permalink: "/2017-03-06-Why-Do-Mothers-Mother-MAndina/"
+categories:
+- How It Works
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 tags:
 - behavior
 - neurobiology
 - brain
 - emotion
 - bonding
+<<<<<<< HEAD
 categories:
 - How It Works
 header:
@@ -19,6 +27,18 @@ teaser: You smell like my child, sweet child of mine.
 source-id: 1Z7HPOX-MpIpIt4f7w-xGyAhGAmlCD5M9Glo7gy-6SEw
 published: true
 ---
+=======
+layout: page
+author: mandina
+header:
+  image_fullwidth: howitworks-header.jpg
+image:
+  thumb: 2017-03-02-MAndinaA.jpg
+teaser: You smell like my child, sweet child of mine.
+source-id: 1Z7HPOX-MpIpIt4f7w-xGyAhGAmlCD5M9Glo7gy-6SEw
+---
+
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 Imagine waking up one day to see a  smaller version of yourself lying in the same bed. You ask yourself, "Is it dangerous? What should I do?" 
 
 Don't be scared, I’m writing about one of the possible versions of your intermingled genes, after they mixed with the ones coming from your partner, resulting in what is more commonly described as 'your child’. Granted, it does not occur by spontaneous generation. Still, there is suddenly *something alive there*, which you recognize as your child and care for.   

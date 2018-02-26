@@ -1,13 +1,21 @@
 ---
 title: Pseudoreplication and the Art of Biological Statistics
+<<<<<<< HEAD
 layout: page
 author: dnavon
 permalink: /2016-07-28-Pseudoreplication-and-the-Art-of-Biological-Sciences-DNavon/
+=======
+date: 2016-07-28 00:00:00 Z
+permalink: "/2016-07-28-Pseudoreplication-and-the-Art-of-Biological-Sciences-DNavon/"
+categories:
+- How It Works
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 tags:
 - classic paper
 - statistics
 - biology
 - pseudoreplication
+<<<<<<< HEAD
 categories:
  - How It Works
 header:
@@ -18,6 +26,19 @@ teaser: Ever wondered how biologists learn about the world?  They use statistics
 source-id: 1huk_GRzGGPOY8D6zzWqeEX25HZxHyNbiFat-UMPl_mE
 published: true
 ---
+=======
+layout: page
+author: dnavon
+header:
+  image_fullwidth: 2016-07-28_dnavon_fig3_opac.jpg
+image:
+  thumb: 2016-07-28_dnavon_fig1.jpg
+teaser: Ever wondered how biologists learn about the world?  They use statistics.  Learn
+  more about the use (and misuse) of stats in biology!
+source-id: 1huk_GRzGGPOY8D6zzWqeEX25HZxHyNbiFat-UMPl_mE
+---
+
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 *Strange Bedfellows: Statistics and Biology*
 
 I've worked with a wide diversity of STEM (Science, Technology, Engineering and Mathematics) graduate students over the years, and I’ve noticed an alarming trend: biologists get a bad rep from physical and chemical scientists when it comes to math.  Biology is sometimes depicted as a "soft" (i.e. non-quantitative) science.  While this may have been true fifty years ago, it certainly hasn’t been my experience as a life scientist.  Maybe this misconception stems from the fact that the roots of biology lie in naturalism [Fig 1].  Charles Darwin was, after all, hired as the HMS Beagle’s naturalist, and his intricate descriptions of the wildlife he found in South America and the Galapagos Islands led him to a theory of evolution by natural selection.  Naturalism is often qualitative; that is, it relies on descriptions and observations that cannot be directly measured or easily converted into numbers.  Examples of qualitative data include colors, textures, smells, and so forth.  On the other hand, biology can also be quantitative.  Quantitative data are numbers such as height, area, speed, time, ages, etc.  Analyzing quantitative data requires statistics, a method of detecting and describing patterns of numbers.

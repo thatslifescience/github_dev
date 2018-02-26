@@ -5,7 +5,11 @@ layout: page
 author: jdrake
 meta_title: Joseph Drake | That's Life [Science]
 subheadline: Contributor since Summer 2017
+<<<<<<< HEAD
 teaser: PhD Student in Organismic and Evolutionary Biology 
+=======
+teaser: Joint PhD Student in Environmental Conservation and Organismic and Evolutionary Biology 
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 header:
   image_fullwidth: you-can-delete-me-header.png
 gallery:
@@ -13,7 +17,11 @@ gallery:
   caption: Joseph Drake
 ---
 
+<<<<<<< HEAD
 ![Joseph Drake]({{ site.url }}/images/drake-01.jpg)
+=======
+![Joseph Drake]({{ site.urlimg }}/drake-01.jpg)
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 
 [Personal Website](https://secretlifeofafieldbiologist.wordpress.com/)<br>
 [Twitter](https://twitter.com/VAN_DLL)<br>

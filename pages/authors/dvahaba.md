@@ -13,7 +13,11 @@ gallery:
   caption: Dan Vahaba
 ---
 
+<<<<<<< HEAD
 ![Dan Vahaba]({{ site.url }}/images/vahaba-01.jpg)
+=======
+![Dan Vahaba]({{ site.urlimg }}/vahaba-01.jpg)
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 
 [Personal Website](vahaba.weebly.com)
 

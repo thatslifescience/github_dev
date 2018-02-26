@@ -1,6 +1,10 @@
 {% for category in include.categories %}{% capture ignore %}
 	{% for page in site.pages %}{% if page.category == category %}{% assign category_page = page %}{% break %}{% endif %}{% endfor %}
+<<<<<<< HEAD
 	{% endcapture %}<a href="/categories/{% unless category_page %}{% endunless %}{{ category }}/"
+=======
+	{% endcapture %}<a href="/thatslifesci/categories/{% unless category_page %}{% endunless %}{{ category }}/"
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 		>{% if category_page %}{{ category_page.title }}{% else %}{{ category }}{% endif %}</a>
 	{% unless forloop.last %}&middot;{% endunless %}
 {% endfor %}

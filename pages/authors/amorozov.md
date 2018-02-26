@@ -13,7 +13,11 @@ gallery:
   caption: Aleksey Morozov
 ---
 
+<<<<<<< HEAD
 ![Aleksey Morozov]({{ site.url }}/images/Morozov-01.jpg)
+=======
+![Aleksey Morozov]({{ site.urlimg }}/Morozov-01.jpg)
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 
 I work as a manager for the Laboratory of Medical Zoology, which provides a service of testing ticks for transmittable pathogens. The data we collect is freely released to towns and departments of health for surveillance purposes. My previous research focus was on the transient, antibiotic tolerant phenotype of bacteria, specifically Pseudomonas aeruginosa. My current interest is emerging pathogens.
 

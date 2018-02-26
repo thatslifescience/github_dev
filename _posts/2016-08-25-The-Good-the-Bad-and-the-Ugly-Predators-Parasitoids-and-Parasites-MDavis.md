@@ -1,12 +1,20 @@
 ---
 title: The Good, the Bad, and the Ugly - Predators, Parasitoids, and Parasites
+<<<<<<< HEAD
 layout: page
 author: mdavis
 permalink: /2016-08-25-The-Good-the-Bad-and-the-Ugly-Predators-Parasitoids-and-Parasites-MDavis/
+=======
+date: 2016-08-25 00:00:00 Z
+permalink: "/2016-08-25-The-Good-the-Bad-and-the-Ugly-Predators-Parasitoids-and-Parasites-MDavis/"
+categories:
+- Earth's Organisms
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 tags:
 - parasitoids
 - parasites
 - predators
+<<<<<<< HEAD
 categories:
  - Earth's Organisms
 header:
@@ -17,6 +25,19 @@ teaser: What Simba didn’t know about the circle of life - parasitoids, predato
 source-id: 1vdGYsuj87CVHn4BHgFLZWdmUqjA3ePsdHKCtt7QSOQE
 published: true
 ---
+=======
+layout: page
+author: mdavis
+header:
+  image_fullwidth: 2016-08-22_mdavis_fig2_opac.jpg
+image:
+  thumb: 2016-08-22_mdavis_fig1.jpg
+teaser: What Simba didn’t know about the circle of life - parasitoids, predators and
+  parasites
+source-id: 1vdGYsuj87CVHn4BHgFLZWdmUqjA3ePsdHKCtt7QSOQE
+---
+
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 Do you ever wonder why the deer population in your town varies by year? Have you ever noticed that the number of rodents scurrying around spikes the year following a high yield of acorns? Seems confusing doesn't it, so why do these numbers change?
 
 The answer is simple. The natural world is maintained by a series of checks and balances. Predation, parasitoids, and parasites regulate populations and help maintain an ecosystem's balance. To better explain how populations are regulated, I will clarify the terms predator, parasitoid and parasite. Too often, these terms are used interchangeably, yet they have entirely different meanings.

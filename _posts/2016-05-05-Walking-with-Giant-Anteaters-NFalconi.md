@@ -1,5 +1,6 @@
 ---
 title: Walking With Giant Anteaters
+<<<<<<< HEAD
 layout: page
 author: nfalconi
 permalink: /2016-05-05-walking-with-giant-anteaters-nfalconi/
@@ -17,6 +18,26 @@ image:
 source-id: 172APXM_M23fruMxMs8ctXvM_ZIX63vG0X2Xrqo0GMto
 published: true
 ---
+=======
+date: 2016-05-05 00:00:00 Z
+permalink: "/2016-05-05-walking-with-giant-anteaters-nfalconi/"
+categories:
+- Earth's Organisms
+tags:
+- Amazon rainforest
+- Mammals
+- myrmecophagy
+layout: page
+author: nfalconi
+teaser: Do you know anteaters?
+header:
+  image_fullwidth: organisms-header.jpg
+image:
+  thumb: falconi-fig1.jpg
+source-id: 172APXM_M23fruMxMs8ctXvM_ZIX63vG0X2Xrqo0GMto
+---
+
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 Imagine yourself in the Amazon rainforest, walking on a trail, when suddenly you see something big moving in front of you. Even knowing most of the species of an area, your brain will spend some minutes processing the image in front of you… long fur, about two feet tall standing on "all fours."  But…. where is the head? You are then confronted with the bizarre sight of a conical head and a tiny pair of eyes. The animal has stopped in front of you, and by the looks of it, it seems that the creature is also having trouble figuring out what creature are you. Less than a second passes and it runs away. Was that a giant anteater? … YES!!! IT WAS A GIANT ANTEATER!!! You can imagine my excitement. 
 
 Maybe you haven't seen a giant anteater, or if you have, maybe you don’t know very much about them.  Giant anteaters occur only in South and Central America (from Honduras to Paraguay and Argentina) and are extremely elusive animals. They are known in scientific classification as *Myrmecophaga tricdactyla*, and are very sensitive to human disturbances of the places they live. For that reason they are they are more frequently found in pristine forests and tropical savannas. 

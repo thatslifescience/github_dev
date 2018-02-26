@@ -1,14 +1,22 @@
 ---
 title: DNA - Nature’s Hard Drive
+<<<<<<< HEAD
 layout: page
 author: gwriter
 permalink: /2017-01-16-DNA-Natures-Hard-Drive-ALoder/
+=======
+date: 2017-01-16 00:00:00 Z
+permalink: "/2017-01-16-DNA-Natures-Hard-Drive-ALoder/"
+categories:
+- How It Works
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 tags:
 - genomics
 - dna
 - data
 - genetics
 - cells
+<<<<<<< HEAD
 categories:
 - How It Works
 header:
@@ -20,6 +28,20 @@ subheadline: DNA as a solution for data storage
 source-id: 1dizJV4Ex_0nPRQ2QosYWd9naz-SdXA9YFIE0EjCE9kY
 published: true
 ---
+=======
+layout: page
+author: gwriter
+header:
+  image_fullwidth: howitworks-header.jpg
+image:
+  thumb: 2016-01-16-ALoderA.jpg
+teaser: In 60 short years we've discovered how to read, write, and edit DNA. Now could
+  it be the answer to our data storage problems?
+subheadline: DNA as a solution for data storage
+source-id: 1dizJV4Ex_0nPRQ2QosYWd9naz-SdXA9YFIE0EjCE9kY
+---
+
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 Post written by Guest Writer Anthony Loder
 
 <center><img src="../images/2016-01-16-ALoderA.jpg"></center><br>

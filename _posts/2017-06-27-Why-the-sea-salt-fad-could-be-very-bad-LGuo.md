@@ -64,3 +64,7 @@ With the many different and often contrasting dietary recommendations we hear th
 ## More From Thats Life [Science]
 {: .t60 }
 {% include list-posts offset="1" entries="5" category="How It Works" %}
+<<<<<<< HEAD
+=======
+
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342

@@ -1,13 +1,21 @@
 ---
 title: Estimating the Age of Life Long-Gone
+<<<<<<< HEAD
 layout: page
 author: dalcott
 permalink: /2016-12-12-estimating-the-age-of-life-long-gone-dalcott/
+=======
+date: 2016-12-12 00:00:00 Z
+permalink: "/2016-12-12-estimating-the-age-of-life-long-gone-dalcott/"
+categories:
+- How It Works
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 tags:
 - evolution
 - paleontology
 - geology
 - fossils
+<<<<<<< HEAD
 categories:
 - How It Works
 header:
@@ -19,6 +27,18 @@ subheadline: Mother Nature’s History Book
 
 source-id: 1FrNzNXm9KtbY5rFZIAjWc_5zBfDez-gVyoRLmOY1pDI
 published: true
+=======
+layout: page
+author: dalcott
+header:
+  image_fullwidth: howitworks-header.jpg
+image:
+  thumb: AlcottThumbnail_20161210.jpg
+teaser: T. rex lived 68 to 66 million years ago. How do scientists know the ages of
+  things that lived long before humans existed?
+subheadline: Mother Nature’s History Book
+source-id: 1FrNzNXm9KtbY5rFZIAjWc_5zBfDez-gVyoRLmOY1pDI
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 ---
 
 **Introduction**

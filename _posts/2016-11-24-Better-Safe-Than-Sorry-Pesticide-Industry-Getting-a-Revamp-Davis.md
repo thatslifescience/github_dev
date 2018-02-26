@@ -1,12 +1,21 @@
 ---
+<<<<<<< HEAD
 title: "Better Safe Than Sorry: The Pesticide Industry is Getting a Revamp"
 layout: page
 author: mdavis
 permalink: /2016-11-24-Better-Safe-Than-Sorry-Pesticide-Industry-Getting-a-Revamp-Davis/
+=======
+title: 'Better Safe Than Sorry: The Pesticide Industry is Getting a Revamp'
+date: 2016-11-24 00:00:00 Z
+permalink: "/2016-11-24-Better-Safe-Than-Sorry-Pesticide-Industry-Getting-a-Revamp-Davis/"
+categories:
+- How It Works
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 tags:
 - insect
 - invasive species
 - pesticides
+<<<<<<< HEAD
 categories:
 - How It Works
 header:
@@ -17,6 +26,19 @@ teaser: Did you know that some pesticides are not hazardous?  The industry is sh
 source-id: 1LIQMtdotNNfGH2xfyhb3HtlJgiQ_P5wGb_WEPj7yQDE
 published: true
 ---
+=======
+layout: page
+author: mdavis
+header:
+  image_fullwidth: howitworks-header.jpg
+image:
+  thumb: 2016-11-23-MDavis-Thumbnail.jpg
+teaser: Did you know that some pesticides are not hazardous?  The industry is shifting
+  towards safer formulations that mitigate non-target impacts.
+source-id: 1LIQMtdotNNfGH2xfyhb3HtlJgiQ_P5wGb_WEPj7yQDE
+---
+
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 Everyday we are constantly introduced to new forms of technology.  These changes span as far as improvements in the implementation, safety and creation of pesticides in a world where we know a lot more about the substances that are being used, and how they break down in the environment. You may be wondering why we even need pesticides.  Why are we killing insects when they have brains and hearts and maybe even feelings too?  Most of the time, insect-plant interactions remain in equilibrium.  Insects feed and plants grow with little change in community dynamics.  However, sometimes insect populations will outbreak and cause a lot of leaf loss or crop damage.  For example, when an exotic insect is introduced to a new region, it often establishes in high numbers, because [its population is not regulated by its native natural enemy (or a predator)](http://thatslifesci.com.s3-website-us-east-1.amazonaws.com/2016-08-25-The-Good-the-Bad-and-the-Ugly-Predators-Parasitoids-and-Parasites-MDavis/).  Pesticides are useful when a natural enemy is unknown and biological control, or the introduction of natural enemies of a pest into its introduced environment, is not yet feasible.  Pesticides are also an important tool in small scale insect management projects, such as preserving landscape trees or protecting a farmer's crops.  Biological control will not ensure the protection of a single tree since it is usually applied to a broader area.  By lowering pest densities with pesticides (small scale) or biological control (large scale), we can prevent insect outbreaks and the large economic and ecological costs that are associated with foliar and crop damage.  
 
 <img src ="http://www.fs.fed.us/foresthealth/technology/images/03-photo_spb_lg.jpg" />

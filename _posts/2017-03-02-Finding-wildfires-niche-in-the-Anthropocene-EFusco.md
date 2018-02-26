@@ -1,13 +1,21 @@
 ---
 title: Finding wildfire’s niche in the Anthropocene
+<<<<<<< HEAD
 layout: page
 author: efusco
 permalink: /2017-03-02-Finding-wildfires-niche-in-the-Anthropocene-EFusco/
+=======
+date: 2017-03-02 00:00:00 Z
+permalink: "/2017-03-02-Finding-wildfires-niche-in-the-Anthropocene-EFusco/"
+categories:
+- Our Ecosystems
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 tags:
 - ecology
 - wildfire
 - niche
 - human
+<<<<<<< HEAD
 categories:
 - Our Ecosystems
 header:
@@ -18,6 +26,18 @@ teaser: Are humans starting a new fiery relationship with nature in wetter clima
 source-id: 1bEmTTSIka-NEYRyndCgDlD3TKED9zB81I0Jh2DoP_TI
 published: true
 ---
+=======
+layout: page
+author: efusco
+header:
+  image_fullwidth: ecosystem-header.jpg
+image:
+  thumb: 2017-03-02_efusco_fig1.jpg
+teaser: Are humans starting a new fiery relationship with nature in wetter climates?
+source-id: 1bEmTTSIka-NEYRyndCgDlD3TKED9zB81I0Jh2DoP_TI
+---
+
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 Wildfire is an amazing force of nature. It can burn through thousands of acres of trees, forcing people and other animals to flee in its path (Figure 1). While fire is well known for its destructive power, it also has an amazing ability to bring new life. Fire releases nutrients back into the soil, and provides new habitat for plants and animals to thrive. In fact, [some plants and animals need fire to survive](https://www.fws.gov/southeastfire/what/ecology.html). But what does *fire* need to survive? What is fire's ecological niche and how has this changed since wildfire made its first appearance on Earth 420 million years ago?
 
 <div style="text-align:center"><img src ="https://upload.wikimedia.org/wikipedia/commons/d/d4/Deerfire_high_res.jpg"/></div>

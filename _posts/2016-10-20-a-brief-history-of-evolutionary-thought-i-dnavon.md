@@ -1,8 +1,16 @@
 ---
+<<<<<<< HEAD
 title: "A Brief History of Evolutionary Thought - Part I"
 layout: page
 author: dnavon
 permalink: /2016-10-20-a-brief-history-of-evolutionary-thought-i-dnavon/
+=======
+title: A Brief History of Evolutionary Thought - Part I
+date: 2016-10-20 00:00:00 Z
+permalink: "/2016-10-20-a-brief-history-of-evolutionary-thought-i-dnavon/"
+categories:
+- How It Works
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 tags:
 - evolution
 - theory
@@ -11,6 +19,7 @@ tags:
 - lamarck
 - mendel
 - genetics
+<<<<<<< HEAD
 categories:
 - How It Works
 header: 
@@ -21,6 +30,20 @@ image:
 source-id: 1-NNHjJTm2N4Is-qsYGF0EBURE4JsQ0PYsx-pBXOEAMc
 published: true
 ---
+=======
+layout: page
+author: dnavon
+header:
+  image_fullwidth: howitworks-header.jpg
+teaser: Evolutionary biology has come a long way since the Origin of Species was published
+  in 1859.  Today let’s discuss the history of evolutionary thinking, focusing on
+  the earliest, and often surprising, roots of the science.
+image:
+  thumb: fig4-dnavon.jpg
+source-id: 1-NNHjJTm2N4Is-qsYGF0EBURE4JsQ0PYsx-pBXOEAMc
+---
+
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 Today, I'll be taking us back to the beginning of life science, and discussing the evolution of, well, the way we think about evolution. All science has philosophy at its roots, and evolutionary biology is certainly no exception.  The field of biology can trace a path back to [Plato](http://www.iep.utm.edu/plato/) and [Aristotle](http://www.iep.utm.edu/aristotl/), who both subscribed to the essentialist view. Essentialism says that for any specific entity there is a set of attributes which are necessary to its identity.  For example, a chair has a set of attributes (legs, seat, back) that make it a chair rather than, say, a stool.  Any given species also has a set of identifying attributes, and an individual can be classified as a member of that species if it satisfies that list.
 
 ![image alt text]({{ site.url }}/public/gwvJQq0BURvZqWWC54kw_img_0.png)	

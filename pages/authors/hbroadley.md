@@ -13,7 +13,11 @@ gallery:
   caption: Hannah J. Broadley
 ---
 
+<<<<<<< HEAD
 ![Hannah J. Broadley]({{ site.url }}/images/broadley-01-01.jpg)
+=======
+![Hannah J. Broadley]({{ site.urlimg }}/broadley-01-01.jpg)
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 
 [Personal Website](https://gpls.cns.umass.edu/oeb/directory/hannah-j.-broadley)
 

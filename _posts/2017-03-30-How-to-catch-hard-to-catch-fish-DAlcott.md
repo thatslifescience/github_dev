@@ -27,6 +27,9 @@ Many of us are familiar with how to catch fish. You bait up a hook with somethin
 
 **Figure 2** – A beautiful, well preserved ancient Chinese heart-shaped pound net. Many years later, cutting-edge fisheries science still starts with the same concepts utilized by ancient peoples long ago. Source:[ Wikipedia Commons](https://commons.wikimedia.org/wiki/File:Fishpot.jpg)
 
+<<<<<<< HEAD
 ## More From Thats Life [Science]
 {: .t60 }
 {% include list-posts offset="1" entries="5" category="How It Works" %}
+=======
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342

@@ -1,13 +1,21 @@
 ---
 title: Marvel at Larval - An Appreciation for Young and Developing Fish
+<<<<<<< HEAD
 layout: page
 author: mdevine
 permalink: /2016-06-27-Marvel-At-Larval-MDevine/
+=======
+date: 2016-06-27 00:00:00 Z
+permalink: "/2016-06-27-Marvel-At-Larval-MDevine/"
+categories:
+- Our Ecosystems
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 tags:
 - survival
 - juvenile fish
 - larvae
 - fish ecology
+<<<<<<< HEAD
 categories:
  - Our Ecosystems
 header:
@@ -18,6 +26,18 @@ teaser: Below the surface, fish live fascinating and complex lives!
 source-id: 1rYrw9ggkXv9jrao5Bqi_bPeG7kC_4DoZSIo0GpdvqxM
 published: true
 ---
+=======
+layout: page
+author: mdevine
+header:
+  image_fullwidth: 2016-06-20_mdevine_head.jpg
+image:
+  thumb: 2016-06-20_mdevine_fig2.jpg
+teaser: Below the surface, fish live fascinating and complex lives!
+source-id: 1rYrw9ggkXv9jrao5Bqi_bPeG7kC_4DoZSIo0GpdvqxM
+---
+
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 If you've ever spent time in, around, or on the water, you likely appreciate its beauty, recognize its mysterious nature, and respect its importance as a resource. Maybe you enjoy SCUBA diving in vibrant reef habitat, snorkeling in a river, fishing from a rock jetty, or just turning over rocks in a stream. If so, then you’ve inevitably witnessed one of water’s most magical creatures: fish! 
 
 Fish are beautiful specimens, and I've been lucky enough to swim alongside them. They also can be tasty, and I’ve fried many a fresh caught brook trout over a fire while camping. Fish are frisky and quick and I constantly struggle to corral them in a net, attempt to restrain them on a measuring board, or demand a friend snap a picture as I desperately grasp at wiggling slime. We are fascinated with fish of all species, color, and behavior. But let us take a moment to appreciate size. Small size. 

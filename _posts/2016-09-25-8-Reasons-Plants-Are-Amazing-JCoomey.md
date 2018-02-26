@@ -1,5 +1,6 @@
 ---
 title: 8 Reasons Plants Are Amazing
+<<<<<<< HEAD
 layout: page
 author: jcoomey
 permalink: /2016-09-25-8-Reasons-Plants-Are-Amazing-JCoomey/
@@ -15,6 +16,25 @@ teaser: From chemotherapies to smelling like carrion, plants have an amazingly d
 source-id: 1bwLhi9Gg2scwN7fX3x42OR-DBL5NMcMtruG_9KML3Hs
 published: true
 ---
+=======
+date: 2016-09-25 00:00:00 Z
+permalink: "/2016-09-25-8-Reasons-Plants-Are-Amazing-JCoomey/"
+categories:
+- Earth's Organisms
+tags:
+- plants
+layout: page
+author: jcoomey
+header:
+  image_fullwidth: organisms-header.jpg
+image:
+  thumb: 2016-26-09-jcoomey-Fig5.jpg
+teaser: From chemotherapies to smelling like carrion, plants have an amazingly diverse
+  skillset. Here are 8 reasons to get excited about the plant kingdom.
+source-id: 1bwLhi9Gg2scwN7fX3x42OR-DBL5NMcMtruG_9KML3Hs
+---
+
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 The plant kingdom exhibits an amazingly diverse array of innovations that have allowed our photosynthesizing friends to thrive all around the world. Here's a quick look at some of the cool things plants can do!
 
 **1. Plants are natural pharmacologists**
@@ -49,7 +69,11 @@ Welwitschia are just youngsters compared to some Great Basin bristlecone pines *
 
 **4. Plants can smell like rotting meat**
 
+<<<<<<< HEAD
 Would a rose by any other name not smell as sweet? Well roses and many other flowers do have a smell we and many pollinators like bees find attractive, but not all flowers are so pleasant. In fact, some are quite revolting. The aptly named "corpse flower", or titan arum *([Amorphophallus titanum](https://en.wikipedia.org/wiki/Amorphophallus_titanum)*) smells like it sounds - like rotting meat. Many plants use this strategy to attract insect pollinators that would find decaying flesh attractive, such as flies and carrion beetles. In addition to it's notable fragrance, the titan arum also boasts the largest unbranched flower in the plant kingdom.
+=======
+Would a rose by any other name not smell as sweet? Well roses and many other flowers do have a smell we and many pollinators like bees find attractive, but not all flowers are so pleasant. In fact, some are quite revolting. The aptly named "corpse flower", or titan arum *([Amorphophallus titanum](https://en.wikipedia.org/wiki/Amorphophallus_titanum)*) smells like it sounds - like rotting meat. Many plants use this strategy to attract insect pollinators that would find decaying flesh attractive, such as flies and carrion beetles. In addition to it's notable fragrance, the titan arum also boasts the largest unbranched flower in the plant kingdom.  
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 
 ![image alt text]({{ site.url }}/images/2016-26-09-jcoomey-Fig5.jpg)
 
@@ -67,7 +91,11 @@ One of the downsides of being a plant is that it's hard to get away when things 
 
 Well, not exactly, but some of them sure can make a comeback from *looking* dead. A group of plant commonly referred to as "resurrection plants" can experience almost complete dryness and then rebound when watered again, sometimes even after weeks or months of drought. One such resurrection plant is the rose of Jericho *([Selanginella lepidophylla](https://en.wikipedia.org/wiki/Selaginella_lepidophylla))*, a native of the Chihuahuan Desert in the southern U.S. and northern Mexico. 
 
+<<<<<<< HEAD
 <img src="https://raw.githubusercontent.com/thatslifescience/thatslifesci/gh-pages/images/1.gif" alt="Dead Alive" style="width:450px;height:450px;">
+=======
+<img src="https://raw.githubusercontent.com/thatslifesci/thatslifesci/gh-pages/images/1.gif" alt="Dead Alive" style="width:450px;height:450px;">
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 
 ![image alt text]({{ site.url }}/images/2016-26-09-jcoomey-Fig6.jpg)
 
@@ -94,4 +122,8 @@ I like to breath, and I like to eat, so I'm a big fan of plants and all the amaz
 
 ## More From Thats Life [Science]
 {: .t60 }
+<<<<<<< HEAD
 {% include list-posts offset="21" entries="5" category="Earth's Organisms" %}
+=======
+{% include list-posts offset="1" category="Earth's Organisms" %}
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342

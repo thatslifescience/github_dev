@@ -57,6 +57,9 @@ Science Café is a fun way for us graduate students to share our love of science
 
 [2] Smith EK, O'Neill J, Gerson AR, & Wolf BO. 2015. "Avian thermoregulation in the heat: resting metabolism, evaporative cooling and heat tolerance in Sonoran Desert doves and quail." *The Journal of experimental biology*, 218 (Pt 22), 3636-46.
 
+<<<<<<< HEAD
 ## More From Thats Life [Science]
 {: .t60 }
 {% include list-posts offset="1" entries="5" category="Grad School Diaries" %}
+=======
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342

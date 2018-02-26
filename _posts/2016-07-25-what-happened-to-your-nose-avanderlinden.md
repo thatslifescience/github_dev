@@ -1,8 +1,15 @@
 ---
 title: What Happened to Your Nose?
+<<<<<<< HEAD
 layout: page
 author: avlinden
 permalink: /2016-07-25-what-happened-to-your-nose-avanderlinden/
+=======
+date: 2016-07-25 00:00:00 Z
+permalink: "/2016-07-25-what-happened-to-your-nose-avanderlinden/"
+categories:
+- Earth's Organisms
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 tags:
 - animals
 - faces
@@ -10,6 +17,7 @@ tags:
 - ecology
 - evolution
 - adaptation
+<<<<<<< HEAD
 categories:
  - Earth's Organisms
 header:
@@ -20,6 +28,18 @@ teaser: Fancy schnozzes have surprising functions across the mammal family tree.
 source-id: 1rZk0S3OMrUfw3RKLJ6FTbC5i9ckHfaB5D-4q25DIZXM
 published: true
 ---
+=======
+layout: page
+author: avlinden
+header:
+  image_fullwidth: 2016-26-07_avlinden_fig1_opac.jpg
+image:
+  thumb: 2016-26-07_avlinden_fig1.jpg
+teaser: Fancy schnozzes have surprising functions across the mammal family tree.
+source-id: 1rZk0S3OMrUfw3RKLJ6FTbC5i9ckHfaB5D-4q25DIZXM
+---
+
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 Elephants, kangaroos, mice, monkeys, beavers, whales, tigers, goats—all of these creatures are mammals. While their sizes and shapes are diverse, their faces are usually pretty standard: two eyes, two nostrils, a mouth, and two ears. The faces can be different colors and have varying amounts of hair, but the general pattern is conserved across mammals. Every now and then, though, evolution produces a real weirdo—in the best sense of the term. It turns out a bizarre facial appendage can have many uses when it comes to sensing and moving through the world. Here are some animals that don't care how strange you think they look because they are too busy being well adapted to their environments! 
 
 **Leaf-nosed bats:**

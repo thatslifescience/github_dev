@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: "Tuberculosis - A Romantic Disease?"
+=======
+title: "Tuberculosis: A Romantic Disease?"
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 layout: page
 author: emelzer
 permalink: /2017-11-13-a-romantic-disease-melzer/
@@ -9,7 +13,11 @@ tags:
 - pathogens
 - art
 categories:
+<<<<<<< HEAD
 - Earth's Organisms
+=======
+- Earth’s Organisms
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 header:
  image_fullwidth: organisms-header.jpg
 image:
@@ -49,4 +57,9 @@ References:
 
 ## More From Thats Life [Science]
 {: .t60 }
+<<<<<<< HEAD
 {% include list-posts offset="1" entries='5' category="Earth's Organisms" %}
+=======
+{% include list-posts offset="1" entries='5' category="Earth's Organisms" %}
+
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342

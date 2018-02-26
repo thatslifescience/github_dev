@@ -54,4 +54,7 @@ Note: Post thumbnail of a Australian peacock spider (*Maratus splendens*) was ta
 {: .t60 }
 {% include list-posts offset="1" entries="5" category="Earth's Organisms" %}
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342

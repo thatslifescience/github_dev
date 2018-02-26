@@ -13,7 +13,11 @@ gallery:
   caption: Amy V. H. Strauss
 ---
 
+<<<<<<< HEAD
 ![Amy V.H. Strauss]({{ site.url }}/thatslifesci/images/strauss-01-01.jpg)
+=======
+![Amy V.H. Strauss]({{ site.urlimg }}/strauss-01-01.jpg)
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 
 [Personal Website](http://gpls.cns.umass.edu/oeb/directory/amy-v.-h.-strauss)<br>
 [Twitter](https://twitter.com/avstrauss)
@@ -48,4 +52,7 @@ I’m thrilled to be writing and editing for the ‘That’s Life [Science]’ b
 </ul>
 {% endif %}
 {% endfor %}
+<<<<<<< HEAD
 
+=======
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342

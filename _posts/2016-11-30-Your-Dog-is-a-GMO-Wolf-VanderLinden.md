@@ -1,5 +1,6 @@
 ---
 title: Your Dog is a GMO Wolf
+<<<<<<< HEAD
 layout: page
 author: avlinden
 permalink: /2016-11-30-Your-Dog-is-a-GMO-Wolf-VanderLinden/
@@ -13,6 +14,21 @@ teaser: Call of the wild becomes call of the squeaky toy through artificial sele
 subheadline: Man’s Best Artificially-Selected Friend
 source-id: 127sWHzcrM07XRdTG4U5VN17T3UogmNmNt0MPjPnx2wA
 published: true
+=======
+date: 2016-11-30 00:00:00 Z
+permalink: "/2016-11-30-Your-Dog-is-a-GMO-Wolf-VanderLinden/"
+categories:
+- How It Works
+layout: page
+author: avlinden
+header:
+  image_fullwidth: howitworks-header.jpg
+image:
+  thumb: 2016-12-01_fig1_vanderlinder.jpg
+teaser: Call of the wild becomes call of the squeaky toy through artificial selection.
+subheadline: Man’s Best Artificially-Selected Friend
+source-id: 127sWHzcrM07XRdTG4U5VN17T3UogmNmNt0MPjPnx2wA
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 ---
 
 <div style="text-align:center"><img src ="https://upload.wikimedia.org/wikipedia/commons/1/17/Dog.in.sleep.jpg"></div>

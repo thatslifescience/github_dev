@@ -1,13 +1,21 @@
 ---
 title: Cryptic Species Hide in Plain Sight
+<<<<<<< HEAD
 layout: page
 author: hbroadley
 permalink: /2016-06-06-cryptic-species-hide-in-plain-sight-hbroadley/
+=======
+date: 2016-06-06 00:00:00 Z
+permalink: "/2016-06-06-cryptic-species-hide-in-plain-sight-hbroadley/"
+categories:
+- Earth's Organisms
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 tags:
 - dna
 - genetics
 - biodiversity
 - species
+<<<<<<< HEAD
 categories:
  - Earth's Organisms
 header:
@@ -19,6 +27,23 @@ subheadline: Some species hide in plain sight, but scientists have ways to suss 
 source-id: 1kLZsj_K_XKa-2EzKMANFh3hDeDldqXoCAUimNsqh7rM
 published: true
 ---
+=======
+layout: page
+author: hbroadley
+header:
+  image_fullwidth: broadley_06062016_fig1.jpg
+image:
+  thumb: broadley_06062016_fig2.jpg
+teaser: The advent of affordable DNA sequencing has put molecular techniques at the
+  forefront of species discovery.  For the sake of biodiversity, ecological conservation,
+  public health, and pest management, let’s hope that “new age of [species] discovery”
+  has only just begun.
+subheadline: Some species hide in plain sight, but scientists have ways to suss them
+  out
+source-id: 1kLZsj_K_XKa-2EzKMANFh3hDeDldqXoCAUimNsqh7rM
+---
+
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 **_Discovering New Species_**
 
 In the last decade, there has been a lot of talk about the 'new age of (species) discovery.' While biodiversity is threatened by habitat loss, pollution, and climate change, amazingly we are discovering and naming new species at a faster rate than any other time since the mid-1700s [1]. This includes the discovery of the kipunji, a new monkey in southwestern Tanzania [2], *A. johnnycashi*, the newly classified southwestern U.S. tarantula named after Johnny Cash [3], and a completely new family of passerine birds (perching or songbirds) represented by the charmingly small spotted wren-babbler from China [4] (Fig. 1). 

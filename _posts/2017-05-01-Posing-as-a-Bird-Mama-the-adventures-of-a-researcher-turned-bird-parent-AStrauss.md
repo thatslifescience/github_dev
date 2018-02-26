@@ -2,7 +2,11 @@
 title: "Posing as a Bird Mama: the adventures of a researcher-turned-bird-parent"
 layout: page
 author: astrauss
+<<<<<<< HEAD
 permalink: /2017-05-01-Posing-as-a-Bird-Mama-the-adventures-of-a-researcher-turned-bird-parent-AStrauss/
+=======
+permalink: /2017-05-01-Posing-as-a-Bird-Mama-the-adventures-of-a-researcher-turned-bird-parent-AStrauss.md/
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 tags:
 - birds
 - parenting
@@ -37,4 +41,7 @@ So I put on my bird mama hat and, along with my advisor and a team of incredibly
 ## More From Thats Life [Science]
 {: .t60 }
 {% include list-posts offset="1" entries="5" category="Earth's Organisms" %}
+<<<<<<< HEAD
 
+=======
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342

@@ -1,13 +1,21 @@
 ---
 title: No Teeth, Long Tongue, No Problem - Adaptations for Ant-eating
+<<<<<<< HEAD
 layout: page
 author: avlinden
 permalink: /2016-09-05-Adaptations-for-Ant-Eating-AVanderLinden/
+=======
+date: 2016-09-05 00:00:00 Z
+permalink: "/2016-09-05-Adaptations-for-Ant-Eating-AVanderLinden/"
+categories:
+- Earth's Organisms
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 tags:
 - mammals
 - convergent evolution
 - adaptation
 - insects
+<<<<<<< HEAD
 categories:
  - Earth's Organisms
 header:
@@ -18,6 +26,18 @@ teaser: A strict ant diet plus convergent evolution leads to cool adaptations.
 source-id: 1qeHxrlEp0nvobeQ10RB68fAWDCFgK57YBvd0gR0I6Ns
 published: true
 ---
+=======
+layout: page
+author: avlinden
+header:
+  image_fullwidth: organisms-header.jpg
+image:
+  thumb: 2016-08-31_avanderlinden_fig3.jpg
+teaser: A strict ant diet plus convergent evolution leads to cool adaptations.
+source-id: 1qeHxrlEp0nvobeQ10RB68fAWDCFgK57YBvd0gR0I6Ns
+---
+
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 When different organisms have a similar trait, one possible explanation is that they inherited the trait from a shared ancestor.  For example, cats and lizards both have four limbs because the last common ancestor of cats and lizards had four limbs. However, some traits arise by convergent evolution, meaning that a similar trait evolved independently in two groups whose last common ancestor did not share that trait. An example of this is flight in birds and bats—it's been over 300 million years since the reptile lineage leading to birds split from the mammal branch leading to bats, and that ancient, heavy-set lizard-ish ancestor definitely didn’t fly. Therefore, bird and bat wings are the result of convergent evolution, meaning each group has evolved wings independently.
 
  

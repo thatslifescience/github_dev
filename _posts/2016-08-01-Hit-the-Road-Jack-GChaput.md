@@ -1,14 +1,22 @@
 ---
 title: Hit the Road Jack
+<<<<<<< HEAD
 layout: page
 author: gchaput
 permalink: /2016-08-01-Hit-the-Road-Jack-GChaput/
+=======
+date: 2016-08-01 00:00:00 Z
+permalink: "/2016-08-01-Hit-the-Road-Jack-GChaput/"
+categories:
+- Earth's Organisms
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 tags:
 - microbial ecology
 - motility
 - bacteria
 - fungi
 - chemotaxis
+<<<<<<< HEAD
 categories:
  - Earth's Organisms
 header:
@@ -17,6 +25,16 @@ image:
  thumb: 2016-08-01_gchaput_fig1.jpg
 teaser: Picture swimming in a pool of honey. Not the easiest of tasks right? This is how microbes feel moving through water!
 published: true
+=======
+layout: page
+author: gchaput
+header:
+  image_fullwidth: 2016-08-01_gchaput_fig1_opac.jpg
+image:
+  thumb: 2016-08-01_gchaput_fig1.jpg
+teaser: Picture swimming in a pool of honey. Not the easiest of tasks right? This
+  is how microbes feel moving through water!
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 ---
 
 ![image alt text]({{ site.url }}/images/2016-08-01_gchaput_fig1.jpg)

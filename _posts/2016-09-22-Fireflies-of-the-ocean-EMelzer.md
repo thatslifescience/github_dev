@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: "Fireflies of the Ocean: Lighting up the Dark with Science"
 layout: page
 author: emelzer
@@ -24,6 +25,39 @@ subheadline:  Bioluminescence truly looks like it is nothing short of sorcery, a
 source-id: 18ich0zYC-EuaWKxe7u33LIWh_tMNvEmWTZr_twOmizQ
 published: true
 ---
+=======
+title: 'Fireflies of the Ocean: Lighting up the Dark with Science'
+date: 2016-09-22 00:00:00 Z
+permalink: "/2016-09-22-Fireflies-of-the-ocean-EMelzer/"
+categories:
+- How It Works
+tags:
+- marine
+- bioluminescence
+- ocean
+- bacteria
+- microbiology
+- luminescence
+- photons
+- fireflies
+- magic
+layout: page
+author: emelzer
+header:
+  image_fullwidth: howitworks-header.jpg
+image:
+  thumb: 2016-09-22_emelzer_fig1.jpg
+teaser: 'If you’re perfectly happy thinking of bioluminescence as the result of sheer
+  magic, do not read this post. If you’d like to understand the biological mechanism
+  behind it, however, this post is for you. Spoiler alert: it’s not magic (and the
+  tooth fairy isn’t real either…)'
+subheadline: Bioluminescence truly looks like it is nothing short of sorcery, and
+  although this naturally occurring phenomenon is well studied and explained, that
+  does not take away from its beauty.
+source-id: 18ich0zYC-EuaWKxe7u33LIWh_tMNvEmWTZr_twOmizQ
+---
+
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 ![image alt txt](https://c6.staticflickr.com/8/7411/9741311509_06539f1407_b.jpg)
 
 **Fig. 1** Bioluminescent plankton along a beach in the Maldives (Source: [Flickr](https://www.flickr.com/photos/millzero/9741311509))

@@ -13,7 +13,11 @@ gallery:
   caption: Kit Straley
 ---
 
+<<<<<<< HEAD
 ![Kit Straley]({{ site.url }}/images/straley-01.jpg)
+=======
+![Kit Straley]({{ site.urlimg }}/straley-01.jpg)
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 
 [Personal Website](http://www.kstraleyeco.wordpress.com )
 

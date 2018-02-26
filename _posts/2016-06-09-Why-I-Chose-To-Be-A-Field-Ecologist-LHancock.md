@@ -1,14 +1,22 @@
 ---
 title: Why I chose to be a field ecologist
+<<<<<<< HEAD
 layout: page
 author: lhancock
 permalink: /2016-06-09-Why-I-Chose-To-Be-A-Field-Ecologist-LHancock/
+=======
+date: 2016-06-09 00:00:00 Z
+permalink: "/2016-06-09-Why-I-Chose-To-Be-A-Field-Ecologist-LHancock/"
+categories:
+- Grad School Diaries
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 tags:
 - outside
 - research
 - field work
 - dirt
 - ecology
+<<<<<<< HEAD
 categories:
  - Grad School Diaries
 header:
@@ -20,6 +28,19 @@ subheadline: Why I care about ecology and you should, too!
 source-id: 1tCH5GZ645CelXJWPJdUIdAfTDwps-zcxiIkFq1r3PrI
 published: true
 ---
+=======
+layout: page
+author: lhancock
+header:
+  image_fullwidth: 2016-06-09_lhancock_fig1.jpg
+image:
+  thumb: 2016-06-09_lhancock_fig4.jpg
+teaser: Think everyone who works outside likes dirt? Think again!
+subheadline: Why I care about ecology and you should, too!
+source-id: 1tCH5GZ645CelXJWPJdUIdAfTDwps-zcxiIkFq1r3PrI
+---
+
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 Growing up, I loved plants and animals, but hated being outside. I didn't like getting dirty or wet. I hated being too cold or too hot, and didn’t like being in the sun (even now I prefer to look like a vampire than be in the sun getting tan). I was way more into staying inside and reading mystery novels or watching "Lizzie McGuire" on the Disney Channel. Right about now, you might be wondering how I ended up as a field ecologist then. Isn’t being out in the sun, rain, and dirt sort of required for that line of work?  
 
 First off, some of you might want to know what ecology really is. Ecology is the branch of biology that studies the interactions of organisms to each other and their environment, which is basically just a fancy way of saying that we're interested in how plants, animals, and the environment affect each other.

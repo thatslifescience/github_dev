@@ -1,8 +1,15 @@
 ---
 title: The Bizarre Shopping List of a Determined Scientist
+<<<<<<< HEAD
 layout: page
 author: astrauss
 permalink: /2016-11-17-The-Bizarre-Shopping-List-of-a-Determined-Scientist-AStrauss/
+=======
+date: 2016-11-17 00:00:00 Z
+permalink: "/2016-11-17-The-Bizarre-Shopping-List-of-a-Determined-Scientist-AStrauss/"
+categories:
+- How It Works
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 tags:
 - equipment
 - supplies
@@ -10,6 +17,7 @@ tags:
 - non-traditional
 - creativity
 - science hacks
+<<<<<<< HEAD
 categories:
 - How It Works
 header:
@@ -21,6 +29,23 @@ subheadline: Sometimes scientists have to get creative in order to effectively d
 source-id: 1KinodXRUNKOoFghbM2h6a6XvNifPBHgF7-d6wy3F-uY
 published: true
 ---
+=======
+layout: page
+author: astrauss
+header:
+  image_fullwidth: howitworks-header.jpg
+image:
+  thumb: 2016-11-17-AStraussC.jpg
+teaser: Why would a scientist need a selfie stick? What use is a bunch of scrap chicken
+  bones from the butcher shop? Science isn’t only accomplished with high-tech equipment
+  -- read below to find out how everyday items are used by scientists in non-traditional
+  ways!
+subheadline: Sometimes scientists have to get creative in order to effectively do
+  science – especially on a budget.
+source-id: 1KinodXRUNKOoFghbM2h6a6XvNifPBHgF7-d6wy3F-uY
+---
+
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 1) Scrap chicken bones [Butcher Shop]
 
   * Traditional Use: making delicious chicken stock for homemade broth or gravy

@@ -13,7 +13,11 @@ gallery:
   caption: Dina Navon
 ---
 
+<<<<<<< HEAD
 ![Dina Navon]({{ site.url }}/images/navon-01-01.jpg)
+=======
+![Dina Navon]({{ site.urlimg }}/navon-01-01.jpg)
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 
 Research Area: Evolutionary development
 

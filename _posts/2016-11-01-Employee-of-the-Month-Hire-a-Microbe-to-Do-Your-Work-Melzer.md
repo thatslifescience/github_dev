@@ -1,8 +1,15 @@
 ---
 title: Employee of the Month - Hire a Microbe to Do Your Work
+<<<<<<< HEAD
 layout: page
 author: emelzer
 permalink: /2016-11-01-Employee-of-the-Month-Hire-a-Microbe-to-Do-Your-Work-Melzer/
+=======
+date: 2016-11-01 00:00:00 Z
+permalink: "/2016-11-01-Employee-of-the-Month-Hire-a-Microbe-to-Do-Your-Work-Melzer/"
+categories:
+- How It Works
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 tags:
 - bacteria
 - yeast
@@ -12,6 +19,7 @@ tags:
 - microbes
 - genetic engineering
 - bioreactors
+<<<<<<< HEAD
 categories:
 - How It Works
 header:
@@ -22,6 +30,18 @@ teaser: Thought that microbes were only important for our health and making food
 subheadline: Our teeny tiny friends and their huge potential
 source-id: 1vyzge4shaQ916qXlKRebIwfenrNhUAyz061nQvLLGnA
 published: true
+=======
+layout: page
+author: emelzer
+header:
+  image_fullwidth: howitworks-header.jpg
+image:
+  thumb: Bioreactor.jpg
+teaser: Thought that microbes were only important for our health and making food for
+  us? Turns out these little factories still have a lot more to offer.
+subheadline: Our teeny tiny friends and their huge potential
+source-id: 1vyzge4shaQ916qXlKRebIwfenrNhUAyz061nQvLLGnA
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 ---
 
 We have learned that microbes can be beneficial to us when they are part of a [healthy gastrointestinal microbiome](http://thatslifesci.com.s3-website-us-east-1.amazonaws.com/2016-07-04-The-wonders-of-fecal-transplants-EMelzer/) or when they help [make cheese](http://thatslifesci.com.s3-website-us-east-1.amazonaws.com/2016-06-20-The-Unseen-World-On-Cheese-LAlteio/). We also know that they can [cause disease](http://thatslifesci.com.s3-website-us-east-1.amazonaws.com/2016-06-23-the-evolution-of-virulence-SHa/) in a variety of ways. But what about less known roles that microbes play when they do our dirty work for us or act as our custom made factories? Humans use microbes to do many different jobs – some jobs can be carried out thanks to natural abilities, while other jobs require genetic engineering of microbes so that they can serve a particular purpose. Either way, as technology progresses and humans face more challenges, we get more creative with what we can get our little friends to do for us. 

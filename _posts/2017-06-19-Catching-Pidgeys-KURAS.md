@@ -1,7 +1,11 @@
 ---
 title: "Part 2: Does catching Pidgeys help you notice Pigeons? Interviews with Pokémon Go Researchers"
 layout: page
+<<<<<<< HEAD
 author: ekuras
+=======
+author: EKURAS
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 permalink: /2017-06-19-Catching-Pidgeys-KURAS/
 tags:
 - biodiversity

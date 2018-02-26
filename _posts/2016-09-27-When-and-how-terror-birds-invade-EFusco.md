@@ -1,12 +1,20 @@
 ---
 title: When, and how, terror birds invade
+<<<<<<< HEAD
 layout: page
 author: efusco
 permalink: /2016-09-27-When-and-how-terror-birds-invade-EFusco/
+=======
+date: 2016-09-27 00:00:00 Z
+permalink: "/2016-09-27-When-and-how-terror-birds-invade-EFusco/"
+categories:
+- Earth's Organisms
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 tags:
 - bird
 - prehistoric
 - great american biotic interchange
+<<<<<<< HEAD
 categories:
 - Earth's Organisms
 header:
@@ -22,6 +30,23 @@ The terror bird (*Titanus walleri*) invaded Texas from South America, marking it
 <div style="text-align:center"><img src ="https://raw.githubusercontent.com/thatslifescience/thatslifesci/gh-pages/images/2016-29-09_efusco_fig1.jpg" /></div>
 
 **Fig. 1** A terrifying image of a terror bird. [Nobu Tamura](Spinops.blogspot.com)) 
+=======
+layout: page
+author: efusco
+header:
+  image_fullwidth: organisms-header.jpg
+image:
+  thumb: 2016-29-09_efusco_fig1.jpg
+teaser: When the Earth changes, it can bring unexpected visitors.
+source-id: 19iQdvgEcH9n8brUxGMPQGH1GTyG4VEQnD26fI4iiXkU
+---
+
+The terror bird (*Titanus walleri*) invaded Texas from South America, marking its first recorded appearance in North America (Fig.1). These giant, carnivorous, flightless birds were often over 6 feet tall, and weighed over 300 pounds [1]. The intrusion would have been a pretty horrific surprise for any person living in the area, but luckily, it happened about 5 million years ago, long before humans inhabited Texas (or humans and the state of Texas even existed). Though terror birds have long since gone extinct, they were one of the first animals to make the unprecedented journey from South America to North America. 
+
+<div style="text-align:center"><img src ="https://raw.githubusercontent.com/thatslifesci/thatslifesci/gh-pages/images/2016-29-09_efusco_fig1.jpg" /></div>
+
+**Fig. 1** A terrifying image of a terror bird. (Nobu Tamura (Spinops.blogspot.com)) 
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 
 But what made the terror birds' journey so unconventional? 
 
@@ -56,4 +81,8 @@ These species exchanges continued to happen for millions of years with the last 
 
 ## More From Thats Life [Science]
 {: .t60 }
+<<<<<<< HEAD
 {% include list-posts offset="11" entries="5" category="Earth's Organisms" %}
+=======
+{% include list-posts offset="1" category="Earth's Organisms" %}
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342

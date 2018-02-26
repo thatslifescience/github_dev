@@ -1,8 +1,15 @@
 ---
 title: A Brief History of Evolutionary Thought, part II
+<<<<<<< HEAD
 layout: page
 author: dnavon
 permalink: /2017-01-23-A-Brief-History-of-Evolutionary-Thought-2-DNavon/
+=======
+date: 2017-01-23 00:00:00 Z
+permalink: "/2017-01-23-A-Brief-History-of-Evolutionary-Thought-2-DNavon/"
+categories:
+- How It Works
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 tags:
 - evolution
 - theory
@@ -11,6 +18,7 @@ tags:
 - lamarck
 - mendel
 - genetics
+<<<<<<< HEAD
 categories:
 - How It Works
 header:
@@ -20,6 +28,18 @@ image:
 teaser: Evolutionary biology has come a long way since the Origin of Species was published in 1859. Today we look at how the Modern Synthesis reconciled genetics and natural selection
 source-id: 12kao-4AZ8VQCGkxltoIsGUEXNI2v0xvxdbPo9EEE7FQ
 published: true
+=======
+layout: page
+author: dnavon
+header:
+  image_fullwidth: howitworks-header.jpg
+image:
+  thumb: 20170122_DNavon_thumb.jpg
+teaser: Evolutionary biology has come a long way since the Origin of Species was published
+  in 1859. Today we look at how the Modern Synthesis reconciled genetics and natural
+  selection
+source-id: 12kao-4AZ8VQCGkxltoIsGUEXNI2v0xvxdbPo9EEE7FQ
+>>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
 ---
 
 In [my recent post](http://thatslifesci.com.s3-website-us-east-1.amazonaws.com/2016-10-20-a-brief-history-of-evolutionary-thought-i-dnavon/), I discussed the origins of evolutionary thought, reaching as far back as the philosophers Plato and Aristotle.  I ended by talking briefly about Mendel's work on heredity, which went largely unnoticed in the late 19th century.  It was rediscovered by a group of biologists in the early 1900s who came to realize that Mendel’s research provided the mechanism for inheritance that was notably lacking in Darwin’s theory of evolution via natural selection. If they could verify Mendel’s observations, reconcile them with Darwin’s theory, and isolate the molecule(s) responsible for the patterns he described, they could potentially spark a revolution in the biological field.  Piece of cake, right?  And yet, by the late 1900s, these three goals would be fulfilled by the body of work known collectively as the Modern Synthesis of biology. 
