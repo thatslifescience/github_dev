@@ -1,0 +1,93 @@
+/* TEAM */
+
+Name: Lian Guo
+Twitter: @
+
+Name: Derrick Alcott
+
+Name: Nereyda Falconi
+
+Name: Matt Devine
+
+Name: Evan Kuras
+
+Name: Monica Davis
+
+Name: Lucas Griffin
+
+Name: Alam Garcia-Heredia
+
+Name: Sid Advani
+
+Name: Stephanie Delzell
+
+Name: Stephanie Ha
+
+Name: Gina Chaput
+
+Name: Emily Melzer
+
+Name: Dan Vahaba
+
+Name: Ajay Kumar
+
+Name: Lauren Alteio
+
+Name: Hannah Broadley
+
+Name: Emily Fusco
+
+Name: Dina Navon
+
+Name: Grace Pold
+
+Name: Ciaran Shaughnessy
+
+Name: Kit Straley
+
+Name: Amy Strauss
+
+Name: Abby Vander Linden
+
+Name: Laura Hancock
+
+Name: Aaron Grade
+
+Name: Elisha Allan-Perkins
+
+Name: Josh Coomey
+
+Name: Trisha Zintel
+
+Name: Maggie Bruce
+
+Name: Amanda Krentzel
+
+Name: Aleksey Morozov
+
+Name: Luis Aguirre
+
+Name: Matias Andina
+
+Name: Luisa Galindo
+
+Name: Joseph Drake
+
+Name: Guest Writer
+
+
+/* THANKS */
+
+Name: Moritz »mo.« Sauer
+Role: Creator of the Theme
+Site: http://mo.phlow.de/
+Twitter: @phlow
+Theme: http://phlow.github.io/feeling-responsive/
+
+
+/* SITE */
+
+Last Updated: 2018/02/26
+Standards: HTML5, CSS3
+Software: Sublime Text, Chrome, Jekyll, Git, Imageoptim, JPEGMini, Gulp.js, Sass
+Components: Foundation Framework, Modernizr, jQuery, Backstretch.js, Reveal

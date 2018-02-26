@@ -1,0 +1,51 @@
+---
+title: "Got Lactase? Breaking Down the Enzyme"
+layout: page
+author: lalteio
+permalink: /2017-11-27-Got-Lactase-Breaking-Down-the-Enzyme-LAlteio/
+tags:
+- evolution
+- human
+- lactose intolerance
+categories:
+- How It Works
+header:
+ image_fullwidth: howitworks-header.jpg
+image:
+ thumb: 2017-11-25-LAlteioA.jpg
+teaser: We've been told that dairy is a miracle food for good health and strong bones, but most of the human population can't even digest it.
+source-id: 14tdRKhrpb-hwXyIJKcuw5SUbW8AvCVL0pCLgm5Sb9G8
+published: true
+---
+
+Nothing is better than a sweet ice cream treat with a good group of friends or family. All those times you've had ice cream cake at birthdays, or relaxed on a summer afternoon with a cone of rocky road bring back good memories. It’s no wonder that after a long, hard day of work you and a group of friends decide to go out for ice cream. But wait! One of those friends is lactose intolerant! Besides there being tons of excellent non-dairy ice cream alternatives nowadays, your friend's condition is actually very common. 
+
+<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/136882531@N02/24773532208/in/dateposted-public/" title="2017-11-25-LAlteioA"><img src="https://farm5.staticflickr.com/4559/24773532208_b214849504_z.jpg" width="640" height="426" alt="2017-11-25-LAlteioA"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center><br>
+**Fig 1.** Ice cream! It's widely consumed and loved by many, but most of the world's population can't digest the lactose sugar contained within milk. Source: [Pixabay](https://pixabay.com/en/ice-cream-sundae-ice-dessert-761415/)
+
+At first, you might think that your friend has made up their lactose intolerance – *everyone* eats dairy after all. We've been told from an early age to drink our milk for strong bones, were fed macaroni and cheese as comfort food, and ate plenty of ice cream on simmering summer afternoons. However, about 65% of the world's adult population can't digest milk products [1]. This majority may suffer the unfortunate consequences of abdominal cramping, bloating, and diarrhea when they consume dairy in its many forms [1]. 
+
+Lactose is the sugar contained within milk, which is broken down into smaller sugars called glucose and galactose in your intestines by the enzyme, lactase. This enzyme is coded for by the lactase gene, known as *LCT*. After weaning off of your mother's milk, most people begin to experience a reduced ability to digest dairy. This is the typical onset of lactose intolerance where the *LCT* gene seems to switch "OFF". In lactose intolerant people, the lactose they consume is not broken down in their intestines, but instead travels to their colon where microorganisms that break down lactose live. These microbes produce hydrogen and methane as a result of lactose breakdown, resulting in that uncomfortable gas, bloating, and cramping that many associate with lactose intolerance [2]. Those that can still digest lactose into adulthood are said to have lactase persistence.
+
+Humans have a long history with our domesticated animal counterparts that stretches back about 10,500 years [3]. If we dig deeper into the statistics about lactose intolerance, there seem to be clear geographic patterns. The lack of lactose intolerance, or lactase persistence, ranges across the globe with between 5% and 96% of the population maintaining the ability to digest lactose into adulthood [3]. The highest level of lactase persistence is found in northern Europe, and is also common in northern India [4]. In contrast, the highest levels of lactose intolerance are found in eastern Asia, as well as in Native Americans, parts of Africa and the Middle East [3,4]. There are numerous genes that evolved that allow humans to digest lactose, including *MCM6*, *−13910T*, and *−14010C*, all of which act as switches that keep the lactase gene "ON" [2]. Because there are multiple genes that evolved to control lactase production, this is known as convergent evolution. This means that different genes that result in the same outcome (in this case lactase persistence) arose in multiple populations across different geographic locations [3]. 
+
+<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/136882531@N02/37928518694/in/dateposted-public/" title="2017-11-27-LAlteioB"><img src="https://farm5.staticflickr.com/4544/37928518694_17e8fccd75.jpg" width="500" height="345" alt="2017-11-27-LAlteioB"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center><br>
+**Fig 2.** Approximately 65% of the world's population are lactose intolerant [1]. This graphic shows how the prevalence of lactose intolerance varies over geographic regions. Source: [Wikipedia](https://commons.wikimedia.org/wiki/File:Worldwide_prevalence_of_lactose_intolerance_in_recent_populations.jpg )
+
+What could be at the root of these distinct patterns? Scientists have a few ideas as to how lactase persistence could have evolved in certain groups of people. Some explanations for why lactase persistence evolved are that milk provided a health advantage to those that were able to consume it without facing the uncomfortable and potentially deadly side-effects, especially in times when food was scarce [2]. Additionally, clean water was hard to come by, and was often contaminated with pathogens that made people sick. Milk could have provided a way to stay hydrated and nourished without getting an intestinal infection or parasite [2]. One of the most widely accepted explanations for the evolution of lactase persistence is called gene-culture co-evolution. Under this explanation, the increase in milking of domestic cows resulted in an increase in lactase persistence genes in the population over time. Because milk was widely available in these cultures, people who were able to digest milk were able to pass on the genes for lactase persistence. Over time these genes became more common in the population [3]. Although there are other hypotheses for the evolution of lactase persistence, this hypothesis is supported by archaeological evidence and ancient DNA [2]. 
+
+So now that you understand your friend's condition a little better, you might realize that they are part of a global majority that can't digest dairy. What you might not know is that you could also be lactose intolerant, but just not face the negative side-effects. The difference between you and your friend might come down to the composition of your gut bacteria, where your gut microbes might more efficiently break down lactose than other people [2,3].  Today, we have numerous tests to determine if someone is lactose intolerant [1].  So you may want to join your friend in consuming some non-dairy frozen treats. 
+
+**References:**
+
+[1] NIH Home Genetics Reference: Lactose Intolerance. (2017). [https://ghr.nlm.nih.gov/condition/lactose-intolerance#diagnosis](https://ghr.nlm.nih.gov/condition/lactose-intolerance#diagnosis). 
+
+[2] Gerbault, P., Lieber, A., Itan, Y., Powell, A., Currat, M., Burger, J., Swallow, D.M, and Thomas, M.G. (2011). Evolution of Lactase Persistence: An Example of Human Niche Construction. *Philosophical Transactions of the Royal Society B Biological Sciences.**[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3048992*/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3048992/)*. *
+
+[3] Seguerel, L. and Bon, C. (2017). On the Evolution of Lactase Presistence in Humans. Annual Reviews in Genomics and Human Genetics. [http://www.annualreviews.org/doi/pdf/10.1146/annurev-genom-091416-035340](http://www.annualreviews.org/doi/pdf/10.1146/annurev-genom-091416-035340). 
+
+[4] Leonardi, M., Gerbault., P., Thomas, M.G., and Burger, J. (2012). The Evolution of Lactase Persistence in Europe. A Synthesis of Archeological and Genetic Evidence. *International Dairy Journal. **[file:///home/lauren/Downloads/Leonardi_IDJ12_Lactase_Final.pd*f](file:///export/hda3/borglet/local_ram_fs_dirs/2.prod.changeling-worker-libreoffice.apps-docs-changeling-worker-libreoffice.65739226845.549eedb1e9d07f8c/ramdisk/Downloads/Leonardi_IDJ12_Lactase_Final.pdf)*. *
+
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries="5" category="How It Works" %}

@@ -1,0 +1,52 @@
+#
+#   Navigation to the left › side: left
+#
+- title: Home
+  icon: home
+  url: "/"
+  side: left
+
+- title: "Categories"
+  url: "/categories/"
+  side: left
+  dropdown:
+  - title: "How It Works"
+    url: "/categories/How It Works/"
+  - title: "Grad School Diaries"
+    url: "/categories/Grad School Diaries/"
+  - title: "Our Ecosystems"
+    url: "/categories/Our Ecosystems/"
+  - title: "Earth's Organisms"
+    url: "/categories/Earth's Organisms/"
+    
+- title: "Contributors"
+  url: "/authors/"
+  side: left  
+  
+- title: "About"
+  icon: v-card
+  url: "/info/"
+  side: left
+  
+- title: "Archive"
+  url: "/blog/archive/"
+  side: left
+
+#
+#   Navigation to the right › side: right
+#
+- title: "Contest"
+  url: "/2018-02-06-TLS-Writing-Contest-Post/"
+  side: right
+
+- title: "Submit A Post"
+  url: "/submit/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
+
+- title: "Search"
+  url: "/search/"
+  side: right

@@ -1,0 +1,162 @@
+# Author details
+#
+# 1. Edit information below
+# 2. Change site author in config.yml
+# 3. Change default post/page authors in config.yml
+#
+# Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
+lguo: # replace this with your info
+  name: "Lian Guo"
+  siterole: "PhD Student in Organismic & Evolutionary Biology"
+  uri: 
+  email:
+  twitter: "@"
+
+dalcott:
+  name: Derrick Alcott
+  siterole: "PhD Student in Organismic & Evolutionary Biology"
+  
+nfalconi:
+  name: "Nereyda Falconi"
+  siterole: "PhD Student in Department of Environmental Conservation"
+  
+mdevine:
+  name: "Matt Devine"
+  siterole: "MS Student in Environmental Conservation"
+  
+ekuras:
+  name: "Evan Kuras"
+  siterole: "MS Student in Environmental Conservation"
+  
+mdavis:
+  name: "Monica Davis"
+  siterole: "PhD Student in Environmental Conservation"
+  
+lgriffin:
+  name: "Lucas Griffin"
+  siterole: "PhD Student in Environmental Conservation"
+  
+agheredia:
+  name: "Alam Garcia-Heredia"
+  siterole: "PhD Student in Molecular & Cellular Biology"
+  
+sadvani:
+  name: "Sid Advani"
+  siterole: "PhD Student in Molecular & Cellular Biology & Physics"
+  
+sdelzell:
+  name: "Stephanie Delzell"
+  siterole: "PhD Student in Microbiology"
+  
+sha:
+  name: "Stephanie Ha"
+  siterole: "PhD Student in Microbiology"
+  
+gchaput:
+  name: "Gina Chaput"
+  siterole: "PhD Student in Microbiology"
+  
+emelzer:
+  name: "Emily Melzer"
+  siterole: "PhD Student in Microbiology"
+  
+dvahaba:
+  name: "Dan Vahaba"
+  siterole: "PhD Student in Neuroscience & Behavior"
+  
+akumar:
+  name: "Ajay Kumar"
+  siterole: "PhD Student in Neuroscience & Behavior"
+  
+lalteio:
+  name: "Lauren Alteio"
+  siterole: "PhD Student in Organismic & Evolutionary Biology"
+  
+hbroadley:
+  name: "Hannah Broadley"
+  siterole: "PhD Student in Organismic & Evolutionary Biology"
+  
+efusco:
+  name: "Emily Fusco"
+  siterole: "PhD Student in Organismic & Evolutionary Biology"
+  
+dnavon:
+  name: "Dina Navon"
+  siterole: "PhD Student in Organismic & Evolutionary Biology"
+  
+gpold:
+  name: "Grace Pold"
+  siterole: "PhD Student in Organismic & Evolutionary Biology"
+  
+cshaughnessy:
+  name: "Ciaran Shaughnessy"
+  siterole: "PhD Student in Organismic & Evolutionary Biology"
+  
+kstraley:
+  name: "Kit Straley"
+  siterole: "PhD Student in Organismic & Evolutionary Biology"
+  
+astrauss:
+  name: "Amy Strauss"
+  siterole: "PhD Student in Organismic & Evolutionary Biology"
+  
+avlinden:
+  name: "Abby Vander Linden"
+  siterole: "PhD Student in Organismic & Evolutionary Biology"
+  
+lhancock:
+  name: "Laura Hancock"
+  siterole: "MS Student in Organismic & Evolutionary Biology"
+  
+agrade:
+  name: "Aaron Grade"
+  siterole: "PhD Student in Organismic & Evolutionary Biology"
+  
+eaperkins:
+  name: "Elisha Allan-Perkins"
+  siterole: "PhD Student in Plant Biology"
+  
+jcoomey:
+  name: "Josh Coomey"
+  siterole: "PhD Student in Plant Biology"
+
+tzintel:
+  name: "Trisha Zintel"
+  siterole: "PhD Candidate in Molecular and Cellular Biology"
+
+mbruce:
+  name: "Maggie Bruce"
+  siterole: ""
+  
+akrentzel:
+  name: "Amanda Krentzel"
+  siterole: "PhD Candidate in Neuroscience and Behavior Program"
+
+amorozov:
+  name: "Aleksey Morozov"
+  siterole: "Laboratory of Medical Zoology Manager"
+  
+laguirre:
+   name: "Luis Aguirre"
+   siterole: "PhD Student in Organismic and Evolutionary Biology"
+   
+mandina:
+   name: "Matias Andina"
+   siterole: "PhD Student in Neuroscience and Behavior Program"
+   
+mbruce:
+   name: "Maggie Bruce"
+   siterole: "PhD Student in Organismic and Evolutionary Biology"
+   
+lgalindo:
+    name: "Luisa Galindo"
+    siterole: ""
+
+jdrake:
+    name: "Joseph Drake"
+    siterole: ""
+
+gwriter:
+    name: "Guest Writer"
+    siterole: ""  
+# you can add more authors here
