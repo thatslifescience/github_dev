@@ -13,7 +13,7 @@ gallery:
   caption: Gina Chaput
 ---
 
-![Gina Chaput]({{ site.url }}/thatslifesci/images/chaput-01.jpg)
+![Gina Chaput]({{ site.url }}/images/chaput-01.jpg)
 
 [Twitter](https://twitter.com/g_chaput13)
 

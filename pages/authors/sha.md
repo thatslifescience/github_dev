@@ -13,7 +13,7 @@ gallery:
   caption: Stephanie A. Ha
 ---
 
-![Stephanie A. Ha]({{ site.url }}/thatslifesci/images/ha-01.jpg)
+![Stephanie A. Ha]({{ site.url }}/images/ha-01.jpg)
 
 Research Area: Cell Biology; Bacteriology; Mycobacteria
 

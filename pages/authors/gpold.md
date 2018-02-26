@@ -13,7 +13,7 @@ gallery:
   caption: Grace Pold
 ---
 
-![Grace Pold]({{ site.url }}/thatslifesci/images/pold-01.jpg)
+![Grace Pold]({{ site.url }}/images/pold-01.jpg)
 
 Research Area: Soil Microbial Ecology
 

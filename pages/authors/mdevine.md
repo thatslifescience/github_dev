@@ -13,7 +13,7 @@ gallery:
   caption: Matt Devine
 ---
 
-![Matt Devine]({{ site.url }}/thatslifesci/images/devine-01.jpg)
+![Matt Devine]({{ site.url }}/images/devine-01.jpg)
 
 Research Area: Anadromous fish ecology; sampling methodology
 

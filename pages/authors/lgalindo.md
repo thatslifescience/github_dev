@@ -13,7 +13,7 @@ gallery:
   caption: Luisa Galindo
 ---
 
-![Luisa Galindo]({{ site.url }}/thatslifesci/images/galindo-01.jpg)
+![Luisa Galindo]({{ site.url }}/images/galindo-01.jpg)
 
 Research Area: Social-ecological systems in watersheds
 

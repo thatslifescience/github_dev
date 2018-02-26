@@ -13,7 +13,7 @@ gallery:
   caption: Derrick Alcott
 ---
 
-![Derrick Alcott]({{ site.url }}/thatslifesci/images/alcott-01-01.jpg)
+![Derrick Alcott]({{ site.url }}/images/alcott-01-01.jpg)
 
 [Personal Website](https://gpls.cns.umass.edu/oeb/directory/derrick-alcott)
 

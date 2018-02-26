@@ -13,7 +13,7 @@ gallery:
   caption: Aaron Grade
 ---
 
-![Aaron Grade]({{ site.url }}/thatslifesci/images/grade-01-01.jpg)
+![Aaron Grade]({{ site.url }}/images/grade-01-01.jpg)
 
 [Personal Website](http://www.agradeeco.wordpress.com)
 

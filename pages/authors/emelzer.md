@@ -13,7 +13,7 @@ gallery:
   caption: Emily Melzer
 ---
 
-![Emily S. Melzer]({{ site.url }}/thatslifesci/images/melzer-01.jpg)
+![Emily S. Melzer]({{ site.url }}/images/melzer-01.jpg)
 
 Research Area: Host-microbe interaction
 

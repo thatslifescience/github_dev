@@ -13,7 +13,7 @@ gallery:
   caption: Amanda Krentzel
 ---
 
-![Amanda Krentzel]({{ site.url }}/thatslifesci/images/krentzel-01.jpg)
+![Amanda Krentzel]({{ site.url }}/images/krentzel-01.jpg)
 
 [Email](mailto:akrentze@cns.umass.edu)
 

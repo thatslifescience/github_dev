@@ -14,7 +14,7 @@ author:
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://thatslifescience.github.io/thatslifesci'
+url: ''
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
@@ -27,7 +27,7 @@ improve_content:
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: '/thatslifesci/images/'
+urlimg: '/images/'
 
 
 # Logo size is 600x80 pixels
@@ -50,7 +50,7 @@ gems:
     - jekyll-feed
     - algoliasearch-jekyll
     - jekyll-sitemap
-paginate: 10000                # Paginates all X entries
+paginate: 15000                # Paginates all X entries
 paginate_path: "/page:num/"   # Pagination path › Important for blog page in /blog/ to work
 
 
@@ -58,7 +58,7 @@ paginate_path: "/page:num/"   # Pagination path › Important for blog page in /
 
 # Theme works best with Kramdown (using the table of contents function)
 markdown: kramdown
-permalink: /thatslifesci/:categories/:title/
+permalink: /:categories/:title/
 highlight: rouge
 excerpt_separator: "<!--more-->"
 include: ['.htaccess']

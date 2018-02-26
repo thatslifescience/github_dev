@@ -13,9 +13,13 @@ gallery:
   caption: Ajay Kumar
 ---
 
-![Ajay Kumar]({{ site.url }}/thatslifesci/images/kumar-01.jpg)
+![Ajay Kumar]({{ site.url }}/images/kumar-01.jpg)
 
+[Personal Website](http://people.umass.edu/ajaykumar)
 
+Research Area: Circadian rhythms, reproduction
+
+I’m currently studying the necessity and sufficiency of central and peripheral oscillators in regulating reproductive physiology. I am also working on the Design Committee helping out with the blog's maintenance.
 
 {% assign index = true %}
 {% for post in site.posts %}

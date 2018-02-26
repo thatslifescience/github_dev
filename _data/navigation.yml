@@ -35,6 +35,13 @@
 #
 #   Navigation to the right › side: right
 #
+- title: "Contest"
+  url: "/2018-02-06-TLS-Writing-Contest-Post/"
+  side: right
+
+- title: "Submit A Post"
+  url: "/submit/"
+  side: right
 
 - title: "Contact"
   url: "/contact/"

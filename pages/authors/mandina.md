@@ -13,7 +13,7 @@ gallery:
   caption: Matias Andina
 ---
 
-![Matias Andina]({{ site.url }}/thatslifesci/images/Andina-01.jpg)
+![Matias Andina]({{ site.url }}/images/Andina-01.jpg)
 
 Research Area: Animal Behavior, Molecular and Cellular Neuroscience, Neural Circuits
 

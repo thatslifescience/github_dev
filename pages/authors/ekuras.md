@@ -13,7 +13,7 @@ gallery:
   caption: Evan Kuras
 ---
 
-![Evan Kuras]({{ site.url }}/thatslifesci/images/kuras-01-01.jpg)
+![Evan Kuras]({{ site.url }}/images/kuras-01-01.jpg)
 
 [Twitter](www.twitter.com/eco_RK) @eco_RK
 

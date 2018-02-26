@@ -13,7 +13,7 @@ gallery:
   caption: Luis Aguirre
 ---
 
-![Luis Aguirre]({{ site.url }}/thatslifesci/images/Aguirre-01.jpg)
+![Luis Aguirre]({{ site.url }}/images/Aguirre-01.jpg)
 
 Research Area: Pollination ecology, multi-trophic interactions.
 

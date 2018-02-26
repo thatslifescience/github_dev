@@ -13,7 +13,7 @@ gallery:
   caption: Dan Vahaba
 ---
 
-![Dan Vahaba]({{ site.url }}/thatslifesci/images/vahaba-01.jpg)
+![Dan Vahaba]({{ site.url }}/images/vahaba-01.jpg)
 
 [Personal Website](vahaba.weebly.com)
 
