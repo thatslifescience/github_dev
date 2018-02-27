@@ -1,6 +1,6 @@
 ---
 title: What do cockroaches, power tools, and pollinator gardens have in common? 
-layout: post
+layout: page
 author: ebeaury 
 permalink: /2018-02-26-What-do-cockroaches-power-tools-and-pollinator-gardens-have-in-common-BEAURY/
 tags:
@@ -9,11 +9,11 @@ tags:
 - communication
 - conservation 
 categories:
-Grad School Diaries
+ Grad School Diaries
 header:
- image_fullwidth: igradschooldiaries-header.jpg
+ image_fullwidth: gradschooldiaries-header.jpg
 image:
- thumb: image-file-name-here.jpg
+ thumb: girlscouts_post2.jpg
 teaser: This fall, TLS teamed up with local Girl Scout troops to learn about the importance of animal habitats. Here is what happened! 
 
 source-id: 19tJw7pf04er6SYzZWZlvTfESTv4WdbCibM1_BPCdk1s
