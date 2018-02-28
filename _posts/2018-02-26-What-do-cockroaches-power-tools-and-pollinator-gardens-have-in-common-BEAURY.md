@@ -13,7 +13,7 @@ categories:
 header:
  image_fullwidth: gradschooldiaries-header.jpg
 image:
- thumb: girlscout_post2.jpg
+ thumb: girlscout_post1.jpg
 teaser: This fall, TLS teamed up with local Girl Scout troops to learn about the importance of animal habitats. Here is what happened! 
 
 source-id: 19tJw7pf04er6SYzZWZlvTfESTv4WdbCibM1_BPCdk1s
