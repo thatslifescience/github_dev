@@ -6,7 +6,7 @@
 # Start development with › $ jekyll serve --config _config.yml,_config_dev.yml
 
 url: ''
-urlimg: '/images/'
+urlimg: '/github_dev/images/'
 
 sass:
   # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
