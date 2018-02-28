@@ -12,7 +12,7 @@ tags:
 header:
   image_fullwidth: gradschooldiaries-header.jpg
 image:
-  thumb: girlscouts_post2.jpg
+  thumb: girlscout_post2.jpg
 teaser: Girl scouts learn about why bees are in trouble and what they can do to help
   maintain local bee populations. Bee the Change!
 ---
