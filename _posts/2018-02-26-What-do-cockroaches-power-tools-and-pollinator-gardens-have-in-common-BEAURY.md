@@ -26,7 +26,7 @@ Here at TLS, one of our goals is to share the scientific world we hold so near a
 
 ![image alt text]({{ site.url }}/public/I8uDukP5A20lc7Kp01MZJQ_img_0.jpg)
 
-**Thumbnail** The seal worn proudly by Girl Scouts (Source: flickr (https://www.flickr.com/photos/51859217@N06/5330452742/in/photolist-982XTC-8EPNJ8-672h6C-kXWFWC-9ivLQm-8cfjkP-iKVtZm-cCkLAq-X1EHE-axbJyV-9JuseL-8hzhJ7-qb2HE2-FytyYN-9vcP35-6bJP4R-cqa9m9-85zcr2-fF1XFQ-63ChLA-atn2vo-8i5xX4-77HahX-e1oSyN-7EM9zb-7EHomt-6Mp5YC-azrnYQ-o1LL77-qvGx9V-8PfFqg-8hmj6w-qN3Ypy-cvTwgf-ckR5SL-6P5pZS-6PddFZ-qkqqF-9xhNvv-dwdvbi-9xY7DJ-dt1pSg-dJEQ7p-cvTw8h-4iDU2f-cdUY9N-9xkmAw-7Dbg3M-9jsD5F-734FbT))
+**Thumbnail** The seal worn proudly by Girl Scouts (Source: flickr)
 
 As we prepared for our day full of cockroaches, power tools, and pollinator gardens, a swirl of excited murmurs and little green vests made its way towards us. We had a lot to accomplish in three hours—learning about endangered habitats and unsuspecting organisms, doing a scavenger hunt, and building a new animal home. As the [Girl Scout](https://en.wikipedia.org/wiki/Girl_Scouts_of_the_USA) motto tells us: be prepared and do a good turn daily, so what better team to tackle these topics than TLS graduate students and Girl Scouts !
 
