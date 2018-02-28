@@ -41,12 +41,14 @@ Though the issues bees are facing may seem somewhat daunting, there are many way
 During the Animal Habitats Badge event, we showed the scouts that although bees are in trouble, there are so many ways to help! By engaging in a fulfilling hobby like gardening or participating in community events like building bee hotels, you too can help conserve bee habitats in your area. 
 
 Here are some more resources on what you can do to help bees:
-A child-friendly site featuring more great tips on how to support bee populations: https://savebees.org/
-A webpage showing you how to identify bee species living in Massachusetts: 
-https://www.massaudubon.org/learn/nature-wildlife/insects-arachnids/bees-wasps/types-of-bees-wasps-in-massachusetts
-A handy guide filled with gardening, bee identification, and citizen science resources: http://ecoipm.org/native-pollinators/links/ 
-A website dedicated to bee and conservation knowledge:
-http://www.buzzaboutbees.net/
+1.  A child-friendly site featuring more great tips on how to support bee populations: 
+    https://savebees.org/
+2.  A webpage showing you how to identify bee species living in Massachusetts: 
+    https://www.massaudubon.org/learn/nature-wildlife/insects-arachnids/bees-wasps/types-of-bees-wasps-in-massachusetts
+3.  A handy guide filled with gardening, bee identification, and citizen science resources: 
+    http://ecoipm.org/native-pollinators/links/ 
+4.  A website dedicated to bee and conservation knowledge: 
+    http://www.buzzaboutbees.net/
 
 If you are interested in participating in a TLS outreach event in the future, please contact tlsoutreachandcomm@gmail.com for more information.
 
