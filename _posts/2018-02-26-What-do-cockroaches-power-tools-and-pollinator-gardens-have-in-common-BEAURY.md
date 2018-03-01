@@ -52,7 +52,8 @@ For all of us at TLS, this event meant more than gaining a badge. We had the opp
 
 We don't do outreach for credit, we don’t do it for our resumes, **we do it because we enjoy it**, and we learn from it as well!  It was a reminder to look at the world with wonder, to not take the little things for granted, and to appreciate the beauty of learning something new. We were once these Girl Scouts climbing trees and searching for what interested us, and hopefully someday they will be in our shoes pursuing a career that involves their passions.
 
-Read on for more about what the girl scouts went through to earn their stripes. If you are interested in participating in an event such as this in the future, please contact tlsoutreachandcommn at gmail dot com for more information. 
+Read on for more about what the girl scouts went through to earn their stripes. If you are interested in participating in an event such as this in the future, 
+please contact tlsoutreachandcommn at gmail dot com for more information. 
 
 Nest Box Station
 
