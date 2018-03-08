@@ -62,8 +62,8 @@ header: no
 </div>
 <div class="row row-centered">
         <div class="large-3 columns">
-        <img src="{{ site.urlimg }}kdevarajan.jpg" alt="Kadambari "KD" Devarajan">
-        <p><a href = "{{ site.url }}/authors/kdevarajan"><b>Kadambari "KD" Devarajan</b></a></p>
+        <img src="{{ site.urlimg }}kdevarajan-01.jpg" alt="Kadambari Devarajan">
+        <p><a href = "{{ site.url }}/authors/kdevarajan"><b>Kadambari Devarajan</b></a></p>
         </div>
         <div class="large-3 columns">
         <img src="{{ site.urlimg }}drake-01.jpg" alt="Joseph Drake">
