@@ -4,15 +4,7 @@ permalink: "/authors/lalteio/"
 layout: page
 author: lalteio
 meta_title: Lauren Alteio | That's Life [Science]
-<<<<<<< HEAD
 subheadline: Contributor since Fall 2015
-=======
-<<<<<<< HEAD
-subheadline: Contributor since Fall 2015
-=======
-subheadline: Contributor since Fall 2015  
->>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
->>>>>>> a38c40457bba7c350119f97bd3c064bad2806f7a
 teaser: PhD Candidate in Organismic and Evolutionary Biology
 header:
   image_fullwidth: you-can-delete-me-header.png
@@ -21,15 +13,7 @@ gallery:
   caption: Lauren Alteio
 ---
 
-<<<<<<< HEAD
 ![Lauren Alteio]({{ site.url }}/images/alteio-01.jpg)
-=======
-<<<<<<< HEAD
-![Lauren Alteio]({{ site.url }}/images/alteio-01.jpg)
-=======
-![Lauren Alteio]({{ site.urlimg }}/alteio-01.jpg)
->>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
->>>>>>> a38c40457bba7c350119f97bd3c064bad2806f7a
 
 [Twitter](https://twitter.com/lvalteio)
 

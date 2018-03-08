@@ -13,15 +13,7 @@ gallery:
   caption: Gina Chaput
 ---
 
-<<<<<<< HEAD
 ![Gina Chaput]({{ site.url }}/images/chaput-01.jpg)
-=======
-<<<<<<< HEAD
-![Gina Chaput]({{ site.url }}/images/chaput-01.jpg)
-=======
-![Gina Chaput]({{ site.urlimg }}/chaput-01.jpg)
->>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
->>>>>>> a38c40457bba7c350119f97bd3c064bad2806f7a
 
 [Twitter](https://twitter.com/g_chaput13)
 

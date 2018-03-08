@@ -13,15 +13,7 @@ gallery:
   caption: Joshua H. Coomey
 ---
 
-<<<<<<< HEAD
 ![Joshua H. Coomey]({{ site.url }}/images/coomey-01.jpg)
-=======
-<<<<<<< HEAD
-![Joshua H. Coomey]({{ site.url }}/images/coomey-01.jpg)
-=======
-![Joshua H. Coomey]({{ site.urlimg }}/coomey-01.jpg)
->>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
->>>>>>> a38c40457bba7c350119f97bd3c064bad2806f7a
 
 [Personal Website](http://www.bio.umass.edu/biology/hazen/)
 

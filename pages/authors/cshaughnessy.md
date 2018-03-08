@@ -13,15 +13,7 @@ gallery:
   caption: Ciaran Shaughnessy
 ---
 
-<<<<<<< HEAD
 ![Ciaran Shaughnessy]({{ site.url }}/images/shaughnessy-01-01.jpg)
-=======
-<<<<<<< HEAD
-![Ciaran Shaughnessy]({{ site.url }}/images/shaughnessy-01-01.jpg)
-=======
-![Ciaran Shaughnessy]({{ site.urlimg }}/shaughnessy-01-01.jpg)
->>>>>>> 8d4bc04f94a0bda34c4e89ef6388797c8fba0342
->>>>>>> a38c40457bba7c350119f97bd3c064bad2806f7a
 
 Research Area: Comparative Physiology and Endocrinology
 
