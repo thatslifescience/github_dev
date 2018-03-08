@@ -9,11 +9,11 @@ teaser: PhD Student in Organismic and Evolutionary Biology
 header:
   image_fullwidth: you-can-delete-me-header.png
 gallery:
-- image_url: kdevarajan.jpg
+- image_url: kdevarajan-01.jpg
   caption: Kadambari "KD" Devarajan
 ---
 
-![Kadambari "KD" Devarajan]({{ site.urlimg }}/kdevarajan.jpg)<br>
+![Kadambari "KD" Devarajan]({{ site.urlimg }}/kdevarajan-01.jpg)<br>
 
 [Personal Website](http://kadambarid.in)
 [Email](mailto:kadambari.devarajan@gmail.com)
