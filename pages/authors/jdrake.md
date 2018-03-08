@@ -5,7 +5,7 @@ layout: page
 author: jdrake
 meta_title: Joseph Drake | That's Life [Science]
 subheadline: Contributor since Summer 2017
-teaser: PhD Student in Organismic and Evolutionary Biology 
+teaser: Joint PhD Student in Environmental Conservation and Organismic & Evolutionary Biology 
 header:
   image_fullwidth: you-can-delete-me-header.png
 gallery:
