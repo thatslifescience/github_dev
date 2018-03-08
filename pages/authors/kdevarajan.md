@@ -15,9 +15,9 @@ gallery:
 
 ![Kadambari "KD" Devarajan]({{ site.urlimg }}/kdevarajan-01.jpg)<br>
 
-[Personal Website](http://kadambarid.in)
-[Email](mailto:kadambari.devarajan@gmail.com)
-[Twitter](twitter.com/kadambarid)
+[Personal Website](http://kadambarid.in)<br>
+[Email](mailto:kadambari.devarajan@gmail.com)<br>
+[Twitter](twitter.com/kadambarid)<br>
 
 Research Area: Quantitative ecology, community ecology, species interactions
 
