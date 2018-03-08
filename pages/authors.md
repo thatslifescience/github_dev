@@ -30,7 +30,7 @@ header: no
         <p><a href = "{{ site.url }}/authors/jbarnett"><b>Jacob R. Barnett</b></a></p>
         </div>
         <div class="large-3 columns">
-        <img src="{{ site.urlimg }}ebeaury-01.jpg" alt="Eve Beaury">
+        <img src="{{ site.urlimg }}ebeaury-01.jpg" alt="Eve Beaury">  
         <p><a href = "{{ site.url }}/authors/ebeaury"><b>Eve Beaury</b></a></p>
         </div>
         <div class="large-3 columns">
