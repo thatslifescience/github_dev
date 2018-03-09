@@ -16,7 +16,7 @@ gallery:
 ![Kit Straley]({{ site.url }}/images/kstraley.jpg)
 
 [Personal Website](http://www.kstraleyeco.wordpress.com )
-[Twitter](twitter.com/erlynerdgetbird)
+[Twitter](https://twitter.com/erlynerdgetbird)
 
 Keywords: birds, animal behavior, urban ecology
 
