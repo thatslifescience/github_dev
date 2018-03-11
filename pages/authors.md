@@ -106,7 +106,7 @@ header: no
         <p><a href = "{{ site.url }}/authors/pmcginn"><b>Peter N. McGinn</b></a></p>
         </div>
         <div class="large-3 columns">
-        <img src="{{ site.urlimg }}melzer-01.jpg" alt="Emily S. Melzer">
+        <img src="{{ site.urlimg }}emelzer.jpg" alt="Emily S. Melzer">
         <p><a href = "{{ site.url }}/authors/emelzer"><b>Emily S. Melzer</b></a></p>
         </div>
         <div class="large-3 columns">
