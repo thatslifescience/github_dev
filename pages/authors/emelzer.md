@@ -5,7 +5,7 @@ layout: page
 author: emelzer
 meta_title: Emily S. Melzer | That's Life [Science]
 subheadline: Contributor since Fall 2015
-teaser: PhD Student in Microbiology
+teaser: PhD Candidate in Microbiology
 header:
   image_fullwidth: you-can-delete-me-header.png
 gallery:
@@ -15,10 +15,13 @@ gallery:
 
 ![Emily S. Melzer]({{ site.url }}/images/melzer-01.jpg)
 
-Research Area: Host-microbe interaction
+Research Area: Bacterial cell morphology and physiology
 
-I am interested in host-microbe interaction, in the form of human and animal pathogenesis as well as normal flora in the human body and roles microbes play in our diet. I would love to apply microbiological discoveries to improve the lives of humans and animals alike. In my spare time I also have fun with microbiology in the kitchen - I get microbes to make sourdough and vegan yogurt and cheese!
-I am also TLS treasurer.
+Microbes can be fabulous - so tiny, yet so efficient! I currently use super fancy microscopes to study how a group of bacteria called mycobacteria grow, create and maintain their shape, as well as how they protect themselves in hostile environments. These are all important things to know, since this group includes the species Mycobacterium tuberculosis, which causes the deadly disease tuberculosis. 
+
+On a more general level, I am interested in how we can use microbes to do things for us - anything from cleaning up oil spills in the ocean to engineering them to produce milk for us to replace livestock. 
+
+My love of microbiology extends to the kitchen as well, where I use microbes to make sourdough bread, vegan cheese and yogurt, and more! 
 
 {% assign index = true %}
 {% for post in site.posts %}
