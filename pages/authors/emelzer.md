@@ -9,11 +9,11 @@ teaser: PhD Candidate in Microbiology
 header:
   image_fullwidth: you-can-delete-me-header.png
 gallery:
-- image_url: melzer-01.jpg
+- image_url: emelzer.jpg
   caption: Emily Melzer
 ---
 
-![Emily S. Melzer]({{ site.url }}/images/melzer-01.jpg)
+![Emily S. Melzer]({{ site.url }}/images/emelzer.jpg)
 
 Research Area: Bacterial cell morphology and physiology
 
