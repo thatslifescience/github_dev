@@ -12,7 +12,7 @@ categories:
 header:
  image_fullwidth: gradschooldiaries-header.jpg
 image:
- thumb: astrauss_20180319_thumb.jpg
+ thumb: astrauss_20180319_thumb.JPG
 teaser: Scientists are often alone in their labs, at remote field sites, or staring at computers – but once a year, they get together to nerd out!
 source-id: 1jJuf8GM3jmxDYle0gZ3D7Dd0NZqJ8kF15oEDMmJgYF4
 published: true
