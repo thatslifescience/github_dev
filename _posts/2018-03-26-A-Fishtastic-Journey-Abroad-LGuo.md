@@ -2,14 +2,14 @@
 title: A Fishtastic Journey Abroad
 layout: page
 author: lguo
-permalink: /2018-03-26-A-Fishtastic-Journey-Abroad-LGuo.md/
+permalink: /2018-03-26-A-Fishtastic-Journey-Abroad-LGuo/
 tags:
 - fish
 - study abroad
 - collaboration
 - student life
 categories:
-Grad School Diaries
+- Grad School Diaries
 header:
  image_fullwidth: gradschooldiaries-header.jpg
 image:
@@ -19,20 +19,6 @@ teaser: While much of my summer was spent in a lab, I snuck away for two splendi
 source-id: 1FYcROuiXM9kStzwfiKFZ9sr-Yj_TOXw5G5iWq3TlMgw
 published: true
 ---
-**Title: **A Fishtastic Journey Abroad 
-
-**Author:** Lian Guo
-
-**Category:** Grad School Diaries
-
-**Keywords:** fish, study abroad, collaboration, student life
-
-**Social media blurb:** While much of my summer was spent in a lab, I snuck away for two splendid weeks in Bergen, Norway – for research!
-
-**Thumbnail:** 
-
-![image alt text]({{ site.url }}/public/g0516rmT6hXh8ojrqst7w_img_0.jpg)
-
 Amid a crazy and long field season this year, I partook in the experience of a lifetime – a free trip to [Bergen, Norway](https://www.visitnorway.com/places-to-go/fjord-norway/bergen/) for a course on Fish Physiology and Sustainable Aquaculture. For two weeks, we attended lectures, learned laboratory techniques, and completed a research project with students and professors from universities in North America, Japan, and Norway. [Aquaculture: farming of aquatic organisms.]
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/27314104279/in/dateposted-friend/" title="2017-09-24-LGuoA"><img src="https://farm5.staticflickr.com/4558/27314104279_43ba8e053e_z.jpg" width="640" height="250" alt="2017-09-24-LGuoA"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
@@ -85,5 +71,7 @@ All in all, this was a remarkable learning experience for me. I won't say I left
 
 **Figure 9.** The mysterious and enthralling lumpfish, for your viewing pleasure! These fish were being tested as a biological control of sea lice that plague Atlantic salmon sea pens.
 
-## More From Thats Life [Science]{: .t60 }{% include list-posts offset="1" entries='5' category="Grad School Diaries" %}
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Grad School Diaries" %}
 
