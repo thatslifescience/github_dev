@@ -35,7 +35,7 @@ Aquaculture and oil are Norway's two largest exports, meaning it is important fo
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/27314110419/in/dateposted-friend/" title="2017-09-24-LGuoC"><img src="https://farm5.staticflickr.com/4688/27314110419_42db6ff0f2_z.jpg" width="640" height="208" alt="2017-09-24-LGuoC"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-**Figure 3.** Large aquaculture sea pens can be found all along the Norway coast (left) and inside fjords (right). Photos by Lian Guo.
+**Figure 3.** Large aquaculture sea pens can be found all along the Norway coast (left) and inside fjords (right). Photos by Lian Guo. <br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tg6k88-tqrk" frameborder="0" allowfullscreen></iframe>
 
