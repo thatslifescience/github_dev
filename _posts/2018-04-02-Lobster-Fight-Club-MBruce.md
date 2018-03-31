@@ -58,7 +58,7 @@ In the end, I found out that lobsters couple their senses of vision and olfactio
 
 So, what do you think? Next time you see a lobster huddled in the tank at the supermarket, will you see a tasty meal or behold a strong and ferocious warrior? I hope my pocket guide to lobster fights has given you a new perspective on the lives of these surprisingly complex animals. 
 
-References
+**References**<br>
 [1] Karavanich C, Atema J. 1998b. Olfactory recognition of urine signals in dominance fights between male lobster, Homarus Americanus. *Behaviour*, 135(6): 719-730. http://dx.doi.org/10.1163/156853998792640440
 
 ## More From Thats Life [Science]
