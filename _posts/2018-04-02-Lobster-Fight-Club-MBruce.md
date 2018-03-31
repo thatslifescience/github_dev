@@ -27,7 +27,7 @@ When I was an undergraduate, I started a research project that required me to el
 
 This is essentially how a lobster says, "Check me out, bro!" A lobster will approach a potential opponent with its claws spread wide, threatening anyone who catches a glimpse. He might also stand up tall on his legs, towering above his opponent. Sometimes, this display alone will be enough to discourage an opponent from a fight.
 
-<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/136882531@N02/41095592752/in/dateposted-public/" title="2018-04-02-MBruceA"><img src="https://farm1.staticflickr.com/874/41095592752_9da693cf1b_c.jpg" width="600" height="800" alt="2018-04-02-MBruceA"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
+<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/27266271928/in/dateposted-friend/" title="2018-04-02-MBruceA"><img src="https://farm1.staticflickr.com/897/27266271928_f6fef0bcb4.jpg" width="375" height="500" alt="2018-04-02-MBruceA"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
 **Fig. 1** Me as an undergrad, holding two lobsters. You'll notice that the one on the right is performing the meral spread behavior (likely at me), threateningly flashing the orange undersides of his claws. (Source: Maggie Bruce)
 
@@ -42,7 +42,7 @@ This is the first level of escalation, and the point at which two lobsters make 
 
 This is where things get serious. If a fight escalates to this level, lobsters open their sharp claws with intent to do harm. During instances of claw lock, opponents grab each other's claws, joints, or antennae and pull - sometimes hard enough to remove limbs. Lucky for lobsters, they can regenerate limbs over time with each molt cycle, and sometimes even spontaneously drop their limbs in a process called autonomy. 
 
-<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/136882531@N02/41139114611/in/dateposted-public/" title="2018-04-02-MBruceC"><img src="https://farm1.staticflickr.com/802/41139114611_f69b972010_c.jpg" width="600" height="800" alt="2018-04-02-MBruceC"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
+<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/39330622730/in/dateposted-friend/" title="2018-04-02-MBruceC"><img src="https://farm1.staticflickr.com/792/39330622730_58acc462dd.jpg" width="375" height="500" alt="2018-04-02-MBruceC"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
 **Fig. 3** A brutal scene: a lobster arm that was ripped off by an opponent during a vicious match-up.  Luckily they can grow them back, though! (Source: Maggie Bruce)
 
