@@ -23,7 +23,7 @@ When you think of a lobster, what do you picture? Perhaps your mind draws up a f
 
 When I was an undergraduate, I started a research project that required me to elicit and score hundreds of battles between pairs of lobsters in order to investigate the sensory systems that mediate these complex battles. Essentially, I began running a lobster fight club in a tiny wet lab in a basement. It may sound strange, but this was one of the most exciting times of my life. Lobster fights are action-packed, with both individuals waving their claws, flicking their antennae, and sometimes even jetting around in the water at high speeds. The fights, however, generally follow a predictable pattern of events, each level more aggressive than the next, until one lobster backs down. Here's my pocket guide to the stages of a lobster fight:
 
-###1. Meral Spread
+<h3>1. Meral Spread</h3>
 
 This is essentially how a lobster says, "Check me out, bro!" A lobster will approach a potential opponent with its claws spread wide, threatening anyone who catches a glimpse. He might also stand up tall on his legs, towering above his opponent. Sometimes, this display alone will be enough to discourage an opponent from a fight.
 
@@ -31,7 +31,7 @@ This is essentially how a lobster says, "Check me out, bro!" A lobster will appr
 
 **Fig. 1** Me as an undergrad, holding two lobsters. You'll notice that the one on the right is performing the meral spread behavior (likely at me), threateningly flashing the orange undersides of his claws. (Source: Maggie Bruce)
 
-###2. Boxing 
+<h3>2. Boxing</h3>
 
 This is the first level of escalation, and the point at which two lobsters make physical contact. They will hit or slap each other with closed claws, sending a message but not causing any physical harm. This stage of the fight can last for a long time (I had a boxing match last for 79 minutes!) and may be the highest level of aggression displayed.
 
@@ -39,7 +39,7 @@ This is the first level of escalation, and the point at which two lobsters make 
 
 **Fig. 2** When lobsters engage in "boxing," they hit each other without causing any substantial physical harm. (Source: [Unemployable Like Me](http://unemployablelikeme.tumblr.com/post/49226268758/when-people-try-to-define-post-modernism)).
 
-###3. Claw Lock
+<h3>3. Claw Lock</h3>
 
 This is where things get serious. If a fight escalates to this level, lobsters open their sharp claws with intent to do harm. During instances of claw lock, opponents grab each other's claws, joints, or antennae and pull - sometimes hard enough to remove limbs. Lucky for lobsters, they can regenerate limbs over time with each molt cycle, and sometimes even spontaneously drop their limbs in a process called autonomy. 
 
@@ -47,7 +47,7 @@ This is where things get serious. If a fight escalates to this level, lobsters o
 
 **Fig. 3** A brutal scene: a lobster arm that was ripped off by an opponent during a vicious match-up.  Luckily they can grow them back, though! (Source: Maggie Bruce)
 
-###4. Tail Flipping
+<h3>4. Tail Flipping</h3>
 
 As the fight draws to a close, one opponent tends to flee the scene. Lobsters are able to jet away from danger using a behavior called tail flipping, and more formally known as the caridoid escape reaction. During a tail flip, lobsters flex their abdomens, shooting their bodies backward in space. 
 
