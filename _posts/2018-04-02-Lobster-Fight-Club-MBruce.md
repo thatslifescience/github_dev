@@ -35,8 +35,7 @@ This is essentially how a lobster says, "Check me out, bro!" A lobster will appr
 
 This is the first level of escalation, and the point at which two lobsters make physical contact. They will hit or slap each other with closed claws, sending a message but not causing any physical harm. This stage of the fight can last for a long time (I had a boxing match last for 79 minutes!) and may be the highest level of aggression displayed.
 
-<center> <div style="width:100%;height:0;padding-bottom:40%;position:relative;"><iframe src="https://giphy.com/embed/c4t11obaChpu0" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/upset-slapping-c4t11obaChpu0">via GIPHY</a></p></center>
-
+<div style="width:100%;height:0;padding-bottom:40%;position:relative;"><iframe src="https://giphy.com/embed/c4t11obaChpu0" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/upset-slapping-c4t11obaChpu0">via GIPHY</a></p>
 **Fig. 2** When lobsters engage in "boxing," they hit each other without causing any substantial physical harm. (Source: [Unemployable Like Me](http://unemployablelikeme.tumblr.com/post/49226268758/when-people-try-to-define-post-modernism)).
 
 <h3>3. Claw Lock</h3>
