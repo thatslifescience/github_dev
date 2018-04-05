@@ -14,7 +14,7 @@ Earth’s Organisms or Our Ecosystems or Grad School Diaries or  How It Works
 header:
  image_fullwidth: ecosystem-header.jpg
 image:
- thumb: image-file-name-here.jpg
+ thumb: AGrade_20180409_thumb.jpg
 teaser: “Should we use limited resources for fewer large nature preserves, or a patchwork of smaller ones?”
 source-id: 1rTsCf8j7R1_FFH6a3IBvLTin24W2KMj6SaeUQpAT80Q
 published: true
