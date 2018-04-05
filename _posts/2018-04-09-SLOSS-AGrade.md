@@ -19,16 +19,6 @@ teaser: “Should we use limited resources for fewer large nature preserves, or 
 source-id: 1rTsCf8j7R1_FFH6a3IBvLTin24W2KMj6SaeUQpAT80Q
 published: true
 ---
-**Title:** Single Large or Several Small? The Ongoing Debate in Nature Preserve Design 
-
-**Author:** Aaron Grade
-
-**Categories:** Our Ecosystems
-
-**Keywords: **Conservation, SLOSS, Nature, Environment, Land Trust
-
-**Teaser:** Should we use limited resources for fewer large nature preserves, or a patchwork of smaller ones?
-
 	Imagine that you are a non-profit land trust manager tasked with preserving forests in and around town. You have come upon some money through a group of passionate donors who are interested in protecting the diverse species of forest birds in the area for future generations to enjoy. Where do you put these limited resources? Do you purchase one large tract of forest on the outskirts of town for a giant nature preserve? Or do you buy up a network of smaller patches of forest throughout town that add up to the same number of acres?
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/38647278132/in/dateposted-friend/" title="amherstfoliage"><img src="https://farm5.staticflickr.com/4585/38647278132_29b8a49a5d_z.jpg" width="640" height="480" alt="amherstfoliage"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
@@ -57,7 +47,7 @@ And, as I've [written](http://thatslifesci.com/2017-10-09-Life-on-the-Edge-AGrad
 
 **Several Small**
 
-	Not so fast, a single large nature preserve is **NOT **always best! Imagine the cost of buying a huge amount of land in Massachusetts. Is that acreage of land even available? There are some real benefits to having a network of small protected nature preserves. It may be easier to manage them. The land trust could use fencing around some sensitive properties, and designate others for walking trails. It'd be much harder to manage and protect a large tract of land. Also, if our goal is to maximize the number of species in town, several small preserves might be the way to go. If you preserve one giant tract of land, but it’s all the same kind of forest, you may have the same species throughout that one preserve. But if we buy up a variety of land, some meadows, some farms, some young forest, etc., we may end up getting more biodiversity overall.
+	Not so fast, a single large nature preserve is **NOT** always best! Imagine the cost of buying a huge amount of land in Massachusetts. Is that acreage of land even available? There are some real benefits to having a network of small protected nature preserves. It may be easier to manage them. The land trust could use fencing around some sensitive properties, and designate others for walking trails. It'd be much harder to manage and protect a large tract of land. Also, if our goal is to maximize the number of species in town, several small preserves might be the way to go. If you preserve one giant tract of land, but it’s all the same kind of forest, you may have the same species throughout that one preserve. But if we buy up a variety of land, some meadows, some farms, some young forest, etc., we may end up getting more biodiversity overall.
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/38647277012/in/dateposted-friend/" title="Species"><img src="https://farm5.staticflickr.com/4546/38647277012_05cd3eb43c_z.jpg" width="640" height="360" alt="Species"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
