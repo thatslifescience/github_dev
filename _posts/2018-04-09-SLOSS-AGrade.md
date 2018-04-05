@@ -10,7 +10,7 @@ tags:
 - environment
 - sloss
 categories:
-Earth’s Organisms or Our Ecosystems or Grad School Diaries or  How It Works
+- Our Ecosystems
 header:
  image_fullwidth: ecosystem-header.jpg
 image:
