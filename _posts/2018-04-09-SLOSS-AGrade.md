@@ -15,7 +15,7 @@ header:
  image_fullwidth: ecosystem-header.jpg
 image:
  thumb: AGrade_20180409_thumb.jpg
-teaser: “Should we use limited resources for fewer large nature preserves, or a patchwork of smaller ones?”
+teaser: Should we use limited resources for fewer large nature preserves, or a patchwork of smaller ones?
 source-id: 1rTsCf8j7R1_FFH6a3IBvLTin24W2KMj6SaeUQpAT80Q
 published: true
 ---
@@ -31,7 +31,7 @@ Conservation biologists have been struggling with this question since the foundi
 
 **Fig. 2** Which is better – Single large or several small? 
 
-**Single Large**
+<h3>Single Large</h3>
 
 Clearly a single large nature preserve is always best! In simple mathematical terms, one large circle has less land exposed to the edge than four small ones of the same area.
 
@@ -45,7 +45,7 @@ And, as I've [written](http://thatslifesci.com/2017-10-09-Life-on-the-Edge-AGrad
 
 **Fig. 4** Large preserves have more room for large animals to roam…although I'm pretty sure that Amherst doesn’t have mountain lions or wolves…
 
-**Several Small**
+<h3>Several Small</h3>
 
 Not so fast, a single large nature preserve is **NOT** always best! Imagine the cost of buying a huge amount of land in Massachusetts. Is that acreage of land even available? There are some real benefits to having a network of small protected nature preserves. It may be easier to manage them. The land trust could use fencing around some sensitive properties, and designate others for walking trails. It'd be much harder to manage and protect a large tract of land. Also, if our goal is to maximize the number of species in town, several small preserves might be the way to go. If you preserve one giant tract of land, but it’s all the same kind of forest, you may have the same species throughout that one preserve. But if we buy up a variety of land, some meadows, some farms, some young forest, etc., we may end up getting more biodiversity overall.
 
@@ -59,7 +59,7 @@ Some species may also be more protected from disturbances. Let's pretend we have
 
 **Fig. 6** No worries, let's just put all the stick turtles right here in our preserve…Whoops.
 
-**Which would you choose?**
+<h3>Which would you choose?</h3>
 
 These are real decisions that land managers must make every day. As you've probably gathered, there is no easy answer in this debate. In general, large nature preserves are always preferred over small ones, but it’s not always that simple. Some scientists also argue that if we prioritize large rural preserves over small urban ones, we isolate people from nature. When people are disconnected from nature and don’t experience it, they may not care as much about funding it. Having more green spaces in urban areas can lead to voters advocating for more environmentally friendly policies. That is the ultimate Catch 22 – isolate nature from people to protect it, just to end up with no political will in the future to protect it. Ongoing debates like SLOSS in conservation are ultimately useful ways for scientists and land managers to think through what is best for wildlife conservation, depending on the situation at hand.
 
@@ -67,9 +67,14 @@ These are real decisions that land managers must make every day. As you've proba
 
 **Fig. 7** A more realistic Wood Turtle that we should protect from catching fire. Via Wikipedia. [https://commons.wikimedia.org/wiki/File:WoodTurtle.jpg](https://commons.wikimedia.org/wiki/File:WoodTurtle.jpg) 
 
-References:
+**References:**
 
 [1] Helmstedt, Kate J., Hugh P. Possingham, Karl EC Brennan, Jonathan R. Rhodes, and Michael Bode. "Cost‐efficient fenced reserves for conservation: single large or two small?." *Ecological Applications* 24, no. 7 (2014): 1780-1792.
 
 [2] Rösch, Verena, Teja Tscharntke, Christoph Scherber, and Péter Batáry. "Biodiversity conservation across taxa and landscapes requires many small as well as single large habitat fragments." *Oecologia* 179, no. 1 (2015): 209-222.
+
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries="5" category="Our Ecosystems" %}
+
 
