@@ -12,7 +12,7 @@ header: no
 
 <div class="row row-centered">
         <div class="large-3 columns">
-        <img src="{{ site.urlimg }}francis-01.jpg" alt="How do you represent growth? (unfinished)">
+        <img src="{{ site.urlimg }}francis-01-01.jpg" alt="How do you represent growth? (unfinished)">
         <p><a href = "{{ site.url }}/outreach/francis"><b>How do you represent growth? (unfinished)</b></a></p></div>
         <div class="large-3 columns">
         <img src="{{ site.urlimg }}alcott-01-01.jpg" alt="Derrick Alcott">
