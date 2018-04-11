@@ -22,11 +22,11 @@ Early this fall, my lab-mate and I found a swarm of wasps had been hovering arou
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/38306244685/in/dateposted-friend/" title="2017-11-26-Wasps-BROADLEY-Cartoon"><img src="https://farm5.staticflickr.com/4633/38306244685_db6cb4e432_c.jpg" width="800" height="600" alt="2017-11-26-Wasps-BROADLEY-Cartoon"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-**Figure 1. **As an entomologist, not knowing the identification of the wasp species in question was more terrifying than the presence of the wasps themselves!  Image credit: Modified from [Wikipedia Commons](https://commons.wikimedia.org/wiki/File:Twemoji2_1f914.svg), [CJOffRoad](https://www.cjponyparts.com/media/catalog/product/cache/1/thumbnail/9df78eab33525d08d6e5fb8d27136e95/2/1/212701502_6.2163.jpg), [A. Santillana](https://upload.wikimedia.org/wikipedia/commons/8/82/Southern_Yellowjacket_%28Vespidae%2C_Vespula_squamosa%29_%2831215058181%29.jpg), [pxhere](https://pxhere.com/en/photo/922323), and [Trounce](https://commons.wikimedia.org/wiki/File:3_wasp_2007-04-25.jpg).  
+**Figure 1.** As an entomologist, not knowing the identification of the wasp species in question was more terrifying than the presence of the wasps themselves!  Image credit: Modified from [Wikipedia Commons](https://commons.wikimedia.org/wiki/File:Twemoji2_1f914.svg), [CJOffRoad](https://www.cjponyparts.com/media/catalog/product/cache/1/thumbnail/9df78eab33525d08d6e5fb8d27136e95/2/1/212701502_6.2163.jpg), [A. Santillana](https://upload.wikimedia.org/wikipedia/commons/8/82/Southern_Yellowjacket_%28Vespidae%2C_Vespula_squamosa%29_%2831215058181%29.jpg), [pxhere](https://pxhere.com/en/photo/922323), and [Trounce](https://commons.wikimedia.org/wiki/File:3_wasp_2007-04-25.jpg).  
 
 To alleviate my unease I took the time to educate myself in wasp identification, and I thought I'd make that information available to any interested TLS followers. 
 
-**What are wasps? **
+**What are wasps?**
 
 By a few key characteristics (e.g. slender body and legs; relatively few hairs; narrow petiole or "waist strong, angular, and glossy wings), I knew that the insects in question were wasps, but I didn't know what type of wasp. To get us  all on the same page, let’s start out by discussing wasps. 
 
@@ -34,7 +34,7 @@ Wasps are in the order of insects called Hymenoptera. This group includes bees, 
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/26934696009/in/dateposted-friend/" title="2017-11-26-Wasps-BROADLEY-Figure1"><img src="https://farm5.staticflickr.com/4543/26934696009_63df786e29_z.jpg" width="640" height="477" alt="2017-11-26-Wasps-BROADLEY-Figure1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-**Figure 2. **Within the order Hymenoptera are sawflies (A), ants (B), bees (C), and wasps (D).  This post will focus on one particular type of wasps, the vespids.  Image credit: Modified from [gailhampshire](https://www.flickr.com/photos/gails_pictures/28143669806) (A) [AJC1](https://www.flickr.com/photos/ajc1/31456859231) (B), [Orangeaurochs](https://www.flickr.com/photos/orangeaurochs/17383045681) (C), and [ulleo](https://pixabay.com/p-2466088/?no_redirect) (D)
+**Figure 2.** Within the order Hymenoptera are sawflies (A), ants (B), bees (C), and wasps (D).  This post will focus on one particular type of wasps, the vespids.  Image credit: Modified from [gailhampshire](https://www.flickr.com/photos/gails_pictures/28143669806) (A) [AJC1](https://www.flickr.com/photos/ajc1/31456859231) (B), [Orangeaurochs](https://www.flickr.com/photos/orangeaurochs/17383045681) (C), and [ulleo](https://pixabay.com/p-2466088/?no_redirect) (D)
 
 Yellow jackets, hornets, paper wasps, potter wasps, and mason wasps are a few types of wasps; in my mind, they are all on the list of potential suspects for the swarm. I'll outline each of these possible suspects in turn.
 
@@ -42,13 +42,13 @@ Yellow jackets, hornets, paper wasps, potter wasps, and mason wasps are a few ty
 
 Unlike paper wasps, hornets, and yellow jackets, they are solitary wasps; they do not live in colonies and do not swarm [1].  Similar to the types of wasps above though, they are typically black with yellow markings.  There is a lot of variety in where and how they make their nests, including a dead twig or log, an underground burrow, or a rocky crevice.  In all cases though, they make individual cells for their larvae out of mud or clay (thus their name) [1].  Because potter and mason wasps don't live in colonies and thus don’t swarm, they are an unlikely culprit for the swarm of wasps around the lab car.    
 
-**Paper wasps **
+**Paper wasps**
 
 Paper wasps are typically elongate and slender in shape, colored a reddish brown sometimes marked with yellow [[2](https://bugguide.net/node/view/572)].  They make nests of a papery consistency by chewing up woody material and using their mandibles and front legs to shape it into a desired form [[3](https://sciencing.com/do-wasps-make-nests-5470751.html)]. They sculpt the paper into a matrix of cells formed in a circular shape attached by a slender stalk to a branch, eave, or another elevated location [1]. Like potter and mason wasps, they use the cells as 'cribs' of sort for their larvae. Also like potter and mason wasps, paper wasp adults eat nectar and fruit juices, but hunt for small insects to feed their young [[2](https://bugguide.net/node/view/572)]. Mature colonies can have up to 30 adults, but in temperate areas typically only one female, the young queen, overwinters. She will be the sole survivor of the colony and will start a new colony the following year!  
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/26934696799/in/dateposted-friend/" title="2017-11-26-Wasps-BROADLEY-Figure2"><img src="https://farm5.staticflickr.com/4545/26934696799_703f260e2e_z.jpg" width="410" height="640" alt="2017-11-26-Wasps-BROADLEY-Figure2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-**Figure 3. **Paper wasps (A) and hornets (B) both make papery nests, but they look quite different.  Paper wasps' nests are also hooked to a surface with a short narrow stem while hornet nests are formed directly onto the surface the wasps are building.  Also, hornets build an outside covering over the layers of cells.  Image credit: Modified from [Bob Peterson](https://commons.wikimedia.org/wiki/File:Paper_Wasp_(Polistes_major)_(6134653740).jpg) (A) and [Mike](https://www.flickr.com/photos/7687126@N06/2715430010) (B)
+**Figure 3.** Paper wasps (A) and hornets (B) both make papery nests, but they look quite different.  Paper wasps' nests are also hooked to a surface with a short narrow stem while hornet nests are formed directly onto the surface the wasps are building.  Also, hornets build an outside covering over the layers of cells.  Image credit: Modified from [Bob Peterson](https://commons.wikimedia.org/wiki/File:Paper_Wasp_(Polistes_major)_(6134653740).jpg) (A) and [Mike](https://www.flickr.com/photos/7687126@N06/2715430010) (B)
 
 With the above information in mind, it is unlikely the swarm of wasps in question were paper wasps.  They typically have small colonies and are not very aggressive. 
 
@@ -58,7 +58,7 @@ Yellow jackets and hornets are typically black and have more distinct yellow or 
 
 Great—we're narrowing down on our culprit.  Our suspect was bright yellow and black and was present in a large swarm!  We’re heading down the right path of inquiry. 
 
-**The likely suspect **
+**The likely suspect**
 
 The main distinction between hornets and yellow jackets is that hornets build their nests above ground, while yellow jackets build their nests below ground. As their name suggests, yellow jackets typically have pronounced yellow stripes that are more vibrant than hornets'.  Yellow jackets can be scavengers and can be found flitting around a garbage can looking for meat scraps or sweets [[4](http://entomology.ifas.ufl.edu/creatures/urban/occas/hornet_yellowjacket.htm)]. Hornets don’t tend to scavenge, but rather hunt caterpillars and other insects.  Because of their scavenging behavior, yellow jackets are often found in suburban/urban areas where food waste is available.  
 
