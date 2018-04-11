@@ -9,28 +9,15 @@ tags:
 - species
 - identification
 categories:
-Earth’s Organisms
+- Earth’s Organisms
 header:
- image_fullwidth: 
-organisms-header.jpg
+ image_fullwidth: organisms-header.jpg
 image:
  thumb: 2018-04-16-Broadley-Fig1.jpg
 teaser: I recently came across a swarm of wasps and did not know what they were.  For an entomologist, that’s scarier than the swarm itself, so I did some sleuthing. 
 source-id: 17BRcot3D-f6DH1B1kajCELhGOEmxXcAkQaGROzdsAgM
 published: true
 ---
-**Title:** Bug Sleuth – One Entomologist's Mission to ID a Mysterious Swarm of Wasps 
-
-**Author:** Hannah J. Broadley 
-
-**Teaser:** I recently came across a swarm of wasps and did not know what they were.  For an entomologist, that's scarier than the swarm itself, so I did some sleuthing.    
-
-**Category:** Earth's Organisms
-
-**Keywords:** insects, wasps, species, identification
-
-**Featured photo:** Figure 1 
-
 Early this fall, my lab-mate and I found a swarm of wasps had been hovering around the hood of one of our lab cars. Rather than be freaked out about the presence of dozens of wasps and the potential of being stung, we were concerned that we didn't know whether these were hornets, yellow jackets, or another type of wasp.  As entomologists, not knowing was more terrifying than the presence of the wasps themselves!
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/38306244685/in/dateposted-friend/" title="2017-11-26-Wasps-BROADLEY-Cartoon"><img src="https://farm5.staticflickr.com/4633/38306244685_db6cb4e432_c.jpg" width="800" height="600" alt="2017-11-26-Wasps-BROADLEY-Cartoon"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
@@ -89,5 +76,7 @@ And now both scares are over.  The swarm is gone, as it has gotten too cold for 
 
 [4] Grissell, E. "Featured Creatures: yellowjackets and hornets." Entomology and Nematology, University of Florida. Last revised Nov. 2013. Accessed 3 Nov. 2017. [http://entomology.ifas.ufl.edu/creatures/urban/occas/hornet_yellowjacket.htm](http://entomology.ifas.ufl.edu/creatures/urban/occas/hornet_yellowjacket.htm) 
 
-## More From Thats Life [Science]{: .t60 }{% include list-posts offset="1" entries='5' category="Earth's Organisms" %}
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Earth's Organisms" %}
 
