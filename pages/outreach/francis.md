@@ -1,6 +1,6 @@
 ---
 title: How do you represent growth? (unfinished)
-permalink: "/authors/francis/"
+permalink: "/outreach/francis/"
 layout: page
 meta_title: How do you represent growth? (unfinished) | Pipettes & Paintbrushes
 subheadline: Spring 2018
