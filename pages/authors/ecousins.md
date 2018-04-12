@@ -9,11 +9,11 @@ teaser: PhD Student in Organismic and Evolutionary Biology
 header:
   image_fullwidth: you-can-delete-me-header.png
 gallery:
-- image_url: cousins-01.jpg
+- image_url: ecousins-01.jpg
   caption: Elsa Cousins
 ---
 
-![Elsa Cousins]({{ site.url }}/images/cousins-01.jpg)
+![Elsa Cousins]({{ site.url }}/images/ecousins-01.jpg)
 
 Research Area: Pollination ecology, multi-trophic interactions.
 
