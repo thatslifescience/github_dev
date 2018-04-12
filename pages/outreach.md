@@ -80,60 +80,6 @@ header: no
 </div>
 <div class="row row-centered">
         <div class="large-3 columns">
-        <img src="{{ site.urlimg }}grade-01-01.jpg" alt="Aaron Grade">
-        <p><a href = "{{ site.url }}/authors/agrade"><b>Aaron Grade</b></a></p>
-        </div>
-        <div class="large-3 columns">
-        <img src="{{ site.urlimg }}guo-01.jpg" alt="Lian Guo">
-        <p><a href = "{{ site.url }}/authors/lguo"><b>Lian Guo</b></a></p>
-        </div>
-        <div class="large-3 columns">
-        <img src="{{ site.urlimg }}hancock-01-01.jpg" alt="Laura Hancock">
-        <p><a href = "{{ site.url }}/authors/lhancock"><b>Laura Hancock</b></a></p>
-        </div>
-        <div class="large-3 columns">
-        <img src="{{ site.urlimg }}kumar-01.jpg" alt="Ajay Kumar">
-        <p><a href = "{{ site.url }}/authors/akumar"><b>Ajay Kumar</b></a></p>
-        </div>
-</div>
-<div class="row row-centered">
-        <div class="large-3 columns">
-        <img src="{{ site.urlimg }}kuras-01-01.jpg" alt="Evan Kuras">
-        <p><a href = "{{ site.url }}/authors/ekuras"><b>Evan Kuras</b></a></p>
-        </div>
-        <div class="large-3 columns">
-        <img src="{{ site.urlimg }}pmcginn-01.jpg" alt="Peter N. McGinn">
-        <p><a href = "{{ site.url }}/authors/pmcginn"><b>Peter N. McGinn</b></a></p>
-        </div>
-        <div class="large-3 columns">
-        <img src="{{ site.urlimg }}emelzer.jpg" alt="Emily S. Melzer">
-        <p><a href = "{{ site.url }}/authors/emelzer"><b>Emily S. Melzer</b></a></p>
-        </div>
-        <div class="large-3 columns">
-        <img src="{{ site.urlimg }}navon-01-01.jpg" alt="Dina Navon">
-        <p><a href = "{{ site.url }}/authors/dnavon"><b>Dina Navon</b></a></p>
-        </div>
-</div>
-<div class="row row-centered">
-        <div class="large-3 columns">
-        <img src="{{ site.urlimg }}pold-01.jpg" alt="Grace Pold">
-        <p><a href = "{{ site.url }}/authors/gpold"><b>Grace Pold</b></a></p>
-        </div>
-        <div class="large-3 columns">
-        <img src="{{ site.urlimg }}kstraley.jpg" alt="Kit Straley">
-        <p><a href = "{{ site.url }}/authors/kstraley"><b>Kit Straley</b></a></p>
-        </div>
-        <div class="large-3 columns">
-        <img src="{{ site.urlimg }}strauss-01-01.jpg" alt="Amy V. H. Strauss">
-        <p><a href = "{{ site.url }}/authors/astrauss"><b>Amy V. H. Strauss</b></a></p>
-        </div>
-        <div class="large-3 columns">
-        <img src="{{ site.urlimg }}vahaba-01.jpg" alt="Dan Vahaba">
-        <p><a href = "{{ site.url }}/authors/dvahaba"><b>Dan Vahaba</b></a></p>
-        </div>       
-</div>
-<div class="row row-centered">
-        <div class="large-3 columns">
         <img src="{{ site.urlimg }}vanderlinden-01-01.jpg" alt="Abby Vander Linden">
         <p><a href = "{{ site.url }}/authors/avlinden"><b>Abby Vander Linden</b></a></p>
         </div> 
@@ -142,56 +88,4 @@ header: no
         <p><a href = "{{ site.url }}/authors/tzintel"><b>Trisha Zintel</b></a></p>
         </div> 
 </div>
-        
-<center><h3>Past Contributors</h3></center><br>
-        
-<div class="row row-centered">
-        <div class="large-3 columns">
-        <img src="{{ site.urlimg }}perkins-01.jpg" alt="Elisha Allan-Perkins">
-        <p><a href = "{{ site.url }}/authors/eaperkins"><b>Elisha Allan-Perkins</b></a></p>
-        </div>
-        <div class="large-3 columns">
-        <img src="{{ site.urlimg }}coomey-01.jpg" alt="Joshua H. Coomey">
-        <p><a href = "{{ site.url }}/authors/jcoomey"><b>Joshua H. Coomey</b></a></p>
-        </div>     
-        <div class="large-3 columns">
-        <img src="{{ site.urlimg }}davis-01.jpg" alt="Monica Davis">
-        <p><a href = "{{ site.url }}/authors/mdavis"><b>Monica Davis</b></a></p>
-        </div>
-        <div class="large-3 columns">
-        <img src="{{ site.urlimg }}devine-01.jpg" alt="Matt Devine">
-        <p><a href = "{{ site.url }}/authors/mdevine"><b>Matt Devine</b></a></p>
-        </div>         
-</div>
-<div class="row row-centered">
-        <div class="large-3 columns">
-        <img src="{{ site.urlimg }}galindo-01.jpg" alt="Luisa Galindo">
-        <p><a href = "{{ site.url }}/authors/lgalindo"><b>Luisa Galindo</b></a></p>
-        </div>
-        <div class="large-3 columns">
-        <img src="{{ site.urlimg }}garciaheredia-01.jpg" alt="Alam Garcia Heredia">
-        <p><a href = "{{ site.url }}/authors/agheredia"><b>Alam Garcia Heredia</b></a></p>
-        </div>
-        <div class="large-3 columns">
-        <img src="{{ site.urlimg }}griffin-01-01.jpg" alt="Lucas Griffin">
-        <p><a href = "{{ site.url }}/authors/lgriffin"><b>Lucas Griffin</b></a></p>
-        </div>
-        <div class="large-3 columns">
-        <img src="{{ site.urlimg }}ha-01.jpg" alt="Stephanie A. Ha">
-        <p><a href = "{{ site.url }}/authors/sha"><b>Stephanie A. Ha</b></a></p>
-        </div>
-</div>
-<div class="row row-centered">
-        <div class="large-3 columns">
-        <img src="{{ site.urlimg }}krentzel-01.jpg" alt="Amanda Krentzel">
-        <p><a href = "{{ site.url }}/authors/akrentzel"><b>Amanda Krentzel</b></a></p>
-        </div>
-        <div class="large-3 columns">
-        <img src="{{ site.urlimg }}Morozov-01.jpg" alt="Aleksey Morozov">
-        <p><a href = "{{ site.url }}/authors/amorozov"><b>Aleksey Morozov</b></a></p>
-        </div>
-        <div class="large-3 columns end">
-        <img src="{{ site.urlimg }}shaughnessy-01-01.jpg" alt="Ciaran A. Shaughnessy">
-        <p><a href = "{{ site.url }}/authors/cshaughnessy"><b>Ciaran A. Shaughnessy</b></a></p>
-        </div>
-</div>
+    
