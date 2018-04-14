@@ -13,7 +13,7 @@ gallery:
 
 ![Invaders for Sale]({{ site.url }}/images/capaldo-01.jpg)
 
-Artist: **Victoria Capaldo**, BFA Architecture
+Artist: **Victoria Capaldo**, BFA Architecture<br>
 Watercolor and ink, yupo paper
 
 Partner: [Eve Beaury](http://thatslifesci.com/authors/ebeaury), Organismic and Evolutionary Biology
