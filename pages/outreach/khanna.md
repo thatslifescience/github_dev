@@ -1,5 +1,5 @@
 ---
-title: "Google: Scientist"
+title: "Google - Scientist"
 permalink: "/outreach/khanna/"
 layout: page
 meta_title: "Google: Scientist" | Pipettes & Paintbrushes
