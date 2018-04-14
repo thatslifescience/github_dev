@@ -13,7 +13,7 @@ gallery:
 
 ![Untitled]({{ site.url }}/images/hambrecht-01.jpg)
 
-Artist: **Amy Hambrecht**, Art Department
+Artist: **Amy Hambrecht**, Art Department<br>
 Mixed media
 
 Partner: [Emma Dauster](http://thatslifesci.com/authors/edauster), Neuroscience and Behavior
