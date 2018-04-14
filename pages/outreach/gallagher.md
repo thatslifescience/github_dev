@@ -13,7 +13,7 @@ gallery:
 
 ![Spread]({{ site.url }}/images/gallagher-01.jpg)
 
-Artist: **Samantha Gallagher**, BFA Architecture
+Artist: **Samantha Gallagher**, BFA Architecture<br>
 Acrylic on canvas
 
 Partner: [Laura Hancock](http://thatslifesci.com/authors/lhancock), Organismic and Evolutionary Biology
