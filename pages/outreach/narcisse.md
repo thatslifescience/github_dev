@@ -13,7 +13,7 @@ gallery:
 
 ![The closer you get, the farther you are.]({{ site.url }}/images/narcisse-01.jpg)
 
-Artist: **Tan-Tan Narcisse**, Department of Architecture
+Artist: **Tan-Tan Narcisse**, Department of Architecture<br>
 Copper and wood
 
 Partner: [Peter McGinn](http://thatslifesci.com/authors/pmcginn), Neuroscience and Behavior
