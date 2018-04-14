@@ -13,7 +13,7 @@ gallery:
 
 ![Google - Scientist]({{ site.url }}/images/khanna-01.jpg)
 
-Artist: **Hargun Khanna**, Biology
+Artist: **Hargun Khanna**, Biology<br>
 Acrylic, faux plants and flowers, repurposed umbrella
 
 Partner: [Amy Strauss](http://thatslifesci.com/authors/astrauss), Organismic and Evolutionary Biology
