@@ -11,7 +11,7 @@ gallery:
   caption: Alces alces, Bonescapes
 ---
 
-![Alces alces, Bonescapes]({{ site.url }}/images/francis-01-01.jpg)
+![Alces alces, Bonescapes]({{ site.url }}/images/fahey-01.jpg)
 
 Artist: **Eva Lin Fahey**, BFA Painting, Minor Art History
 Watercolor, ink, charcoal
