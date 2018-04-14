@@ -12,80 +12,56 @@ header: no
 
 <div class="row row-centered">
         <div class="large-3 columns">
+        <img src="{{ site.urlimg }}hambrecht-01.jpg" alt="Untitled">
+        <p><a href = "{{ site.url }}/outreach/hambrecht"><b>Untitled</b></a></p></div>
+        <div class="large-3 columns">
+        <img src="{{ site.urlimg }}fahey-01.jpg" alt="Alces alces, Bonescapes">
+        <p><a href = "{{ site.url }}/outreach/fahey"><b>Alces alces, Bonescapes</b></a></p></div>
+        <div class="large-3 columns">
+        <img src="{{ site.urlimg }}cousins-01.jpg" alt="Gradients">
+        <p><a href = "{{ site.url }}/outreach/cousins"><b>Gradients</b></a></p></div>
+        <div class="large-3 columns">
+        <img src="{{ site.urlimg }}capaldo-01.jpg" alt="Invaders for Sale">
+        <p><a href = "{{ site.url }}/outreach/capaldo"><b>Invaders for Sale</b></a></p></div>
+</div>
+<div class="row row-centered">
+        <div class="large-3 columns">
+        <img src="{{ site.urlimg }}gallagher-01.jpg" alt="Spread">
+        <p><a href = "{{ site.url }}/outreach/gallagher"><b>Spread</b></a></p>
+        </div>
+        <div class="large-3 columns">
+        <img src="{{ site.urlimg }}ashesimmer-01.jpg" alt="Sunflower Medicine">  
+        <p><a href = "{{ site.url }}/outreach/ashesimmer"><b>Sunflower Medicine</b></a></p>
+        </div>
+        <div class="large-3 columns">
+        <img src="{{ site.urlimg }}bell-01.jpg" alt="The Sentinel">
+        <p><a href = "{{ site.url }}/outreach/bell"><b>The Sentinel</b></a></p>
+        </div>
+        <div class="large-3 columns">
+        <img src="{{ site.urlimg }}narcisse-01.jpg" alt="The closer you get, the farther you are.">
+        <p><a href = "{{ site.url }}/outreach/narcisse"><b>The closer you get, the farther you are.</b></a></p>
+        </div>
+</div>
+<div class="row row-centered">
+        <div class="large-3 columns">
+        <img src="{{ site.urlimg }}bishop-01.jpg" alt="Oxidized Rhizospheres">
+        <p><a href = "{{ site.url }}/outreach/bishop"><b>Oxidized Rhizospheres</b></a></p>
+        </div>
+        <div class="large-3 columns">
         <img src="{{ site.urlimg }}francis-01-01.jpg" alt="How do you represent growth? (unfinished)">
         <p><a href = "{{ site.url }}/outreach/francis"><b>How do you represent growth? (unfinished)</b></a></p></div>
         <div class="large-3 columns">
-        <img src="{{ site.urlimg }}alcott-01-01.jpg" alt="Derrick Alcott">
-        <p><a href = "{{ site.url }}/authors/dalcott"><b>Derrick Alcott</b></a></p></div>
-        <div class="large-3 columns">
-        <img src="{{ site.urlimg }}alteio-01.jpg" alt="Lauren Alteio">
-        <p><a href = "{{ site.url }}/authors/lalteio"><b>Lauren Alteio</b></a></p></div>
-        <div class="large-3 columns">
-        <img src="{{ site.urlimg }}Andina-01.jpg" alt="Matias Andina">
-        <p><a href = "{{ site.url }}/authors/mandina"><b>Matias Andina</b></a></p></div>
-</div>
-<div class="row row-centered">
-        <div class="large-3 columns">
-        <img src="{{ site.urlimg }}jbarnett-01.jpg" alt="Jacob R. Barnett">
-        <p><a href = "{{ site.url }}/authors/jbarnett"><b>Jacob R. Barnett</b></a></p>
+        <img src="{{ site.urlimg }}khanna-01.jpg" alt="Google: Scientist">
+        <p><a href = "{{ site.url }}/outreach/khanna"><b>Google: Scientist</b></a></p>
         </div>
         <div class="large-3 columns">
-        <img src="{{ site.urlimg }}ebeaury-01.jpg" alt="Eve Beaury">  
-        <p><a href = "{{ site.url }}/authors/ebeaury"><b>Eve Beaury</b></a></p>
-        </div>
-        <div class="large-3 columns">
-        <img src="{{ site.urlimg }}rbell-01.jpg" alt="Rachel Bell">
-        <p><a href = "{{ site.url }}/authors/rbell"><b>Rachel Bell</b></a></p>
-        </div>
-        <div class="large-3 columns">
-        <img src="{{ site.urlimg }}broadley-01-01.jpg" alt="Hannah J. Broadley">
-        <p><a href = "{{ site.url }}/authors/hbroadley"><b>Hannah J. Broadley</b></a></p>
+        <img src="{{ site.urlimg }}chen-01.jpg" alt="Painting: Data Flurry, Poem: Whiteout">
+        <p><a href = "{{ site.url }}/outreach/chen"><b>Painting: Data Flurry, Poem: Whiteout</b></a></p>
         </div>
 </div>
 <div class="row row-centered">
-        <div class="large-3 columns">
-        <img src="{{ site.urlimg }}Bruce-01.jpg" alt="Maggie Bruce">
-        <p><a href = "{{ site.url }}/authors/mbruce"><b>Maggie Bruce</b></a></p>
-        </div>
-        <div class="large-3 columns">
-        <img src="{{ site.urlimg }}chaput-01.jpg" alt="Gina Chaput">
-        <p><a href = "{{ site.url }}/authors/gchaput"><b>Gina Chaput</b></a></p>
-        </div>
-        <div class="large-3 columns">
-        <img src="{{ site.urlimg }}cousins-01.jpg" alt="Elsa Cousins">
-        <p><a href = "{{ site.url }}/authors/ecousins"><b>Elsa Cousins</b></a></p>
-        </div>
-        <div class="large-3 columns">
-        <img src="{{ site.urlimg }}edauster-01.jpg" alt="Emma Dauster">
-        <p><a href = "{{ site.url }}/authors/edauster"><b>Emma Dauster</b></a></p>
-        </div>
-</div>
-<div class="row row-centered">
-        <div class="large-3 columns">
-        <img src="{{ site.urlimg }}kdevarajan-01.jpg" alt="Kadambari Devarajan">
-        <p><a href = "{{ site.url }}/authors/kdevarajan"><b>Kadambari Devarajan</b></a></p>
-        </div>
-        <div class="large-3 columns">
-        <img src="{{ site.urlimg }}drake-01.jpg" alt="Joseph Drake">
-        <p><a href = "{{ site.url }}/authors/jdrake"><b>Joseph Drake</b></a></p>
-        </div>
-        <div class="large-3 columns">
-        <img src="{{ site.urlimg }}falconi_lopez-01.jpg" alt="Nereyda Falconi">
-        <p><a href = "{{ site.url }}/authors/nfalconi"><b>Nereyda Falconi</b></a></p>
-        </div>
-        <div class="large-3 columns">
-        <img src="{{ site.urlimg }}fusco-01.jpg" alt="Emily Fusco">
-        <p><a href = "{{ site.url }}/authors/efusco"><b>Emily Fusco</b></a></p>
-        </div>
-</div>
-<div class="row row-centered">
-        <div class="large-3 columns">
-        <img src="{{ site.urlimg }}vanderlinden-01-01.jpg" alt="Abby Vander Linden">
-        <p><a href = "{{ site.url }}/authors/avlinden"><b>Abby Vander Linden</b></a></p>
-        </div> 
         <div class="large-3 columns end">
-        <img src="{{ site.urlimg }}tzintel.jpg" alt="Trisha Zintel">
-        <p><a href = "{{ site.url }}/authors/tzintel"><b>Trisha Zintel</b></a></p>
-        </div> 
+        <img src="{{ site.urlimg }}bonnanzio-01.jpg" alt="Landscapes of Fear">
+        <p><a href = "{{ site.url }}/outreach/bonnanzio"><b>Landscapes of Fear</b></a></p>
+        </div>
 </div>
-    
