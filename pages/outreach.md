@@ -51,12 +51,12 @@ header: no
         <img src="{{ site.urlimg }}francis-01-01.jpg" alt="How do you represent growth? (unfinished)">
         <p><a href = "{{ site.url }}/outreach/francis"><b>How do you represent growth? (unfinished)</b></a></p></div>
         <div class="large-3 columns">
-        <img src="{{ site.urlimg }}khanna-01.jpg" alt="Google: Scientist">
-        <p><a href = "{{ site.url }}/outreach/khanna"><b>Google: Scientist</b></a></p>
+        <img src="{{ site.urlimg }}khanna-01.jpg" alt="Google - Scientist">
+        <p><a href = "{{ site.url }}/outreach/khanna"><b>Google - Scientist</b></a></p>
         </div>
         <div class="large-3 columns">
-        <img src="{{ site.urlimg }}chen-01.jpg" alt="Painting: Data Flurry, Poem: Whiteout">
-        <p><a href = "{{ site.url }}/outreach/chen"><b>Painting: Data Flurry, Poem: Whiteout</b></a></p>
+        <img src="{{ site.urlimg }}chen-01.jpg" alt="Painting - Data Flurry, Poem - Whiteout">
+        <p><a href = "{{ site.url }}/outreach/chen"><b>Painting - Data Flurry, Poem - Whiteout</b></a></p>
         </div>
 </div>
 <div class="row row-centered">
