@@ -13,7 +13,7 @@ gallery:
 
 ![Alces alces, Bonescapes]({{ site.url }}/images/fahey-01.jpg)
 
-Artist: **Eva Lin Fahey**, BFA Painting, Minor Art History
+Artist: **Eva Lin Fahey**, BFA Painting, Minor Art History<br>
 Watercolor, ink, charcoal
 
 Partner: [Abby Vander Linden](http://thatslifesci.com/authors/avlinden), Organismic and Evolutionary Biology
