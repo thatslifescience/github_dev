@@ -13,7 +13,7 @@ gallery:
 
 ![How do you represent growth? (unfinished)]({{ site.url }}/images/francis-01-01.jpg)
 
-**Henry Moores Francis**, Architecture
+**Henry Moores Francis**, Architecture<br>
 Metal and thread
 
 Partner: [Lian Guo](http://thatslifesci.com/authors/lguo), Organismic and Evolutionary Biology
