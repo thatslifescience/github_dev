@@ -13,7 +13,7 @@ gallery:
 
 ![Landscapes of Fear]({{ site.url }}/images/bonnanzio-01.jpg)
 
-Artist: **Abby Bonnanzio**, Art Department
+Artist: **Abby Bonnanzio**, Art Department<br>
 Paint and ink on wood
 
 Partner: [Aaron Grade](http://thatslifesci.com/authors/agrade), Organismic and Evolutionary Biology
