@@ -13,7 +13,7 @@ gallery:
 
 ![Painting - Data Flurry, Poem - Whiteout]({{ site.url }}/images/chen-01.jpg)
 
-Artist: **Michelle Chen**, Commonwealth Honors College, English Major
+Artist: **Michelle Chen**, Commonwealth Honors College, English Major<br>
 Acrylic
 
 Partner: [Kadambari Devarajan](http://thatslifesci.com/authors/kdevarajan), Organismic and Evolutionary Biology
