@@ -13,7 +13,7 @@ gallery:
 
 ![Oxidized Rhizospheres]({{ site.url }}/images/bishop-01.jpg)
 
-Artist: **Hannah Bishop**, MFA for Poets and Writers
+Artist: **Hannah Bishop**, MFA for Poets and Writers<br>
 Poetry and digital media
 
 Partner: Carolyn Gorss, Environmental Conservation
