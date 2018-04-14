@@ -1,17 +1,17 @@
 ---
-title: "Painting: Data Flurry, Poem: Whiteout"
+title: "Painting - Data Flurry, Poem - Whiteout"
 permalink: "/outreach/chen/"
 layout: page
-meta_title: Painting: Data Flurry, Poem: Whiteout | Pipettes & Paintbrushes
+meta_title: Painting - Data Flurry, Poem - Whiteout | Pipettes & Paintbrushes
 subheadline: Pipettes & Paintbrushes | Spring 2018
 header:
   image_fullwidth: you-can-delete-me-header.png
 gallery:
 - image_url: chen-01.jpg
-  caption: Painting: Data Flurry, Poem: Whiteout
+  caption: Painting - Data Flurry, Poem - Whiteout
 ---
 
-![Painting: Data Flurry, Poem: Whiteout]({{ site.url }}/images/chen-01.jpg)
+![Painting - Data Flurry, Poem - Whiteout]({{ site.url }}/images/chen-01.jpg)
 
 Artist: **Michelle Chen**, Commonwealth Honors College, English Major
 Acrylic
