@@ -13,7 +13,7 @@ gallery:
 
 ![Gradients]({{ site.url }}/images/cousins-01.jpg)
 
-Artist: **Elsa Cousins**, Organismic and Evolutionary Biology
+Artist: **Elsa Cousins**, Organismic and Evolutionary Biology<br>
 Textiles, oven baked clay, watercolor
 
 Partner: [Evan Kuras](http://thatslifesci.com/authors/ekuras), Environmental Conservation
