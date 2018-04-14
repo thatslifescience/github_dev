@@ -13,7 +13,7 @@ gallery:
 
 ![The Sentinel]({{ site.url }}/images/bell-01.jpg)
 
-Artist: **Rachel Bell**, Organismic and Evolutionary Biology
+Artist: **Rachel Bell**, Organismic and Evolutionary Biology<br>
 Acrylic paint
 
 Partner: [Jacob Barnett](http://thatslifesci.com/authors/jbarnett), Organismic and Evolutionary Biology
