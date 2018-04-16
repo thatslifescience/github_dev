@@ -14,11 +14,11 @@ header:
  image_fullwidth: organisms-header.jpg
 image:
  thumb: 2018-04-16-Broadley-Fig1.jpg
-teaser: I recently came across a swarm of wasps and did not know what they were.  For an entomologist, that’s scarier than the swarm itself, so I did some sleuthing. 
+teaser: This past fall, I came across a swarm of wasps and did not know what they were.  For an entomologist, that’s scarier than the swarm itself, so I did some sleuthing. 
 source-id: 17BRcot3D-f6DH1B1kajCELhGOEmxXcAkQaGROzdsAgM
 published: true
 ---
-Early this fall, my lab-mate and I found a swarm of wasps had been hovering around the hood of one of our lab cars. Rather than be freaked out about the presence of dozens of wasps and the potential of being stung, we were concerned that we didn't know whether these were hornets, yellow jackets, or another type of wasp.  As entomologists, not knowing was more terrifying than the presence of the wasps themselves!
+This past fall, my lab-mate and I found a swarm of wasps had been hovering around the hood of one of our lab cars. Rather than be freaked out about the presence of dozens of wasps and the potential of being stung, we were concerned that we didn't know whether these were hornets, yellow jackets, or another type of wasp.  As entomologists, not knowing was more terrifying than the presence of the wasps themselves!
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/38306244685/in/dateposted-friend/" title="2017-11-26-Wasps-BROADLEY-Cartoon"><img src="https://farm5.staticflickr.com/4633/38306244685_db6cb4e432_c.jpg" width="800" height="600" alt="2017-11-26-Wasps-BROADLEY-Cartoon"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
@@ -62,9 +62,9 @@ Great—we're narrowing down on our culprit.  Our suspect was bright yellow and 
 
 The main distinction between hornets and yellow jackets is that hornets build their nests above ground, while yellow jackets build their nests below ground. As their name suggests, yellow jackets typically have pronounced yellow stripes that are more vibrant than hornets'.  Yellow jackets can be scavengers and can be found flitting around a garbage can looking for meat scraps or sweets [[4](http://entomology.ifas.ufl.edu/creatures/urban/occas/hornet_yellowjacket.htm)]. Hornets don’t tend to scavenge, but rather hunt caterpillars and other insects.  Because of their scavenging behavior, yellow jackets are often found in suburban/urban areas where food waste is available.  
 
-With all this in mind, it looks likely that the wasp swarm in question were yellow jackets!  (1) They are known to swarm like we saw, particularly when it has been wet for a few days as they can get driven out of their underground burrows. (2) They are more often seen in urban areas. (3) Yellow jackets are smaller than hornets and have more pronounced yellow stripes as our insect suspects did. (4) Last, but not least, I got identification confirmation from one of my advisors!       
+With all this in mind, it looks likely that the wasp swarm in question were yellow jackets!  (1) They are known to swarm like we saw, particularly when it has been wet for a few days as they can get driven out of their underground burrows. (2) They are more often seen in urban areas. (3) Yellow jackets are smaller than hornets and have more pronounced yellow stripes as our insect suspects did. (4) Last, but not least, I got identification confirmation from one of my mentors!       
 
-And now both scares are over.  The swarm is gone, as it has gotten too cold for them to stay active, and  only the queen is left huddled in a crevice somewhere, waiting for spring.  And I have solved the scare of being an entomologist that does not know the identification of a 'bug' in question!  
+What a relief to have both scares over.  The swarm is long gone. By mid-fall it had gotten too cold for them to stay active, and only the queen was left to overwinter in a crevice somewhere waiting to reemerge and start a new colony this spring. And I have solved the scare of being an entomologist that does not know the identification of a 'bug' in question!  
 
 **References**
 
