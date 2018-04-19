@@ -18,23 +18,11 @@ teaser: What time you’re eating may be more influential than what you’re eat
 source-id: 1I9Jk3K-mjknjVzfLAiWDvmaGViHvDeWE6yOJUTJSUwE
 published: true
 ---
-**Title: **Midnight Snacks Could Be the Death of You
-
-**Author: **E. Dauster
-
-**Categories: **How it works
-
-**Keywords:** Health, Animal, Circadian, Diet
-
-**Teaser:  **What time you're eating may be more influential than what you’re eating, according to a collaborator of Nobel Prize recipients.
-
-**Featured photos: **Thumbnail image = Fig. 2
-
 Our circadian rhythms (our body's internal clock system) affect many different aspects of our lives, including susceptibility to health complications such as diabetes, obesity, and bipolar disorder [3].  In fact, the impact of circadian rhythms on health is so great that the 2017 Nobel Prize in Physiology or Medicine was awarded to three scientists studying the topic.  Drs. Jeffrey C. Hall, Michael Rosbash and Michael W. Young found three genes called "period" (Per), “timeless” (Tim), and “doubletime” (Dbt) that control our internal concept of what time to be awake and what time to sleep.  They found that, in a fruit fly model, these genes contain the code for a protein that fly cells have a lot of during sleeping hours and break down during waking hours [3].  Basically, they figured out how we determine when to be awake and when to rest without external cues such as daylight to tell us. 
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/38118606934/in/dateposted-friend/" title="tls post 1"><img src="https://farm5.staticflickr.com/4581/38118606934_761e244696_z.jpg" width="640" height="450" alt="tls post 1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-**Figure 1. **Genes Per, Tim, and Dbt work together to regulate our circadian rhythm every day.  During the day, light activates cryptochrome (Cry), which degrades Tim, allowing Dbt to degrade Per.  Therefore, Per and Tim stop blocking Clock (Clk) and Cycle (Cyc) transcription factor, resulting in mRNA transcription and subsequent protein formation during the day but not at night.  Source: L.Sandieson
+**Figure 1.** Genes Per, Tim, and Dbt work together to regulate our circadian rhythm every day.  During the day, light activates cryptochrome (Cry), which degrades Tim, allowing Dbt to degrade Per.  Therefore, Per and Tim stop blocking Clock (Clk) and Cycle (Cyc) transcription factor, resulting in mRNA transcription and subsequent protein formation during the day but not at night.  Source: L.Sandieson
 
 Their collaborator, Dr. Joseph Takahashi, recently came to UMass to give a seminar talk about some similar studies he has conducted in mice.  A major goal of Dr. Takahashi's is to determine **what factors most affect weight loss and life extension: the amount of calories you take in or when you eat them.**  To find the answers, he created several test groups of mice and compared their body weights over 18 months.  
 
@@ -54,7 +42,7 @@ Interestingly, those who could eat as much as they wanted but were time restrict
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/27425835079/in/dateposted-friend/" title="tls post 1 pic2.png"><img src="https://farm5.staticflickr.com/4589/27425835079_bf0bfa1e4c.jpg" width="500" height="375" alt="tls post 1 pic2.png"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-**Figure 2. **Midnight snacks can be tempting but probably should be avoided.  Source: Sean Murray
+**Figure 2.** Midnight snacks can be tempting but probably should be avoided.  Source: Sean Murray
 
 Dr. Takahashi's data is exciting because it may tell us that the amount of calories you eat is not as important as when you eat.  This is due in part to regulation of bodily functions by the previously mentioned circadian genes Per, Tim, and Dbt.  Of course, your body still requires certain nutrients to function properly, but this might explain why that diet you’re on hasn’t been helping you shed weight like you thought or make you feel more energized and healthy.  If you are calorie conscious, think about when you are eating your largest meals.  It’s possible that your midnight snack, although only half a sandwich, is doing more harm than having two sandwiches for breakfast.  **Bottom line: eat more calories earlier in the day and fewer later.  You might lose weight, become healthier, and live longer!**
 
@@ -68,3 +56,7 @@ Dr. Takahashi's data is exciting because it may tell us that the amount of calor
 
 [4] Takahashi seminar at University of Massachusetts, Amherst.  October 11, 2017.
 
+
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries="5" category="How It Works" %}
