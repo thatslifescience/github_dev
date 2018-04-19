@@ -18,10 +18,5 @@ Pen and ink
 
 Partner: George LoCascio, Environmental Conservation
 
-<a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/139839751@N06/27680563258/in/dateposted-friend/" title="AshesimmerB"><img src="https://farm1.staticflickr.com/879/27680563258_206a34645e.jpg" width="500" height="333" alt="AshesimmerB"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-<a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/139839751@N06/41509462592/in/dateposted-friend/" title="AshesimmerG"><img src="https://farm1.staticflickr.com/882/41509462592_f99a8cd685.jpg" width="500" height="333" alt="AshesimmerG"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/41509462592/in/dateposted-friend/" title="AshesimmerG"><img src="https://farm1.staticflickr.com/882/41509462592_f99a8cd685.jpg" width="500" height="333" alt="AshesimmerG"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-<a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/139839751@N06/27680563258/in/dateposted-friend/" title="AshesimmerB"><img src="https://farm1.staticflickr.com/879/27680563258_206a34645e.jpg" width="500" height="333" alt="AshesimmerB"  href="https://www.flickr.com/photos/139839751@N06/41509462592/in/dateposted-friend/" title="AshesimmerG"><img src="https://farm1.staticflickr.com/882/41509462592_f99a8cd685.jpg" width="500" height="333" alt="AshesimmerG"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<iframe align=center src= http://www.flickr.com/slideShow/index.gne?user_id=139839751@N06&tags=ashesimmer
+frameBorder=0 width=500 scrolling=no height=500></iframe>
