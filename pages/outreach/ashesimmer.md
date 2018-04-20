@@ -18,5 +18,4 @@ Pen and ink
 
 Partner: George LoCascio, Environmental Conservation
 
-<iframe align=center src= http://www.flickr.com/slideShow/index.gne?user_id=139839751@N06&tags=ashesimmer
-frameBorder=0 width=500 scrolling=no height=500></iframe>
+<iframe align=center src= http://www.flickr.com/slideShow/index.gne?user_id=139839751@N06&tags=ashesimmer frameBorder=0 width=500 scrolling=no height=500></iframe>
