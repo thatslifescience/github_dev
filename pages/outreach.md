@@ -8,9 +8,9 @@ teaser: That's Life [Science]'s aim is to do life science outreach online and in
 header: no
 ---
 
-<center><h2>Pipettes & Paintbrushes</h2></center><br>
-<center><h4>a collaboration between artists & scientists</h4></center><br>
-<center>organized by Katherine Straley and Valenka Kosick</center>
+<center><h2>Pipettes & Paintbrushes</h2></center>  
+<center><h4>a collaboration between artists & scientists</h4></center>  
+<center>organized by Katherine Straley and Valenka Kosick</center><br>
 
 <div class="row row-centered">
         <div class="large-3 columns">
@@ -68,8 +68,8 @@ header: no
         </div>
 </div>
 
-<center><h3>Photos from Reception on April 4, 2018</h3></center>
+<center><h3>Photos from Reception on April 4, 2018</h3></center><br>
 
-<a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/139839751@N06/41563429282/in/album-72157666012352517/" title="20180404_171137"><img src="https://farm1.staticflickr.com/911/41563429282_91e20d9c80_c.jpg" width="800" height="600" alt="20180404_171137"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<center><a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/139839751@N06/41563429282/in/album-72157666012352517/" title="20180404_171137"><img src="https://farm1.staticflickr.com/911/41563429282_91e20d9c80_c.jpg" width="800" height="600" alt="20180404_171137"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-For more information about That's Life [Science]'s local outreach, please email (tlsoutreachandcomm@gmail.com)[mailto:tlsoutreachandcomm@gmail.com]
+For more information about That's Life [Science]'s local outreach, please email [tlsoutreachandcomm@gmail.com](mailto:tlsoutreachandcomm@gmail.com)
