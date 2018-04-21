@@ -21,3 +21,5 @@ Partner: [Eve Beaury](http://thatslifesci.com/authors/ebeaury), Organismic and E
 Victoria is an architecture and design studies undergraduate student at UMass Amherst. She works primarily with ink, pencil, watercolor, with a recent focus on collage and digital fabrication. Her style embraces rich color and bold graphic elements. For this exhibition, she returns to her roots as a watercolor painter in a playful and experimental series on yupo. 
 
 instagram: victoriacapaldo_
+
+<a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/139839751@N06/26682008527/in/album-72157666010763177/" title="CapaldoB"><img src="https://farm1.staticflickr.com/800/26682008527_a243f22987_c.jpg" width="800" height="534" alt="CapaldoB"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
