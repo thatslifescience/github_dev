@@ -16,9 +16,9 @@ gallery:
 Artist: **Tan-Tan Narcisse**, Department of Architecture<br>
 Copper and wood
 
-Partner: [Peter McGinn](http://thatslifesci.com/authors/pmcginn), Neuroscience and Behavior
-
 Tan-Tan Narcisse is currently a second-year architecture student at the University of Massachusetts, Amherst. His experience in the undergraduate architecture program has been a factor in his design and creative processes. Furthermore, his use of medium tends to be experimental, as he seeks to understand the properties of the materials used in his projects. For instance, for the first time, Tan-Tan used aluminum as an accent. Large-scale wood construction (completed with the help of master craftsman J. Pierce) is another first for him.
+
+Partner: [Peter McGinn](http://thatslifesci.com/authors/pmcginn), Neuroscience and Behavior
 
 Our piece is not explicitly about a particular body of research or artistic work. Instead it seeks to remind the viewer that science and art are not competing schools of thought as we are programmed to believe. To do this we found inspiration in the central  idea that "The closer you get to defining something, the farther you actually are". As scientists begin down the rabbit hole of exploring a thesis they often lose sight of their original question. They find their projects have a depth and breadth they could not have possibly imagined. Like-wise artists are charged with bringing the mind’s image into the tangible world. As they begin to create and sculpt their work they realize it will inevitably change in the process. The beauty they will find, is that each person that sees the work comes away with their own wonderful interpretation.
 We hope this will be a powerful symbol for aspiring artists and scientists alike. You don't have to be an emotionless-apathetic-intellect to pursue science and in contrast you don't have to be bursting with creative passion and artistic direction to be an artist. In fact, our conversations led us to realize that some of the best scientists are the most creative while the most renowned artists often spent years of their lives studying themselves, the world, and past artists before even picking up a paint brush.
