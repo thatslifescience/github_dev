@@ -159,4 +159,29 @@ jdrake:
 gwriter:
     name: "Guest Writer"
     siterole: ""  
+    
+edauster:
+    name: "Emma Dauster"
+    siterole: ""  
+    
+jbarnett:
+    name: "Jake Barnett"
+    siterole: ""  
+
+ebeaury:
+    name: "Eve Beaury"
+    siterole: ""  
+    
+rbell:
+    name: "Rachel Bell"
+    siterole: ""  
+    
+kdevarajan:
+    name: "Kadambari Devarajan"
+    siterole: ""  
+    
+pmcginn:
+    name: "Peter McGinn"
+    siterole: ""  
+        
 # you can add more authors here
