@@ -13,6 +13,8 @@ gallery:
 
 ![The Sentinel]({{ site.url }}/images/bell-01.jpg)
 
+Canary in the Soil Biome: Using DNA to find invisible “sentinel” microbes that respond to warming soil temperatures If you eat food, breathe air, or enjoy the outdoors, you can thank the soil! We may take it for granted, but the brown stuff under our feet is a thriving ecosystem full of life. Most of these organisms are microbes such as bacteria and fungi that are invisible to our eyes. Healthy soil provides important services for agriculture, forestry, and climate buffering - but it is threatened by rising global temperatures. We need to understand how the creatures in the soil respond to warming so that we can keep them healthy enough to provide the services we need. By using cutting-edge molecular techniques, we can identify the invisible life in the soil from its DNA. Just as a canary in a coal mine can serve as a “sentinel” for dangerous changes in an environment, we are hoping to find microbial “canaries” that can alert us to when soil is nearing an unhealthy state. 
+
 Artist: **Rachel Bell**, Organismic and Evolutionary Biology<br>
 Acrylic paint
 
