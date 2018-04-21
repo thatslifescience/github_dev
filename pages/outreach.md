@@ -73,4 +73,4 @@ header: no
 <center><a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/139839751@N06/41563429282/in/album-72157666012352517/" title="20180404_171137"><img src="https://farm1.staticflickr.com/911/41563429282_91e20d9c80_c.jpg" width="800" height="600" alt="20180404_171137"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
 
-<center>For more information about That's Life [Science]'s local outreach, please email [tlsoutreachandcomm@gmail.com](mailto:tlsoutreachandcomm@gmail.com)</center>
+<center>For more information about That's Life [Science]'s local outreach, please email <a href="mailto:tlsoutreachandcomm@gmail.com">tlsoutreachandcomm@gmail.com</a></center>
