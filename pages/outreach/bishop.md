@@ -22,3 +22,5 @@ Hannah Bishop is an MFA poetry candidate and artist. She is originally from New 
 “Oxidized Rhizospheres” combines poetry and found botanical illustrations, inspired by Carolyn’s research and passion for wetlands and the flora found there.
 
 instagram: @Bishplease3
+
+<a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/139839751@N06/40839356494/in/album-72157692758865962/" title="BishopA"><img src="https://farm1.staticflickr.com/901/40839356494_42dfa598c6_c.jpg" width="534" height="800" alt="BishopA"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
