@@ -24,3 +24,4 @@ With my architecture foundations in college, I hope to go into sustainable archi
 
 instagram: gallagher.png
 
+<a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/139839751@N06/41518642542/in/album-72157666010653717/" title="gallagher"><img src="https://farm1.staticflickr.com/876/41518642542_3696e0e280_c.jpg" width="800" height="541" alt="gallagher"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
