@@ -52,7 +52,7 @@ header: no
         <p><a href = "{{ site.url }}/authors/gchaput"><b>Gina Chaput</b></a></p>
         </div>
         <div class="large-3 columns">
-        <img src="{{ site.urlimg }}cousins-01.jpg" alt="Elsa Cousins">
+        <img src="{{ site.urlimg }}ecousins-01.jpg" alt="Elsa Cousins">
         <p><a href = "{{ site.url }}/authors/ecousins"><b>Elsa Cousins</b></a></p>
         </div>
         <div class="large-3 columns">
