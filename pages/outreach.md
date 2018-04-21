@@ -10,7 +10,7 @@ header: no
 
 <center><h2>Pipettes & Paintbrushes</h2></center>  
 <center><h4>a collaboration between artists & scientists</h4></center>  
-<center>organized by Katherine Straley and Valenka Kosick</center><br>
+<center>organized by Kit Straley and Valenka Kosick</center><br>
 
 <div class="row row-centered">
         <div class="large-3 columns">
