@@ -11,7 +11,7 @@ gallery:
   caption: Sunflower Medicine
 ---
 
-![Sunflower Medicine]({{ site.url }}/images/ashesimmer-01.jpg)
+<a href="http://www.thatslifesci.com/outreach/ashesimmer/"><![Sunflower Medicine]({{ site.url }}/images/ashesimmer-01.jpg)></a>
 
 Artist: **Anna Ashe-Simmer**, Natural Resources Conservation<br>
 Pen and ink
