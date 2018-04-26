@@ -21,18 +21,6 @@ teaser: When physics and biology come together to figure out life
 source-id: 1trs_usyADIISkNywTwKYj85IMcEGBlNgl6xGqHUSbGE
 published: true
 ---
-**Title: **Life, the universe, and everything:** **Dreams of being a biophysicist** **
-
-**Author(s):** Emily S. Melzer
-
-**Category:** Earth's organisms
-
-**Keywords: **bacteria, physics, cytoplasm, cell biology, glass, biophysics
-
-**Teaser:** When physics and biology come together to figure out life
-
-**Featured Photo(s): **Fig 2.  
-
 My short visit to the physics department was fabulous. Mostly I had no idea what the speaker was talking about, and I definitely didn't understand 90% of the questions and formulas brought up by audience members. But honestly, it was awesome. Yes, I know – I write for a life science blog and I spend most of my time thinking about cells, DNA, and proteins. But is a cell really much different from a thermodynamic system where a physicist looks at matter and energy or an electromagnetic field with currents and electromotive force? Not really. To a physicist, a cell is just another physical system. And as a microbiologist sitting in a room full of physicists, I was fascinated by this point of view. I wrote down over ten terms and laws that I later had to google, and looked up a couple of papers that had come out of the speaker’s lab to try and wrap my head around what he was saying. This post is my attempt to discuss the magic that is biophysics, and to the actual physicists reading this: go easy on me. 
 
 <center> <a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/38685943041/in/dateposted-friend/" title="biophys1"><img src="https://farm5.staticflickr.com/4557/38685943041_44a21f4086.jpg" width="355" height="313" alt="biophys1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -61,5 +49,7 @@ References
 
 [1] Parry, Bradley R., Ivan V. Surovtsev, Matthew T. Cabeen, Corey S. O'Hern, Eric R. Dufresne, and Christine Jacobs-Wagner. "The bacterial cytoplasm has glass-like properties and is fluidized by metabolic activity." *Cell* 156, no. 1 (2014): 183-194.
 
-## More From Thats Life [Science]{: .t60 }{% include list-posts offset="1" entries='5' category="Earth's Organisms" %}
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Earth's Organisms" %}
 
