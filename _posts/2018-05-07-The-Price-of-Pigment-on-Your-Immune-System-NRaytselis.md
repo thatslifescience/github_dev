@@ -1,7 +1,7 @@
 ---
 title: The Price of Pigment on Your Immune System
 layout: page
-author: nraytselis
+author: gwriter
 permalink: /2018-05-07-The-Price-of-Pigment-on-Your-Immune-System-NRaytselis/
 tags:
 - health
@@ -19,6 +19,7 @@ teaser: “Although tattoos are safe for most everyone, here are two unique case
 source-id: 1uBElic8HTtqZuYQgCAnK6bKXNOd1Nk9-TYGVR0jpO48
 published: true
 ---
+Contributed by Nadia Raytselis
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/26935251067/in/dateposted-friend/" title="Thumbnail-Body-Art"><img src="https://farm1.staticflickr.com/872/26935251067_68b5f440e0_z.jpg" width="555" height="376" alt="Thumbnail-Body-Art"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
