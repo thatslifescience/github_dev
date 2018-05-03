@@ -40,7 +40,7 @@ Essentially, what happened was an extreme immune response to the woman's two tat
 
 Although infections do not occur in the majority of tattoos, the case in Australia is not the first incident. Earlier this year a Texan man died from swimming in the Gulf of Mexico after getting a tattoo on his leg [2]. Tattoo artists will tell you to treat your new tattoo with the same care you would an open wound. When I got my tattoo I was told not to go swimming for a minimum of three weeks. Unfortunately for this man, the appropriate precautions were not taken, and when he came into contact with a bacteria called *Vibrio vulnificus* it attacked his immune system. Doctors say that the organism is not usually life threatening, but for people with weak immune systems, specifically liver disease, it can be lethal. 
 
-![image alt text]({{ site.url }}/public/OXlDwur1cxJRTSSrgPExw_img_1.png)
+<center>![image alt text]({{ site.url }}/public/OXlDwur1cxJRTSSrgPExw_img_1.png)</center>
 
 [According to the Mayo Clinic](https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/tattoos-and-piercings/art-20045067), allergic reactions, skin infections, blood borne diseases, and MRI complications are all possible side effects of tattoos gone wrong [3]. In some serious cases, tattoo infections can present like melanoma cancer, but these are still only surface-like symptoms. What was unique about the case in Australia was the fact that the infection presented itself like a blood cancer would, something unheard of until this incident.
 
