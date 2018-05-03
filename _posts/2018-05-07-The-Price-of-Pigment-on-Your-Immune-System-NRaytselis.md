@@ -69,4 +69,6 @@ As someone who has a tattoo, and constantly contemplates getting more, I feel it
 4. *Tattoo Ink - Where Does It All Go*, archives.evergreen.edu/webpages/curricular/1999-2000/humanbio/TattooInk.htm.
 
  
-
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="How It Works" %}
