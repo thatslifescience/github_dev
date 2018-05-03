@@ -19,25 +19,10 @@ teaser: “Although tattoos are safe for most everyone, here are two unique case
 source-id: 1uBElic8HTtqZuYQgCAnK6bKXNOd1Nk9-TYGVR0jpO48
 published: true
 ---
-****Writing Contest Winner****
-
-**Title: **The Price of Pigment on *Your *Immune System
-
-**Author: **Nadia Raytselis
-
-**Category**: How it works
-
-**Keywords: **health, human, virus, cell
-
-**Teaser**: Although tattoos are safe for most everyone, here are two unique cases of a person's body responding poorly to this form of body art.
-
-**Featured Photo:** Thumbnail image = Figure 1
-
-![image alt text]({{ site.url }}/public/OXlDwur1cxJRTSSrgPExw_img_0.png)
-
-**Figure 1.** Colorful body art. (Source: [https://pxhere.com/tr/photo/122136](https://pxhere.com/tr/photo/122136))
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/26935251067/in/dateposted-friend/" title="Thumbnail-Body-Art"><img src="https://farm1.staticflickr.com/872/26935251067_68b5f440e0_z.jpg" width="555" height="376" alt="Thumbnail-Body-Art"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
+
+**Figure 1.** Colorful body art. (Source: [https://pxhere.com/tr/photo/122136](https://pxhere.com/tr/photo/122136))
 
  "Tattoos are trashy and you're going to regret that someday," these words were not exactly the reaction I wanted to hear from my mother the day I came home from the parlor with my first tattoo. 
 
@@ -53,7 +38,7 @@ However, when the doctors looked closely at immune cells extracted from one of t
 
 Essentially, what happened was an extreme immune response to the woman's two tattoos, one 15-year-old tattoo, and another newer tattoo. The immune cells in the woman’s skin encountered the ink, an unrecognized invader, and "ingested it". This caused the ink to seep through the physical barrier of her skin, part of her innate immune system, and through her blood, eventually causing her lymph nodes to swell in response to the foreign pigment [1]. 
 
-Although infections do not occur in the majority of tattoos, the case in Australia is not the first incident. Earlier this year a Texan man died from swimming in the Gulf of Mexico after getting a tattoo on his leg [2]. Tattoo artists will tell you to treat your new tattoo with the same care you would an open wound. When I got my tattoo I was told not to go swimming for a minimum of three weeks. Unfortunately for this man, the appropriate precautions were not taken, and when he came into contact with a bacteria called *Vibrio **vulnifi*cus it attacked his immune system. Doctors say that the organism is not usually life threatening, but for people with weak immune systems, specifically liver disease, it can be lethal. 
+Although infections do not occur in the majority of tattoos, the case in Australia is not the first incident. Earlier this year a Texan man died from swimming in the Gulf of Mexico after getting a tattoo on his leg [2]. Tattoo artists will tell you to treat your new tattoo with the same care you would an open wound. When I got my tattoo I was told not to go swimming for a minimum of three weeks. Unfortunately for this man, the appropriate precautions were not taken, and when he came into contact with a bacteria called *Vibrio vulnificus* it attacked his immune system. Doctors say that the organism is not usually life threatening, but for people with weak immune systems, specifically liver disease, it can be lethal. 
 
 ![image alt text]({{ site.url }}/public/OXlDwur1cxJRTSSrgPExw_img_1.png)
 
