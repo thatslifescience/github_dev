@@ -75,6 +75,7 @@ As someone who has a tattoo, and constantly contemplates getting more, I feel it
 4. *Tattoo Ink - Where Does It All Go*, archives.evergreen.edu/webpages/curricular/1999-2000/humanbio/TattooInk.htm.
 
 Nadia Raytselis is a rising senior at the University of Massachusetts Amherst studying Microbiology and Spanish. 
+
 Contact: nraytselis@umass.edu 
 
 My passion for science stems from my love for the outdoors and nature. I am interested in studying disease, through analyzing both environmental factors and transmission cycles that contribute to its virulence. This blog combines two things in life that I love, science and tattoos. I draw a lot of flowers and plants in my free time, and hope to design tattoos in the future that will bridge these two interests of mine.
