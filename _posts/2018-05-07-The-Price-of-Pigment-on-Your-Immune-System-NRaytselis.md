@@ -23,7 +23,7 @@ published: true
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/26935251067/in/dateposted-friend/" title="Thumbnail-Body-Art"><img src="https://farm1.staticflickr.com/872/26935251067_68b5f440e0_z.jpg" width="555" height="376" alt="Thumbnail-Body-Art"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-**Figure 1.** Colorful body art. (Source: [https://pxhere.com/tr/photo/122136](https://pxhere.com/tr/photo/122136))</center>
+**Figure 1.** Colorful body art. (Source: https://pxhere.com/tr/photo/122136)</center>
 
  "Tattoos are trashy and you're going to regret that someday," these words were not exactly the reaction I wanted to hear from my mother the day I came home from the parlor with my first tattoo. 
 
