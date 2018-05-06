@@ -14,7 +14,7 @@ header:
  image_fullwidth: contestbanner-01.png
 image:
  thumb: 05072018_thumbnail_Raytselis.jpg
-teaser: “Although tattoos are safe for most everyone, here are two unique cases of a person’s body responding poorly to this form of body art.”
+teaser: Although tattoos are safe for most everyone, here are two unique cases of a person’s body responding poorly to this form of body art.
 
 source-id: 1uBElic8HTtqZuYQgCAnK6bKXNOd1Nk9-TYGVR0jpO48
 published: true
