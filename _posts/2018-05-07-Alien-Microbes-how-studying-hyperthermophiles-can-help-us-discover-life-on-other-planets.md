@@ -18,7 +18,7 @@ teaser: How do the microorganisms that live in hot springs, deep sea floors, and
 source-id: 13xbqEOsPi1VuM7VWeOIR-8_Yd4h8953BV1OIRwvLUv8
 published: true
 ---
-<center>Post Written By Undergraduate Writing Contest Runner-Up Olivia Shiffman</center>
+<center> **Post Written By Undergraduate Writing Contest Runner-Up Olivia Shiffman** </center>
 
 When you think about a microbe, the first thing you picture is probably your run-of-the-mill yeast or the bacteria that lives in your gut. But microbes live in every place on earth, from the pits of volcanoes to the middle of glaciers. Microbes that live in extremely hot temperature environments from 80 - 100°C (176 - 212°F) are called hyperthermophiles, or "super heat loving" organisms. These type of organisms, mainly archaea and bacteria, were some of the first living things on earth 3.9  billion years ago [[1](https://academic.oup.com/femsre/article-abstract/6/2-3/117/576997?redirectedFrom=fulltext)]. We might even find a hyperthermophile-like organism on another planet where only the toughest of life can survive.
 
@@ -32,7 +32,7 @@ On land, high temperature sulfur fields (Solfartic fields) are made of mud and s
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/41522170311/in/dateposted-friend/" title="Hydrothermalvent"><img src="https://farm1.staticflickr.com/912/41522170311_1553e785f2_m.jpg" width="220" height="165" alt="Hydrothermalvent"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-****Figure 2** A "Black Smoker" hydrothermal vent spewing out sulfide minerals. These are popular aquatic habitats for hyperthermophiles. Source: NOAA, License CC-BY-SA ([Via Wikimedia](https://wiki.seg.org/wiki/Black_smokers))
+**Figure 2** A "Black Smoker" hydrothermal vent spewing out sulfide minerals. These are popular aquatic habitats for hyperthermophiles. Source: NOAA, License CC-BY-SA ([Via Wikimedia](https://wiki.seg.org/wiki/Black_smokers))
 
 Under the sea, these microbes can be found from the caps of the waves to the bottom of the ocean, as long as there is a hydrothermal vent around. In these areas, often near volcanos or tectonic plate lines, hot fluid is released up into the ocean [3]. The most intense vents, called "black smokers", emit hot gases up to 400°C (752°F) from the sea floor into the freezing ocean; since these streams happen in bursts, and not all the time, hyperthermophiles must be able to survive both the intense heat and the 2.8°C (37°F) water when the vents are not spewing [3]! They must also adapt to the high pressure and lack of oxygen. 
 
