@@ -18,7 +18,7 @@ teaser: How do the microorganisms that live in hot springs, deep sea floors, and
 source-id: 13xbqEOsPi1VuM7VWeOIR-8_Yd4h8953BV1OIRwvLUv8
 published: true
 ---
-Post Written By Undergraduate Writing Contest Runner-Up Olivia Shiffman
+<center>Post Written By Undergraduate Writing Contest Runner-Up Olivia Shiffman</center>
 
 When you think about a microbe, the first thing you picture is probably your run-of-the-mill yeast or the bacteria that lives in your gut. But microbes live in every place on earth, from the pits of volcanoes to the middle of glaciers. Microbes that live in extremely hot temperature environments from 80 - 100°C (176 - 212°F) are called hyperthermophiles, or "super heat loving" organisms. These type of organisms, mainly archaea and bacteria, were some of the first living things on earth 3.9  billion years ago [[1](https://academic.oup.com/femsre/article-abstract/6/2-3/117/576997?redirectedFrom=fulltext)]. We might even find a hyperthermophile-like organism on another planet where only the toughest of life can survive.
 
