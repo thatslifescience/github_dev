@@ -22,7 +22,6 @@ source-id: 1uBElic8HTtqZuYQgCAnK6bKXNOd1Nk9-TYGVR0jpO48
 published: true
 ---
 <center> Post Written By Undergraduate Writing Contest Winner Nadia Raytselis </center><br>
-
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/26935251067/in/dateposted-friend/" title="Thumbnail-Body-Art"><img src="https://farm1.staticflickr.com/872/26935251067_68b5f440e0_z.jpg" width="555" height="376" alt="Thumbnail-Body-Art"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> </center>
 
 **Figure 1.** Colorful body art. (Source: https://pxhere.com/tr/photo/122136)
