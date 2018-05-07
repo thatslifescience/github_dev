@@ -8,12 +8,14 @@ tags:
 - human
 - virus
 - cell
+header: no
 categories:
 - How It Works
 header:
- image_fullwidth: contestbanner-01.png
+ image_fullwidth: howitworks-header.jpg
 image:
  thumb: 05072018_thumbnail_Raytselis.jpg
+ wf_featured_image: contestbanner-01.jpg
 teaser: Although tattoos are safe for most everyone, here are two unique cases of a person’s body responding poorly to this form of body art.
 
 source-id: 1uBElic8HTtqZuYQgCAnK6bKXNOd1Nk9-TYGVR0jpO48
