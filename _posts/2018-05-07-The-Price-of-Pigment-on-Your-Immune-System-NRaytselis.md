@@ -11,8 +11,6 @@ tags:
 header: no
 categories:
 - How It Works
-header:
- image_fullwidth: howitworks-header.jpg
 image:
  thumb: 05072018_thumbnail_Raytselis.jpg
  featured_image: contestbanner-01.jpg
