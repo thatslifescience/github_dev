@@ -13,7 +13,7 @@ categories:
 - How It Works
 image:
  thumb: 05072018_thumbnail_Raytselis.jpg
- featured_image: contestbanner-01.jpg
+ title: contestbanner-01.jpg
 teaser: Although tattoos are safe for most everyone, here are two unique cases of a person’s body responding poorly to this form of body art.
 
 source-id: 1uBElic8HTtqZuYQgCAnK6bKXNOd1Nk9-TYGVR0jpO48
