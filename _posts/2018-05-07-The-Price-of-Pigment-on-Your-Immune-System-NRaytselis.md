@@ -8,7 +8,8 @@ tags:
 - human
 - virus
 - cell
-header: no
+header:
+ image_fullwidth: howitworks-header.jpg
 categories:
 - How It Works
 image:
