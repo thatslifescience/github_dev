@@ -16,7 +16,7 @@ categories:
 header:
  image_fullwidth: gradschooldiaries-header.jpg
 image:
- thumb: "20180511_jbarnett_thumb.jpg"
+ thumb: "20180511-jbarnett-thumb.jpg"
 teaser: Get the “dirt” on one grad student’s “hot” work.
 source-id: 1u3ZkF761u89cXtLFkoIwwhCcuIVSbNt4lOLmoavOlfg
 published: true
