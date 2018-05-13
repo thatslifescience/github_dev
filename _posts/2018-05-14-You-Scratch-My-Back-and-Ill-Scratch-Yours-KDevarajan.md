@@ -25,11 +25,11 @@ It's not all blood and gore, or predation and cut-throat competition in the natu
 
 However, not all parties involved may gain a direct benefit. If in a pair of species, one gets a benefit while the other doesn't, but is not harmed either, such an association is called *commensalism*. On the other hand, if one derives a benefit while the other organism is negatively affected, the relation is classified as *parasitism*. Here, we will look at some examples of mutualism and commensalism, focusing on cooperation and coexistence between species in different systems.
 
-**Ants and Acacia**
+<h3>Ants and Acacia</h3>
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/39113780110/in/dateposted-friend/" title="ant_acacia"><img src="https://farm1.staticflickr.com/804/39113780110_f16d73c63a_c.jpg" width="800" height="563" alt="ant_acacia"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-**Figure 1.** Whistling thorn acacia (*Acacia drepanolobium*) and* *several arboreal ant species (including *Crematogaster nigriceps*). (*Source*: Wikipedia Commons)
+**Figure 1.** Whistling thorn acacia (*Acacia drepanolobium*) and several arboreal ant species (including *Crematogaster nigriceps*). (*Source*: Wikipedia Commons)
 
 Ant-plant mutualisms have been widely studied in several parts of the world. The whistling thorn acacia (*Acacia drepanolobium*) is a commonly occurring tree that is native to East Africa. They offer rewards such as shelter in the form of bulbous, thorny structures called *domatia* and secretions such as nectar to different species of ants. In return for the food and shelter provided by the acacia, the ants offer another line of defense from mega-herbivores such as elephants and giraffes, as well herbivorous invertebrates [1]. 
 
@@ -37,7 +37,7 @@ In some parts of Africa, there can be even four species of ants (*Tetraponera pe
 
 The story gets curiouser and curiouser. 'Rewards' like domatia and nectar are expensive for the acacia, so in times or areas in which there are few large herbivores that feed on them, the acacia actually ‘withdraw’ these rewards, resulting in a breakdown of the mutualism [3]. 
 
-**Birds and Badgers**
+<h3>Birds and Badgers</h3>
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/39113780980/in/dateposted-friend/" title="badger_goshawk"><img src="https://farm1.staticflickr.com/793/39113780980_7b34ce719b_c.jpg" width="800" height="298" alt="badger_goshawk"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
@@ -47,7 +47,7 @@ The honey badger (*Mellivora capensis*) is a mammal that is related to weasels, 
 
 In this case, the associated species all derive some benefits while the honey badger does not get any. However, the association is not really detrimental to the honey badger, resulting in commensalism - 'You can watch as long as you don't disturb me!’
 
-**Cleaners in Coral Reefs**
+<h3>Cleaners in Coral Reefs</h3>
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/39113781910/in/dateposted-friend/" title="eel_shrimp"><img src="https://farm1.staticflickr.com/789/39113781910_9070c4c195_c.jpg" width="800" height="285" alt="eel_shrimp"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
