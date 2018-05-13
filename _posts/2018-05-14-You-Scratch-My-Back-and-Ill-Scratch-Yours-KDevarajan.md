@@ -20,17 +20,6 @@ teaser: Curious cases of cooperation, coexistence, and camaraderie in creatures 
 source-id: 19iuHAmzsJeu1puy9zxukL255BFzOlYKVyfTl8NwNUYk
 published: true
 ---
-**Title**: You Scratch My Back and I'll Scratch Yours
-
-**Teaser**: Curious cases of cooperation, coexistence, and camaraderie in creatures great and small
-
-**Author(s)**: Kadambari Devarajan
-
-**Categories**: Earth's organisms
-
-**Keywords**: Ecology, Species, Biodiversity, Adaptation, Interactions
-
-**Featured photo(s)**: Figure #3
 
 It's not all blood and gore, or predation and cut-throat competition in the natural world. Species interact in many different ways, resulting in fascinating and unusual relationships between different organisms. These interactions involve a degree of cooperation, where a pair of species (sometimes more) 'help’ each other out. Such mutually beneficial interactions, where the interacting species benefit in some way from the relationship, in an unusual instance of ‘you scratch my back and I’ll scratch yours’, is called a *mutualism*. Such mutualisms can be from species that are very different, like those between ants and plants, or fairly similar, as found with some species of birds. 
 
@@ -83,4 +72,9 @@ These are just a few examples of the sheer variety of interactions among organis
 [2] Palmer T.M., and Brody A.K. (2007) "Mutualism as reciprocal exploitation: African plant-ants defend foliar but not reproductive structures." *Ecology* 88:3004–3011.
 
 [3] Palmer T.M., Stanton M.L., Young T.P., Goheen J.R., Pringle R.M., and Karban R. (2008) "Breakdown of an ant-plant mutualism follows the loss of large herbivores from an African savannah."  *Science* 319(5860) 192-195.
+
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries="5" category="Earth's Organisms" %}
+
 
