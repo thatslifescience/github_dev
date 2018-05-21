@@ -9,7 +9,7 @@ tags:
 - adaptation
 - winter
 categories:
- Earth’s Organisms
+- Earth’s Organisms
 header:
  image_fullwidth: organisms-header.jpg
 image:
@@ -18,19 +18,6 @@ teaser: When the weather gets unbearably cold and the waters freeze, what do the
 source-id: 1-MTsGpwFJ2MMvQfkHxqX3-ePjLoCkknptofpDt8ZIbA
 published: true
 ---
-**Title: **Where do fish go in winter?
-
-**Author(s): **Derrick Alcott
-
-**Category: **Earth's Organisms
-
-**Keywords: **fish, behavior, adaptation, winter
-
-**Teaser: **When the weather gets unbearably cold and the waters freeze, what do the fish do?
-
-**Featured photo(s): **Thumbnail image =  Fig. 1
-
- 
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/high_trails/33641189772/in/photolist-TfKTFj-7ntkMr-7wpLDC-TXNAxk-ndXrhW-r4HJBq-5Sds9b-hRoxNh-r7Ad7U-SoNggF-dWeBVw-ZGhBa3-jTGUvf-dNGRpv-ScnhrL-7h61dK-RYNEtQ-pYaF4h-e17zbp-7qCwbQ-qAMW8q-DG1q88-SS84bb-5XeZ8N-51DXdZ-RwvZ2L-4N989N-nAWMXP-662nHc-KGysjq-QUmBjW-TrVjtm-QGdRgw-bmN5X9-R6MpNQ-aA1tGP-93U4m7-mj2bsD-dQ7GGq-QxcFVc-Yt3DRy-XYNyWp-9fQ1HN-TnkBfd-Tr1PmF-UANft9-e7QeCD-Sdb7gM-iD1Bxv-7zy7D6" title="Frozen Lake McDonald"><img src="https://farm3.staticflickr.com/2841/33641189772_5f2a3b669b_z.jpg" width="640" height="401" alt="Frozen Lake McDonald"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
@@ -42,7 +29,6 @@ What fish do during cold winter months varies across fish species and habitats. 
 
 **Figure 2**. The seasonal movements of a great white shark "Mary Lee" can be clearly seen in this telemetry track. The shark was detected many times off the coast of South Carolina and Georgia during winter months, then moved north to the mid-Atlantic for the summer months. (Source: Ocearch.org)
 
- 
 
 But what about fishes in lakes or ponds? These fish do not have the option to migrate long distances like some marine fishes when winter looms. Luckily for freshwater fishes, there are several convenient factors that play into their favor. First, water is one of the few substances that becomes less dense when it freezes into a solid. This means that frozen water floats on top of the remaining liquid water, rather than sinking. The resulting layer of ice on the top of these water bodies acts as an insulator for the water body, protecting it from further plummeting air temperatures. Second, fish are poikilotherms, or cold-blooded animals. The metabolism of poikilothermic animals slows down dramatically when the temperature of their environment drops, which means they don't need to eat nearly as much during the winter as they would during the warmer months [2]. Lastly, fish don’t have to worry about feeling chilly in the frigid water, again because of their cold-blooded bodies which match the temperature of the surrounding water. The water can’t feel cold compared to your body when your body is the same temperature!
 
@@ -60,5 +46,7 @@ The only simple answer to where the fish go for winter is "it depends." Differen
 
 [2] Love, R. M. 1980. *The chemical biology of fishes*. Academic Press, London, UK.
 
-## More From Thats Life [Science]{: .t60 }{% include list-posts offset="1" entries='5' category="Earth's Organisms" %}
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Earth's Organisms" %}
 
