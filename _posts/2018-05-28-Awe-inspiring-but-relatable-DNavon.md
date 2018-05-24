@@ -4,7 +4,7 @@ layout: page
 author: dnavon
 permalink: /2018-05-28-Awe-inspiring-but-relatable-DNavon/
 tags:
-- sicb 2018
+- SICB 2018
 - communication
 - pixar
 - ocean
