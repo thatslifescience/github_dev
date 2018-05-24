@@ -28,13 +28,13 @@ This January, for the fourth year running, I flew from the wintry Northeast to a
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/28357748759/in/dateposted-friend/" title="2018-01-21 DN Fig2"><img src="https://farm5.staticflickr.com/4753/28357748759_e2e715ec02_z.jpg" width="640" height="480" alt="2018-01-21 DN Fig2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-***Figure 2*** It doesn't get more awe-inspiring then a coral reef. (Source:[ Toby Hudson](https://en.wikipedia.org/wiki/Coral_reef_protection#/media/File:Coral_Outcrop_Flynn_Reef.jpg), Public Commons)
+**Figure 2** It doesn't get more awe-inspiring then a coral reef. (Source:[ Toby Hudson](https://en.wikipedia.org/wiki/Coral_reef_protection#/media/File:Coral_Outcrop_Flynn_Reef.jpg), Public Commons)
 
 Coral reefs inspire human curiosity, housing a stunning array of diversity completely underwater and therefore mostly inaccessible to human observation.  They are built from an "organism" that really consists of two different species which depend on each other for survival. However, while in one sense these submerged ecosystems are entirely foreign to us, in another sense we might think of them simply as naturally occurring cities for ocean wildlife.
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/39426567344/in/dateposted-friend/" title="2018-01-21 DN Fig3"><img src="https://farm5.staticflickr.com/4703/39426567344_4b2db10e6e_z.jpg" width="640" height="447" alt="2018-01-21 DN Fig3"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-***Figure 3*** Leafcutter ants toiling hard to bring food back to their colony. (Source:[ Adrian Pingstone](https://commons.wikimedia.org/wiki/File:Leaf_cutter_ants_arp.jpg), Public Commons)
+**Figure 3** Leafcutter ants toiling hard to bring food back to their colony. (Source:[ Adrian Pingstone](https://commons.wikimedia.org/wiki/File:Leaf_cutter_ants_arp.jpg), Public Commons)
  
 These ants can carry up to 3x their own bodyweight – a literally superhuman (or superinsect) feat of strength.  They form some of the largest, most complex societies of any life-form, second only to humans.  And yet, they are just miniature farmers, harvesting and consuming their crops.
 
