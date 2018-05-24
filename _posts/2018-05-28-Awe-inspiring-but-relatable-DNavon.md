@@ -40,6 +40,6 @@ These ants can carry up to 3x their own bodyweight – a literally superhuman (o
 
 The workshop leaders encouraged us to play with the line between ordinary and extraordinary as science communicators; however, I see a broader lesson in the exercise.  We all sometimes lose sight of the extraordinary aspects of the world, focusing instead on the mundane.  Perhaps deliberately getting in touch with our innate, childlike sense of wonder will help us face the challenges ahead.  Stay awed, folks.
 
- ## More From Thats Life [Science]
+## More From Thats Life [Science]
 {: .t60 }
 {% include list-posts offset="1" entries='5' category="Grad School Diaries" %}
