@@ -33,7 +33,7 @@ My rats probably know I'll still be here every morning to run their experiments.
 
 My rats do know they'll receive a reward if they press the correct lever.<br>
 My rats do know they get one chance each day to earn some sucrose.<br>
-My rats do know they benefit from being clever<br>
+My rats do know they benefit from being clever.<br>
 My rats do know I feed them every day so they don't starve or come close.<br>
 
 I don't know what I’d rather be doing or where I’d rather be.<br>
