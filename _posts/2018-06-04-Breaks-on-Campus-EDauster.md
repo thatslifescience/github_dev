@@ -15,7 +15,7 @@ categories:
 header:
  image_fullwidth: gradschooldiaries-header.jpg
 image:
- thumb: 2018-06-04-EDauster
+ thumb: 2018-06-04-EDauster.jpg
 teaser: What happens when everyone goes on vacation during school breaks? Why would someone choose to stay and work?
 source-id: 1bBCyCuIVpivUGFnaI3ZTZX27CTysxiYbEyTSkQHY2K8
 published: true
