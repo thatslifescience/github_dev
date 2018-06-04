@@ -21,27 +21,26 @@ source-id: 1bBCyCuIVpivUGFnaI3ZTZX27CTysxiYbEyTSkQHY2K8
 published: true
 ---
 
-My rats don't know about the holidays.
-My rats don't know there’s a blizzard outside.
-My rats don't know the busses run less frequently these days.
-My rats don't know they could save lives with the data they provide.
+My rats don't know about the holidays.<br>
+My rats don't know there’s a blizzard outside.<br>
+My rats don't know the busses run less frequently these days.<br>
+My rats don't know they could save lives with the data they provide.<br>
 
-My rats probably know there are fewer people around.
-My rats probably know we're less rushed without scheduling impediments.
-My rats probably know it's peaceful and easier to focus with fewer sounds.
-My rats probably know I'll still be here every morning to run their experiments.
+My rats probably know there are fewer people around.<br>
+My rats probably know we're less rushed without scheduling impediments.<br>
+My rats probably know it's peaceful and easier to focus with fewer sounds.<br>
+My rats probably know I'll still be here every morning to run their experiments.<br>
 
-My rats do know they'll receive a reward if they press the correct lever.
-My rats do know they get one chance each day to earn some sucrose.
-My rats do know they benefit from being clever.
-My rats do know I feed them every day so they don't starve or come close.
+My rats do know they'll receive a reward if they press the correct lever.<br>
+My rats do know they get one chance each day to earn some sucrose.<br>
+My rats do know they benefit from being clever<br>
+My rats do know I feed them every day so they don't starve or come close.<br>
 
-I don't know what I’d rather be doing or where I’d rather be.
-I probably know I should take more vacations.
-I do know I accomplish something every day in the lab, progressing toward an increased knowledge and understanding of our world; a worthwhile investment to me.
+I don't know what I’d rather be doing or where I’d rather be.<br>
+I probably know I should take more vacations.<br>
+I do know I accomplish something every day in the lab, progressing toward an increased knowledge and understanding of our world; a worthwhile investment to me.<br>
 
-<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/39410337041/in/dateposted-friend/" title="tls post 2 LabViewWinter"><img src="https://farm5.staticflickr.com/4732/39410337041_f2c7457ecc.jpg" width="281" height="500" alt="tls post 2 LabViewWinter"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
+<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/39410337041/in/dateposted-friend/" title="tls post 2 LabViewWinter"><img src="https://farm5.staticflickr.com/4732/39410337041_f2c7457ecc.jpg" width="281" height="500" alt="tls post 2 LabViewWinter"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center><br>
 **Figure 1.** The view from my lab this winter break, December 2017.  I can appreciate the beautiful snow from a warm workspace. Image Credit: Emma Dauster
 
 ## More From Thats Life [Science]
