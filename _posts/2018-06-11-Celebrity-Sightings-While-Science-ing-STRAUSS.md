@@ -9,7 +9,7 @@ tags:
 - new york city
 - celebrity sightings
 categories:
-Grad School Diaries
+- Grad School Diaries
 header:
  image_fullwidth: gradschooldiaries-header.jpg
 image:
@@ -68,5 +68,7 @@ Joke's on you, Louis.
 
 To hear Louis C.K.'s version of the story, click [here](https://www.liveleak.com/view?i=d39_1416123314).
 
-## More From Thats Life [Science]{: .t60 }{% include list-posts offset="1" entries='5' category="Grad School Diaries" %}
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Grad School Diaries" %}
 
