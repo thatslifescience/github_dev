@@ -10,7 +10,7 @@ tags:
 - sexual selection
 - mammals
 categories:
- Earth’s Organisms
+- Earth’s Organisms
 header:
  image_fullwidth:  organisms-header.jpg
 image:
@@ -61,3 +61,7 @@ There is still much to be understood about the adaptive forces behind colorful p
 
 [6] Mourthe, I., Trindade, R. A., Aguiar, L. M., Trigo, T. C., Bicca-Marques, J. C., & Bonatto, S. L. (2018). Hybridization Between Neotropical Primates with Contrasting Sexual Dichromatism. *International Journal of Primatology*, 1-15.
 
+
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Earth's Organisms" %}
