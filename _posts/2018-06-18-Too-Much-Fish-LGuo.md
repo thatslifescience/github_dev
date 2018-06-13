@@ -61,11 +61,11 @@ Note: This post is dedicated to Jeff Wenger, who was instrumental in helping me 
 
 **References:**
 
-[1] McAfee, Alison J., Emeir M. McSorley, Geraldine J. Cuskelly, Bruce W. Moss, Julie MW Wallace, Maxine P. Bonham, and Anna M. Fearon. "[Red meat consumption: An overview of the risks and benefits](https://www-sciencedirect-com.silk.library.umass.edu/science/article/pii/S0309174009002514)." *Meat science *84, no. 1 (2010): 1-13.
+[1] McAfee, Alison J., Emeir M. McSorley, Geraldine J. Cuskelly, Bruce W. Moss, Julie MW Wallace, Maxine P. Bonham, and Anna M. Fearon. "[Red meat consumption: An overview of the risks and benefits](https://www-sciencedirect-com.silk.library.umass.edu/science/article/pii/S0309174009002514)." *Meat science* 84, no. 1 (2010): 1-13.
 
 [2] Sidhu, Kirpal S. "[Health benefits and potential risks related to consumption of fish or fish oil.](https://www-sciencedirect-com.silk.library.umass.edu/science/article/pii/S0273230003001004)" *Regulatory Toxicology and Pharmacology* 38, no. 3 (2003): 336-344.
 
-[3] Ewald, John. "[Americans added nearly 1 pound of seafood to their diet in 2015](http://www.noaa.gov/media-release/americans-added-nearly-1-pound-of-seafood-to-their-diet-in-2015)." Americans added nearly 1 pound of seafood to their diet in 2015 | National Oceanic and Atmospheric Administration. October 26, 2016. Accessed February 19, 2018. http://www.noaa.gov/media-release/americans-added-nearly-1-pound-of-seafood-to-their-diet-in-2015. 
+[3] Ewald, John. "[Americans added nearly 1 pound of seafood to their diet in 2015](http://www.noaa.gov/media-release/americans-added-nearly-1-pound-of-seafood-to-their-diet-in-2015)." Americans added nearly 1 pound of seafood to their diet in 2015. National Oceanic and Atmospheric Administration. October 26, 2016. Accessed February 19, 2018. http://www.noaa.gov/media-release/americans-added-nearly-1-pound-of-seafood-to-their-diet-in-2015.
 
 ## More From Thats Life [Science]
 {: .t60 }
