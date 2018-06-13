@@ -12,7 +12,7 @@ categories:
 header:
  image_fullwidth: ecosystem-header.jpg
 image:
- thumb: 20180618_lguo_figure1.jpg
+ thumb: 20180618-lguo-figure1.jpg
 teaser: Seafood is part of a healthy diet, but it’s not a perfect health food. Let’s discuss fish consumption advisories and how they can help you avoid eating unhealthy seafood.
 source-id: 1IjO0TvQFpCtwKn3mYlfW9vH4T9CsinSB_sQrY6KIOe8
 published: true
