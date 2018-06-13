@@ -8,7 +8,7 @@ tags:
 - fish consumption advisories
 - human health
 categories:
- Our Ecosystems
+- Our Ecosystems
 header:
  image_fullwidth: 
 Our Ecosystems = ecosystem-header.jpg
@@ -18,18 +18,6 @@ teaser: Seafood is part of a healthy diet, but it’s not a perfect health food.
 source-id: 1IjO0TvQFpCtwKn3mYlfW9vH4T9CsinSB_sQrY6KIOe8
 published: true
 ---
-**Title: **Is it possible to eat too much fish? 
-
-**Author:** Lian Guo
-
-**Category:** Our Ecosystems
-
-**Keywords:** seafood, fish consumption advisories, human health
-
-**Social media blurb:** Seafood is part of a healthy diet, but it's not a perfect health food. Let’s discuss fish consumption advisories and how they can help you avoid eating unhealthy seafood. 
-
-**Thumbnail:** Figure 1.
-
 Most people consider seafood to be a desirable and healthy food option. Who can resist a plate full of shrimp, salmon, or tuna!? Sure it's expensive, but aren’t the taste and health benefits worth it? Good question.
 
 Whether you buy seafood in restaurants or catch it yourself, it's important to consider the health benefits and risks of what you are eating because it may affect you as well as your family. In particular, seafood is a source of proteins, unsaturated essential fatty acids, minerals, and vitamins that reduce potential cardiovascular or colon health risks associated with eating high amounts of red meat [1, 2]. [Dietary guidelines in the U.S.](https://health.gov/dietaryguidelines/2015/guidelines/chapter-1/a-closer-look-inside-healthy-eating-patterns/#callout-seafood) recommend eating 8-12 oz of seafood per week (e.g. 2-3 palm-sized servings), but in 2015 Americans ate an average of 4.8 oz/week [3]. This suggests that Americans should be eating more seafood to be healthier. 
@@ -42,7 +30,7 @@ However, there's another part of this health equation that isn’t usually consi
 
 It's true that the omega-3s in fish tissue are beneficial, such that they can counteract the negative effects of methylmercury [2]. But there is still a balance to be maintained here. Certain fish, especially those that are higher in the food chain and/or longer-lived (tuna, swordfish, sharks) tend to accumulate more methylmercury in their tissues, to the point where it may outweigh the health benefits. When eating these fish, you are exposing yourself to more mercury. 
 
-**_So, how much fish should you eat to reduce your risk while maximizing health benefits?_*** *It really depends on the fish species and where it comes from. Federal government agencies, including the Environmental Protection Agency (EPA) and Food & Drug Administration (FDA), publish general advice about how much seafood is healthy to eat. Additionally, state governments test fish from local waters and issue fish consumption advisories for local fish. These consumption advisories are not perfect (I will address this in my next post), but they are helpful in making food choices that affect your health. 
+**_So, how much fish should you eat to reduce your risk while maximizing health benefits?_** It really depends on the fish species and where it comes from. Federal government agencies, including the Environmental Protection Agency (EPA) and Food & Drug Administration (FDA), publish general advice about how much seafood is healthy to eat. Additionally, state governments test fish from local waters and issue fish consumption advisories for local fish. These consumption advisories are not perfect (I will address this in my next post), but they are helpful in making food choices that affect your health. 
 
 <h3>If you buy nonlocal fish…</h3>
 
@@ -60,7 +48,7 @@ It's true that the omega-3s in fish tissue are beneficial, such that they can co
 
 …you should check local fish consumption advisories for how often you should consume your fish of choice. You can google state-specific advisories; for example, type into google "California fish consumption advisories" (Figure 3). Depending on if your state borders the ocean, there should be both freshwater and marine fish consumption advisories. 
 
-**_How do local governments determine these fish consumption advisories?_**** **They catch and test fish tissue for contaminant levels. Typically, they use EPA/FDA standards for deciding how often that fish species should be eaten. Different states allocate different amounts of money to fish toxicology programs, meaning that the quality of data that the advisories are based on can range greatly. 
+**_How do local governments determine these fish consumption advisories?_** They catch and test fish tissue for contaminant levels. Typically, they use EPA/FDA standards for deciding how often that fish species should be eaten. Different states allocate different amounts of money to fish toxicology programs, meaning that the quality of data that the advisories are based on can range greatly. 
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/136882531@N02/40684269341/in/dateposted-public/" title="2018-02-18-LGuoC"><img src="https://farm5.staticflickr.com/4772/40684269341_0b6e6de306_c.jpg" width="800" height="745" alt="2018-02-18-LGuoC"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
@@ -80,3 +68,6 @@ Note: This post is dedicated to Jeff Wenger, who was instrumental in helping me 
 
 [3] Ewald, John. "[Americans added nearly 1 pound of seafood to their diet in 2015](http://www.noaa.gov/media-release/americans-added-nearly-1-pound-of-seafood-to-their-diet-in-2015)." Americans added nearly 1 pound of seafood to their diet in 2015 | National Oceanic and Atmospheric Administration. October 26, 2016. Accessed February 19, 2018. http://www.noaa.gov/media-release/americans-added-nearly-1-pound-of-seafood-to-their-diet-in-2015. 
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Our Ecosystems" %}
