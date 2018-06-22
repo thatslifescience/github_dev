@@ -45,15 +45,13 @@ We need the pigmented epithelium to be close to rods and cones because proteins 
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/38904914230/in/dateposted-friend/" title="tls post 3 retinal epithelium"><img src="https://farm5.staticflickr.com/4787/38904914230_832b0f7173.jpg" width="500" height="495" alt="tls post 3 retinal epithelium"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center><br>
 
-**Figure 2. **The pigmented epithelium lines the back of the eye, situated behind the rods and cones. (Source: Egmason, [wikimedia commons](https://commons.wikimedia.org/wiki/File:Buchs_membrane.svg#filelinks))
+**Figure 2.** The pigmented epithelium lines the back of the eye, situated behind the rods and cones. (Source: Egmason, [wikimedia commons](https://commons.wikimedia.org/wiki/File:Buchs_membrane.svg#filelinks))
 
 Now we know why rods and cones have to be next to the pigmented epithelium, but why do they have to be in the back of the eye?  Well, the pigmented epithelium gets its name because it's dark.  In addition to all of the critical functions mentioned above, it is dark to prevent light scattering when it comes through your eye and to absorb photons for decreased photo damage.  If this dark structure were not at the back of the eye, it would block light from getting to your receptors.  They would not be able to respond to photons and do their job in allowing us to process the visual world. 
 
 **The pigmented epithelium serves a critical role in rod and cone function and must be close to them.  It also must be in the back of the eye.  Therefore, light information must travel the convoluted path to the back of the eye and feed forward to then be sent back to the brain.**
 
 This path is actually quite elegantly set up, contrary to how it seems at first.  There is still a ton of support for evolution in convergent and divergent structures, so all of this is not to say that the structure and function of the eye proves evolution false (we still have a blind spot, after all.)  Rather, the moral of this story is that there is often a reason for things that at first do not seem to make sense.  We just need to be persistent in figuring out what that reason is and it will reveal itself to be far more complex than we could have imagined before.
-
- 
 
 **References:**
 
@@ -64,4 +62,8 @@ This path is actually quite elegantly set up, contrary to how it seems at first.
 [3] Cowell lecture at University of Massachusetts, Amherst. (Using Kandel, Principles of Neural Science Fifth Edition. 2013.) February 5, 2018.
 
 [4] Zhao L, Wang Z, Liu Y, Song Y, Li Y, Laties AM, Wen R. 2007. "Translocation of the retinal pigment epithelium and formation of sub-retinal pigment epithelium deposit induced by subretinal deposit." *Mol. Vis.* 13:873-80.
+
+## More From Thats Life [Science]
+{: .t60 }	
+{% include list-posts offset="1" entries="5" category="How It Works" %}
 
