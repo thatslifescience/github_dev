@@ -13,7 +13,7 @@ header:
  image_fullwidth: organisms-header.jpg
 image:
  thumb: 20180702-EBeaury-thumb.jpg
-teaser:Every plant has a Latin and a common name, both of which come with a story. Come find out how some plants get their quirky callings!
+teaser: "Every plant has a Latin and a common name, both of which come with a story. Come find out how some plants get their quirky callings!"
 source-id: 1GNPOavu4U2NhmctkqKVYAHXt2g8lg7GLJpzoU4jiSP8
 published: true
 ---
