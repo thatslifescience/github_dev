@@ -19,7 +19,7 @@ teaser: Research Highlight - As a Ph.D. student, I get to grow brain cells!
 source-id: 1WrVYFCOknRnqMNUaTKsXsK_7tNkG3od9mtu5HnjtYKQ
 published: true
 ---
- <center> <a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/25954749878/in/dateposted-friend/" title="Zintel_figure_Jan2018"><img src="https://farm5.staticflickr.com/4672/25954749878_187e1f5d35_c.jpg" width="800" height="718" alt="Zintel_figure_Jan2018"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></center></script>
+ <center> <a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/25954749878/in/dateposted-friend/" title="Zintel_figure_Jan2018"><img src="https://farm5.staticflickr.com/4672/25954749878_187e1f5d35_c.jpg" width="800" height="718" alt="Zintel_figure_Jan2018"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
 **Fig. 1** The same human cell line throughout differentiation from stem cell (A) to neural progenitor cell (B), neuron (C) and astrocyte (D). All images taken by Trisha M. Zintel in Courtney C. Babbitt's lab. The iPSCs in (A) were imaged using a light microscope while the neural cells in (B-D) were imaged on a confocal fluorescent microscope (which is why they look a bit different!).
 
