@@ -29,3 +29,6 @@ As a Ph.D. student, I can sometimes get caught up in the nuances of my work and 
 
 For more information about stem cells, check out the [National Institute of Health's information ](https://stemcells.nih.gov/)[page](https://stemcells.nih.gov/) and for information on projects and publications from the Babbitt lab, check out the [lab website](http://www.babbittlab.org/).
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Grad School Diaries" %}
