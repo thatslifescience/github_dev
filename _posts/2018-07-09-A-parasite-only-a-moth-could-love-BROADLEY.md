@@ -57,3 +57,6 @@ This is one example of hyperparasitism in action, but there are many other fasci
 
 I'll leave with you with a mind-blowing idea: while they may not be fleas on fleas on fleas, there are also hyper-hyperparasitoids.  These are wasps that parasitize other hyperparasitoid wasps which were attacking parasitic flies which hit the original host. 
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Earth's Organisms" %}
