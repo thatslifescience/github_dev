@@ -18,21 +18,14 @@ teaser: Did you know that a parasite can have a parasite, which in turn can have
 source-id: 14vREvZ2sxhcykdChFx040qczYzZuoW8jm2IfvUzSDFA
 published: true
 ---
-**Title:**  A parasite only a moth could love
+The vermin only teaze and pinch
+Their foes superior by an inch.
+So, naturalists observe, a flea
+Has smaller fleas that on him prey;
+And these have smaller still to bite 'em,
+And so proceed ad infinitum.
 
-**Author:** Hannah J. Broadley 
-
-**Teaser:** Did you know that a parasite can have a parasite, which in turn can have a parasite of its own?  These interactions can influence our ability to control pest insect species.
-
-**Category:** Earth's Organisms 
-
-**Keywords:** Insects, Ecology, Interactions, Parasites
-
-**Featured photo:** Figure 4 
-
-The vermin only teaze and pinchTheir foes superior by an inch.So, naturalists observe, a fleaHas smaller fleas that on him prey;And these have smaller still to bite 'em,And so proceed ad infinitum.
-
-*  Jonathan Swift from *On Poetry: A Rhapsody* (1733)  
+-  Jonathan Swift from *On Poetry: A Rhapsody* (1733)  
 
 This poem about fleas on fleas on fleas is actually describing a biological phenomenon called hyperparasitism.  More specifically, hyperparasitism is when a parasite feeds on a host, which is also a parasite itself.  
 
