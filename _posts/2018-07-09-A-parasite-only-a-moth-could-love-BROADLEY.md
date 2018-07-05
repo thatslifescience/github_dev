@@ -29,23 +29,17 @@ And so proceed ad infinitum.
 
 This poem about fleas on fleas on fleas is actually describing a biological phenomenon called hyperparasitism.  More specifically, hyperparasitism is when a parasite feeds on a host, which is also a parasite itself.  
 
-![image alt text]({{ site.url }}/public/0D9Z346N2MxBumRcDQSSIQ_img_0.jpg)
-
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/39921280565/in/dateposted-friend/" title="Figure 1 Hooke flea"><img src="https://farm1.staticflickr.com/812/39921280565_d4b603c985_c.jpg" width="800" height="600" alt="Figure 1 Hooke flea"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
 **Figure 1.** Robert Hooke's drawing of a flea in Micrographia, 1665. In this text, Hooke described and illustrated dozens of minuscule animals, plants, minerals, and phenomena reveling in the "strength and beauty" in these tiny curiosities. Image source: [Wikipedia](https://en.wikipedia.org/wiki/Flea#/media/File:HookeFlea01.jpg) 
 
 For my dissertation research, I have been studying the role of diseases, predators, and [parasitoids](https://en.wikipedia.org/wiki/Parasitoid) (insect parasites of another insect) on the invasive insect winter moth, so the subject of hyperparasitism is close to my heart.  I am studying how these native sources of mortality are contributing to the management of the outbreaking winter moth populations.  
 
-![image alt text]({{ site.url }}/public/0D9Z346N2MxBumRcDQSSIQ_img_1.jpg)
-
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/40816181691/in/dateposted-friend/" title="Figure 2 Pupae tray"><img src="https://farm1.staticflickr.com/783/40816181691_9d461ae2ec_c.jpg" width="800" height="534" alt="Figure 2 Pupae tray"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
 **Figure 2.** A tray of winter moth cocoons.  These developed from caterpillars we collected from oak and maple trees in Eastern Massachusetts in early May.  Populations have been so dense in the past, that it wouldn't take more than a half an hour to get this many.  Photo courtesy of Miranda Loud.  
 
 As part of this work study winter moth, I recently published a[ paper](https://www.researchgate.net/publication/322827985_Identification_and_impact_of_hyperparasitoids_and_predators_affecting_Cyzenis_albicans_Tachinidae_a_recently_introduced_biological_control_agent_of_winter_moth_Operophtera_brumata_L_in_the_northeaster) on a few different parasitic insects who use a host which was also a parasite.  In this case, a parasitic fly is getting attacked by a hyperparasitic wasp.  This is another example of hyperparasitism…and an important one as it may be affecting the management of winter moth, which is known to have[ damaging effects on trees](http://thatslifesci.com.s3-website-us-east-1.amazonaws.com/2017-03-27-The-hungry-caterpillar-in-real-life-HBroadley/). 
-
-![image alt text]({{ site.url }}/public/0D9Z346N2MxBumRcDQSSIQ_img_2.jpg)
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/40816192561/in/dateposted-friend/" title="Figure 3 food web"><img src="https://farm1.staticflickr.com/821/40816192561_f58682924d_c.jpg" width="800" height="450" alt="Figure 3 food web"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
@@ -55,11 +49,7 @@ These hyperparasitoids are important for the management of winter moth because t
 
 Luckily, from my research, I found that while there is an array of hyperparasitoids that can interact with the flies and they may be slowing down the establishment of *Cyzenis albicans*, it does not appear that the biological control success of winter moth in the northeast is jeopardized.  This is great news, because it would be really unfortunate if a hyperparasitoid hindered our conservation effort by knocking down our biocontrol.
 
- 
-
 This is one example of hyperparasitism in action, but there are many other fascinating examples of hyperparasitism and hyperparasitoids. You can find additional examples of hyperparasites on the[ "Hyperparasite" Wikipedia page](https://en.wikipedia.org/wiki/Hyperparasite), from this[ great summary](http://blogs.discovermagazine.com/notrocketscience/2012/11/27/enter-the-hyperparasites-wasps-that-lay-eggs-in-wasps-that-lay-eggs-in-caterpillars/#.WpMJ1ZPwags) of a recent paper on the topic, or[ this video](https://www.youtube.com/watch?v=yneQTGCjA5A) made by a group of graduate students from the Virginia Commonwealth University.  
-
-![image alt text]({{ site.url }}/public/0D9Z346N2MxBumRcDQSSIQ_img_3.jpg)
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/39921281565/in/dateposted-friend/" title="Figure 4 Perilampid wasp"><img src="https://farm1.staticflickr.com/794/39921281565_6b8fed7833_c.jpg" width="800" height="781" alt="Figure 4 Perilampid wasp"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
