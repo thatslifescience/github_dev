@@ -25,7 +25,7 @@ Has smaller fleas that on him prey;
 And these have smaller still to bite 'em,
 And so proceed ad infinitum.
 
--  Jonathan Swift from *On Poetry: A Rhapsody* (1733)  
+--  Jonathan Swift from *On Poetry: A Rhapsody* (1733)  
 
 This poem about fleas on fleas on fleas is actually describing a biological phenomenon called hyperparasitism.  More specifically, hyperparasitism is when a parasite feeds on a host, which is also a parasite itself.  
 
