@@ -18,12 +18,12 @@ teaser: Did you know that a parasite can have a parasite, which in turn can have
 source-id: 14vREvZ2sxhcykdChFx040qczYzZuoW8jm2IfvUzSDFA
 published: true
 ---
-The vermin only teaze and pinch
+"The vermin only teaze and pinch
 Their foes superior by an inch.
 So, naturalists observe, a flea
 Has smaller fleas that on him prey;
 And these have smaller still to bite 'em,
-And so proceed ad infinitum.
+And so proceed ad infinitum."
 
 --  Jonathan Swift from *On Poetry: A Rhapsody* (1733)  
 
@@ -43,9 +43,9 @@ As part of this work study winter moth, I recently published a[ paper](https://w
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/40816192561/in/dateposted-friend/" title="Figure 3 food web"><img src="https://farm1.staticflickr.com/821/40816192561_f58682924d_c.jpg" width="800" height="450" alt="Figure 3 food web"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-**Figure 3.** Winter moth populations are affected by that of the parasitic fly *Cyzenis* *albicans*, which in turn is affected by the community of hyperparastic wasps that attack *Cyzenis albicans*.  
+**Figure 3.** Winter moth populations are affected by that of the parasitic fly *Cyzenis albicans*, which in turn is affected by the community of hyperparastic wasps that attack *Cyzenis albicans*.  
 
-These hyperparasitoids are important for the management of winter moth because they may affect our classical biological control program.  Classical biological control is the importation and release of host-specific natural enemies from the native range of the invasive species.  We've been using this approach to control winter moth populations. The biocontrol agent involved is a[ parasitic fly called ](https://www.boston.com/uncategorized/noprimarytagmatch/2012/12/12/winter-moths-may-have-met-their-match-a-hungry-fly)*[Cyzenis albican*s](https://www.boston.com/uncategorized/noprimarytagmatch/2012/12/12/winter-moths-may-have-met-their-match-a-hungry-fly).  A[ long-term strategy for managing the outbreaking populations of winter moth in Massachusetts](https://ag.umass.edu/landscape/fact-sheets/winter-moth-in-massachusetts-history-biological-control) is to collect and release one of the parasitoids that keeps moth populations in check in the native range in Europe.  However, if too many of the flies are killed by wasp hyperparasitoids then the *Cyzenis* flies won’t be able to reproduce as rapidly and won’t contribute as much to mortality of the winter moth; its role as an effective biological agent would be compromised.  
+These hyperparasitoids are important for the management of winter moth because they may affect our classical biological control program.  Classical biological control is the importation and release of host-specific natural enemies from the native range of the invasive species.  We've been using this approach to control winter moth populations. The biocontrol agent involved is a[ parasitic fly called ](https://www.boston.com/uncategorized/noprimarytagmatch/2012/12/12/winter-moths-may-have-met-their-match-a-hungry-fly)*[Cyzenis albicans]*(https://www.boston.com/uncategorized/noprimarytagmatch/2012/12/12/winter-moths-may-have-met-their-match-a-hungry-fly).  A[ long-term strategy for managing the outbreaking populations of winter moth in Massachusetts](https://ag.umass.edu/landscape/fact-sheets/winter-moth-in-massachusetts-history-biological-control) is to collect and release one of the parasitoids that keeps moth populations in check in the native range in Europe.  However, if too many of the flies are killed by wasp hyperparasitoids then the *Cyzenis* flies won’t be able to reproduce as rapidly and won’t contribute as much to mortality of the winter moth; its role as an effective biological agent would be compromised.  
 
 Luckily, from my research, I found that while there is an array of hyperparasitoids that can interact with the flies and they may be slowing down the establishment of *Cyzenis albicans*, it does not appear that the biological control success of winter moth in the northeast is jeopardized.  This is great news, because it would be really unfortunate if a hyperparasitoid hindered our conservation effort by knocking down our biocontrol.
 
