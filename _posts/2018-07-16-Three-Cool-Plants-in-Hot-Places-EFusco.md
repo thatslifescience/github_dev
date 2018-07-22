@@ -22,7 +22,6 @@ published: true
 Deserts are [extreme environments](http://www.bbc.co.uk/bitesize/ks3/geography/places/extreme_environments/revision/2/). They can be hot or cold, but they all receive under 10 inches (25 cm) of precipitation each year. To put that in perspective, New York City and Hartford, CT receive an average of around 45 inches, while Hilo, HI receives over 120 inches [1]! Despite harsh dry conditions, deserts have surprisingly high biodiversity [2] and are home to many plants and animals that are well suited to their desert environment. On a recent trip to the Mojave and Sonoran deserts, two hot deserts in the Southwestern U.S., the following spiny plants made a lasting impression. You could even say they…stuck with me. 
 
 1) Pancake Prickly Pear (*Oputina chlorotica*)
-
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/40972639225/in/dateposted-friend/" title="PricklePear"><img src="https://farm1.staticflickr.com/967/40972639225_a813f4e4a0_z.jpg" width="640" height="424" alt="PricklePear"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center><br>
 **Figure 1.** The pancake prickly pear cactus. (Image credit: Kyle Welsh)
 
