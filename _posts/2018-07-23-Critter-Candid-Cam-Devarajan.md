@@ -21,9 +21,13 @@ Field work for my last project on resource use in a guild of carnivores [1] was 
 
 The wildlife seen in the movie include (in their order of appearance): desert (white-footed) fox (*Vulpes vulpes pusilla*), golden jackal (*Canis aureus*), Indian fox (*Vulpes bengalensis*), desert cat (*Felis libyca*), jungle cat (*Felis chaus*), chinkara (*Gazella bennettii*), Indian hare (*Lepus nigricollis*), Indian grey mongoose (*Herpestes** **edwardsi*), nilgai (*Boselaphus tragocamelus*), and wild boar (*Sus scrofa*).
 
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/J6r9SSrmNoo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
+
 References:
 
 [1] Kadambari Devarajan, Abi Tamim Vanak & Vishwesha Guttal (December 2015), "The Company Canids Confront: Resource Partitioning in Sympatric Carnivores in an Arid Ecosystem", Master's thesis submitted to Tata Institute of Fundamental Research. 
 
-## More From Thats Life [Science]{: .t60 }{% include list-posts offset="1" entries='5' category="Earth's Organisms" %}
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Earth's Organisms" %}
 
