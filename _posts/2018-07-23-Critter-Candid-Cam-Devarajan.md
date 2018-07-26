@@ -8,7 +8,7 @@ tags:
 - field work
 - human-wildlife interaction
 categories:
-- Earth’s Organisms
+- Earth's Organisms
 header:
  image_fullwidth: organisms-header.jpg
 image:
@@ -21,7 +21,7 @@ Field work for my last project on resource use in a guild of carnivores [1] was 
 
 The wildlife seen in the movie include (in their order of appearance): desert (white-footed) fox (*Vulpes vulpes pusilla*), golden jackal (*Canis aureus*), Indian fox (*Vulpes bengalensis*), desert cat (*Felis libyca*), jungle cat (*Felis chaus*), chinkara (*Gazella bennettii*), Indian hare (*Lepus nigricollis*), Indian grey mongoose (*Herpestes** **edwardsi*), nilgai (*Boselaphus tragocamelus*), and wild boar (*Sus scrofa*).
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/J6r9SSrmNoo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/J6r9SSrmNoo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>  
 
 References:
 
