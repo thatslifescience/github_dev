@@ -13,7 +13,7 @@ header:
  image_fullwidth: organisms-header.jpg
 image:
  thumb: 20180726-KD-thumb.jpg
-teaser: Travel to this fabulous landscape of India’s wild west to encounter camels, carnivores, people, livestock, and more!
+teaser: Travel to this fabulous landscape in India’s wild west to encounter camels, carnivores, people, livestock, and more!
 source-id: 12JA8YdKqxyszNGX3jr2Sl1CSGfMmQ7eFW9tmI6h4BPU
 published: true
 ---
