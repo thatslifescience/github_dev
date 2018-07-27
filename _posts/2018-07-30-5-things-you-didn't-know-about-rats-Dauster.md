@@ -81,3 +81,6 @@ Rodent anatomy is very similar to human anatomy, and that is one of the many rea
 
 [11] Vanderschuren, L., Niesink, R. J. M., and VanRee, J. M. 1997. "The neurobiology of social play behavior in rats." *Neuroscience and Biobehavioral Reviews*. 21, 309-326, doi:10.1016/s0149-7634(96)00020-6.
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Earth's Organisms" %}
