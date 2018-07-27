@@ -19,18 +19,6 @@ teaser: Rats have pretty surprising features.  You’ll be shocked to find how s
 source-id: 1ao46YB4TOKO1Fmf85_ctnTRhZgJtaZUclPc8Dd3u2BQ
 published: true
 ---
-**Title: **5 Things You Didn't Know About Rats
-
-**Author: **Emma Dauster
-
-**Categories: **Earth's Organisms
-
-**Keywords: **Rats, Rodents, Animal, Model Organism
-
-**Teaser: **Rats have pretty surprising features.  You'll be shocked to find how similar they are to people in some ways and different in others.
-
-**Featured Photos: **Thumbnail image = Fig. 4
-
 You might think of rats and immediately draw upon horrific images of the New York metro system.  I used to think there was no way I would be able to interact with one, but I just didn't understand them.  In reality, rats are pretty cuddly animals who have a ton to teach us about how organisms function.  I have been conducting research with rodents for the past five years, and I’ve found that they are more similar to us than first meets the eye. So let me tell you about  some of their cool (r)attributes.
 
 1. **Rats are social animals:**
@@ -39,7 +27,7 @@ Rats are not as scary as you may think they are.  Rats love to snuggle into smal
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/26652640257/in/dateposted-friend/" title="Untitled"><img src="https://farm1.staticflickr.com/879/26652640257_499bfeb481.jpg" width="500" height="333" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-**Figure 1.  **Two rat friends hanging out with each other and their human buddy.  Rats enjoy interacting with other rats and with people. (Source: wikimedia commons, [missie26870](https://pixabay.com/en/animals-rats-cute-pet-fur-nature-710852/)**)**
+**Figure 1.** Two rat friends hanging out with each other and their human buddy.  Rats enjoy interacting with other rats and with people. (Source: wikimedia commons, [missie26870](https://pixabay.com/en/animals-rats-cute-pet-fur-nature-710852/))
 
 2. **Their teeth keep growing forever:**
 
@@ -47,7 +35,7 @@ While humans cycle through sets of baby and adult teeth, rats are monophyodonts,
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/39713449590/in/dateposted-friend/" title="Untitled"><img src="https://farm1.staticflickr.com/882/39713449590_0a2776e684.jpg" width="500" height="375" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-**Figure 2.  **A rat thinking about how good M&M's taste.  Bottom and top incisors can be seen in this image with normal amounts of yellow staining from use. (Source: [wikimedia commons](https://commons.wikimedia.org/wiki/File:Incisives_du_rat.jpg), Ykmyks)
+**Figure 2.** A rat thinking about how good M&M's taste.  Bottom and top incisors can be seen in this image with normal amounts of yellow staining from use. (Source: [wikimedia commons](https://commons.wikimedia.org/wiki/File:Incisives_du_rat.jpg), Ykmyks)
 
 3. **Rats cry blood when stressed:**
 
@@ -55,7 +43,7 @@ Ok, so they don't actually cry blood-- but it sure looks like it.  Rats have a H
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/40629061835/in/dateposted-friend/" title="Untitled"><img src="https://farm1.staticflickr.com/797/40629061835_ce6bddf71f.jpg" width="500" height="265" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-**Figure 3.  **Three rats without porphyrin stains on their eyes and nose.  They are groomed and ready for their photo op. (Source: [wikimedia commons](https://commons.wikimedia.org/wiki/File:Rat_siamese.JPG), Inge Habex)
+**Figure 3.** Three rats without porphyrin stains on their eyes and nose.  They are groomed and ready for their photo op. (Source: [wikimedia commons](https://commons.wikimedia.org/wiki/File:Rat_siamese.JPG), Inge Habex)
 
 4. **Rats can't vomit:**
 
@@ -63,7 +51,7 @@ While humans would usually expel a toxin upon consumption, rats lack the ability
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/40629079515/in/dateposted-friend/" title="Untitled"><img src="https://farm1.staticflickr.com/910/40629079515_a002b0e7a5.jpg" width="500" height="375" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-**Figure 4.  **This guy is happy to have figured out an alternative to vomiting so that he can survive the accidental consumption of a toxin.  (Source: wikimedia commons, [Rebecca Lai](https://www.flickr.com/photos/uzbecka/5782353686)**)**
+**Figure 4.** This guy is happy to have figured out an alternative to vomiting so that he can survive the accidental consumption of a toxin.  (Source: wikimedia commons, [Rebecca Lai](https://www.flickr.com/photos/uzbecka/5782353686)**)**
 
 5. **Rats have a lot in common with humans:**
 
