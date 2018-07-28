@@ -21,7 +21,7 @@ published: true
 ---
 You might think of rats and immediately draw upon horrific images of the New York metro system.  I used to think there was no way I would be able to interact with one, but I just didn't understand them.  In reality, rats are pretty cuddly animals who have a ton to teach us about how organisms function.  I have been conducting research with rodents for the past five years, and I’ve found that they are more similar to us than first meets the eye. So let me tell you about  some of their cool (r)attributes.
 
-1. **Rats are social animals:**
+1.**Rats are social animals:**
 
 Rats are not as scary as you may think they are.  Rats love to snuggle into small dark spaces like the crook of your elbow.  An adult rat will usually choose to be social rather than alone [3].  They sleep next to each other, groom each other, and even work for the opportunity to see a friend.  When given the choice between seeing another rat and playing with a new toy, they reliably choose the former [10].  They are also motivated by the sole reward of human contact and even like to be tickled just like people [7].  But how do we know that rats really enjoy social interactions?  Rats emit a high-pitched sound when they play with each other, associated with happiness [11].  So not only will rats put in effort to see another individual, but they also love a good tickle and provide us with vocalization feedback by which we can observe that they actually are enjoying the social interaction.
 
