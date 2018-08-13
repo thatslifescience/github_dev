@@ -31,7 +31,7 @@ These are [commonly shared pieces of advice](https://www.fda.gov/food/resourcesf
 
 Figure 1. No matter how delicious this fish looks, you should be aware of how it may impact your long-term health. (Photo by [Maxim Krayushkin](https://www.flickr.com/photos/147842775@N07/))
 
-For more information on fish consumption advisories and how to find advice about the fish you eat, check out my first post, "Is it possible to eat too much fish?"(linked to first post). Now that you know how to find fish consumption advisories, we are going to explore what current state-specific advisories are missing and how they could be improved to help seafood consumers make healthier seafood choices. 
+For more information on fish consumption advisories and how to find advice about the fish you eat, check out my first post, ["Is it possible to eat too much fish?"](http://thatslifesci.com/2018-06-18-Too-Much-Fish-LGuo/). Now that you know how to find fish consumption advisories, we are going to explore what current state-specific advisories are missing and how they could be improved to help seafood consumers make healthier seafood choices. 
 
 [Note: this post includes unpublished personal observations from an [ongoing research project](https://www.sesync.org/project/may-2017-rfp-s-e-synthesis-research-for-graduate-students/urban-ecologies-of-vulnerability) I am involved with, and are meant to indicate knowledge gaps.]
 
