@@ -17,18 +17,6 @@ teaser: Every year, fish consumption advisories are published to help us make he
 source-id: 1gP8OsSne9jxEkZy_yVqGoID3qbqyL_EqH_ozAFKzQ6c
 published: true
 ---
-**Title: **Do we have all the data needed to make safe choices about seafood? 
-
-**Author:** Lian Guo
-
-**Category:** Our Ecosystems
-
-**Keywords:** seafood, fish consumption advisories, human health
-
-**Social media blurb:** Every year, fish consumption advisories are published to help us make healthy seafood choices, but how good is the data used to construct these advisories?
-
-**Thumbnail:** Figure 1.
-
 When choosing seafood in the grocery store, restaurant, or fish market, there's lots of advice out there in the world:
 
 "Buy fresh fish."  “Buy local fish.”
@@ -82,4 +70,8 @@ If you want to learn more about how advisories are calculated in your state, cal
 [3] Lei, Meng, Lun Zhang, Jianjun Lei, Liang Zong, Jiahui Li, Zheng Wu, and Zheng Wang. "[Overview of emerging contaminants and associated human health effects.](https://www.hindawi.com/journals/bmri/2015/404796/)" BioMed research international 2015 (2015).
 
 [4] Reaves, Denise K., Erika Ginsburg, John J. Bang, and Jodie M. Fleming. "[Persistent organic pollutants and obesity: are they potential mechanisms for breast cancer promotion?.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4352112/)" Endocrine-related cancer 22, no. 2 (2015): R69-R86.
+
+## More From Thats Life [Science]
+{: .t60 }	
+{% include list-posts offset="1" entries="5" category="Our Ecosystems" %}
 
