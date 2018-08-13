@@ -8,7 +8,7 @@ tags:
 - human health
 - fish consumption advisories
 categories:
-Our Ecosystems
+- Our Ecosystems
 header:
  image_fullwidth: ecosystem-header.jpg
 image:
@@ -71,5 +71,7 @@ If you want to learn more about how advisories are calculated in your state, cal
 
 [4] Reaves, Denise K., Erika Ginsburg, John J. Bang, and Jodie M. Fleming. "[Persistent organic pollutants and obesity: are th](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4352112/)[ey potential mechanisms for breast cancer promotion?.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4352112/)" Endocrine-related cancer 22, no. 2 (2015): R69-R86.
 
-## More From Thats Life [Science]{: .t60 }{% include list-posts offset="1" entries='5' category="Our Ecosystems" %}
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Our Ecosystems" %}
 
