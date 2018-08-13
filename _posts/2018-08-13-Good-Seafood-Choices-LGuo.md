@@ -8,11 +8,11 @@ tags:
 - human health
 - fish consumption advisories
 categories:
-- Our Ecosystems
+Our Ecosystems
 header:
  image_fullwidth: ecosystem-header.jpg
 image:
- thumb: 2018-04-08-LGuoB.jpg
+ thumb: 20180813LGuo-thumb.jpg
 teaser: Every year, fish consumption advisories are published to help us make healthy seafood choices, but how good is the data used to construct these advisories?
 source-id: 1gP8OsSne9jxEkZy_yVqGoID3qbqyL_EqH_ozAFKzQ6c
 published: true
@@ -35,7 +35,7 @@ For more information on fish consumption advisories and how to find advice about
 
 [Note: this post includes unpublished personal observations from an [ongoing research project](https://www.sesync.org/project/may-2017-rfp-s-e-synthesis-research-for-graduate-students/urban-ecologies-of-vulnerability) I am involved with, and are meant to indicate knowledge gaps.]
 
-<h3>Toxicological sampling practices do not always consider fish ecology</h3>
+<h3>**Toxicological sampling practices do not always consider fish ecology**</h3>
 
 Surprisingly, fish used for the toxicological testing that determines advisories are collected from few locations, relatively infrequently, and include a limited number of species. For states with coastlines, fish consumption advisories are often based on aggregated results from the entire coast, meaning that fish caught hundreds of miles away from one another are used to calculate a coast-wide advisory. Another interesting trend is that fish from freshwater systems tend to be tested on an annual basis, while marine fish are tested sometimes as little as once a decade. However, people are consuming fish from both of these ecosystems. Depending on the state, testing focuses on a few "indicator species," which are expected to reflect levels of contaminants of other fish living in the same system. Since we know that fish found higher on the food chain or are longer-lived tend to accumulate more contaminants, we should also be taking a species' ecology into account when choosing which species to sample and how often to sample them. 
 
@@ -45,7 +45,7 @@ While some data is certainly better than none at all, how robust is the data tha
 
 Figure 2. Fishermen wait patiently to catch fish to take home. (Photo by [Ynote](https://www.flickr.com/photos/60704156@N04/))
 
-<h3>Fish consumption advisories are almost exclusively for mercury-contaminated fish</h3>
+<h3>**Fish consumption advisories are almost exclusively for mercury-contaminated fish**</h3>
 
 Compared to other contaminants, [accumulation of mercury in fishes and humans via fish-consumption](http://thatslifesci.com/2016-08-15-The-Mercurial-Path-of-Mercury-through-Ecosystems-HBroadley/) is well-studied, especially regarding mercury's negative effects on human neurodevelopment. Mercury also cannot be removed from fish tissue by cooking, meaning there are not alternative ways to prepare fish to reduce mercury contamination. These are possible reasons why advisories are almost all based on mercury levels in fish tissue, and ignore other contaminants that also enter humans through fish consumption. 
 
@@ -69,9 +69,7 @@ If you want to learn more about how advisories are calculated in your state, cal
 
 [3] Lei, Meng, Lun Zhang, Jianjun Lei, Liang Zong, Jiahui Li, Zheng Wu, and Zheng Wang. "[Overview of emerging contaminants and associated human health effects.](https://www.hindawi.com/journals/bmri/2015/404796/)" BioMed research international 2015 (2015).
 
-[4] Reaves, Denise K., Erika Ginsburg, John J. Bang, and Jodie M. Fleming. "[Persistent organic pollutants and obesity: are they potential mechanisms for breast cancer promotion?.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4352112/)" Endocrine-related cancer 22, no. 2 (2015): R69-R86.
+[4] Reaves, Denise K., Erika Ginsburg, John J. Bang, and Jodie M. Fleming. "[Persistent organic pollutants and obesity: are th](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4352112/)[ey potential mechanisms for breast cancer promotion?.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4352112/)" Endocrine-related cancer 22, no. 2 (2015): R69-R86.
 
-## More From Thats Life [Science]
-{: .t60 }	
-{% include list-posts offset="1" entries="5" category="Our Ecosystems" %}
+## More From Thats Life [Science]{: .t60 }{% include list-posts offset="1" entries='5' category="Our Ecosystems" %}
 
