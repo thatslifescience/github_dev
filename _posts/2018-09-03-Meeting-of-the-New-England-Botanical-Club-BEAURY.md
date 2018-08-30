@@ -8,8 +8,9 @@ tags:
 - plant
 - species
 categories:
- Grad School Diaries
- image_fullwidth: gradschooldiaries-header.jpg
+- Grad School Diaries
+image_fullwidth:
+ gradschooldiaries-header.jpg
 image:
  thumb: 2018-09-03-thumbnail-beaury.jpg
 teaser: I tagged along with the New England Botanical Club to explore plants of the Pioneer Valley. Come check out some photos!
@@ -17,18 +18,6 @@ teaser: I tagged along with the New England Botanical Club to explore plants of 
 source-id: 1llxDvLFPzk-t-eHiFhMcnFHkmkpNCNVDEP-KUTeqFqw
 published: true
 ---
-**Title**: How Many Botanists Does it Take to ID an Orchid?
-
-**Teaser**: I tagged along with the New England Botanical Club to explore plants of the Pioneer Valley. Come check out some photos!
-
-**Author**: Eve Beaury
-
-**Category**: Grad School Diaries
-
-**Keywords**: Botany, Plant, Species
-
-**Featured photo: **Thumbnail Image = Fig. 2
-
 Dear TLS, 
 
 Greetings from the summer meeting of the New England Botanical Club! Forays, field trips, talks (and food) took over my weekend as expert botanists gathered to explore the Pioneer Valley's plant life. We’re all familiar with the green-up following spring, but from a botanist’s point of view, the magic comes when you take a closer look.
@@ -73,5 +62,7 @@ Until next time!
 
 Eve Beaury
 
-## More From Thats Life [Science]{: .t60 }{% include list-posts offset="1" entries='5' category="Grad School Diaries" %}
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Grad School Diaries" %}
 
