@@ -8,7 +8,7 @@ tags:
 - experiments
 - animal care
 categories:
-Grad School Diaries
+- Grad School Diaries
 header:
  image_fullwidth: gradschooldiaries-header.jpg
 image:
@@ -62,5 +62,7 @@ Keeping the plankton alive, feeding the fish, and cleaning/maintaining the tanks
 
 I'm certainly a proud fish mama. [Check out another graduate student’s trials](http://thatslifesci.com/2017-05-01-Posing-as-a-Bird-Mama-the-adventures-of-a-researcher-turned-bird-parent-AStrauss/) in adopting non-human babies for research, the bird edition!
 
-## More From Thats Life [Science]{: .t60 }{% include list-posts offset="1" entries='5' category="Grad School Diaries" %}
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Grad School Diaries" %}
 
