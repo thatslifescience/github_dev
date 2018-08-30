@@ -18,17 +18,6 @@ teaser: “You know how new parents always post photos of their babies? Well thi
 source-id: 1TrIYckRyqYtPNDiPe4WH1JUGJuKvjhO6G_RLfo7nHP0
 published: true
 ---
-**Title: **A Baby Photo Book – For Fish!
-
-**Author:** Lian Guo
-
-**Category:** Grad School Diaries
-
-**Keywords:** baby photos, experiments, animal care
-
-**Social media blurb:** You know how new parents always post photos of their babies? Well this is that, but with fish.
-
-**Thumbnail:** Figure 1.
 
 Summer 2018 has been year of the blueback herring – at least in my book! Beginning in May, I adopted thousands of blueback herring eggs and together with my tech, have been carefully rearing them from eggs, to larvae, to juveniles. Blueback herring are very small when they hatch (~4 mm), meaning they have small mouths and require live plankton (like rotifers and brine shrimp). 
 
