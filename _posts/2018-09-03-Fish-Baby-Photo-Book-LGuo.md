@@ -12,7 +12,7 @@ categories:
 header:
  image_fullwidth: gradschooldiaries-header.jpg
 image:
- thumb: 20180903-figure1-lguo.jpg
+ thumb: 20180903-thumbnail-lguo.jpg
 teaser: You know how new parents always post photos of their babies? Well this is that, but with fish.
 
 source-id: 1TrIYckRyqYtPNDiPe4WH1JUGJuKvjhO6G_RLfo7nHP0
