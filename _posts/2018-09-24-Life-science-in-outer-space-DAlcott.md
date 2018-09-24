@@ -1,6 +1,5 @@
 ---
 title: Life Science in Outer Space!
-
 layout: page
 author: dalcott
 permalink: /2018-09-24-Life-science-in-outer-space-DAlcott/
@@ -13,7 +12,7 @@ tags:
 - plant
 - space
 categories:
- Earth’s Organisms
+- Earth’s Organisms
 header:
  image_fullwidth: organisms-header.jpg
 image:
@@ -23,19 +22,6 @@ teaser: Humans have been occupying outer space for decades, but what other speci
 source-id: 1XI5IWssIcmQc5UG2xL_NHgomHTfKyWHnKx4TSPd08OY
 published: true
 ---
-**Title: **Life Science in Outer Space!
-
-**Category: **Earth's Organisms
-
-**Keywords: **animal, fish, mammal, health, species, plant, space
-
-**Teaser: **Humans have been occupying outer space for decades, but what other species have made it beyond Earth's atmosphere?
-
-**Featured photo: **Fig 1
-
-**Author: **DAlcott
-
-** **
 
 The first human went into outer space on April 12, 1961. There has been at least one human in space almost continuously since 1989 (and continuously since 2000 on the International Space Station [ISS]). Humans aren't the only Earth-dwelling species to have made it into space. In fact, an impressively diverse assortment of Earth’s organisms have experienced weightlessness in outer space.
 
