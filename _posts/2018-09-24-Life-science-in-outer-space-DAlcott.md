@@ -1,5 +1,5 @@
 ---
-title: Life Science in Outer Space!
+title: "Life Science in Outer Space!"
 layout: page
 author: dalcott
 permalink: /2018-09-24-Life-science-in-outer-space-DAlcott/
