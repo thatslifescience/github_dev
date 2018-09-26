@@ -14,7 +14,6 @@ header:
  image_fullwidth: howitworks-header.jpg
 image:
  thumb: 2018-10-01-EFuscoA.jpg
- title: contestbanner-01.jpg
 teaser: Currently, there are roughly 100 large wildfires burning in the U.S. We’re taking a look at how one of this season’s fires got so big.
 
 source-id: 15ajbHBBG6k_B24rr3dNDhbghFUTOTQ-CrUTyzSHpgAU
