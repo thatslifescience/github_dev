@@ -9,7 +9,7 @@ tags:
 - research
 - networking tips
 categories:
-Grad School Diaries
+- Grad School Diaries
 header:
  image_fullwidth: gradschooldiaries-header.jpg
 image:
@@ -18,18 +18,6 @@ teaser: I attended my first mega-conference as a graduate student, and I learned
 source-id: 11fpK3xSXM7e4P7wXj07HIr51M0PI3jYeCgP679l73r0
 published: true
 ---
-**Title: **Lessons from My First Conference 
-
-**Author:** Lian Guo
-
-**Category:** Grad School Diaries
-
-**Keywords:** graduate school, conference, research, networking tips
-
-**Social media blurb:** I attended my first mega-conference as a graduate student, and I learned a few things along the way...
-
-**Thumbnail:** Figure 1.
-
 At the end of August 2018 I attended my first giant conference as a graduate student: American Fisheries Society in Atlantic City! It was a five-day fish extravaganza I'm unlikely to forget. 
 
 ![image alt text]({{ site.url }}/public/SAIy2ZV4rT7FzZVaD9uFg_img_0.png)
@@ -66,3 +54,6 @@ Figure 3. Quick sketch summary of labmate Matthew Devine's talk, drawn by Bia Di
 
 Hopefully these lessons can help other early-career researchers just like me—we can do it! 
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Grad School Diaries" %}
