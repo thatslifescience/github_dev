@@ -20,8 +20,6 @@ published: true
 ---
 At the end of August 2018 I attended my first giant conference as a graduate student: American Fisheries Society in Atlantic City! It was a five-day fish extravaganza I'm unlikely to forget. 
 
-![image alt text]({{ site.url }}/public/SAIy2ZV4rT7FzZVaD9uFg_img_0.png)
-
 <center><a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/139839751@N06/42505187680/in/dateposted-friend/" title="2018-08-26-LGuoA"><img src="https://farm2.staticflickr.com/1895/42505187680_42bc946367.jpg" width="401" height="384" alt="2018-08-26-LGuoA"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
 Along the way, there were several lessons I learned to improve the conference experience as an early career professional. 
@@ -29,8 +27,6 @@ Along the way, there were several lessons I learned to improve the conference ex
 <h3>1. Engage!</h3>
 
 There are many opportunities at conferences, including workshops, talks, poster sessions, and socials. Each of these activities gives you the opportunity to meet another researcher, identify a potential employer, or learn new research methods. While it's tempting to stay in your hotel room or out in the lobby, remember that every event is another opportunity to further your career. 
-
-![image alt text]({{ site.url }}/public/SAIy2ZV4rT7FzZVaD9uFg_img_1.jpg)
 
 <center><a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/139839751@N06/30445755278/in/dateposted-friend/" title="2018-08-26-LGuoB"><img src="https://farm2.staticflickr.com/1861/30445755278_b55185ba1b.jpg" width="500" height="375" alt="2018-08-26-LGuoB"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
@@ -45,8 +41,6 @@ It's intimidating to go up to people you don’t know, especially at a large con
 <h3>3. Seriously, get into the Twitterverse</h3>
 
 A surprising number of people (and potential employers) are invested in Twitter as a source of science communication and networking. Announcements, jobs, publication summaries, and jokes are plentiful. It's also another way to meet people you didn’t manage to meet in person (professional Tinder?) and get your name out there. I made my Twitter the night before I left for the conference ([@guofish1](https://twitter.com/guofish1)) and found it to be a really valuable way to get conference updates and talk summaries. Bonus, if you like sketchnoting or drawing, people LOVE when you make visuals to accompany their talks (like [@biaocean](https://twitter.com/biaocean)). 
-
-![image alt text]({{ site.url }}/public/SAIy2ZV4rT7FzZVaD9uFg_img_2.jpg)
 
 <center><a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/139839751@N06/30445755318/in/dateposted-friend/" title="2018-08-26-LGuoC"><img src="https://farm2.staticflickr.com/1878/30445755318_bec77cd46f.jpg" width="500" height="366" alt="2018-08-26-LGuoC"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
