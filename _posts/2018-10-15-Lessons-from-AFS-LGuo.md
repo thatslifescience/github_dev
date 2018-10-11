@@ -20,7 +20,8 @@ published: true
 ---
 At the end of August 2018 I attended my first giant conference as a graduate student: American Fisheries Society in Atlantic City! It was a five-day fish extravaganza I'm unlikely to forget. 
 
-<center><a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/139839751@N06/42505187680/in/dateposted-friend/" title="2018-08-26-LGuoA"><img src="https://farm2.staticflickr.com/1895/42505187680_42bc946367.jpg" width="401" height="384" alt="2018-08-26-LGuoA"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
+<center><a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/139839751@N06/42505187680/in/dateposted-friend/" title="2018-08-26-LGuoA"><img src="https://farm2.staticflickr.com/1895/42505187680_42bc946367.jpg" width="401" height="384" alt="2018-08-26-LGuoA"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center><br>
+**Figure 1.** Logo for American Fisheries Society National Meeting in Atlantic City (2018). (Source: [American Fisheries Society](https://afsannualmeeting.fisheries.org/))
 
 Along the way, there were several lessons I learned to improve the conference experience as an early career professional. 
 
@@ -30,13 +31,14 @@ There are many opportunities at conferences, including workshops, talks, poster 
 
 <center><a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/139839751@N06/30445755278/in/dateposted-friend/" title="2018-08-26-LGuoB"><img src="https://farm2.staticflickr.com/1861/30445755278_b55185ba1b.jpg" width="500" height="375" alt="2018-08-26-LGuoB"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-Figure 2. My labmates, Ashleigh Novak and Grace Casselberry, chat with researchers at the AFS poster session. (Photo by Lian Guo)
+**Figure 2.** My labmates, Ashleigh Novak and Grace Casselberry, chat with researchers at the AFS poster session. (Photo by Lian Guo)
 
 <h3>2. Network through your Acquaintances</h3>
 
-It's intimidating to go up to people you don’t know, especially at a large conference. Every time someone you know is standing with someone you don’t know, it’s an opportunity to meet someone new. Also, if you know that your lab already collaborates with someone there, it’s another reason to begin talking to someone and whoever they are talking to! I even met someone just walking with them to the convention center. If it’s hard for you to talk with strangers (or people in general), try faking it until you make it (see TED talk below)!
+It's intimidating to go up to people you don’t know, especially at a large conference. Every time someone you know is standing with someone you don’t know, it’s an opportunity to meet someone new. Also, if you know that your lab already collaborates with someone there, it’s another reason to begin talking to someone and whoever they are talking to! I even met someone just walking with them to the convention center. If it’s hard for you to talk with strangers (or people in general), try faking it until you make it (see TED talk below)!<br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RVmMeMcGc0Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RVmMeMcGc0Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br>
+**Figure 3.** TED Talk featuring Amy Cuddy titled "Fake It Til You Make It".
 
 <h3>3. Seriously, get into the Twitterverse</h3>
 
@@ -44,7 +46,7 @@ A surprising number of people (and potential employers) are invested in Twitter 
 
 <center><a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/139839751@N06/30445755318/in/dateposted-friend/" title="2018-08-26-LGuoC"><img src="https://farm2.staticflickr.com/1878/30445755318_bec77cd46f.jpg" width="500" height="366" alt="2018-08-26-LGuoC"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-Figure 3. Quick sketch summary of labmate Matthew Devine's talk, drawn by Bia Dias. (Image by Bia Dias).
+**Figure 4.** Quick sketch summary of labmate Matthew Devine's talk, drawn by Bia Dias. (Image by Bia Dias).
 
 Hopefully these lessons can help other early-career researchers just like me—we can do it! 
 
