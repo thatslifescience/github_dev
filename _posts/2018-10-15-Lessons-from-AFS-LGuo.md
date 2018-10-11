@@ -37,7 +37,8 @@ There are many opportunities at conferences, including workshops, talks, poster 
 
 It's intimidating to go up to people you don’t know, especially at a large conference. Every time someone you know is standing with someone you don’t know, it’s an opportunity to meet someone new. Also, if you know that your lab already collaborates with someone there, it’s another reason to begin talking to someone and whoever they are talking to! I even met someone just walking with them to the convention center. If it’s hard for you to talk with strangers (or people in general), try faking it until you make it (see TED talk below)!<br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RVmMeMcGc0Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RVmMeMcGc0Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 **Figure 3.** TED Talk featuring Amy Cuddy titled "Fake It Til You Make It".
 
 <h3>3. Seriously, get into the Twitterverse</h3>
