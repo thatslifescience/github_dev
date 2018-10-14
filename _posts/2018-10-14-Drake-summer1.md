@@ -8,7 +8,7 @@ tags:
 - field work
 - ecology
 categories:
-Grad School Diaries
+- Grad School Diaries
 header:
  image_fullwidth: gradschooldiaries-header.jpg
 image:
@@ -17,18 +17,6 @@ teaser: Scottish wildlife postcard from the Highlands!
 source-id: 1Gp1PDEad3XNF7f1J61v0wxnZPfB_1gKCIoACQNKVJpU
 published: true
 ---
-**Title**: Scottish Summer Surprises (Part 1)!
-
-**Teaser**: Scottish wildlife postcard from the Highlands!
-
-**Author**: Joe Drake
-
-**Category**: Grad School Diaries
-
-**Keywords**: Field work, mammals, ecology
-
-**Featured photo: **Thumbnail Image = Fig. 5
-
 Dear TLS Friends,
 
 Sorry this update is so late, but the internet is few and far between in the far northwest of the Scottish Highlands. I have found my way to my field site after long rides in planes, trains, and automobiles (yes, really, and in that order).  
