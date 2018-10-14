@@ -1,5 +1,5 @@
 ---
-title: Scottish Summer Surprises (Part 1)!
+title: "Scottish Summer Surprises (Part 1)!"
 layout: page
 author: jdrake
 permalink: /2018-10-14-Drake-summer1/
