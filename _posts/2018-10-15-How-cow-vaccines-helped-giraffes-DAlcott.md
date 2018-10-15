@@ -10,7 +10,7 @@ tags:
 - disease
 - biogeography
 categories:
-Our Ecosystems 
+- Our Ecosystems
 header:
  image_fullwidth: ecosystem-header.jpg
 image:
@@ -20,20 +20,6 @@ teaser: Find out how a vaccine for cattle resulted in a rebound in giraffe popul
 source-id: 1-b5EaOmjtlvbTpj4eny1rQWKw9S3mius5V_wrmWO6vk
 published: true
 ---
-**Title: **How a cattle vaccine helped save giraffes
-
-**Author(s): **Derrick Alcott
-
-**Category: **Our Ecosystem
-
-**Keywords: **ecology, mammal, virus, disease, biogeography
-
-**Teaser: **Find out how a vaccine for cattle resulted in a rebound in giraffe populations on the Serengeti.
-
-**Featured photo(s): **Thumbnail image =  Figure 5
-
- 
-
 Adult great white sharks love to eat seals. Therefore, it's no surprise that a drastic change in the population of seals results in a corresponding change in the population of sharks. However, many ecosystem interactions are more nuanced and less obvious than this. Sean B. Carroll’s book *The Serengeti Rules* does a great job of illustrating some of the fascinating ways in which life on Earth is interconnected. One example in the book is the case from the late 1960’s to early 1970’s of the surprising interaction between the cattle vaccines and Serengeti giraffe populations.
 
 How could a vaccine for domestic cattle impact wild giraffe populations? And now, what if I told you that the giraffes cannot contract the disease that the vaccine protects against? Domestic cattle are not predators or prey for giraffes, and the disease itself is not killing the giraffes, so what's going on? To find out, let’s walk through the process step-by-step…
@@ -98,3 +84,6 @@ Major predators such as the great white shark are rightfully given credit for be
 
 Carroll, Sean B. 2016. The Serengeti Rules: The quest to discover how life works and why it matters. Princeton University Press. Princeton, NJ.
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Our Ecosystems" %}
