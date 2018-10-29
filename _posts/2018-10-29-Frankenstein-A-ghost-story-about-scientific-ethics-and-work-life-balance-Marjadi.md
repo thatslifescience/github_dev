@@ -58,15 +58,13 @@ References
 
 2. Lovejoy, Bess. "Mary Shelley's Obsession with the Cemetery." JSTOR Daily, October 3, 2018. Accessed October 5, 2018. [https://daily.jstor.org/mary-shelleys-obsession-with-the-cemetery/](https://daily.jstor.org/mary-shelleys-obsession-with-the-cemetery/)
 
-
-## More From Thats Life [Science]
-{: .t60 }
-{% include list-posts offset="1" entries='5' category="Our Ecosystems" %}
-
-
 3. Ruston, Sharon. "The science of life and death in Mary Shelley's Frankenstein" British Library Project. May 15, 2014. Accessed October 5, 2018. [https://www.bl.uk/romantics-and-victorians/articles/the-science-of-life-and-death-in-mary-shelleys-frankenstein](https://www.bl.uk/romantics-and-victorians/articles/the-science-of-life-and-death-in-mary-shelleys-frankenstein)
 
 4. Montillo, Roseanne. The Lady and Her Monsters: A Tale of Dissections, Real-life Dr. Frankensteins, and the Creation of Mary Shelley's Masterpiece. Willam Morrow, 2013.
 
 5. Harrison, Gary, and William L. Gannon. "Victor Frankenstein's Institutional Review Board Proposal, 1790." Science and engineering ethics 21, no. 5 (2015): 1139-1157 .[https://link.springer.com/article/10.1007%2Fs11948-014-9588-y](https://link.springer.com/article/10.1007%2Fs11948-014-9588-y)
 
+
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Grad School Diaries" %}
