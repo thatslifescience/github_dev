@@ -9,7 +9,7 @@ tags:
 - art
 - science and society
 categories:
-Grad School Diaries
+- Grad School Diaries
 header:
  image_fullwidth: gradschooldiaries-header.jpg
 image:
@@ -57,6 +57,12 @@ References
 1. Drummond, Clara. "Lord Byron, 19th century bad-boy." British Library Project, May 15, 2014. Accessed October 5, 2018. https://www.bl.uk/romantics-and-victorians/articles/lord-byron-19thcentury-bad-boy/
 
 2. Lovejoy, Bess. "Mary Shelley's Obsession with the Cemetery." JSTOR Daily, October 3, 2018. Accessed October 5, 2018. [https://daily.jstor.org/mary-shelleys-obsession-with-the-cemetery/](https://daily.jstor.org/mary-shelleys-obsession-with-the-cemetery/)
+
+
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Our Ecosystems" %}
+
 
 3. Ruston, Sharon. "The science of life and death in Mary Shelley's Frankenstein" British Library Project. May 15, 2014. Accessed October 5, 2018. [https://www.bl.uk/romantics-and-victorians/articles/the-science-of-life-and-death-in-mary-shelleys-frankenstein](https://www.bl.uk/romantics-and-victorians/articles/the-science-of-life-and-death-in-mary-shelleys-frankenstein)
 
