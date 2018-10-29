@@ -1,7 +1,7 @@
 ---
 title: Frankenstein: A ghost-story about scientific ethics and work-life balance
 layout: page
-author: guest
+author: Guest Writer
 permalink: /2018-10-29-Frankenstein-A-ghost-story-about-scientific-ethics-and-work-life-balance-Marjadi/
 tags:
 - communication
@@ -18,17 +18,7 @@ teaser: Happy Halloween! Mary Shelley’s, Frankenstein turns 200 this year. Let
 source-id: 17bUUdWCF4qJfeEd2H1P77TcYcm9RefcNOwOfjECBgIs
 published: true
 ---
-**Title: ***Frankenstein*: A ghost-story about scientific ethics and work-life balance 
-
-**Author(s): **MeghnaNMarjadi 
-
-**Category: **Grad School Diaries/Holiday 
-
-**Keywords: **Science and Society, Communication, Ethics, Art and Science
-
-**Teaser: **Happy Halloween!** **Mary Shelley's, *Frankenstein *turns* *200 this year. Let’s take a closer look at this ghost-story about science gone wrong. 
-
-**Thumbnail image**:  Figure 1 
+*** Post written by TLS Contributor Meghna Marjadi ***
 
 Figure 1: An oil portrait of Mary Wollstonecraft Shelley by Richard Rothwell from the Encyclopædia Britannica [https://www.britannica.com/biography/Mary-Wollstonecraft-Shelley/media/539744/15596](https://www.britannica.com/biography/Mary-Wollstonecraft-Shelley/media/539744/15596)
 
