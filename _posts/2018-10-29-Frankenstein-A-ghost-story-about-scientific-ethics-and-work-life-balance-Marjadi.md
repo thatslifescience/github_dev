@@ -1,5 +1,5 @@
 ---
-title: Frankenstein: A ghost-story about scientific ethics and work-life balance
+title: "Frankenstein: A ghost-story about scientific ethics and work-life balance"
 layout: page
 author: Guest Writer
 permalink: /2018-10-29-Frankenstein-A-ghost-story-about-scientific-ethics-and-work-life-balance-Marjadi/
