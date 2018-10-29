@@ -46,7 +46,7 @@ On the second day of the meeting, the group spread across Western Massachusetts 
 
 **Figure 10** Did you know plants can rust? This discoloration is caused by a fungal disease. (Source: Eve Beaury) <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/42990154391/in/dateposted-friend/" title="IMG_3016"><img src="https://farm2.staticflickr.com/1799/42990154391_9f63f6be5a.jpg" width="375" height="500" alt="IMG_3016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-We found beautiful rare orchids under the canopy of the sandplains, and some wildlife as well!
+We found beautiful orchids under the canopy of the sandplains, and some wildlife as well!
 
 **Figure 11** *Goodyera pubescens* is one of the orchids we found. Deer had been nibbling on nearby individuals of this patch. (Source: Eve Beaury) <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/42088607735/in/dateposted-friend/" title="IMG_3026"><img src="https://farm2.staticflickr.com/1815/42088607735_b0f91cffe1.jpg" width="375" height="500" alt="IMG_3026"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
