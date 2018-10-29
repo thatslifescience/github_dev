@@ -1,7 +1,7 @@
 ---
 title: "Frankenstein: A ghost-story about scientific ethics and work-life balance"
 layout: page
-author: Guest Writer
+author:
 permalink: /2018-10-29-Frankenstein-A-ghost-story-about-scientific-ethics-and-work-life-balance-Marjadi/
 tags:
 - communication
@@ -14,7 +14,7 @@ header:
  image_fullwidth: gradschooldiaries-header.jpg
 image:
  thumb: 20181029-marjadi-thumb.jpg
-teaser: Happy Halloween! Mary Shelley’s, Frankenstein turns 200 this year. Let’s take a closer look at this ghost-story about science gone wrong. 
+teaser: "Happy Halloween! Mary Shelley’s, Frankenstein turns 200 this year. Let’s take a closer look at this ghost-story about science gone wrong." 
 source-id: 17bUUdWCF4qJfeEd2H1P77TcYcm9RefcNOwOfjECBgIs
 published: true
 ---
