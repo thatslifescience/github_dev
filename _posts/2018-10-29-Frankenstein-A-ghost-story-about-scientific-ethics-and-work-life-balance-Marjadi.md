@@ -1,7 +1,7 @@
 ---
 title: "Frankenstein: A ghost-story about scientific ethics and work-life balance"
 layout: page
-author:
+author: mmarjadi
 permalink: /2018-10-29-Frankenstein-A-ghost-story-about-scientific-ethics-and-work-life-balance-Marjadi/
 tags:
 - communication
@@ -18,8 +18,6 @@ teaser: "Happy Halloween! Mary Shelley’s, Frankenstein turns 200 this year. Le
 source-id: 17bUUdWCF4qJfeEd2H1P77TcYcm9RefcNOwOfjECBgIs
 published: true
 ---
-*** Post written by TLS Contributor Meghna Marjadi ***
-
 Figure 1: An oil portrait of Mary Wollstonecraft Shelley by Richard Rothwell from the Encyclopædia Britannica [https://www.britannica.com/biography/Mary-Wollstonecraft-Shelley/media/539744/15596](https://www.britannica.com/biography/Mary-Wollstonecraft-Shelley/media/539744/15596)
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/44779016044/in/dateposted-friend/" title="mary3"><img src="https://farm2.staticflickr.com/1913/44779016044_ec40b5ec36_b.jpg" width="655" height="800" alt="mary3"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
