@@ -14,13 +14,13 @@ gallery:
 ---
 
 ![Meghna N. Marjadi]({{ site.urlimg }}/MMarjadi-01.jpg)<br>
-[Email](mailto: mmarjadi@umass.edu)
-[Twitter](https://twitter.com/meghnamarjadi)
-[Personal Website](https://meghnamarjadi.wordpress.com/)
+[Email](mailto: mmarjadi@umass.edu)<br>
+[Twitter](https://twitter.com/meghnamarjadi)<br>
+[Personal Website](https://meghnamarjadi.wordpress.com/)<br>
 
 Research Area: ecology, anadromous fish biology, food security
 
-Generally, I am interested in how people interact with their environments, specifically anadromous fishes. Anadromous fishes, like salmon and alewife, are born in freshwater, travel to saltwater to mature, and ten return to their natal freshwater habitats to spawn. I consider in how anadromous fishes and their freshwater and marine ecosystems fishes respond to anthropogenic pressures, like overfishing, habitat degradation, and climate change. Ultimately, I am interested in understanding how how these ecosystem changes will influence local and global food security.
+Generally, I am interested in how people interact with their environments, specifically anadromous fishes. Anadromous fishes, like salmon and alewife, are born in freshwater, travel to saltwater to mature, and ten return to their natal freshwater habitats to spawn. I consider in how anadromous fishes and their freshwater and marine ecosystems fishes respond to anthropogenic pressures, like overfishing, habitat degradation, and climate change. Ultimately, I am interested in understanding how how these ecosystem changes will influence local and global food security.<br>
 At TLS, I serve as the Chair of Managing Editing Committee and enjoy writing about ecology and intersections between science, policy, and art.
 
 {% assign index = true %}
