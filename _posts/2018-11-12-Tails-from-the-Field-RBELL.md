@@ -37,8 +37,6 @@ Dear TLS,
 
 After many months of planning and navigating the red tape of international travel and research permits, I finally got the chance to visit southwest Madagascar this summer! I came here—a remote little nature reserve on the other side of the world—to study how different habitats influence the microbiomes of two endangered lemur species. The ring-tailed lemur and Verreaux's sifaka both live throughout the reserve, which ranges from arid spiny forests to dry deciduous forests, as well as moister gallery forests surrounding the nearby river.
 
-![image alt text]({{ site.url }}/public/eFr3InO40LSms8xvJICxXg_img_0.jpg)
-
 Figure 1. A side-by-side comparison of the habitat types present at Beza Mahafaly! Left to right:  spiny forest, dry deciduous forest, gallery (riverine) forest. Social groups of both species live throughout all three major habitats on the reserve. As you can see, lemurs living in these different areas deal with very different environmental pressures and resource availabilities that could be affecting their microbiomes! Can you spot the sifaka in one of these photos?
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/29351746567/in/dateposted-friend/" title="BezaFigure1"><img src="https://farm2.staticflickr.com/1865/29351746567_1620620576_b.jpg" width="1024" height="393" alt="BezaFigure1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
@@ -47,7 +45,6 @@ Even when I'm not collecting microbiome samples from sifaka and ring-tailed lemu
 
 When I was strolling through a section of the reserve filled with towering tamarind trees, I happened upon a small group of sifaka, lazily napping and chewing leaves high in the forest. As a highly folivorous (leaf-eating) species, Verreaux's sifaka will spend most of their day eating leaves and napping while they digest all of that fibrous vegetation!
 
-![image alt text]({{ site.url }}/public/eFr3InO40LSms8xvJICxXg_img_1.jpg)
 
 Figure 2. These sifaka were happy to pose for a few photos while they rested! As you can see in these photos, many of the sifaka within Beza Mahafaly Special Reserve have collars with unique tags on them: this is part of the long-term efforts of the reserve's sifaka research team. Every year they briefly capture yearling sifaka individuals to take body measurements and small genetic samples from them. They also collar them as a way of tracking and identifying individuals throughout their lives.
 
@@ -55,7 +52,6 @@ Figure 2. These sifaka were happy to pose for a few photos while they rested! As
 
 You can even find lemurs within the camp where all of the field guides and researchers stay! One large group of ring-tailed lemurs lives in the nearby forest, but strolls into the camp a few times a day. They love to sit in the middle of camp to soak up the morning sun, and you can even find them trying to drink our filtered water!
 
-![image alt text]({{ site.url }}/public/eFr3InO40LSms8xvJICxXg_img_2.jpg)
 
 Figure 3. Ring-tailed lemurs that love to regularly stop by the reserve's campsite. They certainly aren’t afraid of people, and provide plenty of amusement with their antics when they visit us!
 
@@ -67,3 +63,6 @@ Best wishes,
 
 Rachel
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Grad School Diaries" %}
