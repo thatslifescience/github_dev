@@ -1,5 +1,5 @@
 ---
-title: Tails from the Field: Studying Lemurs in Southwestern Madagascar
+title: "Tails from the Field: Studying Lemurs in Southwestern Madagascar"
 layout: page
 author: rbell
 permalink: /2018-11-12-Tails-from-the-Field-RBELL/
@@ -14,7 +14,7 @@ header:
  image_fullwidth: gradschooldiaries-header.jpg
 image:
  thumb: 2018-11-12-rbell-thumbnail.jpg
-teaser: In one of the most ecologically unique regions in the world, I had the chance to get up close and personal with lemurs!
+teaser: "In one of the most ecologically unique regions in the world, I had the chance to get up close and personal with lemurs!"
 source-id: 1ApXIrIXhPo2B79Atx8ko3sodclGvSxHgoLrqGtIGQfA
 published: true
 ---
