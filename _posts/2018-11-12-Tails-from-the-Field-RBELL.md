@@ -9,7 +9,7 @@ tags:
 - biodiversity
 - ecology
 categories:
- Grad School Diaries
+- Grad School Diaries
 header:
  image_fullwidth: gradschooldiaries-header.jpg
 image:
@@ -19,17 +19,6 @@ teaser: In one of the most ecologically unique regions in the world, I had the c
 source-id: 1ApXIrIXhPo2B79Atx8ko3sodclGvSxHgoLrqGtIGQfA
 published: true
 ---
-**Title:** Tails from the Field: Studying Lemurs in Southwestern Madagascar
-
-**Author:** Rachel Bell
-
-**Categories:** Grad School Diaries
-
-**Keywords:** Microbiome, Animal, Biodiversity, Ecology
-
-**Teaser:** In one of the most ecologically unique regions in the world, I had the chance to get up close and personal with lemurs!
-
-**Featured Photos:** Thumbnail image = Fig. 3
 
 To: That's Life [Science] Headquarters
 
