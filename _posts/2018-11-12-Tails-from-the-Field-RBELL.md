@@ -15,7 +15,6 @@ header:
 image:
  thumb: 2018-11-12-rbell-thumbnail.jpg
 teaser: In one of the most ecologically unique regions in the world, I had the chance to get up close and personal with lemurs!
-
 source-id: 1ApXIrIXhPo2B79Atx8ko3sodclGvSxHgoLrqGtIGQfA
 published: true
 ---
