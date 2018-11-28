@@ -19,22 +19,6 @@ teaser: Planting a flower from your local nursery seems innocuous enough, but wh
 source-id: 1CT1l11XHoC9oFyufCLy0hM-0Ep-mh-6db2vV__l28pE
 published: true
 ---
-Time sensitive! I'd like this post to go up as close to the end of summer as possible
-
-**Title**: 3 Reasons Why What You Grow in Your Garden Matters
-
-**Author: **Eve Beaury
-
-**Category: **Our Ecosystems
-
-**Blurb**: Planting a flower from your local nursery seems innocuous enough, but where that flower comes from is an important consideration that often gets overlooked.
-
-**Keywords: **Invasive species, Biodiversity, Plant, Climate Change, Human
-
-**Social Media Blurb: **Do you have a garden? If so, check out 3 Reasons Why What You Grow in your Garden Matters for supporting healthy ecosystems and limiting plant invasions.
-
-**Featured Photo: **Thumbnail =** **Figure 1.
-
 We often decide what to plant in our gardens based on what looks nice, what is low-maintenance, or what fits into the space we have available. For most, these decisions are pretty easy to make after wandering the aisles of your local nursery or chatting with a landscaper. For invasion ecologists such as myself, these decisions are loaded with more consequences than the average gardener might realize. 
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/44673623834/in/dateposted-friend/" title="Picture1"><img src="https://farm2.staticflickr.com/1929/44673623834_d0cc71e9aa.jpg" width="500" height="363" alt="Picture1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
@@ -71,7 +55,7 @@ Planting native greatly reduces risks associated with new invasions and slows th
 
 * The Invasive Plant atlas to learn more about invasive species in your area: [https://www.invasiveplantatlas.org/](https://www.invasiveplantatlas.org/)
 
-References:
+**References:**
 
 1. Simberloff, Daniel, Lara Souza, Martín A. Nuñez, M. Noelia Barrios-Garcia, and Windy Bunn. "The natives are restless, but not often and mostly when disturbed." *Ecology* 93, no. 3 (2012): 598-607.
 
@@ -88,4 +72,8 @@ References:
 7. Hauser, Mihir Zaveri-Christine. "Giant Hogweed: A Plant That Can Burn and Blind You. But Don't Panic." The New York Times. https://www.nytimes.com/2018/07/02/us/giant-hogweed-nyt.html
 
 8. "Kudzu, Pueraria Montana Var. Lobata Fabales: Fabaceae (leguminosae)". EddMaps. https://www.eddmaps.org/Species/subject.cfm?sub=2425
+
+## More From Thats Life [Science]
+{: .t60 }	
+{% include list-posts offset="1" entries="5" category="Our Ecosystems" %}
 
