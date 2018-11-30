@@ -10,8 +10,7 @@ tags:
 categories:
 - Grad School Diaries
 header:
- image_fullwidth: image-file-name-here.jpg
-gradschooldiaries-header.jpg
+ image_fullwidth: gradschooldiaries-header.jpg
 image:
  thumb: gpold-thumb-20181129.jpg
 teaser: “Scientific discovery is incremental and extends beyond the lifespan of a single researcher. But whose shoulders do I stand upon?”
