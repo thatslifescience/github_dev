@@ -32,7 +32,7 @@ I mean, how would 21st-century NASA have sent a rover to Mars if [Katherine John
 
 My own science, however, depends on the work of a scientist by the name of Maud Menten. Until recently, she was just a name to me – actually, a parameter (number) in an equation.
 
-<center><p><a href="https://commons.wikimedia.org/wiki/File:Maud_Leonora_Menten_(1879-1960).jpg#/media/File:Maud_Leonora_Menten_(1879-1960).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Maud_Leonora_Menten_%281879-1960%29.jpg/1200px-Maud_Leonora_Menten_%281879-1960%29.jpg" width="425" height="650” alt="Maud Leonora Menten (1879-1960).jpg"></a></p></center>
+<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/32298323228/in/dateposted-friend/" title="SIA2008-5999"><img src="https://farm5.staticflickr.com/4893/32298323228_9433992cae_z.jpg" width="391" height="640" alt="SIA2008-5999"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
 **Fig. 2** - Maud Menten. (source: [Smithsonian Institution](https://commons.wikimedia.org/wiki/File:Maud_Leonora_Menten_(1879-1960).jpg) via Wikipedia)
 
