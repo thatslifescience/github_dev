@@ -18,7 +18,7 @@ teaser: “Scientific discovery is incremental and extends beyond the lifespan o
 source-id: 1WAV9omnML7X1FAHml_atUEHbLYY6vKzwwsUuv2cuV-s
 published: true
 ---
-<center><p><a href="https://commons.wikimedia.org/wiki/File:Library_of_Congress,_Rosenwald_4,_Bl._5r.jpg#/media/File:Library_of_Congress,_Rosenwald_4,_Bl._5r.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Library_of_Congress%2C_Rosenwald_4%2C_Bl._5r.jpg" alt="Library of Congress, Rosenwald 4, Bl. 5r.jpg" height="480" width="378"></a><br>By <span lang="en">Unknown</span> - <a rel="nofollow" class="external free" href="http://lccn.loc.gov/50041709">http://lccn.loc.gov/50041709</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=14901168">Link</a></p></center>
+<center><p><a href="https://commons.wikimedia.org/wiki/File:Library_of_Congress,_Rosenwald_4,_Bl._5r.jpg#/media/File:Library_of_Congress,_Rosenwald_4,_Bl._5r.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Library_of_Congress%2C_Rosenwald_4%2C_Bl._5r.jpg" alt="Library of Congress, Rosenwald 4, Bl. 5r.jpg" height="480" width="378"></a></p></center>
 
 **Fig. 1** - The *original* "standing on the shoulders of giants" didn't mean the same then as it did today. In Greek mythology, the sighted servant Cedalion stood on his blind master giant Orion, helping him see. Now, it is not the giants but us who would be blind without them, (Source: [Library of Congress](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants#/media/File:Library_of_Congress,_Rosenwald_4,_Bl._5r.jpg) via Wikipedia)
 
@@ -32,9 +32,7 @@ I mean, how would 21st-century NASA have sent a rover to Mars if [Katherine John
 
 My own science, however, depends on the work of a scientist by the name of Maud Menten. Until recently, she was just a name to me – actually, a parameter (number) in an equation.
 
-<center><p><a href="https://commons.wikimedia.org/wiki/File:Maud_Leonora_Menten_(1879-1960).jpg#/media/File:Maud_Leonora_Menten_(1879-1960).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Maud_Leonora_Menten_%281879-1960%29.jpg/1200px-Maud_Leonora_Menten_%281879-1960%29.jpg" alt="Maud Leonora Menten (1879-1960).jpg"></a><br>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/25053835@N03">Smithsonian Institution</a> from United States - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/smithsonian/8491215717/">Maud Leonora Menten (1879-1960)</a>, <a href="https://www.flickr.com/commons/usage/" title="No known copyright restrictions">No restrictions</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=30433812">Link</a></p></center>
-
- 
+<center><p><a href="https://commons.wikimedia.org/wiki/File:Maud_Leonora_Menten_(1879-1960).jpg#/media/File:Maud_Leonora_Menten_(1879-1960).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Maud_Leonora_Menten_%281879-1960%29.jpg/1200px-Maud_Leonora_Menten_%281879-1960%29.jpg" width="425" height="650” alt="Maud Leonora Menten (1879-1960).jpg"></a></p></center>
 
 **Fig. 2** - Maud Menten. (source: [Smithsonian Institution](https://commons.wikimedia.org/wiki/File:Maud_Leonora_Menten_(1879-1960).jpg) via Wikipedia)
 
