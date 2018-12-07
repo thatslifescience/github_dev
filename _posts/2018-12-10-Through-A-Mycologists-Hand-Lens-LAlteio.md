@@ -6,10 +6,10 @@ permalink: /2018-12-10-through-a-mycologists-hand-lens-lalteio/
 tags:
 - ecology
 categories:
-Earth’s Organisms
+- Earth's Organisms
 header: image_fullwidth: organisms-header.jpg
 thumb: 2018-12-10_lalteio_thumbnail.jpg
-teaser: “Fungi are fascinating! You can find them just outside your door, and some wild varieties are edible. But be careful! These decomposers can be deceptive!”
+teaser: Fungi are fascinating! You can find them just outside your door, and some wild varieties are edible. But be careful! These decomposers can be deceptive!
 
 source-id: 1PdnzjGaK0u-mWO1NCVx8Rdte2EGOHq4D6z5HRsi2DxQ
 published: true
