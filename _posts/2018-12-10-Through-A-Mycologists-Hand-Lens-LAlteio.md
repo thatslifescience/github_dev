@@ -54,13 +54,13 @@ Fungi come in many forms. Next time you take a hike, be careful where you step! 
 
 References:
 
-[1] Proudfoot, B. and Fretwell, K. (2016). Chicken Mushroom –* Laetiporus conifericola.* Biodiversity of the Central Coast. [https://www.centralcoastbiodiversity.org/chicken-mushroom-bull-laetiporus-conifericola.html](https://www.centralcoastbiodiversity.org/chicken-mushroom-bull-laetiporus-conifericola.html) 
+[1] Proudfoot, B. and Fretwell, K. (2016). Chicken Mushroom – *Laetiporus conifericola.* Biodiversity of the Central Coast. [https://www.centralcoastbiodiversity.org/chicken-mushroom-bull-laetiporus-conifericola.html](https://www.centralcoastbiodiversity.org/chicken-mushroom-bull-laetiporus-conifericola.html) 
 
 [2] Horowitz, K.M., and Horowitz, B.Z. (2017). Toxicity, Mushroom, Gyromita. [https://www.ncbi.nlm.nih.gov/books/NBK470580/](https://www.ncbi.nlm.nih.gov/books/NBK470580/)
 
-[3]* Hygrophoropsis aurantiaca*: False Chanterelle. Encyclopedia of Life. [http://eol.org/pages/195773/details](http://eol.org/pages/195773/details) 
+[3]*Hygrophoropsis aurantiaca*: False Chanterelle. Encyclopedia of Life. [http://eol.org/pages/195773/details](http://eol.org/pages/195773/details) 
 
-[4] Garcia, J., Costa, V.M, Carvalho, A., Baptista, P., Guedes de Pinho, P., de Lourdes Bastos, M., and Carvalho, F. (2015).* Amanita phalloides *poisoning: Mechanisms of toxicity and treatment. *Food and Chemical Toxicology.* [https://www.sciencedirect.com/science/article/pii/S0278691515300594?via%3Dihub](https://www.sciencedirect.com/science/article/pii/S0278691515300594?via%3Dihub) 
+[4] Garcia, J., Costa, V.M, Carvalho, A., Baptista, P., Guedes de Pinho, P., de Lourdes Bastos, M., and Carvalho, F. (2015).*Amanita phalloides* poisoning: Mechanisms of toxicity and treatment. *Food and Chemical Toxicology.* [https://www.sciencedirect.com/science/article/pii/S0278691515300594?via%3Dihub](https://www.sciencedirect.com/science/article/pii/S0278691515300594?via%3Dihub) 
 
 [5] Fretwell, K. (2016). Eyelash pixie cup, common eyelash – *Scutellinia scutellata*. [https://www.centralcoastbiodiversity.org/eyelash-pixie-cup-bull-scutellinia-scutellata.html](https://www.centralcoastbiodiversity.org/eyelash-pixie-cup-bull-scutellinia-scutellata.html) 
 
