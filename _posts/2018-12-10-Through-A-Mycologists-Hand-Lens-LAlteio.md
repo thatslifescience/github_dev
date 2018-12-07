@@ -14,18 +14,6 @@ teaser: “Fungi are fascinating! You can find them just outside your door, and 
 source-id: 1PdnzjGaK0u-mWO1NCVx8Rdte2EGOHq4D6z5HRsi2DxQ
 published: true
 ---
-Title: Through the Mycologist's Hand Lens: Deceptive Decomposers
-
-Author: Lauren V. Alteio
-
-Category: Earth's Organisms
-
-Keywords: Fungi, Diversity, Foraging
-
-Social Media Blurb: Fungi are fascinating! You can find them just outside your door, and some wild varieties are edible. But be careful! These decomposers can be deceptive!
-
-Featured Photos: Figure 2A
-
 There is a world of fungi out there beyond the shiitake and portobello mushrooms you see in the grocery store. Fungi are a weird group of organisms that aren't quite plants or animals, and mycologists who study these strange creatures are often just as eccentric. Many people enjoy searching for fungi in their free time, and one great way to do that is to take a hike! Fungi can be found everywhere in the forest, if you know where to look. 
 
 One great perk of mushroom foraging is finding some you can eat. There are many edible varieties, including chicken of the woods, morels, and chanterelles. Some of these decomposers can be quite beautiful with bright colors and interesting shapes. However, be careful to avoid confusing these with some not-so-edible relatives. 
