@@ -62,3 +62,6 @@ References:
 
 [5] Fretwell, K. (2016). Eyelash pixie cup, common eyelash – *Scutellinia scutellata*. [https://www.centralcoastbiodiversity.org/eyelash-pixie-cup-bull-scutellinia-scutellata.html](https://www.centralcoastbiodiversity.org/eyelash-pixie-cup-bull-scutellinia-scutellata.html) 
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Our Ecosystems" %}
