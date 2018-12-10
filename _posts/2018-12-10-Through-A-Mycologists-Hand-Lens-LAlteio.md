@@ -24,21 +24,21 @@ One great perk of mushroom foraging is finding some you can eat. There are many 
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/43696715344/in/dateposted-friend/" title="Chicken_of_the_Woods_2"><img src="https://farm2.staticflickr.com/1894/43696715344_315d57c495_n.jpg" width="320" height="213" alt="Chicken_of_the_Woods_2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-**Figure 1** Chicken of the Woods is usually an edible mushroom with bright yellow-orange color and pores. The variety most commonly found in the northeastern North America (pictured left), typically grows on oak trees. However, the variety pictured right is typically found in western North America and grows on conifer trees, like pines. Although these are edible, some people have allergic reactions and gastrointestinal problems from eating these mushrooms, so proceed with caution. They also get less tasty as they age [1]. 
+**Figure 1** Chicken of the Woods is usually an edible mushroom with bright yellow-orange color and pores. The variety most commonly found in northeastern North America (pictured on top) typically grows on oak trees. However, the variety pictured on the bottom is typically found in western North America and grows on conifer trees, like pines. Although these are edible, some people have allergic reactions and gastrointestinal problems from eating these mushrooms, so proceed with caution. They also get less tasty as they age [1]. 
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/44414780211/in/dateposted-friend/" title="Morel_1"><img src="https://farm2.staticflickr.com/1881/44414780211_9dcd35bc69_n.jpg" width="320" height="242" alt="Morel_1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/29476647457/in/dateposted-friend/" title="False_Morel_2"><img src="https://farm2.staticflickr.com/1886/29476647457_d34a59bac4_n.jpg" width="320" height="240" alt="False_Morel_2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-**Figure 2** Morels (pictured left) are another variety of edible mushroom. False morels (pictured right) look very similar to true morels, however false morels can cause vomiting, diarrhea, and even seizures due to a toxin it contains [2]. 
+**Figure 2** Morels (pictured top) are another variety of edible mushroom. False morels (pictured bottom) look very similar to true morels, however false morels can cause vomiting, diarrhea, and even seizures due to a toxin it contains [2]. 
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/44414778531/in/dateposted-friend/" title="Chanterelle_1"><img src="https://farm2.staticflickr.com/1870/44414778531_9371a85b73_n.jpg" width="320" height="240" alt="Chanterelle_1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/29476644467/in/dateposted-friend/" title="False_Chanterelle_2"><img src="https://farm2.staticflickr.com/1876/29476644467_96c9c03d54_n.jpg" width="320" height="236" alt="False_Chanterelle_2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-**Figure 3** Chanterelles (pictured left) are highly prized by mycologists as one of the most delectable fungi. The toxicity of false chanterelles (pictured right) is debated, as some say it is edible but not tasty while others say it has a toxic compound called arabitol, which results in gastrointestinal distress [3].
+**Figure 3** Chanterelles (pictured top) are highly prized by mycologists as one of the most delectable fungi. The toxicity of false chanterelles (pictured bottom) is debated, as some say it is edible but not tasty while others say it has a toxic compound called arabitol, which results in gastrointestinal distress [3].
 
-While some non-edible mushrooms just might taste a bit off, others are incredibly toxic. One such mushroom is the* Amanita*. One species of this beautiful mushroom, aptly nicknamed the "Death Angel" causes gastrointestinal problems and ultimately death if consumed [4]. 
+While some non-edible mushrooms just might taste a bit off, others are incredibly toxic. One such mushroom is the *Amanita*. One species of this beautiful mushroom, aptly nicknamed the "Death Angel" causes gastrointestinal problems and ultimately death if consumed [4]. 
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/44414774711/in/dateposted-friend/" title="Amanita_1"><img src="https://farm2.staticflickr.com/1892/44414774711_1fd6885341_z.jpg" width="640" height="480" alt="Amanita_1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
