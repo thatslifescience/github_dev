@@ -48,7 +48,7 @@ You might have to look a bit closer to see some fungi. Instead of forming large 
 
  <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/29476644087/in/dateposted-friend/" title="Eyelash_Fungus_1"><img src="https://farm2.staticflickr.com/1895/29476644087_c9143d4378_z.jpg" width="640" height="639" alt="Eyelash_Fungus_1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-**Figure 5** The "eyelash fungus", *Scutellinia scutellata, *has little “hairs” around its cup that look like tiny eyelashes. These tiny fungi usually grow in clusters on rotting woods or soil during spring and fall. They can be found in North America, the UK, and Europe [5].  
+**Figure 5** The "eyelash fungus", *Scutellinia scutellata*, has little “hairs” around its cup that look like tiny eyelashes. These tiny fungi usually grow in clusters on rotting woods or soil during spring and fall. They can be found in North America, the UK, and Europe [5].  
 
 Fungi come in many forms. Next time you take a hike, be careful where you step! A fascinating fungus might be just underfoot. And remember to check with a professional mycologist before you eat any fungus you are unsure about!
 
