@@ -11,7 +11,7 @@ header:
  image_fullwidth: organisms-header.jpg
 image:
  thumb: 2018-12-10_lalteio_thumbnail.jpg
-teaser: Fungi are fascinating! You can find them just outside your door, and some wild varieties are edible. But be careful! These decomposers can be deceptive!
+teaser: Fungi are fascinating! You can find them just outside your door, and some wild varieties are edible. But be careful - these decomposers can be deceptive!
 
 source-id: 1PdnzjGaK0u-mWO1NCVx8Rdte2EGOHq4D6z5HRsi2DxQ
 published: true
