@@ -59,3 +59,8 @@ One way we measure neural patterns during sleep and wakefulness is using electro
 
 3.  Mayo Clinic Staff. 2018. "EEG (electroencephalogram)" Accessed October 19, 2018. [https://www.mayoclinic.org/tests-procedures/eeg/about/pac-20393875](https://www.mayoclinic.org/tests-procedures/eeg/about/pac-20393875)
 
+
+
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Earth's Organisms" %}
