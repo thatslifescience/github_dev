@@ -23,9 +23,6 @@ When you go to sleep, your brain goes to sleep too, right?  Well, that might dep
 
 Unlike fish, dolphins do not have gills and cannot get their oxygen out of the water.  Rather, they periodically come to the water's surface and inhale oxygen through a blowhole, which then closes tight to keep water out.  If you’ve ever choked on food after laughing or gasping, you might be envious of dolphins who keep their breathing completely separate from eating through use of the blowhole [2].  But dolphins can’t swim to the water’s surface to inhale when they run out of oxygen in their sleep, so their adaptation of unihemispheric sleep allows them to retain one hemisphere awake at all times for that purpose.
 
-<center> <p><a href="https://commons.wikimedia.org/wiki/File:Tursiops_truncatus_01.jpg#/media/File:Tursiops_truncatus_01.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Tursiops_truncatus_01.jpg" alt="Tursiops truncatus 01.jpg" height="423" width="640"></a><br>By NASA - <a rel="nofollow" class="external free" href="http://mediaarchive.ksc.nasa.gov/detail.cfm?mediaid=21807">http://mediaarchive.ksc.nasa.gov/detail.cfm?mediaid=21807</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=112006">Link</a></p></center>
-
-
 <center> <p><a href="https://commons.wikimedia.org/wiki/File:Tursiops_truncatus_01.jpg#/media/File:Tursiops_truncatus_01.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Tursiops_truncatus_01.jpg" alt="Tursiops truncatus 01.jpg" height="423" width="640"></a></p></center>
 
 
