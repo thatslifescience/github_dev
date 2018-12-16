@@ -25,7 +25,7 @@ Unlike fish, dolphins do not have gills and cannot get their oxygen out of the w
 
 <center> <p><a href="https://commons.wikimedia.org/wiki/File:Tursiops_truncatus_01.jpg#/media/File:Tursiops_truncatus_01.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Tursiops_truncatus_01.jpg" alt="Tursiops truncatus 01.jpg" height="423" width="640"></a><br>By NASA - <a rel="nofollow" class="external free" href="http://mediaarchive.ksc.nasa.gov/detail.cfm?mediaid=21807">http://mediaarchive.ksc.nasa.gov/detail.cfm?mediaid=21807</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=112006">Link</a></p></center>
 
-**Fig 1 - ** Dolphins use a blowhole on top of their heads to breathe air, then seal it tight to swim under water.  Source: [NASA, Wikimedia commons](https://en.wikipedia.org/wiki/Dolphin#/media/File:Tursiops_truncatus_01.jpg).
+**Fig 1 -** Dolphins use a blowhole on top of their heads to breathe air, then seal it tight to swim under water.  Source: [NASA, Wikimedia commons](https://en.wikipedia.org/wiki/Dolphin#/media/File:Tursiops_truncatus_01.jpg).
 
 Contrary to unihemispheric sleepers like dolphins and birds, humans evolved to sleep at night because our eye sight is poor in the dark compared to under the light of the sun.  That meant that early humans benefited from remaining motionless and silent, tucked away in a safe spot during those hours in which their predators might have the advantage of better vision.  We are bihemispheric sleepers and go through long periods of time at night without movement, instead of remaining vigilant like unihemispheric sleepers during our most vulnerable hours.  But is that the entire story?  
 
@@ -41,7 +41,7 @@ Some birds and seals are more of a mixture between dolphins (unihemispheric) and
 
 <center> <a data-flickr-embed="true"  href="https://www.flickr.com/photos/jaredlwong/5639337229/in/dateposted/" title="Sleeping Hawaiian Monk Seal"><img src="https://farm6.staticflickr.com/5101/5639337229_3525809995_z.jpg" width="640" height="424" alt="Sleeping Hawaiian Monk Seal"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-**Fig 3 - **  This seal is bihemispherically sleeping with both eyes closed on land. Source: [Jared Wong, flickr](https://www.flickr.com/photos/jaredlwong/5639337229/in/dateposted/)
+**Fig 3 -**  This seal is bihemispherically sleeping with both eyes closed on land. Source: [Jared Wong, flickr](https://www.flickr.com/photos/jaredlwong/5639337229/in/dateposted/)
 
 Seals are cool to study in this case because they can sleep one hemisphere at a time or both at the same time depending on their environment.  When they sleep on land, seals are more likely to sleep bihemispherically, but when they sleep in water they are more likely to sleep unihemispherically.  This may be an advantage for survival against predators in the water, however seals can and do sleep unihemispherically on land and bihemispherically in water as well.  They just don't get as much deep sleep when they bihemispherically sleep in the water because they need to wake up for thermoregulation and to go to the surface to breathe.  Before they hit deep sleep, seals can keep their nostrils above water by keeping one of their hemispheres awake to control the flipper on the other side of their body.  Once they fall into rapid eye movement (REM) sleep, however, they sink below the surface.
 
