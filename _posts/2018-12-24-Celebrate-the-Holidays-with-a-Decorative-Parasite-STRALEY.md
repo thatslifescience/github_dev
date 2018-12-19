@@ -30,7 +30,7 @@ As we came around a bend in the trail, my friend pointed out some mistletoe. *Oh
 And that's how I learned that the plant hung up at office holiday parties, the same plant that decorates the kitchen beam of your mom’s house inspiring Grandma’s yearly cheek kiss, actually grows into the tissues of other plants and sucks the water and nutrients out of them [1,2]. Super cheery and romantic, no?
 
 **Figure 1.** European Mistletoe decorating the street. Photo by bluefuton (Flickr) (**https://tinyurl.com/y92cvvcm**).
-<center>a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/40103782794/in/dateposted-friend/" title="2018-03-11-STRALEY-Fig1"><img src="https://farm1.staticflickr.com/807/40103782794_9bb7da1bc5_c.jpg" width="800" height="534" alt="2018-03-11-STRALEY-Fig1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script</center>
+<center><img src="https://farm1.staticflickr.com/807/40103782794_9bb7da1bc5_c.jpg" width="800" height="534" alt="2018-03-11-STRALEY-Fig1"><script> async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
 Mistletoe is actually the common name for a whole group of evergreen parasitic plants. The largest family of mistletoes has over 900 species [1]. They aren't the only parasitic plants out there – over 3,000 plant species are classified as parasitic, and parasitism in plants has evolved at least 12 separate times [3]! As of 2017, scientists estimated that there is a grand total of approximately 391,000 plant species on earth [4]. While parasitic plants make up less than 1% of total plant diversity, the fact that parasitism has evolved on multiple independent occasions indicates it must be beneficial to prey on fellow plants.
 
