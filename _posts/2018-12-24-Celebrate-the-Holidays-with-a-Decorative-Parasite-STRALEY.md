@@ -36,7 +36,7 @@ Mistletoe is actually the common name for a whole group of evergreen parasitic p
 
 
 **Figure 2.** European Mistletoe parasitizing trees in the wild. Photo by tmv_media (Flickr) (**https://tinyurl.com/yc5nmcwd**).
-<center>a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/40103782454/in/dateposted-friend/" title="2018-03-11-STRALEY-Fig2"><img src="https://farm1.staticflickr.com/794/40103782454_3c346cfa77_b.jpg" width="1024" height="664" alt="2018-03-11-STRALEY-Fig2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script </center>
+<center>src="https://farm1.staticflickr.com/794/40103782454_3c346cfa77_b.jpg" width="1024" height="664" alt="2018-03-11-STRALEY-Fig2"><script> async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> </center>
 
 I've got to admit, as an ecologist this shocked me. I know I’m no botanist, but I had never realized plant parasitism was a THING. This newfound knowledge made me curious about how plant parasitism works.
 
