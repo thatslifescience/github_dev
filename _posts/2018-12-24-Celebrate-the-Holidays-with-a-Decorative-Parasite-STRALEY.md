@@ -13,7 +13,7 @@ categories:
 header:
  image_fullwidth: organisms-header.jpg
 image:
- thumb: 2018-12-24-kstraley-thumnail.jpg
+ thumb: 2018-12-24-kstraley-thumbnail.jpg
 teaser: As the winter holiday season approaches, will you be decorating with this festive parasitic plant?
 
 source-id: 1E1cuDFGCS4d7FHTDE1sUvQT982I_IFyVya2beQPXlDw
