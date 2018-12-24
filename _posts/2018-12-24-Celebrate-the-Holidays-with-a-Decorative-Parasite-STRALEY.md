@@ -9,9 +9,9 @@ tags:
 - parasite
 - ecology
 categories:
-- Earth’s Organisms
+- Earth's Organisms
 header:
- image_fullwidth: organisms-header.jpg
+ image_fullwidth: iorganisms-header.jpg
 image:
  thumb: 2018-12-24-kstraley-thumbnail.jpg
 teaser: As the winter holiday season approaches, will you be decorating with this festive parasitic plant?
