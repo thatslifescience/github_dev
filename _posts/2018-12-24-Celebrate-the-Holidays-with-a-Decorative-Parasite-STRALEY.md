@@ -1,7 +1,7 @@
 ---
 title: Celebrate the Holidays with a Decorative Parasite
 layout: page
-author: KStraley
+author: kstraley
 permalink: /2018-12-24-Celebrate-the-Holidays-with-a-Decorative-Parasite-STRALEY/
 tags:
 - botany
