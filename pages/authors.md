@@ -111,12 +111,16 @@ header: no
         <p><a href = "{{ site.url }}/authors/mmarjadi"><b>Meghna N. Marjadi</b></a></p>
         </div>
         <div class="large-3 columns">
+        <img src="{{ site.urlimg }}AMcElhinney.png" alt="Ashley McElhinney">
+        <p><a href = "{{ site.url }}/authors/amcelhinney"><b>Ashely McElhinney</b></a></p>
+        </div>
+        
+</div>
+<div class="row row-centered">
+        <div class="large-3 columns">
         <img src="{{ site.urlimg }}pmcginn-01.jpg" alt="Peter N. McGinn">
         <p><a href = "{{ site.url }}/authors/pmcginn"><b>Peter N. McGinn</b></a></p>
         </div>
-
-</div>
-<div class="row row-centered">
         <div class="large-3 columns">
         <img src="{{ site.urlimg }}emelzer.jpg" alt="Emily S. Melzer">
         <p><a href = "{{ site.url }}/authors/emelzer"><b>Emily S. Melzer</b></a></p>
@@ -129,13 +133,13 @@ header: no
         <img src="{{ site.urlimg }}pold-01.jpg" alt="Grace Pold">
         <p><a href = "{{ site.url }}/authors/gpold"><b>Grace Pold</b></a></p>
         </div>
+        
+</div>
+<div class="row row-centered">
         <div class="large-3 columns">
         <img src="{{ site.urlimg }}kstraley.jpg" alt="Kit Straley">
         <p><a href = "{{ site.url }}/authors/kstraley"><b>Kit Straley</b></a></p>
         </div>
-     
-</div>
-<div class="row row-centered">
         <div class="large-3 columns">
         <img src="{{ site.urlimg }}strauss-01-01.jpg" alt="Amy V. H. Strauss">
         <p><a href = "{{ site.url }}/authors/astrauss"><b>Amy V. H. Strauss</b></a></p>
