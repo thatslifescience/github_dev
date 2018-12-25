@@ -170,7 +170,7 @@ jbarnett:
 
 ebeaury:
     name: "Eve Beaury"
-    siterole: ""  
+    siterole: "PhD Student in Organismic and Evolutionary Biology"  
     
 rbell:
     name: "Rachel Bell"
@@ -187,4 +187,8 @@ pmcginn:
 mmarjadi:
     name: "Meghna Marjadi"
     siterole: "PhD Candidate in Organismic and Evolutionary Biology"  
+    
+jfoster:
+    name: "Josh Foster"
+    siterole: "PhD student in Molecular and Cellular Biology"      
 # you can add more authors here
