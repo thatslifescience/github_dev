@@ -74,7 +74,7 @@ header: no
         <p><a href = "{{ site.url }}/authors/nfalconi"><b>Nereyda Falconi</b></a></p>
         </div>
         <div class="large-3 columns">
-        <img src="{{ site.urlimg }}fusco-01.jpg" alt="Josh Foster">
+        <img src="{{ site.urlimg }}JFoster.png" alt="Josh Foster">
         <p><a href = "{{ site.url }}/authors/jfoster"><b>Josh Foster</b></a></p>
         </div>
         
