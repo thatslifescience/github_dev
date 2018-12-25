@@ -9,11 +9,11 @@ teaser: PhD student in Molecular and Cellular Biology
 header:
   image_fullwidth: you-can-delete-me-header.png
 gallery:
-- image_url: JFoster.png
+- image_url: JFoster1.png
   caption: Josh Foster
 ---
 
-![Josh Foster]({{ site.url }}/images/JFoster.png)
+![Josh Foster]({{ site.url }}/images/JFoster1.png)
 
 
 Research Area: Protein engineering, structural biology
