@@ -190,5 +190,9 @@ mmarjadi:
     
 jfoster:
     name: "Josh Foster"
-    siterole: "PhD student in Molecular and Cellular Biology"      
+    siterole: "PhD student in Molecular and Cellular Biology"  
+   
+amcelhinney:
+    name: "Ashley McElhinney"
+    siterole: "MS student in Environmental Conservation"  
 # you can add more authors here
