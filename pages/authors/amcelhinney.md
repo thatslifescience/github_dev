@@ -13,7 +13,7 @@ gallery:
   caption: Ashley McElhinney
 ---
 
-![Ashley McElhinney]({{ site.url }}/images/amcelhinney.png)
+![Ashley McElhinney]({{ site.url }}/images/AMcElhinney.png)
 
 
 After completing my BS degree in Environmental Science here at UMass in 2016, I felt pulled between my interest for what I thought to be too many areas- plant ecology, global change, social science, geography, sustainability- but luckily soon found their intersection: urban forestry. I’m currently working to create a tree selection guide specific to the urban environments of Massachusetts, by finding species that are not only well-suited to the state's current and projected future climate, but also have the ability to tolerate a city’s adverse conditions. As a member of the Communications Committee, I help to promote TLS through social media in hopes of spreading the excitement of science.
