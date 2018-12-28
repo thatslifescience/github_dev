@@ -19,6 +19,8 @@ teaser: Have you ever wondered why some streets in your city or town have more t
 source-id: 1UTR1xykpEMgs9ETKYz_Fx7ph-kp_1jyNTQ4aRyhrSAA
 published: true
 ---
+***Post Written by Guest Writer Lohitha Madhireddy***
+
 If you had to guess why different plants and animals are found in different parts of the world, you might start with rainfall or temperature. You would expect to find polar bears in the North Pole and camels in the desert, in part because those animals' lifestyles are suited for those environments. In urban areas, landscaping decisions and the availability of parks, water features and even bird feeders play an important role in shaping the diversity of species (i.e. "biodiversity") you can find in a particular neighborhood. Thus, it is important to understand how economic and social factors, the kinds of things the U.S. Census asks about, shape the environment, because in some areas they might have just as powerful an impact on biodiversity as rainfall or temperature.<br>
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/cmichel67/22746138876/in/photolist-ADZUCd-dZ1P2A-mSwsXb-Dpdze-jfmNsf-DtStd-dYVyUr-qRwd4d-hengc-6LTfdv-94VaEn-D1mdTP-84xgMj-9utiPG-2ujvWt-oeXVAC-oyPzh-8VrvDn-dZ2oDb-2mzvi-duAURt-dZ24Ms-henhG-daH4Ky-dZ22pY-dSr6GK-c3zgo5-4Z63nN-5DPXci-cF67Ub-4fsyGe-drfrRh-5irm1E-EVgp8W-7KMAoe-62qDR4-6zXaoz-JhBerc-8BDf2X-Bkm9k-qPjLzs-aJwvKB-e2k3tt-qnCSbd-cdaqBN-6JaVuW-5JJYwn-nJrBcd-4r17t5-34u3iD" title="I&#x27;m Not A Bad Looking Bear After All"><img src="https://farm1.staticflickr.com/743/22746138876_b5224e624f_n.jpg" width="320" height="229" alt="I&#x27;m Not A Bad Looking Bear After All"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
