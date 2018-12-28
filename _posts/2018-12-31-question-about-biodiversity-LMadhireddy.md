@@ -46,7 +46,7 @@ What does this say about the relationship between income, race, and biodiversity
 
 If we want to fully understand why plants and animals are found in different parts of a city, we need to look at income, race, and many other factors. Income can tell us about what options and resources people have available to them, but race adds context about circumstances that influence where people end up living. Unfortunately, not enough urban ecologists include socioeconomic factors in their studies of biodiversity*.* In order to improve on this, ecologists should look into the history of the study area, understand the cultures within the city or neighborhood, and observe the behaviors of the residents, all of which are possibly beyond the scope of simply an ecological research study. Researchers should also compare findings from one city to others around the world. By doing so, we can find patterns that improve our understanding of why our environments are shaped the way they are and how they differ from other environments around the world.
 
-**References:**
+**References:**<br>
 [1] Lerman, S. B., and P. S. Warren. 2011. The conservation value of residential yards: Linking birds and people. Ecological Applications 21:1327–1339.
 
 [2] Hope, D., C. Gries, W. Zhu, W. F. Fagan, C. L. Redman, N. B. Grimm, A. L. Nelson, C. Martin, and A. Kinzig. 2003. Socioeconomics drive urban plant diversity. Proceedings of the National Academy of Sciences 100:8788–8792.
