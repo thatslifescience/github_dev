@@ -49,3 +49,6 @@ Overall, our goal was to empower young women to be passionate and involved in ST
 
 [1] Girls Inc. n.d. "Inspiring all girls to be strong, smart, and bold." Accessed August 15, 2018. https://girlsinc.org/.
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Grad School Diaries" %}
