@@ -2,7 +2,7 @@
 title: Eureka!
 layout: page
 author: edauster
-permalink: /2018-8-26-eureka!-dauster/
+permalink: /2019-01-07-eureka!-dauster/
 tags:
 - science communication
 - graduate school
