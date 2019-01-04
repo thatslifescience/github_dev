@@ -15,7 +15,7 @@ header:
  image_fullwidth: gradschooldiaries-header.jpg
 image:
  thumb: 2019-01-07-edauster.jpg
-teaser: “My neuroscientist friends at UMass Amherst and I led a workshop with Girls Inc. to encourage curiosity among local middle school girls.”
+teaser: My neuroscientist friends at UMass Amherst and I led a workshop with Girls Inc. to encourage curiosity among local middle school girls.
 
 source-id: 1KMo4C_t8jTd9TxWPXlStisSia_2acR4nOZ0EwMgFRLU
 published: true
@@ -35,7 +35,7 @@ We asked the girls to rotate through four stations, including a sheep brain demo
 
 The live neural recording station might have been the coolest part of the day. One of the graduate students, Kyle Kainec, used himself as an example and was able to show the young women his own neural activity! They were able to observe a baseline reading of his neural signal in real time and how the signal changes when he blinks.
 
-During the beanbag synapse game, a graduate student, Sarah Winokur, and I explained how neurodegeneration in diseases such as Alzheimer's and Parkinson’s leads to a lack of function where there once was. We asked the girls to toss neurotransmitter beanbags to their receptor friends and when there were fewer participants tossing neurotransmitters, the signal and response was weaker. We then introduced drug beanbags that mimic our natural neurotransmitter response and observed how the signal and behavioral response can be restored.
+During the beanbag synapse game, another graduate student, Sarah Winokur, and I explained how neurodegeneration in diseases such as Alzheimer's and Parkinson’s leads to a lack of function where there once was. We asked the girls to toss neurotransmitter beanbags to their receptor friends and when there were fewer participants tossing neurotransmitters, the signal and response was weaker. We then introduced drug beanbags that mimic our natural neurotransmitter response and observed how the signal and behavioral response can be restored.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/45660341745/in/dateposted-friend/" title="ED82618pic2"><img src="https://farm5.staticflickr.com/4806/45660341745_fb04fefba5_z.jpg" width="640" height="640" alt="ED82618pic2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
