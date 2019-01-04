@@ -20,17 +20,6 @@ teaser: “My neuroscientist friends at UMass Amherst and I led a workshop with 
 source-id: 1KMo4C_t8jTd9TxWPXlStisSia_2acR4nOZ0EwMgFRLU
 published: true
 ---
-**Title: **Eureka! 
-
-**Author: **E. Dauster
-
-**Categories: **Grad School Diaries
-
-**Keywords: **Science Communication, Graduate School, Neuroscience, Outreach, Summer Postcard
-
-**Teaser: **My neuroscientist friends at UMass Amherst and I led a workshop with Girls Inc. to encourage curiosity among local middle school girls.
-
-**Featured Photos:** Thumbnail image = Figure 1
 
 What did I do last summer? Well, a whole lot of research. I was chugging along with my thesis project as a rising second year student in the Neuroscience and Behavior Ph.D. program at UMass Amherst. But I also took time to do science education outreach with Girls Inc. 
 
@@ -42,7 +31,7 @@ We asked the girls to rotate through four stations, including a sheep brain demo
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/46574575641/in/dateposted-friend/" title="ED82618postpic1"><img src="https://farm5.staticflickr.com/4900/46574575641_7aae949a43_z.jpg" width="614" height="614" alt="ED82618postpic1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-**Figure 1. **Two graduate students in the Neuroscience and Behavior program at UMass Amherst (John Hernandez and Phoenix Quinlan) showing the students real sheep brains.
+**Figure 1.** Two graduate students in the Neuroscience and Behavior program at UMass Amherst (John Hernandez and Phoenix Quinlan) showing the students real sheep brains.
 
 The live neural recording station might have been the coolest part of the day. One of the graduate students, Kyle Kainec, used himself as an example and was able to show the young women his own neural activity! They were able to observe a baseline reading of his neural signal in real time and how the signal changes when he blinks.
 
@@ -50,7 +39,7 @@ During the beanbag synapse game, a graduate student, Sarah Winokur, and I explai
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/45660341745/in/dateposted-friend/" title="ED82618pic2"><img src="https://farm5.staticflickr.com/4806/45660341745_fb04fefba5_z.jpg" width="640" height="640" alt="ED82618pic2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-**Figure 2. **Here another Neuroscience and Behavior graduate student (Sarah Winokur) and I are explaining interneuronal communication with a beanbag game.
+**Figure 2.** Here another Neuroscience and Behavior graduate student (Sarah Winokur) and I are explaining interneuronal communication with a beanbag game.
 
 Finally, the young women participated in a creative exercise in which they imagined an optimal organism. This station was meant to utilize what they learned with us in conjunction with their previous knowledge about nature and various organisms to foster inventive thought and creativity. Many girls chose to collaborate with each other at this station and create a bat-like organism, as they have many abilities that humans do not, and therefore seem more optimal than us.
 
