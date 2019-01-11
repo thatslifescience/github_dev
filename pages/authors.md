@@ -158,7 +158,7 @@ header: no
         <img src="{{ site.urlimg }}tzintel.jpg" alt="Trisha Zintel">
         <p><a href = "{{ site.url }}/authors/tzintel"><b>Trisha Zintel</b></a></p>
         </div> 
-</div>        
+</div>
               
 <center><h3>Past Contributors</h3></center><br>
         
