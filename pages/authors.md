@@ -153,7 +153,7 @@ header: no
         <p><a href = "{{ site.url }}/authors/avlinden"><b>Abby Vander Linden</b></a></p>
         </div> 
 </div>
-
+<div class="row row-centered">
         <div class="large-3 columns end">
         <img src="{{ site.urlimg }}tzintel.jpg" alt="Trisha Zintel">
         <p><a href = "{{ site.url }}/authors/tzintel"><b>Trisha Zintel</b></a></p>
