@@ -154,12 +154,11 @@ header: no
         </div> 
 
 </div>
-<div class="row row-centered">
         <div class="large-3 columns end">
         <img src="{{ site.urlimg }}tzintel.jpg" alt="Trisha Zintel">
         <p><a href = "{{ site.url }}/authors/tzintel"><b>Trisha Zintel</b></a></p>
         </div> 
-        
+<br>       
 <center><h3>Past Contributors</h3></center><br>
         
 <div class="row row-centered">
