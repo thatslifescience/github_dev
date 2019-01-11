@@ -194,5 +194,10 @@ jfoster:
    
 amcelhinney:
     name: "Ashley McElhinney"
-    siterole: "MS student in Environmental Conservation"  
+    siterole: "MS student in Environmental Conservation" 
+    
+nraytselis:
+     name: “Nadia Raytselis”
+     siterole: “B.S. in Microbiology, Spanish Minor”
+
 # you can add more authors here
