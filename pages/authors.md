@@ -152,13 +152,14 @@ header: no
         <img src="{{ site.urlimg }}vanderlinden-01-01.jpg" alt="Abby Vander Linden">
         <p><a href = "{{ site.url }}/authors/avlinden"><b>Abby Vander Linden</b></a></p>
         </div> 
-
 </div>
+
         <div class="large-3 columns end">
         <img src="{{ site.urlimg }}tzintel.jpg" alt="Trisha Zintel">
         <p><a href = "{{ site.url }}/authors/tzintel"><b>Trisha Zintel</b></a></p>
         </div> 
-<br>       
+</div>        
+              
 <center><h3>Past Contributors</h3></center><br>
         
 <div class="row row-centered">
