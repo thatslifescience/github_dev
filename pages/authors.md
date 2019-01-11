@@ -76,8 +76,7 @@ header: no
         <div class="large-3 columns">
         <img src="{{ site.urlimg }}JFoster1.png" alt="Josh Foster">
         <p><a href = "{{ site.url }}/authors/jfoster"><b>Josh Foster</b></a></p>
-        </div>
-        
+        </div>    
 </div>
 <div class="row row-centered">
         <div class="large-3 columns">
@@ -113,8 +112,7 @@ header: no
         <div class="large-3 columns">
         <img src="{{ site.urlimg }}AMcElhinney.png" alt="Ashley McElhinney">
         <p><a href = "{{ site.url }}/authors/amcelhinney"><b>Ashely McElhinney</b></a></p>
-        </div>
-        
+        </div>       
 </div>
 <div class="row row-centered">
         <div class="large-3 columns">
@@ -132,8 +130,7 @@ header: no
         <div class="large-3 columns">
         <img src="{{ site.urlimg }}pold-01.jpg" alt="Grace Pold">
         <p><a href = "{{ site.url }}/authors/gpold"><b>Grace Pold</b></a></p>
-        </div>
-        
+        </div>        
 </div>
 <div class="row row-centered">
         <div class="large-3 columns">
@@ -153,9 +150,16 @@ header: no
         <p><a href = "{{ site.url }}/authors/avlinden"><b>Abby Vander Linden</b></a></p>
         </div> 
 </div>
-
 <div class="row row-centered">
-        <div class="large-3 columns end">
+        <div class="large-3 columns">
+        <img src="{{ site.urlimg }}vanderlinden-01-01.jpg" alt="Abby Vander Linden">
+        <p><a href = "{{ site.url }}/authors/avlinden"><b>Abby Vander Linden</b></a></p>
+        </div> 
+        <div class="large-3 columns">
+        <img src="{{ site.urlimg }}tzintel.jpg" alt="TrishaZintel">
+        <p><a href = "{{ site.url }}/authors/tzintel"><b>TrishaZintel</b></a></p>
+        </div> 
+        <div class=”large-3 columns end">
         <img src="{{ site.urlimg }}tzintel.jpg" alt="Trisha Zintel">
         <p><a href = "{{ site.url }}/authors/tzintel"><b>Trisha Zintel</b></a></p>
         </div> 
