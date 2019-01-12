@@ -21,23 +21,11 @@ teaser: How adopting an “American” diet can be detrimental for the health of
 source-id: 1kLWOW9p3CW3sslRR3yqNuoGzdv8PmxmU4HYZ5T9xdgY
 published: true
 ---
-**Title: **New Culture, New Microbiome, New Problems 
-
-**Author(s):** ​NRaytselis
-
-**Categories: **How It Works
-
-**Keywords: **​Microbiome, Health, Disease 
-
-**Teaser:** How adopting an "American" diet can be detrimental for the health of many immigrants. 
-
-**Thumbnail image:​ **Figure 1
-
 <center> <a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/44438714215/in/dateposted-friend/" title="2017.02.16_A_Day_Without_Immigrants,_Washington,_DC_USA_00879_(32789160922)_(2)"><img src="https://farm2.staticflickr.com/1920/44438714215_ab991113b9_z.jpg" width="640" height="523" alt="2017.02.16_A_Day_Without_Immigrants,_Washington,_DC_USA_00879_(32789160922)_(2)"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center> 
 
 **Fig 1. - **The image above is from the "A Day Without Immigrants" march that took place in Washington, DC in February of 2017. Courtesy of [Ted Eytan](https://commons.wikimedia.org/wiki/File:2017.02.16_A_Day_Without_Immigrants,_Washington,_DC_USA_00879_(32789160922)_(2).jpg).
 
-Recently, I was catching with my friend Rachel Haley discussing her senior thesis project here at UMass: Chronic Disease in Dominican Immigrants: A Comparative Study. In July, Rachel traveled to the Dominican Republic to do qualitative interviews with Dominican citizens living with chronic disease. That cohort will eventually be compared with a group of Dominicans living in Jamaica Plain, Boston. We discussed the various factors that may contribute to chronic disease and Rachel explained, using anonymous details, how immigrants in this country tend to have higher rates of chronic disease than their counterparts still living in their countries of heritage. 
+Recently, I was catching up with my friend Rachel Haley discussing her senior thesis project here at UMass: Chronic Disease in Dominican Immigrants: A Comparative Study. In July, Rachel traveled to the Dominican Republic to do qualitative interviews with Dominican citizens living with chronic disease. That cohort will eventually be compared with a group of Dominicans living in Jamaica Plain, Boston. We discussed the various factors that may contribute to chronic disease and Rachel explained, using anonymous details, how immigrants in this country tend to have higher rates of chronic disease than their counterparts still living in their countries of heritage. 
 
 This is significant because in 2016, there were more than 43.7 million immigrants living in the United States. This number accounted for 13.5% of the country's population, with immigrants and their first generation children accounting for 27% of the US population. In order to decrease health disparities and improve overall public health, it is important to understand chronic disease and risk factors in this large portion of the US population [1].
 
@@ -71,3 +59,7 @@ References:
 
 6. Murphy, E. Angela, Kandy T. Velazquez, and Kyle M. Herbert. "[Influence of high-fat-diet on gut microbiota: A driving force for chronic disease risk.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4578152/pdf/nihms-718803.pdf)" *Current opinion in clinical nutrition and metabolic care* 18, no. 5 (2015): 515.
 
+
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="How It Works" %}
