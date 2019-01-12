@@ -23,7 +23,7 @@ published: true
 ---
 <center> <a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/44438714215/in/dateposted-friend/" title="2017.02.16_A_Day_Without_Immigrants,_Washington,_DC_USA_00879_(32789160922)_(2)"><img src="https://farm2.staticflickr.com/1920/44438714215_ab991113b9_z.jpg" width="640" height="523" alt="2017.02.16_A_Day_Without_Immigrants,_Washington,_DC_USA_00879_(32789160922)_(2)"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center> 
 
-**Fig 1. - **The image above is from the "A Day Without Immigrants" march that took place in Washington, DC in February of 2017. Courtesy of [Ted Eytan](https://commons.wikimedia.org/wiki/File:2017.02.16_A_Day_Without_Immigrants,_Washington,_DC_USA_00879_(32789160922)_(2).jpg).
+**Fig 1. -** The image above is from the "A Day Without Immigrants" march that took place in Washington, DC in February of 2017. Courtesy of [Ted Eytan](https://commons.wikimedia.org/wiki/File:2017.02.16_A_Day_Without_Immigrants,_Washington,_DC_USA_00879_(32789160922)_(2).jpg).
 
 Recently, I was catching up with my friend Rachel Haley discussing her senior thesis project here at UMass: Chronic Disease in Dominican Immigrants: A Comparative Study. In July, Rachel traveled to the Dominican Republic to do qualitative interviews with Dominican citizens living with chronic disease. That cohort will eventually be compared with a group of Dominicans living in Jamaica Plain, Boston. We discussed the various factors that may contribute to chronic disease and Rachel explained, using anonymous details, how immigrants in this country tend to have higher rates of chronic disease than their counterparts still living in their countries of heritage. 
 
