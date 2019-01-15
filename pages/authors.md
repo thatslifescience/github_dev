@@ -152,7 +152,7 @@ header: no
 </div>
 <div class="row row-centered">
         <div class="large-3 columns">
-        <img src="{{ site.urlimg }}tzintel.jpg" alt="TrishaZintel">
+        <img src="{{ site.urlimg }}tzintel.jpg" alt="Trisha Zintel">
         <p><a href = "{{ site.url }}/authors/tzintel"><b>TrishaZintel</b></a></p>
         </div>  
 </div>
