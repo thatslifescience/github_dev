@@ -12,7 +12,7 @@ categories:
 header:
  image_fullwidth: organisms-header.jpg
 image:
- thumb: 2019-01-21-ebeaury-thumbnail.jpg
+ thumb: 2019-01-21-ebeaury-thumnail.jpg
 teaser: Don’t miss the diversity of lichen that provide a colorful cover for many surfaces across the world.
 
 
