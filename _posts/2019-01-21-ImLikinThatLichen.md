@@ -19,17 +19,6 @@ teaser: Don’t miss the diversity of lichen that provide a colorful cover for m
 source-id: 1ItLSGQrz6VSaRY-9_xLjzubrj_JOer4Bmzd839hQCAw
 published: true
 ---
-**Title: **I'm Likin’ That Lichen
-
-**Author(s): **EBeaury
-
-**Category: **Earth's Organisms
-
-**Keywords: **Biodiversity, Fungi, Bacteria
-
-**Teaser: **Don't miss the diversity of lichen that provide a colorful cover for many surfaces across the world.
-
-**Thumbnail image**:  Figure 2
 
 During a fall hike in Massachusetts, I was scaling a hillside with a group of friends when we came across a rocky outcropping that looked like it had been camouflaged in dark green and gray netting. As we got closer, we realized it was a living, breathing organism - lichen! I normally notice lichens growing in small flakes on rocks or trees, but I had never seen lichen as large as this (Fig. 1), so I decided to learn more about the complex diversity of these organisms.
 
@@ -49,7 +38,7 @@ There are four main groups of lichens aptly named for their appearance - crustli
 
  <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/46003112922/in/dateposted-friend/" title="Free-standing lichen"><img src="https://farm5.staticflickr.com/4855/46003112922_77c2f1796d.jpg" width="500" height="428" alt="Free-standing lichen"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-**Figure 3. **- This is a type of free-standing lichen that has a 3D shape because it branches away from the surface it lives on. (source: [JHollinger via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Letharia_vulpina_JHollinger_crop.jpg))
+**Figure 3.** - This is a type of free-standing lichen that has a 3D shape because it branches away from the surface it lives on. (source: [JHollinger via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Letharia_vulpina_JHollinger_crop.jpg))
 
 Thousands of species of fungi can make up one half of a lichen, but only around 100 species of bacteria can be part of this relationship [5]. Even so, the partners that form lichen are tightly linked throughout their lives and even in reproduction. Lichens disperse by releasing clusters of bacterial cells that are wrapped in fungal filaments, which are threadlike structures that make up the body of the fungus [3]. Basically - lichens shoots off mini balls of lichen to colonize new areas. 
 
@@ -67,3 +56,6 @@ Lichens are some of the many organisms that make up an ecosystem, and they're no
 
 5. Deacon, Jim. "The Microbial World: Lichens". *Institute of Cell and Molecular Biology, The University of Edinburgh*. Accessed November, 2018. [http://archive.bio.ed.ac.uk/jdeacon/microbes/lichen.htm](http://archive.bio.ed.ac.uk/jdeacon/microbes/lichen.htm). 
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Earth's Organisms" %}
