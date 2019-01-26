@@ -20,30 +20,27 @@ source-id: 16dLdh9C8U3vwjb_EswJkDaM5pn3omaDwqjLVirjUv-Y
 published: true
 ---
 <center> <a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/44938652295/in/dateposted-friend/" title="Photinus_pyralis_Firefly_glowing"><img src="https://farm5.staticflickr.com/4874/44938652295_580f0121bd_z.jpg" width="640" height="588" alt="Photinus_pyralis_Firefly_glowing"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> </center> 
-
 **Figure 1** The bioluminescence of a firefly [1].  
 
 Whether it's the twinkle of a firefly, the shimmer of a jellyfish, or the glow of a wild mushroom, all of these organisms emit light. The result of a chemical reaction, bioluminescence has different purposes for various plant and animal species. Bioluminescence by definition is the creation and emission of light by something living [2]. For some organisms, it serves as a deterrent against predators. For others, it functions as a mating call, and in various living creatures, these beaming visual exhibits act as camouflage, or even byproducts of their body processes. Although bioluminescence is usually associated with a blue-green glow, the color of the light actually depends on the chemical reaction that occurs, and in some species can be yellow, or even red [3]. Here are some organisms that utilize these radiant light displays, either by producing the luminescence on their own, or through symbiotic relationships with bacteria, resulting in beautiful contrasts to the darkness of the night. 
 
-**_Fireflies_**
+<h3>Fireflies</h3>
 
 Probably the first species that comes to mind when one hears the word bioluminescence is the firefly. These insects possess a special light producing organ that is activated by the presence of oxygen. Nitric oxide gas also has an important role in firefly bioluminescence, as it enables oxygen to enter this light-specific organ. Fireflies use light for various purposes, including differentiating between firefly species by using unique "flash patterns". Female fireflies also may assess their male counterparts based on these luminous performances as well [4]. 
 
-**_Foxfire in Fungus _**
+<h3>Foxfire in Fungus</h3>
 
 Foxfire bioluminescence exists in several species including [*Panellus stipticus*](https://en.wikipedia.org/wiki/Panellus_stipticus), [*Omphalotus olearius*](https://en.wikipedia.org/wiki/Omphalotus_olearius), and [*Omphalotus nidiformis*](https://en.wikipedia.org/wiki/Omphalotus_nidiformis). In occurs on decaying wood, within mycelia, masses of tubular structures that make up the body of fungi. There are various theories as to why Foxfire exists, which include using light to attract insects, which can disperse the fungi's spores, deterrence of fungal predators, or as a byproduct of another biological process called lignin degradation, which is important in breaking down wood [5]. This not only provides food for the fungi, but also returns nutrients to the soil. 
 
 <center> <a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/44034967840/in/dateposted-friend/" title="PanellusStipticusAug12_2009"><img src="https://farm5.staticflickr.com/4877/44034967840_dc350bc58e_z.jpg" width="640" height="427" alt="PanellusStipticusAug12_2009"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> </center>
-
 **Figure 2** Foxfire in fungus [6]. 
 
-**_Jellyfish _**
+<h3>Jellyfish</h3>
 
 Approximately 50% of jellyfish species are bioluminescent. This includes species such as *siphonophores*, medusae, sea pens and other soft corals, and ctenophores [3]. The majority of jellyfish use their light producing capabilities to defend themselves from predators. Siphonophores emit linear strands of light which look like plankton to confuse predators. Some jellies, such as the *Aequorea victoria*, use a compound called green fluorescent protein (GFP) to create a green light. The GFP gene has been isolated, and now is used as a tag to report expression of other genes in many biological experiments [7]. This is because its addition does not affect the host organism that it is introduced to. For example, GFP can be used to tag certain chemicals in a host cell, to determine pollutant levels and cell activity. [8] 
 
-<center> <a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/31980460878/in/dateposted-friend/" title="jellyfish-background-1506532085Ex2"><img src="https://farm5.staticflickr.com/4818/31980460878_35a580a87c_z.jpg" width="640" height="479" alt="jellyfish-background-1506532085Ex2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> <center> 
-
-**Figure 3.** [9] 
+<center> <a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/31980460878/in/dateposted-friend/" title="jellyfish-background-1506532085Ex2"><img src="https://farm5.staticflickr.com/4818/31980460878_35a580a87c_z.jpg" width="640" height="479" alt="jellyfish-background-1506532085Ex2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> </center> 
+**Figure 3** [9] 
 
 There are dozens of other species that use bioluminescence in unique and creative ways to light up the night sky, or glow in the deep, dark ocean. Next time you find yourself sitting by the beach at night, or walking through a field in the middle of the summer, take a second to look around and admire the beauty of these light emitting creatures that share the world with us. 
 
