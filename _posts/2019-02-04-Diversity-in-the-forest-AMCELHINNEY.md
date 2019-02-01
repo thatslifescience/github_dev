@@ -17,19 +17,6 @@ teaser: We know the importance of diversity in the environment, but what’s at 
 source-id: 1f0DzBb_62wdLa58KObTNa3-_kElZbiaCYOs_6dYe9CQ
 published: true
 ---
-**Title**: Diversity in the forest
-
-**Author**: A. McElhinney
-
-**Category**: Grad School Diaries
-
-**Keywords**: Environment, Human, Diversity, Forestry
-
-**Teaser**: We know the importance of diversity in the environment, but what's at risk by neglecting the levels of diversity in forestry’s workforce?
-
-**Thumbnail image**: Figure 1
-
- 
 
 As an environmental scientist, the importance of diversity in an ecosystem has been drilled into my head since my first day of classes freshman year. By now, I'm more than aware of how critical it is to maintain high levels of species diversity in the environment in order to support ecosystem function. Is the same true for our workforce? Although there is strikingly little data, several recent studies have recognized the lack of representation that women, people of color (POC), and the LGBTQ+ community hold in natural resources careers [1, 2]. Seemingly at the peak of workforce homogeneity is the field of forestry, where low levels of diversity prevail despite the increasing number of minorities in other natural resources fields [1].
 
@@ -87,31 +74,23 @@ Further explore the many complexities of biodiversity in [this](http://thatslife
 
 **References**
 
-[1] Sharik, Terry L.,Robert J. Lilieholm,Wanda Lindquist, andWilliam W. Richardson. 
+[1] Sharik, Terry L.,Robert J. Lilieholm,Wanda Lindquist, and William W. Richardson. "Undergraduate Enrollment in Natural Resource Programs in the United States: Trends, Drivers, and Implications for the Future of Natural Resource Professions." *Journal of Forestry* 113, no. 6 (2015). 538–551. https://doi.org/10.5849/jof.14-146.
 
-"Undergraduate Enrollment in Natural Resource Programs in the United States: Trends, Drivers, and Implications for the Future of Natural Resource Professions." *Journal of Forestry*113, no. 6 (2015). 538–551. https://doi.org/10.5849/jof.14-146.
-
+[2] Cech, Erin A. "LGBT Professionals' Workplace Experiences in STEM-Related Federal Agencies." *Paper presented at 2015 ASEE Annual Conference & Exposition, Seattle, Washington* (2015). doi: 10.18260/p.24431.
  
-
-[4] Cech, Erin A. "LGBT Professionals' Workplace Experiences in STEM-Related Federal Agencies.*" * Paper presented at 2015 ASEE Annual Conference & Exposition, Seattle, Washington (2015). doi: 10.18260/p.24431.
-
+[3] Rouleau, Mark, Terry L. Sharik, Samantha Whitens, and Adam Wellstead. "Enrollment Decision- Making in U.S. Forestry and Related Natural Resource Degree Programs." *Nat. Sci. Educ.* 46, no. 170007 (2017). doi:10.4195/nse2017.05.0007.
  
+[4] Kuhns, Michael, Hope A. Bragg, and Dale Blahna. "Attitudes and experiences of women and minorities in the urban forestry/arboriculture profession." *Journal of Arboriculture* 30, no. 1 (2004). <[https://www.researchgate.net/publication/242610806_Attitudes_and_experiences_of_women_and_minorities_in_the_urban_forestryarboriculture_profession](https://www.researchgate.net/publication/242610806_Attitudes_and_experiences_of_women_and_minorities_in_the_urban_forestryarboriculture_profession)>
 
-[3] Rouleau, Mark, Terry L. Sharik, Samantha Whitens, and Adam Wellstead. "Enrollment Decision- Making in U.S. Forestry and Related Natural Resource Degree Programs." *Nat. Sci. Educ.*46, no. 170007 (2017). doi:10.4195/nse2017.05.0007.
+[5] Leman, Jennifer. "What's It Like to Be Queer in STEM?" *Scientific American* (2018). <[https://blogs.scientificamerican.com/voices/whats-it-like-to-be-queer-in-stem/](https://blogs.scientificamerican.com/voices/whats-it-like-to-be-queer-in-stem/)>
 
- 
+[6] Agarwal, Bina. "Gender and forest conservation: The impact of women's participation in community forest governance." *Ecological Economics* [68, no. 11](https://www.sciencedirect.com/science/journal/09218009/68/11)(2009). 2785-2799. [https://doi.org/10.1016/j.ecolecon.2009.04.025](https://doi.org/10.1016/j.ecolecon.2009.04.025) 
 
-[4] Kuhns, Michael, Hope A. Bragg, and Dale Blahna. "Attitudes and experiences of women and minorities in the urban forestry/arboriculture profession." *Journal of Arboriculture*30, no. 1 (2004). <[https://www.researchgate.net/publication/242610806_Attitudes_and_experiences_of_women_and_minorities_in_the_urban_forestryarboriculture_profession](https://www.researchgate.net/publication/242610806_Attitudes_and_experiences_of_women_and_minorities_in_the_urban_forestryarboriculture_profession)>
+[7] Ian D. Thompson, Ian D., Kimiko Okabe, Jason M. Tylianakis, Pushpam Kumar, Eckehard G. Brockerhoff, Nancy A. Schellhorn,  John A. Parrotta, and Robert Nasi. "Forest Biodiversity and the Delivery of Ecosystem Goods and Services: Translating Science into Policy." *BioScience* 61, no.12 (2011). 972-981. [https://doi.org/10.1525/bio.2011.61.12.7](https://doi.org/10.1525/bio.2011.61.12.7)
 
-[5] Leman, Jennifer. "What's It Like to Be Queer in STEM?" *Scientific American*(2018). <[https://blogs.scientificamerican.com/voices/whats-it-like-to-be-queer-in-stem/](https://blogs.scientificamerican.com/voices/whats-it-like-to-be-queer-in-stem/)>
+[8] Wolch, Jennifer R., Jason Byrne, and Joshua P. Newell. "Urban green space, public health, and environmental justice: The challenge of making cities 'just green enough'" *Landscape and Urban Planning* 125 (2014). 234-244.
 
-[6] Agarwal, Bina. "Gender and forest conservation: The impact of women's participation in community forest governance." *Ecological Economics*[68, no. 11](https://www.sciencedirect.com/science/journal/09218009/68/11)(2009). 2785-2799. [https://doi.org/10.1016/j.ecolecon.2009.04.025](https://doi.org/10.1016/j.ecolecon.2009.04.025) 
-
-[7] Ian D. Thompson, Ian D., Kimiko Okabe, Jason M. Tylianakis, Pushpam Kumar, Eckehard G. Brockerhoff, Nancy A. Schellhorn,  John A. Parrotta, and Robert Nasi. "Forest Biodiversity and the Delivery of Ecosystem Goods and Services: Translating Science into Policy." *BioScience*61, no.12 (2011). 972-981.
-
-[https://doi.org/10.1525/bio.2011.61.12.7](https://doi.org/10.1525/bio.2011.61.12.7)
-
- 
-
-[8] Wolch, Jennifer R., Jason Byrne, and Joshua P. Newell. "Urban green space, public health, and environmental justice: The challenge of making cities 'just green enough'" *Landscape and Urban Planning*125 (2014). 234-244.
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Grad School Diaries" %}
 
