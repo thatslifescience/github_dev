@@ -76,9 +76,9 @@ Further explore the many complexities of biodiversity in [this](http://thatslife
 
 [1] Sharik, Terry L.,Robert J. Lilieholm,Wanda Lindquist, and William W. Richardson. "Undergraduate Enrollment in Natural Resource Programs in the United States: Trends, Drivers, and Implications for the Future of Natural Resource Professions." *Journal of Forestry* 113, no. 6 (2015). 538–551. https://doi.org/10.5849/jof.14-146.
 
-[2] Cech, Erin A. "LGBT Professionals' Workplace Experiences in STEM-Related Federal Agencies." *Paper presented at 2015 ASEE Annual Conference & Exposition, Seattle, Washington* (2015). doi: 10.18260/p.24431.
+[2] Cech, Erin A. "LGBT Professionals' Workplace Experiences in STEM-Related Federal Agencies." *Paper presented at 2015 ASEE Annual Conference & Exposition, Seattle, Washington* (2015). https://doi.org/10.18260/p.24431.
  
-[3] Rouleau, Mark, Terry L. Sharik, Samantha Whitens, and Adam Wellstead. "Enrollment Decision- Making in U.S. Forestry and Related Natural Resource Degree Programs." *Nat. Sci. Educ.* 46, no. 170007 (2017). doi:10.4195/nse2017.05.0007.
+[3] Rouleau, Mark, Terry L. Sharik, Samantha Whitens, and Adam Wellstead. "Enrollment Decision- Making in U.S. Forestry and Related Natural Resource Degree Programs." *Nat. Sci. Educ.* 46, no. 170007 (2017). https://doi.org/10.4195/nse2017.05.0007.
  
 [4] Kuhns, Michael, Hope A. Bragg, and Dale Blahna. "Attitudes and experiences of women and minorities in the urban forestry/arboriculture profession." *Journal of Arboriculture* 30, no. 1 (2004). <[https://www.researchgate.net/publication/242610806_Attitudes_and_experiences_of_women_and_minorities_in_the_urban_forestryarboriculture_profession](https://www.researchgate.net/publication/242610806_Attitudes_and_experiences_of_women_and_minorities_in_the_urban_forestryarboriculture_profession)>
 
