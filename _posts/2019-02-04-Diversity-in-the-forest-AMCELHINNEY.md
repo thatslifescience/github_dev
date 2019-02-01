@@ -28,7 +28,7 @@ As an environmental scientist, the importance of diversity in an ecosystem has b
 
  
 
-**Let's take a look at the numbers: **
+**Let's take a look at the numbers:**
 
  
 
@@ -40,7 +40,7 @@ A 2012 study showed that although women now account for almost 41% of university
 
  
 
-*- What is the reason behind these low numbers in forestry? *
+*- What is the reason behind these low numbers in forestry?*
 
  
 
@@ -50,7 +50,7 @@ Furthermore, both women and POC have reported their hesitation in pursuing a for
 
  
 
-*- How is this lack of diversity in the forestry workforce impacting our environment? *
+*- How is this lack of diversity in the forestry workforce impacting our environment?*
 
  
 
@@ -58,7 +58,7 @@ High levels of species diversity in a forest coincide with high productivity and
 
  
 
-*- **How can we increase diversity in the forestry workforce? *
+*- How can we increase diversity in the forestry workforce?*
 
  
 
