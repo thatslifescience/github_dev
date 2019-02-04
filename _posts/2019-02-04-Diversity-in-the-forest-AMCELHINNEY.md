@@ -72,6 +72,7 @@ While current levels of diversity among forestry professionals may seem disheart
 
 Further explore the many complexities of biodiversity in [this](http://thatslifesci.com/2018-12-31-question-about-biodiversity-LMadhireddy/) post. 
 
+
 **References**
 
 [1] Sharik, Terry L.,Robert J. Lilieholm,Wanda Lindquist, and William W. Richardson. "Undergraduate Enrollment in Natural Resource Programs in the United States: Trends, Drivers, and Implications for the Future of Natural Resource Professions." *Journal of Forestry* 113, no. 6 (2015). 538–551. https://doi.org/10.5849/jof.14-146.
