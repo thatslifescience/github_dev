@@ -23,7 +23,7 @@ In the summer of their fourth year of life, sockeye salmon leave the ocean to jo
 
 <center><a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/139839751@N06/46082842751/in/dateposted-friend/" title="2018-11-27-LGuoA"><img src="https://farm5.staticflickr.com/4860/46082842751_a988757fc6.jpg" width="500" height="166" alt="2018-11-27-LGuoA"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-<center><blockquote class="imgur-embed-pub" lang="en" data-id="ivBra5H"><a href="//imgur.com/ivBra5H">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></center>
+<center><a href="//imgur.com/ivBra5H">View post on imgur.com</a><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></center>
 
 **Figure 1.** Sockeye salmon migrate up their natal rivers to reproduce (left). Rather than return to the ocean, they die after spawning successfully (right).  (Sources: [KSI Photography](https://www.flickr.com/photos/kbear65/), [Peter Gordon](https://www.flickr.com/photos/superwebdeveloper/))
 
