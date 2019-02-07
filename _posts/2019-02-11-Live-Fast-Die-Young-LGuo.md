@@ -73,3 +73,9 @@ In case you were wondering, humans comprise the more "grandma" type of life hist
 
 5. Young, T. P. "Semelparity and Iteroparity." Nature Education Knowledge 3, no. 10 (2008): 2
 
+
+
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="How It Works" %}
+
