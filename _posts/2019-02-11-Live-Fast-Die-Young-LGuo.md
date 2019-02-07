@@ -32,10 +32,21 @@ A surprising number of organisms follow this rockstar lifestyle – grow fast, m
 <h3>Bigger Body and Testes Size is Better!</h3>
 
 While the brown antechinus is a small, cute and fluffy marsupial, its mating practices are somewhat scandalous (Fig 2). Mating season is short (1-2 weeks) and mating bouts are intense. Females usually mate with multiple males, with sessions lasting 8-12 hours at a time per partner [1, 2]. Research suggests that competition between males for a female partner has driven selection for larger bodied males with larger testes. Larger males are more likely to fend off competing males and are capable of longer mating sessions, increasing the likelihood of successfully fathering offspring [3]. It is likely that larger testes allow for higher sperm production and storage prior to mating season, which also increases paternity success. 
-
+Flickr
 <center> <a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/139839751@N06/46082571581/in/dateposted-friend/lightbox/" title="2018-11-11-LGuoC"><img src="https://farm5.staticflickr.com/4827/46082571581_d23b4bd8e7.jpg" width="500" height="384" alt="2018-11-11-LGuoC"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
+Imgur
 <center><blockquote class="imgur-embed-pub" lang="en" data-id="a/XwMLf00" data-context="false"><a href="//imgur.com/XwMLf00"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></center>
+
+500px
+<center><div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/293698061/m%3D900/v2?user_id=71639531&webp=true&sig=ae8e9c39986877d6c815859c0b2324c3e50364532fcdd94dd0aaa39122214662' alt='cafcaeo by thatslifescience on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/293698061/cafcaeo-by-thatslifescience' alt='cafcaeo by thatslifescience on 500px.com'></a>
+</div>
+
+<script type='text/javascript' src='https://500px.com/embed.js'></script> </center>
 
 **Figure 2.** The male antechinus is fated to die of stress in order to pass on his genes. (Source: [Catching The Eye](https://www.flickr.com/photos/160417453@N04/))
 
