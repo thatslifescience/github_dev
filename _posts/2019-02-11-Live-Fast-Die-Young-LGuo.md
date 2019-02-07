@@ -18,17 +18,6 @@ teaser: “Some have termed it “suicidal mating,” when adult animals die sho
 source-id: 13GC_xzprKNqu35iOl-FxpY3fZpxoXILte9MYxKyeXvI
 published: true
 ---
-**Title: **Live Fast, Die Young: Why Some Animals Die After Mating 
-
-**Author:** Lian Guo
-
-**Category:** How It Works
-
-**Keywords:** Ecology, Evolution, Semelparous, Mating
-
-**Social media blurb:** Some have termed it "suicidal mating," when adult animals die shortly after mating for the first time. How could it be beneficial to live a short life and only reproduce once?  
-
-**Thumbnail:** Figure 1.
 
 In the summer of their fourth year of life, sockeye salmon leave the ocean to journey up the rivers they were born in with a single goal in mind – make babies! As they are programmed to, these brilliant red fish battle their way upstream against the current, over waterfalls, and past looming predators (Fig. 1). They begin to divert all energy to moving upriver and preparing physiologically for reproduction. Once sockeye salmon spawn (i.e. expel eggs and sperm into water), their skin starts to gray and fall away. Fungus begins to spread into skin lesions. Flesh literally begins rotting on their bones. Eventually, these "zombie" salmon die and their eggs and carcasses are all that remains (Fig. 1). It's a one-way journey and the only chance these salmon have to reproduce.
 
