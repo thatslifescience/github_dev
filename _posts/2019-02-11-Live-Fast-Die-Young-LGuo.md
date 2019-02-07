@@ -35,8 +35,10 @@ While the brown antechinus is a small, cute and fluffy marsupial, its mating pra
 
 <center> <a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/139839751@N06/46082571581/in/dateposted-friend/lightbox/" title="2018-11-11-LGuoC"><img src="https://farm5.staticflickr.com/4827/46082571581_d23b4bd8e7.jpg" width="500" height="384" alt="2018-11-11-LGuoC"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-<center><blockquote class="imgur-embed-pub" lang="en" data-id="a/XwMLf00" data-context="false"><a href="//imgur.com/XwMLf00"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></center>
- 
+<center><a href="//imgur.com/XwMLf00"><img src=”https://imgur.com/a/XwMLf00" width=”500″ height=”384″/></a></center>
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/XwMLf00"><a href="//imgur.com/XwMLf00"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 **Figure 2.** The male antechinus is fated to die of stress in order to pass on his genes. (Source: [Catching The Eye](https://www.flickr.com/photos/160417453@N04/))
 
 However, this size and stamina grandeur comes at cost – all male antechinus will die after mating. As the mating season approaches, the levels of two important hormones, testosterone and cortisol, skyrocket. The stress associated with aggression and endurance related to mating drives cortisol to consistently high levels. Cortisol leads the antechinus to degrade the proteins in their muscles for energy and suppresses their immune system, eventually leading to death. In an ironic twist, the hormones that help male antechinus successfully reproduce are also what kill them in the end. Given the short opportunity these males have to reproduce, it would seem it's worth the stress to live big while you can…
