@@ -56,7 +56,7 @@ However, this size and stamina grandeur comes at cost – all male antechinus wi
 
 The female desert spider, *Stegodyphus lineatus*, carries her eggs for a month before they are ready to hatch (Fig. 3) [3]. The baby spiders, called spiderlings, require help from their mother to exit their eggs and for food (mom's yummy vomit) during the first days of life. And then, the spiderlings begin to eat their mother. After two weeks of life, the spiderlings will have fully consumed her. 
 
-<center><p><a href="https://commons.wikimedia.org/wiki/File:S.lineatus.jpg#/media/File:S.lineatus.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/S.lineatus.jpg" alt="S.lineatus.jpg"></a><br>By No machine-readable author provided. <a href="//commons.wikimedia.org/wiki/User:Sarefo" title="User:Sarefo">Sarefo</a> assumed (based on copyright claims). - No machine-readable source provided. Own work assumed (based on copyright claims)., <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=2837888">Link</a></p></center>
+<center><p><a href="https://commons.wikimedia.org/wiki/File:S.lineatus.jpg#/media/File:S.lineatus.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/S.lineatus.jpg" alt="S.lineatus.jpg"></a></p></center>
 
 **Figure 3.** A desert spider – happily alive, pre-children. (Source: [Joaquin Portela](https://commons.wikimedia.org/wiki/Category:Stegodyphus_lineatus#/media/File:S.lineatus.jpg))
 
