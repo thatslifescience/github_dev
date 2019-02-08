@@ -14,7 +14,7 @@ header:
  image_fullwidth: howitworks-header.jpg
 image:
  thumb: 20190211LGuo_thumb.jpg
-teaser: “Some have termed it “suicidal mating,” when adult animals die shortly after mating for the first time. How could it be beneficial to live a short life and only reproduce once?”
+teaser: Some have termed it “suicidal mating,” when adult animals die shortly after mating for the first time. How could it be beneficial to live a short life and only reproduce once?
 source-id: 13GC_xzprKNqu35iOl-FxpY3fZpxoXILte9MYxKyeXvI
 published: true
 ---
@@ -33,7 +33,7 @@ A surprising number of organisms follow this rockstar lifestyle – grow fast, m
 
 While the brown antechinus is a small, cute and fluffy marsupial, its mating practices are somewhat scandalous (Fig 2). Mating season is short (1-2 weeks) and mating bouts are intense. Females usually mate with multiple males, with sessions lasting 8-12 hours at a time per partner [1, 2]. Research suggests that competition between males for a female partner has driven selection for larger bodied males with larger testes. Larger males are more likely to fend off competing males and are capable of longer mating sessions, increasing the likelihood of successfully fathering offspring [3]. It is likely that larger testes allow for higher sperm production and storage prior to mating season, which also increases paternity success. 
 Flickr
-<center> <a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/139839751@N06/46082571581/in/dateposted-friend/lightbox/" title="2018-11-11-LGuoC"><img src="https://farm5.staticflickr.com/4827/46082571581_d23b4bd8e7.jpg" width="500" height="384" alt="2018-11-11-LGuoC"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
+<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/160417453@N04/40056558525/in/album-72157694036007774/" title="Antechinus swainsonii, Dusky Antechinus"><img src="https://farm1.staticflickr.com/798/40056558525_3a40c99765.jpg" width="500" height="384" alt="Antechinus swainsonii, Dusky Antechinus"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
 Imgur
 <center><blockquote class="imgur-embed-pub" lang="en" data-id="a/XwMLf00" data-context="false"><a href="//imgur.com/XwMLf00"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></center>
@@ -56,7 +56,7 @@ However, this size and stamina grandeur comes at cost – all male antechinus wi
 
 The female desert spider, *Stegodyphus lineatus*, carries her eggs for a month before they are ready to hatch (Fig. 3) [3]. The baby spiders, called spiderlings, require help from their mother to exit their eggs and for food (mom's yummy vomit) during the first days of life. And then, the spiderlings begin to eat their mother. After two weeks of life, the spiderlings will have fully consumed her. 
 
-<center><a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/139839751@N06/45170809665/in/dateposted-friend/lightbox/" title="2018-11-11-LGuoD"><img src="https://farm5.staticflickr.com/4825/45170809665_5478e7695e.jpg" width="500" height="337" alt="2018-11-11-LGuoD"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
+<center><p><a href="https://commons.wikimedia.org/wiki/File:S.lineatus.jpg#/media/File:S.lineatus.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/S.lineatus.jpg" alt="S.lineatus.jpg"></a><br>By No machine-readable author provided. <a href="//commons.wikimedia.org/wiki/User:Sarefo" title="User:Sarefo">Sarefo</a> assumed (based on copyright claims). - No machine-readable source provided. Own work assumed (based on copyright claims)., <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=2837888">Link</a></p></center>
 
 **Figure 3.** A desert spider – happily alive, pre-children. (Source: [Joaquin Portela](https://commons.wikimedia.org/wiki/Category:Stegodyphus_lineatus#/media/File:S.lineatus.jpg))
 
