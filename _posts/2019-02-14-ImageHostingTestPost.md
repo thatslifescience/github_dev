@@ -4,7 +4,7 @@ layout: page
 author: dalcott
 permalink: /2019-02-14-ImageHostingTestPost/
 categories:
-- How It Work
+- How It Works
 header:
  image_fullwidth: howitworks-header.jpg
 image:
