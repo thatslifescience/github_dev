@@ -1,5 +1,5 @@
 ---
-title: Mangroves: where blue meets green, brown, and every other color under the sun
+title: "Mangroves: where blue meets green, brown, and every other color under the sun"
 layout: page
 author: gpold
 permalink: /2019-02-18-Mangroves-1-GPold/
