@@ -4,7 +4,7 @@ layout: page
 author: dalcott
 permalink: /2019-02-14-ImageHostingTestPost/
 categories:
- How It Works
+- How It Works
 header:
  image_fullwidth: howitworks-header.jpg
 image:
@@ -30,9 +30,18 @@ Imgur is truly free, easy to use, basically identical in practice to using Flick
 
 Embedded directly from Wikipedia
 
-<div style="text-align:center"><img src ="https://upload.wikimedia.org/wikipedia/commons/f/fa/Puppy.JPG"/></div>Only works if the source of the image is wikipedia. Teaching all authors exactly how to handle embedding this way is quite a bit more complicated than Flickr, etc. 
+<div style="text-align:center"><img src ="https://upload.wikimedia.org/wikipedia/commons/f/fa/Puppy.JPG"/></div>
+Only works if the source of the image is wikipedia. Teaching all authors exactly how to handle embedding this way is quite a bit more complicated than Flickr, etc. 
 
-Embed from 500px<center><div class='pixels-photo'>  <p>    <img src='https://drscdn.500px.org/photo/293698061/m%3D900/v2?user_id=71639531&webp=true&sig=ae8e9c39986877d6c815859c0b2324c3e50364532fcdd94dd0aaa39122214662' alt='cafcaeo by thatslifescience on 500px.com'>  </p>  <a href='https://500px.com/photo/293698061/cafcaeo-by-thatslifescience' alt='cafcaeo by thatslifescience on 500px.com'></a></div><script type='text/javascript' src='https://500px.com/embed.js'></script> </center>
+Embed from 500px
+<center><div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/293698061/m%3D900/v2?user_id=71639531&webp=true&sig=ae8e9c39986877d6c815859c0b2324c3e50364532fcdd94dd0aaa39122214662' alt='cafcaeo by thatslifescience on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/293698061/cafcaeo-by-thatslifescience' alt='cafcaeo by thatslifescience on 500px.com'></a>
+</div>
+
+<script type='text/javascript' src='https://500px.com/embed.js'></script> </center>
 
 500px allows 20 pictures per week to be uploaded to an account for free. This doesn't work well for our system where all authors upload their pictures on the same week. In order to make this platform work, we would have to have a system for spreading out the uploads of images to the account prior to publishing the live version. Could postpone uploading images to account until week of uploading the live post (more work for design team)
 
