@@ -37,7 +37,7 @@ But there are trees. Everywhere. And they are drowning in the ocean!
 
  
 
-Figure 1: Trees dotted in an ocean is a bit of a strange look! Iriomote Island, Okinawa. Image by[ Anaguoagai](https://uk.m.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Mangrove_swamp,_Iriomote_Island,_Okinawa,_Japan.jpg) via Wikimedia Commons.
+**Figure 1:** Trees dotted in an ocean is a bit of a strange look! Iriomote Island, Okinawa. Image by[ Anaguoagai](https://uk.m.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Mangrove_swamp,_Iriomote_Island,_Okinawa,_Japan.jpg) via Wikimedia Commons.
 
  
 
@@ -53,7 +53,7 @@ However, as you start to look closer, you realize that the trees are not drownin
 
  
 
-Figure 2: Those "floating" trees are in fact well-anchored to the ground by a dense mat of roots.
+**Figure 2:** Those "floating" trees are in fact well-anchored to the ground by a dense mat of roots.
 
 [Image by Bernard Dupont](https://www.flickr.com/photos/berniedup/25265198357/in/photostream/)
 
@@ -71,7 +71,7 @@ Mangrove trees have a[ variety of different kinds of roots](http://mangrove.nus.
 
  
 
-Figure 3: Pneumatophores of mangrove trees help keep the roots oxygenated by peeking out of the hypoxic (low oxygen) mud. These erect "twigs" are not baby trees, but rather protrusions from the roots. Image by[ Julie Burgher](https://www.flickr.com/photos/sunphlo/5683317075/).
+**Figure 3:** Pneumatophores of mangrove trees help keep the roots oxygenated by peeking out of the hypoxic (low oxygen) mud. These erect "twigs" are not baby trees, but rather protrusions from the roots. Image by[ Julie Burgher](https://www.flickr.com/photos/sunphlo/5683317075/).
 
  
 
@@ -87,7 +87,7 @@ Red and black mangroves – as the species which live closer to the sea – also
 
  
 
-Figure 4: Red mangrove propagules will get a good start in life because of all the energy the mother has invested in them, and because they are released from the nest after the most energetically demanding and environmentally sensitive life events have occurred. Image from[ Vincent Lucas](https://www.flickr.com/photos/leppyone/407039138)
+**Figure 4:** Red mangrove propagules will get a good start in life because of all the energy the mother has invested in them, and because they are released from the nest after the most energetically demanding and environmentally sensitive life events have occurred. Image from[ Vincent Lucas](https://www.flickr.com/photos/leppyone/407039138)
 
  
 
