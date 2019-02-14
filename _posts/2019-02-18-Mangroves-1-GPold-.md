@@ -49,7 +49,7 @@ However, as you start to look closer, you realize that the trees are not drownin
 
  
 
-<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/berniedup/25265198357/in/photostream/" title="Red Mangrove (Rhizophora sp.) roots ..."><img src="https://farm5.staticflickr.com/4695/25265198357_6d2383101b_z.jpg" width="640" height="427" alt="Red Mangrove (Rhizophora sp.) roots ..."></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
+<center><img src="https://farm5.staticflickr.com/4695/25265198357_6d2383101b_z.jpg" width="640" height="427" alt="Red Mangrove (Rhizophora sp.) roots ..."></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
  
 
