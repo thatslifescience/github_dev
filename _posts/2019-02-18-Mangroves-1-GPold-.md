@@ -20,25 +20,11 @@ header:
  image_fullwidth: ecosystem-header.jpg
 image:
  thumb: 2019-02-18-gpold-thumbnail.jpg
-teaser: “Trees may seem a bit out of place at the edge of the ocean, but mangroves know what they are doing.”
+teaser: Trees may seem a bit out of place at the edge of the ocean, but mangroves know what they are doing.
 
 source-id: 1DsTil3gQHmzLAJAFqq4Uf-UTjUhSFJb2usIrM-Y1-Rc
 published: true
 ---
-Title: Mangroves: where blue meets green, brown, and every other color under the sun
-
-Author: GPold
-
-Category: Our Ecosystems
-
-Teaser: Trees may seem a bit out of place at the edge of the ocean, but mangroves know what they are doing.
-
-Keywords: Water, Soil, Ocean; Human; Fish; Environment; Conservation; Biodiversity; Agriculture
-
-Thumbnail Image: Figure 1
-
- 
-
 If you meander along undeveloped areas of the tropical and subtropical coast at high tide, you may at first feel like something is out of place. The ocean is calmly lapping the shoreline in the sun, making for a rather serene experience.
 
  
