@@ -49,7 +49,7 @@ However, as you start to look closer, you realize that the trees are not drownin
 
  
 
-<center><img src="https://farm5.staticflickr.com/4695/25265198357_6d2383101b_z.jpg" width="640" height="427" alt="Red Mangrove (Rhizophora sp.) roots ..."></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
+<center><img src="https://farm5.staticflickr.com/4695/25265198357_6d2383101b_z.jpg" width="640" height="427" alt="Red Mangrove (Rhizophora sp.) roots ..."><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
  
 
@@ -67,7 +67,7 @@ Mangrove trees have a[ variety of different kinds of roots](http://mangrove.nus.
 
  
 
-<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/sunphlo/5683317075/" title="Mangrove pneumatophores"><img src="https://farm6.staticflickr.com/5102/5683317075_0422ab3a57_z.jpg" width="640" height="426" alt="Mangrove pneumatophores"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
+<center><img src="https://farm6.staticflickr.com/5102/5683317075_0422ab3a57_z.jpg" width="640" height="426" alt="Mangrove pneumatophores"><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
  
 
@@ -83,7 +83,7 @@ Red and black mangroves – as the species which live closer to the sea – also
 
  
 
-<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/leppyone/407039138" title="Red Mangrove Showing Propagules"><img src="https://farm1.staticflickr.com/177/407039138_0d8e1e92f7.jpg" width="495" height="400" alt="Red Mangrove Showing Propagules"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
+<center><img src="https://farm1.staticflickr.com/177/407039138_0d8e1e92f7.jpg" width="495" height="400" alt="Red Mangrove Showing Propagules"><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
  
 
