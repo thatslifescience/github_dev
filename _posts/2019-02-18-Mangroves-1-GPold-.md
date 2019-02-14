@@ -12,7 +12,6 @@ tags:
 - environment
 - conservation
 - biodiversity
-- biodiversity
 - agriculture
 categories:
 - Our Ecosystems
@@ -37,7 +36,7 @@ But there are trees. Everywhere. And they are drowning in the ocean!
 
  
 
-**Figure 1:** Trees dotted in an ocean is a bit of a strange look! Iriomote Island, Okinawa. Image by[ Anaguoagai](https://uk.m.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Mangrove_swamp,_Iriomote_Island,_Okinawa,_Japan.jpg) via Wikimedia Commons.
+Figure 1: Trees dotted in an ocean is a bit of a strange look! Iriomote Island, Okinawa. Image by[ Anaguoagai](https://uk.m.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Mangrove_swamp,_Iriomote_Island,_Okinawa,_Japan.jpg) via Wikimedia Commons.
 
  
 
@@ -53,7 +52,7 @@ However, as you start to look closer, you realize that the trees are not drownin
 
  
 
-**Figure 2:** Those "floating" trees are in fact well-anchored to the ground by a dense mat of roots.
+Figure 2: Those "floating" trees are in fact well-anchored to the ground by a dense mat of roots.
 
 [Image by Bernard Dupont](https://www.flickr.com/photos/berniedup/25265198357/in/photostream/)
 
@@ -63,7 +62,7 @@ How do these trees not just survive, but thrive? Their roots are stuck in sticky
 
  
 
-Mangrove trees have a[ variety of different kinds of roots](http://mangrove.nus.edu.sg/guidebooks/text/1043.htm) specialized for different tasks. To get over the oxygen problem, some species may put out pneumatophores ("air-bearers") from their belowground roots. These resemble the common invasive species,[ Japanese knotweed](https://en.wikipedia.org/wiki/Fallopia_japonica) first emerging in the spring – tight, cone-like, and sticking straight up from the ground (Figure 3). The pneumatophores are exposed to the air during part of the day, allowing them to transport oxygen to the submerged roots. To maintain their stability in the ocean, mangroves put out roots which extend far beyond the trunk. These roots don't just come from near the base of the trunk but can also come from branches (which is why it is such a tangle to get through a mangrove forest!). These “prop-roots” are also a great adaptation to low oxygen, as at least a part of the root is exposed to the air for most of the day.
+Mangrove trees have a [variety of different kinds of roots](http://mangrove.nus.edu.sg/guidebooks/text/1043.htm) specialized for different tasks. To get over the oxygen problem, some species may put out pneumatophores ("air-bearers") from their belowground roots. These resemble the common invasive species, [Japanese knotweed](https://en.wikipedia.org/wiki/Fallopia_japonica) first emerging in the spring – tight, cone-like, and sticking straight up from the ground (Figure 3). The pneumatophores are exposed to the air during part of the day, allowing them to transport oxygen to the submerged roots. To maintain their stability in the ocean, mangroves put out roots which extend far beyond the trunk. These roots don't just come from near the base of the trunk but can also come from branches (which is why it is such a tangle to get through a mangrove forest!). These “prop-roots” are also a great adaptation to low oxygen, as at least a part of the root is exposed to the air for most of the day.
 
  
 
@@ -71,11 +70,11 @@ Mangrove trees have a[ variety of different kinds of roots](http://mangrove.nus.
 
  
 
-**Figure 3:** Pneumatophores of mangrove trees help keep the roots oxygenated by peeking out of the hypoxic (low oxygen) mud. These erect "twigs" are not baby trees, but rather protrusions from the roots. Image by[ Julie Burgher](https://www.flickr.com/photos/sunphlo/5683317075/).
+Figure 3: Pneumatophores of mangrove trees help keep the roots oxygenated by peeking out of the hypoxic (low oxygen) mud. These erect "twigs" are not baby trees, but rather protrusions from the roots. Image by[ Julie Burgher](https://www.flickr.com/photos/sunphlo/5683317075/).
 
  
 
-Mangroves also have to drink saltwater. If we drank just saltwater, we would die because our urine is less salty than saltwater so the salt would accumulate in our blood. But mangrove species have a couple of ways to keep things fresh. Red mangroves (*Rhizosphora mangle*) avoid the problem by not letting salt in in the first place. These so-called "excluders" or “ultrafiltrators” only selectively allow in water molecules and some ions, and much less of the sodium that would kill them. On the other hand, black (*Avicennia germinans*) and white (*Laguncularia racemose*) mangroves take up the salt through their roots but then secrete it through their leaves and roots. You can even taste it if you lick the leaves.
+Mangroves also have to drink saltwater. If we drank just saltwater, we would die because our urine is less salty than saltwater so the salt would accumulate in our blood. But mangrove species have a couple of ways to keep things fresh [1]. Red mangroves (*Rhizosphora mangle*) avoid the problem by not letting salt in in the first place. These so-called "excluders" or “ultrafiltrators” only selectively allow in water molecules and some ions, and much less of the sodium that would kill them. On the other hand, black (*Avicennia germinans*) and white (*Laguncularia racemose*) mangroves take up the salt through their roots but then secrete it through their leaves and roots. You can even taste it if you lick the leaves.
 
  
 
@@ -87,7 +86,7 @@ Red and black mangroves – as the species which live closer to the sea – also
 
  
 
-**Figure 4:** Red mangrove propagules will get a good start in life because of all the energy the mother has invested in them, and because they are released from the nest after the most energetically demanding and environmentally sensitive life events have occurred. Image from[ Vincent Lucas](https://www.flickr.com/photos/leppyone/407039138)
+Figure 4: Red mangrove propagules will get a good start in life because of all the energy the mother has invested in them, and because they are released from the nest after the most energetically demanding and environmentally sensitive life events have occurred. Image from[ Vincent Lucas](https://www.flickr.com/photos/leppyone/407039138)
 
  
 
