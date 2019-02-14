@@ -99,3 +99,6 @@ References:
 
 2.  "Mangrove species profiles" 2018. Florida Museum. https://www.floridamuseum.ufl.edu/southflorida/habitats/mangroves/species/
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Our Ecosystems" %}
