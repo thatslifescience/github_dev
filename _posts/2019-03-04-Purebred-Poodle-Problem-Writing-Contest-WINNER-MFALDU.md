@@ -14,6 +14,7 @@ header:
  image_fullwidth: organisms-header.jpg
 image:
  thumb: 2019-03-04-PurebredPoodle.jpg
+teaser: The hidden risks behind that pedigree certificate
 source-id: 1p4Dtl1rdswSzqHXwvlu91CAGqxi5wSCmvzkeuLkrHqw
 published: true
 ---
