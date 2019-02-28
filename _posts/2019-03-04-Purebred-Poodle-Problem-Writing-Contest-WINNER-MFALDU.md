@@ -15,7 +15,7 @@ header:
 image:
  thumb: 2019-03-04-PurebredPoodle.jpg
  title: contest-banner-2018-winner.png
-teaser: The hidden risks behind that pedigree certificate.<br> **Undergraduate Writing Contest Fall 2018 WINNER**
+teaser: "The hidden risks behind that pedigree certificate.<br> **Undergraduate Writing Contest Fall 2018 WINNER**"
 source-id: 1p4Dtl1rdswSzqHXwvlu91CAGqxi5wSCmvzkeuLkrHqw
 published: true
 ---
