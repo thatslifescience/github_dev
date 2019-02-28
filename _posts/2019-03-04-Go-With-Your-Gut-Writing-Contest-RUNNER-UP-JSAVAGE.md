@@ -16,7 +16,7 @@ header:
  image_fullwidth: howitworks-header.jpg
 image:
  thumb: 2019-03-04-Gut.jpg
-teaser: “...Unless Your Gut is Going Against You”
+teaser: ...Unless Your Gut is Going Against You.
 
 source-id: 147xbsX6E_igT_kyjwMbx1_VkYmh1F5OyP8Aqhj9m8WQ
 published: true
