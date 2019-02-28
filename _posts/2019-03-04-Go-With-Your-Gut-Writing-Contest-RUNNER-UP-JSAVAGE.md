@@ -68,4 +68,4 @@ by Altering Gut Flora. Retrieved September 20, 2018, from [https://www.ncbi.nlm.
 
 ## More From That's Life [Science]
 {: .t60 }
-{% include list-posts offset="1" entries='5' category="How it Works" %}
+{% include list-posts offset="1" entries='5' category="How It Works" %}
