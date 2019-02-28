@@ -1,7 +1,7 @@
 ---
 title: The Purebred Poodle Problem
 layout: page
-author: mfaldu
+author: gwriter
 permalink: /2019-03-04-purebred-poodle-problem-writing-contest-winner-mfaldu/
 tags:
 - mammal
@@ -14,10 +14,14 @@ header:
  image_fullwidth: organisms-header.jpg
 image:
  thumb: 2019-03-04-PurebredPoodle.jpg
+ title: contest-banner-2018-winner.png
 teaser: The hidden risks behind that pedigree certificate.
 source-id: 1p4Dtl1rdswSzqHXwvlu91CAGqxi5wSCmvzkeuLkrHqw
 published: true
 ---
+**Author:** Monali Faldu
+
+
 "Get a purebred dog," they said. “It'll be healthier,” they said.
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/46743366271/in/dateposted-friend/" title="poodle_pixabay"><img src="https://farm5.staticflickr.com/4882/46743366271_13d8605ec7.jpg" width="500" height="333" alt="poodle_pixabay"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
