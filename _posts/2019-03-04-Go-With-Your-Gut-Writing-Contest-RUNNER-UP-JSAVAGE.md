@@ -1,7 +1,7 @@
 ---
 title: Go With Your Gut...
 layout: page
-author: jsavage
+author: gwriter
 permalink: /2019-03-04-go-with-your-gut-writing-contest-runner-up-jsavage/
 tags:
 - science and society
@@ -21,6 +21,9 @@ teaser: ...Unless Your Gut is Going Against You.
 source-id: 147xbsX6E_igT_kyjwMbx1_VkYmh1F5OyP8Aqhj9m8WQ
 published: true
 ---
+**Fall 2018 Writing Contest Runner-Up:**
+Jaime Savage
+
 Have you ever gotten sick and relied on your immune system to help fight off the pathogen infecting you? What if your immune system was the one attacking you to begin with?! And on top of that, what if the native species living in your gut were the ones responsible for this attack?! This may seem like a cruel joke, but this is actually the scary reality for people living with autoimmune diseases. 
 
 
