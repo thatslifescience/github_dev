@@ -19,8 +19,7 @@ teaser: The hidden risks behind that pedigree certificate.
 source-id: 1p4Dtl1rdswSzqHXwvlu91CAGqxi5wSCmvzkeuLkrHqw
 published: true
 ---
-**Author:** Monali Faldu
-
+<center> Post Written By Undergraduate Writing Contest Winner Monali Faldu</center><br>
 
 "Get a purebred dog," they said. “It'll be healthier,” they said.
 
