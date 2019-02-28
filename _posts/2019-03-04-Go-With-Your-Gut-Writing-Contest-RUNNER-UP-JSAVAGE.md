@@ -17,7 +17,8 @@ header:
 image:
  thumb: 2019-03-04-Gut.jpg
  title: contest-banner-2018-winner.png
-teaser: ...Unless Your Gut is Going Against You.   **Undergraduate Writing Contest Fall 2018 RUNNER-UP**
+teaser: ...Unless Your Gut is Going Against You.   
+**Undergraduate Writing Contest Fall 2018 RUNNER-UP**
 
 source-id: 147xbsX6E_igT_kyjwMbx1_VkYmh1F5OyP8Aqhj9m8WQ
 published: true
