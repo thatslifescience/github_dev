@@ -17,12 +17,12 @@ header:
 image:
  thumb: 2019-03-04-Gut.jpg
  title: contest-banner-2018-winner.png
-teaser: ...Unless Your Gut is Going Against You.<br>   **Undergraduate Writing Contest Fall 2018 RUNNER-UP**
+teaser: ...Unless Your Gut is Going Against You.   **Undergraduate Writing Contest Fall 2018 RUNNER-UP**
 
 source-id: 147xbsX6E_igT_kyjwMbx1_VkYmh1F5OyP8Aqhj9m8WQ
 published: true
 ---
-<center> Post Written By Undergraduate Writing Contest Fall 2018 Runner-Up, Jaime Savage</center><br>
+<center> Post Written By Jaime Savage</center><br>
 
 Have you ever gotten sick and relied on your immune system to help fight off the pathogen infecting you? What if your immune system was the one attacking you to begin with?! And on top of that, what if the native species living in your gut were the ones responsible for this attack?! This may seem like a cruel joke, but this is actually the scary reality for people living with autoimmune diseases. 
 
