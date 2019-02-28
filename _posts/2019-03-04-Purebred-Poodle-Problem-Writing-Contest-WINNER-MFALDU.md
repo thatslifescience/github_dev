@@ -19,8 +19,6 @@ published: true
 ---
 "Get a purebred dog," they said. “It'll be healthier,” they said.
 
-![image alt text]({{ site.url }}/public/AXZ7JxiXob4dfrKXUsIw_img_0.png)
-
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/46743366271/in/dateposted-friend/" title="poodle_pixabay"><img src="https://farm5.staticflickr.com/4882/46743366271_13d8605ec7.jpg" width="500" height="333" alt="poodle_pixabay"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
 **Figure 1:** Purebred perfection or vet bills through the roof? (Source: Pixabay, chili71 [https://pixabay.com/photo-2867014/](https://pixabay.com/photo-2867014/)) 
@@ -30,8 +28,6 @@ It's understandable that a person might want a particular breed of dog because t
 Selective breeding is when you have many dogs, but you only breed the "best" ones so that their genes are passed down to future generations. This causes a genetic bottleneck, where the number of breeding individuals is quickly decreased. The bottleneck causes the next generations to become less and less diverse. Furthermore, breeders inbred the poodles. This made poodles even less diverse. Breeders were successful in enhancing the “good” traits they wanted, but they accidentally made some “bad” traits more common too. 
 
 Recently, researchers have found a link between this genetic bottleneck and two genetic diseases found often in poodles: sebaceous adenitis and Addison's disease [1]. Sebaceous adenitis is a skin disease (Fig. 2). Affected dogs will be itchy, lose hair, have scaly patches, and have skin lesions. Dogs with sebaceous adenitis require lifelong treatment, with options ranging from special shampoos to oral supplements and other medications. Sebaceous adenitis does not kill affected dogs, but it causes them great discomfort. Unfortunately, some are even put down because their owners cannot afford the necessary treatments [2]. 
-
-![image alt text]({{ site.url }}/public/AXZ7JxiXob4dfrKXUsIw_img_1.png)
 
 <center><a title="UnknownUnknown author [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Sebadenitis.jpg"><img width="512" alt="Sebadenitis" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Sebadenitis.jpg"></a></center>
 
