@@ -57,3 +57,6 @@ And where does that leave the rest of us? Never get a poodle? Probably not. But 
 4. Klein SC, Peterson ME. 2010. Canine hypoadrenocorticism: Part II. NCBI [Internet] [cited 2018 Nov 27]; 51(2): 179-184. Available from: 
 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2808283/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2808283/) 
 
+## More From That's Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Earth's Organisms" %}
