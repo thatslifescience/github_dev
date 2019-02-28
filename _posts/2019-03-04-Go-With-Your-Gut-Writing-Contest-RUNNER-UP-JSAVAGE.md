@@ -62,3 +62,7 @@ Multiple-Sclerosis.aspx](https://www.news-medical.net/health/Cognitive-Impairmen
 December). NKT Cell-Dependent Amelioration of a Mouse Model of Multiple Sclerosis 
 by Altering Gut Flora. Retrieved September 20, 2018, from [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2626383/ ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2626383/)
 
+
+## More From That's Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Our Ecosystems" %}
