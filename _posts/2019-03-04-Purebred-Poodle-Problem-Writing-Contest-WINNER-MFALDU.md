@@ -17,18 +17,6 @@ image:
 source-id: 1p4Dtl1rdswSzqHXwvlu91CAGqxi5wSCmvzkeuLkrHqw
 published: true
 ---
-**Title:** The Purebred Poodle Problem
-
-**Author(s): **Monali Faldu
-
-**Category: **Earth's Organisms
-
-**Keywords: **Genetics, Mammal, Science and Society
-
-**Teaser****:**** **The hidden risks behind that pedigree certificate
-
-**Thumbnail image**:  Figure 1
-
 "Get a purebred dog," they said. “It'll be healthier,” they said.
 
 ![image alt text]({{ site.url }}/public/AXZ7JxiXob4dfrKXUsIw_img_0.png)
@@ -63,7 +51,9 @@ And where does that leave the rest of us? Never get a poodle? Probably not. But 
 
 2. Tevell EH, Bergvall K, Egenvall A. 2008. Sebaceous adenitis in Swedish dogs, a retrospective study of 104 cases. NCBI [Internet] [cited 2018 Nov 27]; 50(1): 11. Available from: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2412885/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2412885/) 
 
-3. Klein SC, Peterson ME. 2010. Canine hypoadrenocorticism: Part I. NCBI [Internet] [cited 2018 Nov 27]; 51(1): 63–69. Available from: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2797351/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2797351/) 
+3. Klein SC, Peterson ME. 2010. Canine hypoadrenocorticism: Part I. NCBI [Internet] [cited 2018 Nov 27]; 51(1): 63–69. Available from: 
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2797351/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2797351/) 
 
-4. Klein SC, Peterson ME. 2010. Canine hypoadrenocorticism: Part II. NCBI [Internet] [cited 2018 Nov 27]; 51(2): 179-184. Available from: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2808283/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2808283/) 
+4. Klein SC, Peterson ME. 2010. Canine hypoadrenocorticism: Part II. NCBI [Internet] [cited 2018 Nov 27]; 51(2): 179-184. Available from: 
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2808283/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2808283/) 
 
