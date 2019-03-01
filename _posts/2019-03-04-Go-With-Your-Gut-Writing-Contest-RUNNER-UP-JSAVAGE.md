@@ -66,6 +66,12 @@ December). NKT Cell-Dependent Amelioration of a Mouse Model of Multiple Sclerosi
 by Altering Gut Flora. Retrieved September 20, 2018, from [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2626383/ ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2626383/)
 
 
+*About the Author:* **Jaime Savage**
+
+As a senior Microbiology major at UMass Amherst, I have learned a lot about the different types of diseases caused by various microbes over the past four years. Of these, the most interesting microbe-related diseases to me stem from the gut microbiota, in particular autoimmune diseases. As an aspiring Physician’s Assistant, the link between microbiology and pathology is one of my passions, and something I hope to continue exploring in the future! 
+
+<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/47246510131/in/dateposted-friend/" title="jsavage_photo"><img src="https://farm8.staticflickr.com/7826/47246510131_78a6a392f6.jpg" width="232" height="350" alt="jsavage_photo"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
+
 ## More From That's Life [Science]
 {: .t60 }
 {% include list-posts offset="1" entries='5' category="How It Works" %}
