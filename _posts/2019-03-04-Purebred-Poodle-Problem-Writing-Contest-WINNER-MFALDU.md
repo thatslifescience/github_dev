@@ -57,6 +57,17 @@ And where does that leave the rest of us? Never get a poodle? Probably not. But 
 4. Klein SC, Peterson ME. 2010. Canine hypoadrenocorticism: Part II. NCBI [Internet] [cited 2018 Nov 27]; 51(2): 179-184. Available from: 
 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2808283/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2808283/) 
 
+<br>
+<br>
+*About the Author:* **Monali Faldu**
+
+Monali Faldu is a senior at the University of Massachusetts Amherst studying Biology.
+
+I've spent the past few years working hard as a UMass student, but also gaining practical experience working with animals. I've been fortunate enough to intern at multiple veterinary practices, work in a research lab with birds, and even intern at a zoo. This blog post stemmed from my honors research project, for which I am writing a series of articles about veterinary research, which are geared towards pre-veterinary students. It combines some of my favorite things: dogs, research, and veterinary medicine. After graduating, I will be working as a Veterinary Assistant and beginning to apply to veterinary school.
+
+<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/47273376031/in/dateposted-friend/" title="Monali_photo"><img src="https://farm8.staticflickr.com/7800/47273376031_edf1e91c6b.jpg" width="367" height="500" alt="Monali_photo"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
+
+
 ## More From That's Life [Science]
 {: .t60 }
 {% include list-posts offset="1" entries='5' category="Earth's Organisms" %}
