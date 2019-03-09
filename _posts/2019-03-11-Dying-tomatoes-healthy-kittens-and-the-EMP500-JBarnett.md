@@ -64,7 +64,7 @@ When I was in high school I thought that working with 4 or 5 other students on a
 
   
 
-<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/30481098608/in/dateposted-friend/" title="EMP_logo_no_background-300x105"><img src="https://farm2.staticflickr.com/1894/30481098608_27a9153706.jpg" width="300" height="105" alt="EMP_logo_no_background-300x105"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
+<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/30481098608" title="EMP_logo_no_background-300x105"><img src="https://farm2.staticflickr.com/1894/30481098608_27a9153706.jpg" width="300" height="105" alt="EMP_logo_no_background-300x105"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
 **Figure 5.** Logo for the Earth Microbiome Project, a collaboration of over 500 investigators seeking to explore patterns in microbial ecology across the globe. Image credit: Earth Microbiome Project, [http://www.earthmicrobiome.org/](http://www.earthmicrobiome.org/)
 
