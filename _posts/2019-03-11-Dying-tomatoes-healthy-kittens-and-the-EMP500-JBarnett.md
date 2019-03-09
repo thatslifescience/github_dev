@@ -62,7 +62,6 @@ More new drug sources are still being discovered. In 2018 a team at the Rockefel
 
 When I was in high school I thought that working with 4 or 5 other students on a science project was a "big group". Well at the ISME Conference I heard about a project involving over 400 scientists! Dubbed the [Earth Microbiome Project 500](http://www.earthmicrobiome.org/emp500/), or “EMP500”, it is the latest version of an ambitious collaboration that examines diverse microbial communities from all over the Earth. The original [Earth Microbiome Project](http://www.earthmicrobiome.org/) (EMP) was started in 2010 and has already catalogued over 200,000 samples. This new effort will apply the latest technology and methods to 500 more samples. 
 
-  
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/30481098608" title="EMP_logo_no_background-300x105"><img src="https://farm2.staticflickr.com/1894/30481098608_27a9153706.jpg" width="300" height="105" alt="EMP_logo_no_background-300x105"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
