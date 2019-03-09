@@ -98,3 +98,8 @@ Shiffman, Olivia. "[Alien Microbes: How studying hyperthermophiles can help us f
 
 "[Soils Host a Quarter of our Planet's Biodiversity. International Year of Soils 2015.](http://www.fao.org/documents/card/en/c/43b565e7-57c2-43c6-b4f0-812091486ed3/)" Food and Agriculture Organization of the United Nations, Fact Sheet (2015)
 
+
+
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Earth's Organisms" %}
