@@ -14,7 +14,7 @@ tags:
 - microbial ecology
 - microbes
 categories:
-
+- Earth's Organisms
 header:
  image_fullwidth: organisms-header.jpg
 image:
@@ -28,7 +28,7 @@ Farmer Jiang had a problem. One season, his whole tomato harvest started dying o
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/31758898808/in/dateposted-friend/" title="Ralstonis_wilt_symptom"><img src="https://farm2.staticflickr.com/1914/31758898808_0de3feb096.jpg" width="384" height="384" alt="Ralstonis_wilt_symptom"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-****Figure 1.**** Tomato plants dying of bacterial wilt disease. Image credit: Clemson University - USDA Cooperative Extension Slide Series [Public domain], via Wikimedia Commons
+**Figure 1.** Tomato plants dying of bacterial wilt disease. Image credit: Clemson University - USDA Cooperative Extension Slide Series [Public domain], via Wikimedia Commons
 
 A microbial who? Microbial ecologists are scientists who study tiny living things such as bacteria and fungi (microbes) and how they interact with each other and their environment (ecology). They seek to understand the "invisible rainforests" that live on and in nearly every corner of the Earth - from the microbiome inside our guts to the communities thriving in deep sea hydrothermal vents. In August 2018, I had the privilege of learning about cutting-edge work in this field at the [17th International Symposium on Microbial Ecology](http://isme17.isme-microbes.org/) (ISME) in Leipzig, Germany. Here are my three takeaways for why you should care about the work of these scientists: 
 
@@ -84,7 +84,7 @@ The EMP500 is just one example of a team of microbial ecologists combining diffe
 
 [5] Hover, Bradley M. et al. "[Culture-independent discovery of the malacidins as calcium-dependent antibiotics with activity against multidrug-resistant Gram-positive pathogens](https://www.nature.com/articles/s41564-018-0110-1)." *Nature Microbiology* 3 (2018): 415–422. 
 
-****Additional Links****
+**Additional Links**
 
 International Society for Microbial Ecology: [https://www.isme-microbes.org/](https://www.isme-microbes.org/)
 
