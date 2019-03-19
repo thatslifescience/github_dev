@@ -23,20 +23,7 @@ teaser: “The services mangrove forests provide are priceless, so why are these
 source-id: 1XVK7kTXoOrcZ3OpZ8a7sdHjd0sDalR5ySCizSFRfXx0
 published: true
 ---
-**Title: **Mangroves: at your service
-
-**Author:** GPold
-
-**Category:** Our Ecosystems
-
-**Teaser:** The services mangrove forests provide are priceless, so why are these ecosystems threatened?
-
-**Keywords:** Water, Soil, Ocean, Human, Fish, Environment, Conservation, Biodiversity, Agriculture
-
-**Thumbnail Image:** Figure 2
-
  
-
 In a previous post, I mentioned that mangrove forests show a wide range of adaptations to the physically rough, salty, and low oxygen environment they inhabit. Despite this robustness, they are not immune to the kinds of extremes humans have caused.
 
  
