@@ -23,7 +23,7 @@ teaser: The services mangrove forests provide are priceless, so why are these ec
 source-id: 1XVK7kTXoOrcZ3OpZ8a7sdHjd0sDalR5ySCizSFRfXx0
 published: true
 ---
- In a previous post, I mentioned that mangrove forests show a wide range of adaptations to the physically rough, salty, and low oxygen environment they inhabit. Despite this robustness, they are not immune to the kinds of extremes humans have caused.
+In a previous post, I mentioned that mangrove forests show a wide range of adaptations to the physically rough, salty, and low oxygen environment they inhabit. Despite this robustness, they are not immune to the kinds of extremes humans have caused.
 
  
 
@@ -74,8 +74,6 @@ All is not lost, however. By helping mangroves move inland and ceding our curren
  
 
 References:
-
- 
 
 1.     Giri, Chandra, Edward Ochieng, Larry L. Tieszen, Zq Zhu, Ashbindu Singh, Tomas Loveland, Jeff Masek, and Norman Duke. "[Status and distribution of mangrove forests of the world using earth observation satellite data.](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1466-8238.2010.00584.x)" Global Ecology and Biogeography 20, no. 1 (2011): 154-159.
 
