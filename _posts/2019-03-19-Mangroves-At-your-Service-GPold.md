@@ -31,7 +31,7 @@ published: true
 
 **Teaser:** The services mangrove forests provide are priceless, so why are these ecosystems threatened?
 
-**Keywords:** Water, Soil, Ocean; Human; Fish; Environment; Conservation; Biodiversity; Agriculture
+**Keywords:** Water, Soil, Ocean, Human, Fish, Environment, Conservation, Biodiversity, Agriculture
 
 **Thumbnail Image:** Figure 2
 
