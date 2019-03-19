@@ -31,7 +31,7 @@ Fifty years ago, mangrove forests covered 212,000 km2 [1]. Unfortunately, in the
 
  
 
-<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/45924676161/in/dateposted-friend/" title="Mangrove distribution"><img src="https://farm5.staticflickr.com/4900/45924676161_c8c64371a2.jpg" width="500" height="330" alt="Mangrove distribution"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><center>
+<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/45924676161/in/dateposted-friend/" title="Mangrove distribution"><img src="https://farm5.staticflickr.com/4900/45924676161_c8c64371a2.jpg" width="500" height="330" alt="Mangrove distribution"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
  
 
@@ -47,7 +47,7 @@ In contrast, the majority of mangrove losses in southeast Asia are driven by aqu
 
  
 
-<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/seminarsonscience/3638759549/in/album-72157619937936982/" title="A Losing Battle"><img src="https://farm3.staticflickr.com/2422/3638759549_f78a60ed33_z.jpg?zz&#x3D;1" width="640" height="479" alt="A Losing Battle"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><center>
+<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/seminarsonscience/3638759549/in/album-72157619937936982/" title="A Losing Battle"><img src="https://farm3.staticflickr.com/2422/3638759549_f78a60ed33_z.jpg?zz&#x3D;1" width="640" height="479" alt="A Losing Battle"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
  
 
