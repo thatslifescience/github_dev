@@ -19,7 +19,7 @@ header:
  image_fullwidth: ecosystem-header.jpg
 image:
  thumb: 03192019-Pold.jpg
-teaser: The services mangrove forests provide are priceless, so why are these ecosystems threatened?
+teaser: "The services mangrove forests provide are priceless, so why are these ecosystems threatened?"
 source-id: 1XVK7kTXoOrcZ3OpZ8a7sdHjd0sDalR5ySCizSFRfXx0
 published: true
 ---
