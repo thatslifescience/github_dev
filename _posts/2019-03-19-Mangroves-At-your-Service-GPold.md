@@ -109,3 +109,6 @@ References:
 
 8.     Meeder, John F., and W. Randall. Parkinson SE Saline Everglades Transgressive Sedimentation in Response to Historic Acceleration in Sea-Level Rise: A Viable Marker for the Base of the Anthropocene? Journal of Coastal Research 34, no 2 (2018):490 – 497.
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Our Ecosystems" %}
