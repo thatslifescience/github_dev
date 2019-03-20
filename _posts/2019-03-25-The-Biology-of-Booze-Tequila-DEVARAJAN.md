@@ -20,18 +20,6 @@ teaser: This is a brief biological story involving the agave plant and its polli
 source-id: 146R2wc6UFhRar1tr4mqGGg8zaBP8bWrZFLYMk2t--A4
 published: true
 ---
-**Title: **The Biology of Booze ft. Tequila
-
-**Author(s): **KadambariDevarajan
-
-**Category: **Earth's Organisms
-
-**Keywords: **Adaptation, Ecology, Evolution, Plant, Pollinator
-
-**Teaser: **This is a brief biological story involving the agave plant and its pollinators that are instrumental in the birth of tequila!
-
-**Thumbnail image**:  Figure 3 
-
 A quintessential cocktail, the margarita is apparently the "most popular mixed drink in America" [1] with February 22nd celebrated as National Margarita Day. Variants may abound spanning a rainbow of colors, but in essence, it comprises of tequila, triple sec, juice of a citrus fruit (traditionally lime), and of course, salt on the rim of the glass. Arguably, elemental to the margarita is the tequila. And this is the story of the journey tequila has taken, over space and time, to get to the party.
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/46479060164/in/dateposted-friend/" title="margarita-cocktail-drink-food-drink-457170-1024"><img src="https://farm8.staticflickr.com/7803/46479060164_11d127f1c4_c.jpg" width="800" height="530" alt="margarita-cocktail-drink-food-drink-457170-1024"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
