@@ -20,41 +20,24 @@ teaser: Why can bad things be so overpowering of the good? Evolution might give 
 source-id: 1lVo6ba9NpB68cmL-dMInSi9FdJEVcpt-S9q3azsKh2g
 published: true
 ---
-Title: The feelings that linger: good vs. bad
-
-Author: Emma Dauster
-
-Categories: How It Works
-
-Keywords: evolution, habituation, natural selection, good vs. bad
-
-Teaser: Why can bad things be so overpowering of the good?  Evolution might give us some insights.
-
-Featured Photos: Thumbnail image = Fig. 1
-
- 
-
 You just had a lovely dinner.  On your walk home, a bird poops on your head.  Now your entire beautiful evening has been ruined.  Many researchers have studied this phenomenon in which bad experiences outweigh good ones.  One such study found that a person who had a bad day yesterday will report lower well-being today, while an individual who had a good day yesterday will not report any effect on today [8].  Therefore, you got bird poop on your head and it will ruin your otherwise wonderful day AND decrease tomorrow's well-being.  Even in your daily life, why is it that one bad event in your day seems to outweigh all of the good events? 
 
 There is some evidence that this effect is a **self-preservational** prioritization that has been selected for in our evolution [2].  This means that we must prioritize the bad things over the good because the good things probably won't kill us, but the bad things might.  Other evidence suggests that it is due to habituation [2].  This means that you are so accustomed to good things happening all the time that you take them for granted, but a bad event still gets your attention.
 
-<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/45323341944/in/dateposted-friend/" title="Untitled"><img src="https://farm5.staticflickr.com/4833/45323341944_bcb740c933.jpg" width="333" height="500" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
+<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/45323341944/in/dateposted-friend/" title="Untitled"><img src="https://farm5.staticflickr.com/4833/45323341944_bcb740c933.jpg" width="333" height="500" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><br>
 **Figure 1.**  This man is having a negative experience of a bird pooping on his head.  These bad effects could ruin his entire day.  Source: JohiSm, pixabay.
 
-Is bad really stronger than good?  In one study, researchers interviewed individuals who had experienced seemingly good life events (winning the lottery), bad events (becoming paralyzed), or neutral events (living their average lives), and found that the negative effects of becoming paralyzed were far greater than the positive effects of winning the lottery [3].  Not only that, but they also found that individuals who had won the lottery had a very fleeting euphoric effect [3].  The good effect group returned to similar responses to average significantly sooner than the bad effect group.  Interestingly,** the good effect group that won the lottery did have some lasting effects, but they were the negative consequences of winning the lottery, like not being able to enjoy simple pleasures anymore** [3].  The good group did not have lasting good effects, AND they had lasting bad effects because those seem to stick with us.
+Is bad really stronger than good?  In one study, researchers interviewed individuals who had experienced seemingly good life events (winning the lottery), bad events (becoming paralyzed), or neutral events (living their average lives), and found that the negative effects of becoming paralyzed were far greater than the positive effects of winning the lottery [3].  Not only that, but they also found that individuals who had won the lottery had a very fleeting euphoric effect [3].  The good effect group returned to similar responses to average significantly sooner than the bad effect group.  Interestingly, **the good effect group that won the lottery did have some lasting effects, but they were the negative consequences of winning the lottery, like not being able to enjoy simple pleasures anymore** [3].  The good group did not have lasting good effects, AND they had lasting bad effects because those seem to stick with us.
 
-<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/32176682118/in/dateposted-friend/" title="Untitled"><img src="https://farm5.staticflickr.com/4826/32176682118_cdb85bd233.jpg" width="500" height="333" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-**Figure 2. ** This man just won the lottery and would be put in the good effect group, but his happiness will probably be fleeting.  Source: U.S. Airforce.
+<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/32176682118/in/dateposted-friend/" title="Untitled"><img src="https://farm5.staticflickr.com/4826/32176682118_cdb85bd233.jpg" width="500" height="333" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><br>
+**Figure 2.** This man just won the lottery and would be put in the good effect group, but his happiness will probably be fleeting.  Source: U.S. Airforce.
 
 In addition to longer lasting effects, bad events also seem to be more salient or personally important.  In several studies, it was found that teaching someone to learn a task takes less time when using reinforcing punishments rather than rewards [3][6][7][9][10].  This trend can be observed across species in rodents and in humans.  Presenting an individual with aversive stimuli upon an incorrect response to a task is more effective than presenting an individual with rewarding stimuli upon correct responses because bad events are more salient than good events. 
 
 Why do we find bad more salient than good?  Why is this stronger response to negative events conserved across species?  There is reason to believe that this salience is evolutionarily advantageous and has been selected for over generations.  I think Dr. Vohs and colleagues said it best when they stated that **"survival requires urgent attention to possible bad outcomes, but it is less urgent with regard to good ones. Hence, it would be adaptive to be psychologically designed to respond to bad more strongly than good [2]."** Those individuals who found bad events to be more salient were faster to respond when a threat approached, and thus more likely to survive that threat and reproduce to pass on the trait [2].
 
-<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/45323341924/in/dateposted-friend/" title="Untitled"><img src="https://farm5.staticflickr.com/4886/45323341924_1baf7df634.jpg" width="500" height="333" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-**Figure 3.** The individual who notices a threatening sign first will most likely escape danger.  This individual is probably highly attuned to negative events. Source: Nick Youngson, picpedia.
+<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/45323341924/in/dateposted-friend/" title="Untitled"><img src="https://farm5.staticflickr.com/4886/45323341924_1baf7df634.jpg" width="500" height="333" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><br>
+**Figure 3.** The individual who notices a threatening sign first will most likely escape danger. This individual is probably highly attuned to negative events. Source: Nick Youngson, picpedia.
 
 This trend that bad outweighs good can be observed in mood and learning as discussed earlier, and also in monetary transactions and flavor preferences.  The famous economists Kahneman and Tversky conducted an experiment in which participants in their study all started out with the same amount of money and either gained or lost an identical amount of money.  Those that lost money reported distress that outweighed the joy of those that gained the same amount of money [4].  In the example with the lottery winners and paraplegics, you could argue that losing function of part of your body is more important than winning the lottery.  But in this example, the monetary winnings and losses were exactly equal, so we can claim that the greater effect of loss is due to it being a loss rather than a more valuable event.
 
@@ -86,3 +69,7 @@ References:
 
 10. Spence, J. T., & Segner, L. L. 1967. "Verbal vs. nonverbal reinforcement combinations in the discrimination learning of middle and lower class children." *Child Development*, 38, 29-38.
 
+
+## More From Thats Life [Science]
+{: .t60 }	
+{% include list-posts offset="1" entries="5" category="How It Works" %}
