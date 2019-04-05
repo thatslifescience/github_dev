@@ -1,16 +1,16 @@
 ---
-title: Jacob R. Barnett
+title: Jacob Barnett
 permalink: "/authors/jbarnett/"
 layout: page
 author: jbarnett
-meta_title: Jacob R. Barnett | That's Life [Science]
+meta_title: Jacob Barnett | That's Life [Science]
 subheadline: Contributor since Fall 2017
 teaser: PhD Student in Organismic and Evolutionary Biology
 header:
   image_fullwidth: you-can-delete-me-header.png
 gallery:
 - image_url: jbarnett-01.jpg
-  caption: Jacob R. Barnett
+  caption: Jacob Barnett
 ---
 
 ![Jacob Barnett]({{ site.urlimg }}/jbarnett-01.jpg)<br>
