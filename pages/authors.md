@@ -26,8 +26,8 @@ header: no
 </div>
 <div class="row row-centered">
         <div class="large-3 columns">
-        <img src="{{ site.urlimg }}jbarnett-01.jpg" alt="Jacob R. Barnett">
-        <p><a href = "{{ site.url }}/authors/jbarnett"><b>Jacob R. Barnett</b></a></p>
+        <img src="{{ site.urlimg }}jbarnett-01.jpg" alt="Jacob Barnett">
+        <p><a href = "{{ site.url }}/authors/jbarnett"><b>Jacob Barnett</b></a></p>
         </div>
         <div class="large-3 columns">
         <img src="{{ site.urlimg }}ebeaury-01.jpg" alt="Eve Beaury">  
