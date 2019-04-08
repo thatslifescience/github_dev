@@ -24,11 +24,11 @@ For most of us, our jobs involve us working (and therefore being awake) in the d
 
 Most animals that we are familiar with are awake in the daytime (i.e. "diurnal"), but many animals are crepuscular (i.e. active at dawn/dusk), or like my study species, active at night (i.e. "nocturnal"). Studying nocturnal animals can bring unique challenges, but is also incredibly rewarding and interesting because we researchers get to experience the world in a whole new way. 
 
-Us diurnal creatures naturally want to be asleep at night and active during the daytime, so you can imagine that all night work can wear down someone's mental and physical health. To make it even worse, sometimes I still need to get some work done in the daytime, such as fueling up our field cars and entering in data, before our night work (Fig. 1).
+Us diurnal creatures naturally want to be asleep at night and active during the daytime, so you can imagine that working all night can wear down someone's mental and physical health. To make it even worse, sometimes I still need to get some work done in the daytime, such as fueling up our field cars and entering in data, before our night work can begin (Fig. 1).
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/46821903034/in/dateposted-friend/" title="lhancock_gas_nozzle"><img src="https://live.staticflickr.com/7878/46821903034_860db79f0c.jpg" width="375" height="500" alt="lhancock_gas_nozzle"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-**Figure 1.** Fueling up one of our field vehicles. We spend a lot of time driving around, so this is my view a lot of the time! (P.S. Those lines aren't scratches on the car, just lots dust!) Image credit: Laura Hancock. 
+**Figure 1.** Fueling up one of our field vehicles. We spend a lot of time driving around, so this is my view a lot of the time! (P.S. Those lines aren't scratches on the car, just lots of dust.) Image credit: Laura Hancock. 
 
 But despite all the physical and mental toll this hard work often takes, I feel so lucky to get to work with such amazing animals (can *you* fly??) and see the world from a whole new (sometimes dark) perspective (Fig. 2). If you want to learn more about bats and the specific methods I use to study them, make sure to come back and read my next posts which will focus on all the cool bat facts and study methods you (probably) never knew about! 
 
