@@ -13,7 +13,7 @@ gallery:
   caption: Jacob Barnett
 ---
 
-![Jacob Barnett]({{ site.urlimg }}/jbarnett-01.jpg)<br>
+![Jacob Barnett]({{ site.urlimg }}/images/jbarnett-01.jpg)<br>
 [Twitter](https://twitter.com/barnett7science)
 [Instagram](https://instagram.com/barnett7science)
 
