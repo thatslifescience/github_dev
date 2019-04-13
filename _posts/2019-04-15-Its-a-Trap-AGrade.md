@@ -14,7 +14,7 @@ categories:
 header:
  image_fullwidth: howitworks-header.jpg
 image:
- thumb: 2019-04-15-AGrade_Thumb
+ thumb: 2019-04-15-AGrade_Thumb.jpg
 teaser: Ecological traps are an important concept in conservation biology. Let’s talk about what it means for wildlife.
 source-id: 1gvsmkKHtZMyrknM0rCcfAQ37m2unPVa84R7sc-C3Itk
 published: true
