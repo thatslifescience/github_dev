@@ -9,7 +9,7 @@ tags:
 - habitat
 - wildlife
 - ecological trap
- categories:
+categories:
 - How It Works
 header:
  image_fullwidth: howitworks-header.jpg
