@@ -44,7 +44,7 @@ An **ecological trap** is a habitat or component of a habitat that appears to be
 
 An ecological trap is particularly insidious because of the mismatch of expectation and reality. A habitat that looks appealing often attracts more individuals than a much better habitat that doesn't look as appealing. The trap may attract the best mating pairs, or the most fit individuals. If their breeding efforts fail or they die due to the poor habitat, this can make a serious dent in an already declining population.
 
-	For example, the Asian honeysuckle in Fig. 1 looks like an excellent food source to birds. Looks can be deceiving…this plant is invasive, has displaced many native plants, and grows all over forests in the northeastern U.S. Northern Cardinals that rely on this plant for food often nest in it as well – and experience drastic reductions in nest success when they do so! It turns out that predators cue in on the honeysuckle find the nests more easily [2].
+For example, the Asian honeysuckle in Fig. 1 looks like an excellent food source to birds. Looks can be deceiving…this plant is invasive, has displaced many native plants, and grows all over forests in the northeastern U.S. Northern Cardinals that rely on this plant for food often nest in it as well – and experience drastic reductions in nest success when they do so! It turns out that predators cue in on the honeysuckle find the nests more easily [2].
 
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/32656309637/in/dateposted-friend/" title="Newborn_Northern_Cardinal_in_its_nest"><img src="https://live.staticflickr.com/7879/32656309637_4520f70eed_b.jpg" width="800" height="600" alt="Newborn_Northern_Cardinal_in_its_nest"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
@@ -55,7 +55,7 @@ An ecological trap is particularly insidious because of the mismatch of expectat
 Another example of an ecological trap is wet pavement. It may look like a nice pond to a dragonfly, but it's not a great place to lay eggs [3].
 
 
-<cneter><a data-flickr-embed="true"  href="https://www.flickr.com/photos/joewcampbell/4432537610" title="The wet pavement"><img src="https://live.staticflickr.com/4072/4432537610_4bd8763ede_b.jpg" width="1024" height="618" alt="The wet pavement"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
+<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/joewcampbell/4432537610" title="The wet pavement"><img src="https://live.staticflickr.com/4072/4432537610_4bd8763ede_b.jpg" width="1024" height="618" alt="The wet pavement"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
 **Fig. 5** - Not the safest place to lay eggs. Photo by Joe Campbell. 
 
