@@ -14,6 +14,7 @@ header: no
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/albums/72157707615687854" title="Girl Scouts Animal Habitat Badge Event 2018"><img src="https://farm8.staticflickr.com/7915/33220518458_1a614977d5_o.jpg" width="640" height="480" alt="Girl Scouts Animal Habitat Badge Event 2018"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 <br>
+<br>
 <center><h2>Pipettes & Paintbrushes</h2></center>  
 <center><h4>a collaboration between artists & scientists</h4></center>  
 <center>organized by Kit Straley and Valenka Kosick</center><br>
