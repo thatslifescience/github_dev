@@ -1,5 +1,5 @@
 ---
-title: Events
+title: Outreach
 permalink: "/outreach/"
 layout: page-fullwidth
 meta_title: Outreach | That's Life [Science]
