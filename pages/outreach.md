@@ -9,12 +9,11 @@ header: no
 ---
 
 <center><h2>Girl Scout Animal Habitats Badge Event</h2></center>  
-<center><h4>September 2018</h4></center>  
-
-This past September, TLS members had the opportunity to teach local girl scout troops about wildlife habitats and conservation. The girls rotated through three different activity stations, which you can check out in the photo gallery below!
+<center><h4>September 2018</h4></center>
+<center>This past September, TLS members had the opportunity to teach local girl scout troops about wildlife habitats and conservation. The girls rotated through three different activity stations, which you can check out in the photo gallery below!</center><br>
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/albums/72157707615687854" title="Girl Scouts Animal Habitat Badge Event 2018"><img src="https://farm8.staticflickr.com/7915/33220518458_1a614977d5_o.jpg" width="640" height="480" alt="Girl Scouts Animal Habitat Badge Event 2018"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
-
+<br>
 <center><h2>Pipettes & Paintbrushes</h2></center>  
 <center><h4>a collaboration between artists & scientists</h4></center>  
 <center>organized by Kit Straley and Valenka Kosick</center><br>
