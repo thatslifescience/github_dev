@@ -35,8 +35,8 @@
 #
 #   Navigation to the right › side: right
 #
-- title: "Outreach"
-  url: "/outreach/"
+- title: "Events"
+  url: "/Events/"
   side: right
 
 - title: "Contact"
