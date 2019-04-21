@@ -15,7 +15,7 @@ header:
  image_fullwidth: howitworks-header.jpg
 image:
  thumb: 04222019-Fig2-Strauss.jpg
-teaser: Federally-funded science has been ridiculed as wasteful spending, citing bizarre methods out of context…but silly methods ≠ silly science!
+teaser: Federally-funded science has been ridiculed as wasteful spending, citing bizarre methods out of context… but silly methods ≠ silly science!
 
 source-id: 1xRkpxVTA_lSzPmHLPchhiQBbQRlCLK1DpRq1vqL8qYE
 published: true
