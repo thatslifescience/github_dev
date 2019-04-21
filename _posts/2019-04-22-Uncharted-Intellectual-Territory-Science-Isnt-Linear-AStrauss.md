@@ -74,3 +74,6 @@ As mechanical engineer and science communicator Dr. David Hu put it, "*I hope my
 
 10. Shivni, R. "How these 3 experiments went from goose egg to science gold." *PBS News Hour*, 27 Sep. 2017. [https://www.pbs.org/newshour/science/3-experiments-went-goose-egg-science-gold](https://www.pbs.org/newshour/science/3-experiments-went-goose-egg-science-gold)
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="How It Works" %}
