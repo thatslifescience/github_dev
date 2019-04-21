@@ -15,7 +15,7 @@ header:
  image_fullwidth: howitworks-header.jpg
 image:
  thumb: 04222019-Fig2-Strauss.jpg
-teaser: “Federally-funded science has been ridiculed as wasteful spending, citing bizarre methods out of context…but silly methods ≠ silly science!”
+teaser: Federally-funded science has been ridiculed as wasteful spending, citing bizarre methods out of context…but silly methods ≠ silly science!
 
 source-id: 1xRkpxVTA_lSzPmHLPchhiQBbQRlCLK1DpRq1vqL8qYE
 published: true
@@ -50,7 +50,7 @@ In the early 2000s, Congressional Representative Jim Cooper (Fig. 4) was worried
 
 Many unanticipated advances would be missed opportunities if we weren't out there looking at the world around us. Of course, sometimes when looking, we *don’t* hit the scientific jackpot and we *don’t* uncover new insights. But those projects can help guide next steps, rule out possibilities, and generate ideas for new, creative research trajectories. And a critical component of this entire scientific endeavor is that we empower the general public with education around the process of science, to help US taxpayers understand the societal value of scientific exploration for the sake of scientific exploration.
 
-As mechanical engineer and science communicator Dr. David Hu put it, "*I hope my children can live in a world where scientists and the public are not at odds, but have a mutual understanding of the beauty and strangeness of nature, and how the pursuit of its oddities can lead to the benefit of all.**"* [6].
+As mechanical engineer and science communicator Dr. David Hu put it, "I hope my children can live in a world where scientists and the public are not at odds, but have a mutual understanding of the beauty and strangeness of nature, and how the pursuit of its oddities can lead to the benefit of all." [6].
 
 **References**
 
@@ -74,6 +74,3 @@ As mechanical engineer and science communicator Dr. David Hu put it, "*I hope my
 
 10. Shivni, R. "How these 3 experiments went from goose egg to science gold." *PBS News Hour*, 27 Sep. 2017. [https://www.pbs.org/newshour/science/3-experiments-went-goose-egg-science-gold](https://www.pbs.org/newshour/science/3-experiments-went-goose-egg-science-gold)
 
-## More From Thats Life [Science]
-{: .t60 }
-{% include list-posts offset="1" entries='5' category="How It Works" %}
