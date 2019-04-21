@@ -20,18 +20,6 @@ teaser: “Federally-funded science has been ridiculed as wasteful spending, cit
 source-id: 1xRkpxVTA_lSzPmHLPchhiQBbQRlCLK1DpRq1vqL8qYE
 published: true
 ---
-**Title: **Uncharted Intellectual Territory: Science Isn't Linear
-
-**Author:** AStrauss
-
-**Category:** How it Works
-
-**Keywords: **Science and Society, Health, Basic Science, Golden Fleece Award, Golden Goose Award
-
-**Teaser: **Federally-funded science has been ridiculed as wasteful spending, citing bizarre methods out of context…but silly methods ≠ silly science!
-
-**Thumbnail image:** Figure 2
-
 Science, by definition, is rooted in the idea of venturing beyond the limits of our knowledge into uncharted intellectual territory – asking questions without knowing the answers and making new discoveries through impartial observation and experimentation. Inherent in the nature of science is the *unknown* – it's impossible for scientists to anticipate what new information will be uncovered through their work, or what future applications those discoveries might bring to human society. If scientists always anticipated the outcomes of their research and knew what they were going to find and how it might be used, the scientific process itself would be impaired.
 
 Science has provided, and will continue to provide, the intellectual foundation for impactful technological, medical, industrial, environmental, and agricultural advances that fuel our nation's progress and success. However, the path from initial scientific curiosity to impactful application in society is almost never a straight line. Such success often grows out of various 'failed’ experiments, and almost always requires the synthesis of different independent research programs that may or may not have been working towards goals relevant to that particular outcome. If we trace back some of the modern tools and technologies that we rely on today (such as antibiotics, GPS, and Velcro), we can identify the numerous scientific discoveries that underlie these tools [8] – but predicting that connection in the opposite direction is often impossible. 
