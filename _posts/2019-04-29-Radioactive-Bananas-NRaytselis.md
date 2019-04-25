@@ -13,7 +13,7 @@ header:
  image_fullwidth: howitworks-header.jpg
 image:
  thumb: 2019-04-29-thumbnail-nraytselis.jpg
-teaser: Here's a closer look into Radiation: the facts, the myths, and the bananas… 
+teaser: "Here's a closer look into Radiation: the facts, the myths, and the bananas…"
 source-id: 1hEI6AhWszZletAhKzaq33MRkQTjH65_ZTZwG0S1MDS8
 published: true
 ---
