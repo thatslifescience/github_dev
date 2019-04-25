@@ -48,11 +48,11 @@ Radiation comes in non-ionizing and ionizing forms. Non-ionizing radiation inclu
 
 Radiation is in all organic matter, in the forms of radioactive potassium, radium, as well as other elements. Even water contains radiation, although in very insignificant amounts [4]:
 
-1. **Myth: All radioactive foods will kill you.**
+1.**Myth: All radioactive foods will kill you.**
 
 Clocking in at number one for the most radioactive food is the banana! Remember how your high school soccer coach used to tell you to eat bananas before practice to avoid cramping? [8] Well, that's because these fruits are rich in potassium. Although potassium has beneficial qualities for the body, it also decays over time, which makes it quite radioactive! But don't worry, you'd have to eat 10,000,000 bananas in one sitting to die from radiation poisoning. [9]
 
-2. **Myth: Radioactive goo will give you powers.**
+2.**Myth: Radioactive goo will give you powers.**
 
 Unfortunately, radioactive goo is not quite as cool as one might think after watching the ninja fighting skills of TMNT. No, contrary to the movie's depiction, you will not turn into a Teenage Mutant Ninja Turtle from coming into contact with this chemical substance. [10] 
 
@@ -62,7 +62,7 @@ Although franchises like TMNT are fun representations of the effects of high con
 
 **Fig 3**. TMNT! Photo by Olivia B. Waxman in "[Teenage Mutant Ninja Turtles: Origins and Real Ninja History](http://time.com/4351785/teenage-mutant-ninja-turtles-origins-history-out-shadows/)." Time. June 03, 2016.
 
-3. **Truth: Radiation is in the sun, soil, and air we breathe.** [12]
+3.**Truth: Radiation is in the sun, soil, and air we breathe.** [12]
 
 According to the International Atomic Energy Agency, radiation is and always has been a part of the earth. The sun emits infrared (IR) rays which are not ionizing, and produce heat. Although the reason people wear sunscreen is to protect themselves from Ultraviolet (UV) rays [7], some studies suggest that there may even be some benefits to a IR rays for the skin, which may play a role in helping your dermis prepare for incoming UV rays. [13] 
 
