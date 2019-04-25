@@ -44,11 +44,11 @@ Radiation comes in non-ionizing and ionizing forms. Non-ionizing radiation inclu
 
 **Fig 2**. The values for non-ionizing and ionizing radiation are shown as frequencies in Hz. Photo source [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:OSHA_radiation_spectrum.jpg), posted by United States Dept. of Labor - OSHA Safety and Health Topics.
 
-**Radiation Uncovered **
+**Radiation Uncovered**
 
 Radiation is in all organic matter, in the forms of radioactive potassium, radium, as well as other elements. Even water contains radiation, although in very insignificant amounts [4]:
 
-1. **Myth: All radioactive foods will kill you. **
+1. **Myth: All radioactive foods will kill you.**
 
 Clocking in at number one for the most radioactive food is the banana! Remember how your high school soccer coach used to tell you to eat bananas before practice to avoid cramping? [8] Well, that's because these fruits are rich in potassium. Although potassium has beneficial qualities for the body, it also decays over time, which makes it quite radioactive! But don't worry, you'd have to eat 10,000,000 bananas in one sitting to die from radiation poisoning. [9]
 
