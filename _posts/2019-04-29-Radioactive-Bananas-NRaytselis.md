@@ -17,17 +17,6 @@ teaser: Here's a closer look into Radiation: the facts, the myths, and the banan
 source-id: 1hEI6AhWszZletAhKzaq33MRkQTjH65_ZTZwG0S1MDS8
 published: true
 ---
-**Title:** *Radioactive Bananas, Teenage Mutant Ninja Turtles, and Greenhouse Gases, OH MY! *
-
-**Author: **Nadia Raytselis
-
-**Category: **How it Works
-
-**Keywords: **radiation, toxicology, cell
-
-**Teaser: **Here's a closer look into Radiation: the facts, the myths, and the bananas… 
-
-**Thumbnail image: **Figure 1
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/46210774555/in/dateposted-friend/" title="5869671221_257d52fce5_o"><img src="https://farm8.staticflickr.com/7899/46210774555_8242f1a351_z.jpg" width="640" height="426" alt="5869671221_257d52fce5_o"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -73,7 +62,7 @@ Although franchises like TMNT are fun representations of the effects of high con
 
 **Fig 3**. TMNT! Photo by Olivia B. Waxman in "[Teenage Mutant Ninja Turtles: Origins and Real Ninja History](http://time.com/4351785/teenage-mutant-ninja-turtles-origins-history-out-shadows/)." Time. June 03, 2016.
 
-3. **Truth: Radiation is in the sun, soil, and air we breathe. **[12]
+3. **Truth: Radiation is in the sun, soil, and air we breathe.** [12]
 
 According to the International Atomic Energy Agency, radiation is and always has been a part of the earth. The sun emits infrared (IR) rays which are not ionizing, and produce heat. Although the reason people wear sunscreen is to protect themselves from Ultraviolet (UV) rays [7], some studies suggest that there may even be some benefits to a IR rays for the skin, which may play a role in helping your dermis prepare for incoming UV rays. [13] 
 
@@ -115,3 +104,6 @@ Radiation is a powerful thing, and it's always better to be overly cautious in r
 
 [17]"Greenhouse Effect." Other Degradable Polymers. Accessed February 17, 2019. [http://www.environment.gov.au/climate-change/climate-science-data/climate-science/greenhouse-effect](http://www.environment.gov.au/climate-change/climate-science-data/climate-science/greenhouse-effect).
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="How It Works" %}
