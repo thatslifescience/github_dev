@@ -45,7 +45,7 @@ Whether it is a tiny bacterium inside an insect or a towering spruce tree, every
 
 While it is indeed a big deal, sequencing an entire genome is still just a first step. Figuring out what all those letters really mean is an even bigger task, and many discoveries have yet to be made inside the genomes of Earth's organisms. 
 
-**Table 1. **Genome sizes of just a few of Earth's organisms. 
+**Table 1.** Genome sizes of just a few of Earth's organisms. 
 
 <table>
   <tr>
@@ -108,15 +108,15 @@ a rare Japanese flower [4]</td>
 
 **References:**
 
-[1] [Heusel, Jonathan and Neil Richards. "Now we can cheaply sequence DNA, how do we store all that data?" Wired, 15 January 2018.](http://www.wired.co.uk/article/precision-medicine)
+[1] [Heusel, Jonathan and Neil Richards. "Now we can cheaply sequence DNA, how do we store all that data?" *Wired*, 15 January 2018.](http://www.wired.co.uk/article/precision-medicine)
 
-[2] [Blattner, Frederick R. et al. "The Complete Genome Sequence of Escherichia coli K-12" Science (1997): 1453-1462.](http://science.sciencemag.org/content/277/5331/1453)
+[2] [Blattner, Frederick R. et al. "The Complete Genome Sequence of Escherichia coli K-12" *Science* (1997): 1453-1462.](http://science.sciencemag.org/content/277/5331/1453)
 
-[3] [Gordon M. Bennett, Nancy A. Moran. "Small, Smaller, Smallest: The Origins and Evolution of Ancient Dual Symbioses in a Phloem-Feeding Insect" ](https://doi.org/10.1093/gbe/evt118)*[Genome Biology and Evolutio*n](https://doi.org/10.1093/gbe/evt118)[, Volume 5, Issue 9, 1 September 2013, Pages 1675–1688.](https://doi.org/10.1093/gbe/evt118)
+[3] [Gordon M. Bennett, Nancy A. Moran. "Small, Smaller, Smallest: The Origins and Evolution of Ancient Dual Symbioses in a Phloem-Feeding Insect" ](https://doi.org/10.1093/gbe/evt118)*[Genome Biology and Evolution*](https://doi.org/10.1093/gbe/evt118)[, Volume 5, Issue 9, 1 September 2013, Pages 1675–1688.](https://doi.org/10.1093/gbe/evt118)
 
-[4] [Pennisi, Elizabeth. "ScienceShot: Biggest Genome Ever" Science, 7 October 2010. ](http://www.sciencemag.org/news/2010/10/scienceshot-biggest-genome-ever)
+[4] [Pennisi, Elizabeth. "ScienceShot: Biggest Genome Ever" *Science*, 7 October 2010. ](http://www.sciencemag.org/news/2010/10/scienceshot-biggest-genome-ever)
 
-[5] [Ezkurdia, Iakes et al. "Multiple evidence strands suggest that there may be as few as 19,000 human protein-coding genes" ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4204768/)*[Human molecular genetic*s](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4204768/)[ vol. 23,22 (2014): 5866-78.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4204768/)
+[5] [Ezkurdia, Iakes et al. "Multiple evidence strands suggest that there may be as few as 19,000 human protein-coding genes" ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4204768/)*[Human molecular genetics*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4204768/)[ vol. 23,22 (2014): 5866-78.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4204768/)
 
 More about genomes and DNA from That's Life [Science]:
 
