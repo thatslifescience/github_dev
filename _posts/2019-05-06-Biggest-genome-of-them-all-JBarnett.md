@@ -17,18 +17,6 @@ teaser: The answer may surprise you...
 source-id: 1T44x-drz-x3lCq5ChZxEkwmEipV4yq5PHQPZYNPF6PE
 published: true
 ---
-**Title: **Who's Got the Biggest Genome of Them All? 
-
-**Author:** Jacob Barnett
-
-**Category:** Earth's Organisms
-
-**Keywords:** DNA, genomics, sequencing
-
-**Teaser:** The answer may surprise you...
-
-**Thumbnail image** = Figure 2  
-
 Genome sequencing is kind of a big deal. Every year more and more creatures get added to the list of fully sequenced genomes, and for as little as $600 [[1](http://www.wired.co.uk/article/precision-medicine)] you can have your entire genome sequenced too! But what exactly is a genome? And how does the human genome stack up against the rest of Earth's organisms?   
 
 Inside the cells of every living thing we know about, you can find a remarkable chemical called DNA. This long, string-like molecule contains the instructions for how to build and control the organism. Believe it or not, only 4 chemical "letters", or nucleotides, (A, T, C, and G) are used to spell out all this information in "words" of three letters each. An organism's genome is simply a list of the exact order of every single letter in this DNA instruction code.
@@ -56,8 +44,6 @@ So in the case of the Japanese flower with the massive genome, much of that DNA 
 Whether it is a tiny bacterium inside an insect or a towering spruce tree, every living thing we know of shares the same 4-letter instruction code. Humans fall in the middle of the pack in terms of genome size, but there is more to a genome than just the overall length. The part that actually gives unique instructions does not always match up with the total size. 
 
 While it is indeed a big deal, sequencing an entire genome is still just a first step. Figuring out what all those letters really mean is an even bigger task, and many discoveries have yet to be made inside the genomes of Earth's organisms. 
-
- 
 
 **Table 1. **Genome sizes of just a few of Earth's organisms. 
 
@@ -135,6 +121,9 @@ a rare Japanese flower [4]</td>
 More about genomes and DNA from That's Life [Science]:
 
 Loder, Anthony. "[DNA: Nature's Hard Drive](http://thatslifesci.com/2017-01-16-DNA-Natures-Hard-Drive-ALoder/)." *That’s Life [Science]*, January 16, 2017.
-
 [http://thatslifesci.com/2017-01-16-DNA-Natures-Hard-Drive-ALoder/](http://thatslifesci.com/2017-01-16-DNA-Natures-Hard-Drive-ALoder/)
+
+## More From Thats Life [Science]
+{: .t60 }	
+{% include list-posts offset="1" entries="5" category="Earth's Organisms" %}
 
