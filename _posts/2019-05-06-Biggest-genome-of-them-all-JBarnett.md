@@ -21,8 +21,7 @@ Genome sequencing is kind of a big deal. Every year more and more creatures get 
 
 Inside the cells of every living thing we know about, you can find a remarkable chemical called DNA. This long, string-like molecule contains the instructions for how to build and control the organism. Believe it or not, only 4 chemical "letters", or nucleotides, (A, T, C, and G) are used to spell out all this information in "words" of three letters each. An organism's genome is simply a list of the exact order of every single letter in this DNA instruction code.
 
-<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/39655834773/in/dateposted-friend/" title="272px-DNA_simple2.svg"><img src="https://farm5.staticflickr.com/4915/39655834773_d2a204368f.jpg" width="272" height="287" alt="272px-DNA_simple2.svg"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
-
+<center><p><a href="https://commons.wikimedia.org/wiki/File:DNA_simple2.svg#/media/File:DNA_simple2.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/DNA_simple2.svg/1200px-DNA_simple2.svg.png" alt="DNA simple2.svg"></a></p></center><br>
 **Figure 1.** The "letters" of DNA. Photo source: [Wikimedia commons](https://commons.wikimedia.org/wiki/File:DNA_simple2.svg) by Forluvoft.
 
 With only 4 different letters, this information this seems simple enough - until you realize that the human genome is about 3 billion letters long! That's a lot of possible ways to arrange those 4 nucleotides. With the exception of identical twins, every human being has a slightly different order of letters in their genome. And just one single cell - a skin cell, let’s say - contains one copy of that entire genome. 
@@ -31,7 +30,7 @@ With only 4 different letters, this information this seems simple enough - until
 
 First, though, let's zoom down to some of the smallest organisms we know - bacteria. A common and well studied bacterium, *E. coli*, has a genome of around 4,600,000 nucleotides [[2](http://science.sciencemag.org/content/277/5331/1453)] - only about 1/1,000th the length of the human genome. The smallest bacterium yet sequenced comes in at only 112,000 letters, and was discovered living inside of a tiny insect [[3](https://academic.oup.com/gbe/article/5/9/1675/555845)]. 
 
-It makes sense that simple, microscopic life forms would have small genomes, but do genomes continue to get larger as creatures get bigger and more complex? Not necessarily - in fact the organism with the largest genome is probably not what you would expect. The record is currently held by a rare Japanese flower name *Paris japonica*, coming in at 149 billion nucleotides [[4](http://www.sciencemag.org/news/2010/10/scienceshot-biggest-genome-ever)] - 50 times the size of the human genome!  
+It makes sense that simple, microscopic life forms would have small genomes, but do genomes continue to get larger as creatures get bigger and more complex? Not necessarily - in fact the organism with the largest genome is probably not what you would expect. The record is currently held by a rare Japanese flower named *Paris japonica*, coming in at 149 billion nucleotides [[4](http://www.sciencemag.org/news/2010/10/scienceshot-biggest-genome-ever)] - 50 times the size of the human genome!  
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/32746574288/in/dateposted-friend/" title="Paris_japonica_(Mount_Mominuka_s2)"><img src="https://farm5.staticflickr.com/4909/32746574288_c591fb045d.jpg" width="500" height="333" alt="Paris_japonica_(Mount_Mominuka_s2)"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
@@ -90,7 +89,7 @@ Humans</td>
   <tr>
     <td>Plant</td>
     <td>Norway Spruce</td>
-    <td>19,000,ooo,000
+    <td>19,000,000,000
 (19 billion)</td>
     <td>28,000</td>
   </tr>
