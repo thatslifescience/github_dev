@@ -7,6 +7,65 @@ subheadline: ''
 teaser: That's Life [Science]'s aim is to do life science outreach online and in our local community. Check out our latest outreach events below!
 header: no
 ---
+<center><h2>Pipettes & Paintbrushes 2019</h2></center>  
+<center><h4>a collaboration between artists & scientists</h4></center>  
+<center>organized by Emma Dauster</center><br>
+
+<div class="row row-centered">
+        <div class="large-3 columns">
+        <img src="{{ site.urlimg }}PP1901-01.jpg" alt="Untitled">
+        <p><a href = "{{ site.url }}/outreach/denHartog"><b>Untitled</b></a></p></div>
+        <div class="large-3 columns">
+        <img src="{{ site.urlimg }}PP1902-01.jpg" alt="Transmembrane Signaling by Chiyogami Receptors">
+        <p><a href = "{{ site.url }}/outreach/radik"><b>Transmembrane Signaling by Chiyogami Receptors</b></a></p></div>
+        <div class="large-3 columns">
+        <img src="{{ site.urlimg }}PP1903-01.jpg" alt="Neural Evolution Model(ing)">
+        <p><a href = "{{ site.url }}/outreach/radik2"><b>Neural Evolution Model(ing)</b></a></p></div>
+        <div class="large-3 columns">
+        <img src="{{ site.urlimg }}PP1904-01.jpg" alt="Romantic Foldagnosia">
+        <p><a href = "{{ site.url }}/outreach/radik3"><b>Romantic Foldagnosia</b></a></p></div>
+</div>
+<div class="row row-centered">
+        <div class="large-3 columns">
+        <img src="{{ site.urlimg }}PP1905-01.jpg" alt="Untitled">
+        <p><a href = "{{ site.url }}/outreach/long"><b>Untitled</b></a></p>
+        </div>
+        <div class="large-3 columns">
+        <img src="{{ site.urlimg }}PP1906-01.jpg" alt="Untitled">  
+        <p><a href = "{{ site.url }}/outreach/gallagher2"><b>Untitled</b></a></p>
+        </div>
+        <div class="large-3 columns">
+        <img src="{{ site.urlimg }}PP1907-01.jpg" alt="Untitled">
+        <p><a href = "{{ site.url }}/outreach/gallagher2"><b>Untitled</b></a></p>
+        </div>
+        <div class="large-3 columns">
+        <img src="{{ site.urlimg }}PP1908-01.jpg" alt="Untitled">
+        <p><a href = "{{ site.url }}/outreach/StatenKassirer"><b>Untitled</b></a></p>
+        </div>
+</div>
+<div class="row row-centered">
+        <div class="large-3 columns">
+        <img src="{{ site.urlimg }}PP1909-01.jpg" alt="Untitled">
+        <p><a href = "{{ site.url }}/outreach/cousins2"><b>Untitled</b></a></p>
+        </div>
+        <div class="large-3 columns">
+        <img src="{{ site.urlimg }}PP1910-01.jpg" alt="Untitled">
+        <p><a href = "{{ site.url }}/outreach/cousins3"><b>Untitled</b></a></p></div>
+        <div class="large-3 columns">
+        <img src="{{ site.urlimg }}PP1911-01.jpg" alt="Untitled">
+        <p><a href = "{{ site.url }}/outreach/masse"><b>Untitled</b></a></p>
+        </div>
+        <div class="large-3 columns">
+        <img src="{{ site.urlimg }}PP1912-01.jpg" alt="Untitled">
+        <p><a href = "{{ site.url }}/outreach/ChaiseGilbert"><b>Untitled</b></a></p>
+        </div>
+</div>
+<div class="row row-centered">
+        <div class="large-3 columns end">
+        <img src="{{ site.urlimg }}PP1913-01.jpg" alt="Untitled">
+        <p><a href = "{{ site.url }}/outreach/ChaiseGilbert2"><b>Untitled</b></a></p>
+        </div>
+</div>
 
 <center><h2>Girl Scout Animal Habitats Badge Event</h2></center>  
 <center><h4>September 2018</h4></center>
@@ -15,7 +74,7 @@ header: no
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/albums/72157707615687854" title="Girl Scouts Animal Habitat Badge Event 2018"><img src="https://farm8.staticflickr.com/7915/33220518458_1a614977d5_o.jpg" width="640" height="480" alt="Girl Scouts Animal Habitat Badge Event 2018"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 <br>
 <br>
-<center><h2>Pipettes & Paintbrushes</h2></center>  
+<center><h2>Pipettes & Paintbrushes 2018</h2></center>  
 <center><h4>a collaboration between artists & scientists</h4></center>  
 <center>organized by Kit Straley and Valenka Kosick</center><br>
 
