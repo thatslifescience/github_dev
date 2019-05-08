@@ -67,13 +67,7 @@ header: no
         </div>
 </div>
 
-<center><a data-flickr-embed="true"  
-href="https://www.flickr.com/photos/139839751@N06/albums/72157708323276805" 
-title="Pipettes and Paintbrushes 2019"><img 
-src="https://live.staticflickr.com/65535/47800774161_b5ca03b94a_h.jpg" 
-width="1280" height="1600" alt="Pipettes and Paintbrushes 
-2019"></a><script async src="//embedr.flickr.com/assets/client-code.js" 
-charset="utf-8"></script></center>
+<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/albums/72157708323276805" title="Pipettes and Paintbrushes 2019"><img src="https://live.staticflickr.com/65535/47800774161_b1c6ac96d6.jpg" width="640" height="800" alt="Pipettes and Paintbrushes 2019"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></script></center>
 
 
 <center><h2>Girl Scout Animal Habitats Badge Event</h2></center>  
