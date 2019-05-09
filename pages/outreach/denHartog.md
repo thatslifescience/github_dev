@@ -14,7 +14,7 @@ gallery:
 Artist: **Carol R den Hartog**, Post-Doctorate Researcher in Neuroscience<br>
 Hyperrealist colored pencil
 
-Partner: Tristram Seidler, Curator at UMass Herbarium
+Partner: **Tristram Seidler**, Curator at UMass Herbarium
 
 Our specimens are dead, pressed plant samples carefully mounted on acid-free archival paper, with information on when, where and by whom they were collected. They are a permanent record of what plant occupied what place at a given time in history. We have specimens dating back to 1800, and one of the first missions of U Mass when it was founded (under the name Massachusetts Agricultural College) was to care for, in perpetuity, a large collections of botanical and other natural history collections from the first half of the nineteenth Century. We have expanded continuously ever since and now have more than 260,000 specimens not including various special collections.
 
