@@ -2,7 +2,7 @@
 title: Title: Neural Evolution Model(ing)
 permalink: "/events/radik2/"
 layout: page
-meta_title: Transmembrane Signaling by Chiyogami Receptors | Pipettes & Paintbrushes
+meta_title: Neural Evolution Model(ing) | Pipettes & Paintbrushes
 subheadline: Pipettes & Paintbrushes | Spring 2019
 header:
   image_fullwidth: you-can-delete-me-header.png
