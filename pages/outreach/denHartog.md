@@ -1,15 +1,15 @@
 ---
 title: Untitled
-permalink: "/outreach/denHartog/"
+permalink: "/events/denHartog/"
 layout: page
 meta_title: Untitled | Pipettes & Paintbrushes
 subheadline: Pipettes & Paintbrushes | Spring 2019
 header:
   image_fullwidth: you-can-delete-me-header.png
 gallery:
-- image_url: PP1901-01.jpg
+- image_url: PP1901-01.JPG
 ---
-![Untitled]({{ site.url }}/images/PP1901-01.jpg)
+![Untitled]({{ site.url }}/images/PP1901-01.JPG)
 
 Artist: **Carol R den Hartog**, Post-Doctorate Researcher in Neuroscience<br>
 Hyperrealist colored pencil
