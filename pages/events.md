@@ -36,7 +36,7 @@ header: no
         </div>
         <div class="large-3 columns">
         <img src="{{ site.urlimg }}PP1907-01.JPG" alt="Untitled">
-        <p><a href = "{{ site.url }}/events/gallagher2"><b>Untitled</b></a></p>
+        <p><a href = "{{ site.url }}/events/gallagher3"><b>Untitled</b></a></p>
         </div>
         <div class="large-3 columns">
         <img src="{{ site.urlimg }}PP1908-01.JPG" alt="Untitled">
