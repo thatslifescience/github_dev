@@ -13,57 +13,57 @@ header: no
 
 <div class="row row-centered">
         <div class="large-3 columns">
-        <img src="{{ site.urlimg }}PP1901-01.jpg" alt="Untitled">
-        <p><a href = "{{ site.url }}/outreach/denHartog"><b>Untitled</b></a></p></div>
+        <img src="{{ site.urlimg }}PP1901-01.JPG" alt="Untitled">
+        <p><a href = "{{ site.url }}/events/denHartog"><b>Untitled</b></a></p></div>
         <div class="large-3 columns">
-        <img src="{{ site.urlimg }}PP1902-01.jpg" alt="Transmembrane Signaling by Chiyogami Receptors">
-        <p><a href = "{{ site.url }}/outreach/radik"><b>Transmembrane Signaling by Chiyogami Receptors</b></a></p></div>
+        <img src="{{ site.urlimg }}PP1902-01.JPG" alt="Transmembrane Signaling by Chiyogami Receptors">
+        <p><a href = "{{ site.url }}/events/radik"><b>Transmembrane Signaling by Chiyogami Receptors</b></a></p></div>
         <div class="large-3 columns">
-        <img src="{{ site.urlimg }}PP1903-01.jpg" alt="Neural Evolution Model(ing)">
-        <p><a href = "{{ site.url }}/outreach/radik2"><b>Neural Evolution Model(ing)</b></a></p></div>
+        <img src="{{ site.urlimg }}PP1903-01.JPG" alt="Neural Evolution Model(ing)">
+        <p><a href = "{{ site.url }}/events/radik2"><b>Neural Evolution Model(ing)</b></a></p></div>
         <div class="large-3 columns">
-        <img src="{{ site.urlimg }}PP1904-01.jpg" alt="Romantic Foldagnosia">
-        <p><a href = "{{ site.url }}/outreach/radik3"><b>Romantic Foldagnosia</b></a></p></div>
+        <img src="{{ site.urlimg }}PP1904-01.JPG" alt="Romantic Foldagnosia">
+        <p><a href = "{{ site.url }}/events/radik3"><b>Romantic Foldagnosia</b></a></p></div>
 </div>
 <div class="row row-centered">
         <div class="large-3 columns">
-        <img src="{{ site.urlimg }}PP1905-01.jpg" alt="Untitled">
-        <p><a href = "{{ site.url }}/outreach/long"><b>Untitled</b></a></p>
+        <img src="{{ site.urlimg }}PP1905-01.JPG" alt="Untitled">
+        <p><a href = "{{ site.url }}/events/long"><b>Untitled</b></a></p>
         </div>
         <div class="large-3 columns">
-        <img src="{{ site.urlimg }}PP1906-01.jpg" alt="Untitled">  
-        <p><a href = "{{ site.url }}/outreach/gallagher2"><b>Untitled</b></a></p>
+        <img src="{{ site.urlimg }}PP1906-01.JPG" alt="Untitled">  
+        <p><a href = "{{ site.url }}/events/gallagher2"><b>Untitled</b></a></p>
         </div>
         <div class="large-3 columns">
-        <img src="{{ site.urlimg }}PP1907-01.jpg" alt="Untitled">
-        <p><a href = "{{ site.url }}/outreach/gallagher2"><b>Untitled</b></a></p>
+        <img src="{{ site.urlimg }}PP1907-01.JPG" alt="Untitled">
+        <p><a href = "{{ site.url }}/events/gallagher2"><b>Untitled</b></a></p>
         </div>
         <div class="large-3 columns">
-        <img src="{{ site.urlimg }}PP1908-01.jpg" alt="Untitled">
-        <p><a href = "{{ site.url }}/outreach/StatenKassirer"><b>Untitled</b></a></p>
+        <img src="{{ site.urlimg }}PP1908-01.JPG" alt="Untitled">
+        <p><a href = "{{ site.url }}/events/StatenKassirer"><b>Untitled</b></a></p>
         </div>
 </div>
 <div class="row row-centered">
         <div class="large-3 columns">
-        <img src="{{ site.urlimg }}PP1909-01.jpg" alt="Untitled">
-        <p><a href = "{{ site.url }}/outreach/cousins2"><b>Untitled</b></a></p>
+        <img src="{{ site.urlimg }}PP1909-01.JPG" alt="Untitled">
+        <p><a href = "{{ site.url }}/events/cousins2"><b>Untitled</b></a></p>
         </div>
         <div class="large-3 columns">
-        <img src="{{ site.urlimg }}PP1910-01.jpg" alt="Untitled">
-        <p><a href = "{{ site.url }}/outreach/cousins3"><b>Untitled</b></a></p></div>
+        <img src="{{ site.urlimg }}PP1910-01.JPG" alt="Untitled">
+        <p><a href = "{{ site.url }}/events/cousins3"><b>Untitled</b></a></p></div>
         <div class="large-3 columns">
-        <img src="{{ site.urlimg }}PP1911-01.jpg" alt="Untitled">
-        <p><a href = "{{ site.url }}/outreach/masse"><b>Untitled</b></a></p>
+        <img src="{{ site.urlimg }}PP1911-01.JPG" alt="Untitled">
+        <p><a href = "{{ site.url }}/events/masse"><b>Untitled</b></a></p>
         </div>
         <div class="large-3 columns">
-        <img src="{{ site.urlimg }}PP1912-01.jpg" alt="Untitled">
-        <p><a href = "{{ site.url }}/outreach/ChaiseGilbert"><b>Untitled</b></a></p>
+        <img src="{{ site.urlimg }}PP1912-01.JPG" alt="Untitled">
+        <p><a href = "{{ site.url }}/events/ChaiseGilbert"><b>Untitled</b></a></p>
         </div>
 </div>
 <div class="row row-centered">
         <div class="large-3 columns end">
-        <img src="{{ site.urlimg }}PP1913-01.jpg" alt="Untitled">
-        <p><a href = "{{ site.url }}/outreach/ChaiseGilbert2"><b>Untitled</b></a></p>
+        <img src="{{ site.urlimg }}PP1913-01.JPG" alt="Untitled">
+        <p><a href = "{{ site.url }}/events/ChaiseGilbert2"><b>Untitled</b></a></p>
         </div>
 </div>
 
@@ -84,56 +84,56 @@ header: no
 <div class="row row-centered">
         <div class="large-3 columns">
         <img src="{{ site.urlimg }}hambrecht-01.jpg" alt="Untitled">
-        <p><a href = "{{ site.url }}/outreach/hambrecht"><b>Untitled</b></a></p></div>
+        <p><a href = "{{ site.url }}/events/hambrecht"><b>Untitled</b></a></p></div>
         <div class="large-3 columns">
         <img src="{{ site.urlimg }}fahey-01.jpg" alt="Alces alces, Bonescapes">
-        <p><a href = "{{ site.url }}/outreach/fahey"><b>Alces alces, Bonescapes</b></a></p></div>
+        <p><a href = "{{ site.url }}/events/fahey"><b>Alces alces, Bonescapes</b></a></p></div>
         <div class="large-3 columns">
         <img src="{{ site.urlimg }}cousins-01.jpg" alt="Gradients">
-        <p><a href = "{{ site.url }}/outreach/cousins"><b>Gradients</b></a></p></div>
+        <p><a href = "{{ site.url }}/events/cousins"><b>Gradients</b></a></p></div>
         <div class="large-3 columns">
         <img src="{{ site.urlimg }}capaldo-01.jpg" alt="Invaders for Sale">
-        <p><a href = "{{ site.url }}/outreach/capaldo"><b>Invaders for Sale</b></a></p></div>
+        <p><a href = "{{ site.url }}/events/capaldo"><b>Invaders for Sale</b></a></p></div>
 </div>
 <div class="row row-centered">
         <div class="large-3 columns">
         <img src="{{ site.urlimg }}gallagher-01.jpg" alt="Spread">
-        <p><a href = "{{ site.url }}/outreach/gallagher"><b>Spread</b></a></p>
+        <p><a href = "{{ site.url }}/events/gallagher"><b>Spread</b></a></p>
         </div>
         <div class="large-3 columns">
         <img src="{{ site.urlimg }}ashesimmer-01.jpg" alt="Sunflower Medicine">  
-        <p><a href = "{{ site.url }}/outreach/ashesimmer"><b>Sunflower Medicine</b></a></p>
+        <p><a href = "{{ site.url }}/events/ashesimmer"><b>Sunflower Medicine</b></a></p>
         </div>
         <div class="large-3 columns">
         <img src="{{ site.urlimg }}bell-01.jpg" alt="The Sentinel">
-        <p><a href = "{{ site.url }}/outreach/bell"><b>The Sentinel</b></a></p>
+        <p><a href = "{{ site.url }}/events/bell"><b>The Sentinel</b></a></p>
         </div>
         <div class="large-3 columns">
         <img src="{{ site.urlimg }}narcisse-01.jpg" alt="The closer you get, the farther you are.">
-        <p><a href = "{{ site.url }}/outreach/narcisse"><b>The closer you get, the farther you are.</b></a></p>
+        <p><a href = "{{ site.url }}/events/narcisse"><b>The closer you get, the farther you are.</b></a></p>
         </div>
 </div>
 <div class="row row-centered">
         <div class="large-3 columns">
         <img src="{{ site.urlimg }}bishop-01.jpg" alt="Oxidized Rhizospheres">
-        <p><a href = "{{ site.url }}/outreach/bishop"><b>Oxidized Rhizospheres</b></a></p>
+        <p><a href = "{{ site.url }}/events/bishop"><b>Oxidized Rhizospheres</b></a></p>
         </div>
         <div class="large-3 columns">
         <img src="{{ site.urlimg }}francis-01-01.jpg" alt="How do you represent growth? (unfinished)">
-        <p><a href = "{{ site.url }}/outreach/francis"><b>How do you represent growth? (unfinished)</b></a></p></div>
+        <p><a href = "{{ site.url }}/events/francis"><b>How do you represent growth? (unfinished)</b></a></p></div>
         <div class="large-3 columns">
         <img src="{{ site.urlimg }}khanna-01.jpg" alt="Google - Scientist">
-        <p><a href = "{{ site.url }}/outreach/khanna"><b>Google - Scientist</b></a></p>
+        <p><a href = "{{ site.url }}/events/khanna"><b>Google - Scientist</b></a></p>
         </div>
         <div class="large-3 columns">
         <img src="{{ site.urlimg }}chen-01.jpg" alt="Painting - Data Flurry, Poem - Whiteout">
-        <p><a href = "{{ site.url }}/outreach/chen"><b>Painting - Data Flurry, Poem - Whiteout</b></a></p>
+        <p><a href = "{{ site.url }}/events/chen"><b>Painting - Data Flurry, Poem - Whiteout</b></a></p>
         </div>
 </div>
 <div class="row row-centered">
         <div class="large-3 columns end">
         <img src="{{ site.urlimg }}bonnanzio-01.jpg" alt="Landscapes of Fear">
-        <p><a href = "{{ site.url }}/outreach/bonnanzio"><b>Landscapes of Fear</b></a></p>
+        <p><a href = "{{ site.url }}/events/bonnanzio"><b>Landscapes of Fear</b></a></p>
         </div>
 </div>
 
