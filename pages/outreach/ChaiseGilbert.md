@@ -1,5 +1,5 @@
 ---
-title: Title: Untitled
+title: Untitled
 permalink: "/events/ChaiseGilbert/"
 layout: page
 meta_title: Untitled | Pipettes & Paintbrushes
