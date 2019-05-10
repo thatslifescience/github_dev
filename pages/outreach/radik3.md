@@ -1,5 +1,5 @@
 ---
-title: Title: Romantic Foldagnosia
+title: Romantic Foldagnosia
 permalink: "/events/radik3/"
 layout: page
 meta_title: Romantic Foldagnosia | Pipettes & Paintbrushes
