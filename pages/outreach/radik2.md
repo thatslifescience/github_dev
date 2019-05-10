@@ -1,5 +1,5 @@
 ---
-title: Title: Neural Evolution Model(ing)
+title: Neural Evolution Model(ing)
 permalink: "/events/radik2/"
 layout: page
 meta_title: Neural Evolution Model(ing) | Pipettes & Paintbrushes
