@@ -10,9 +10,9 @@ gallery:
 - image_url: PP1901-01.JPG
 ---
 ![Untitled]({{ site.url }}/images/PP1901-01.JPG)
+Hyperrealist colored pencil
 
 Artist: **Carol R den Hartog**, Post-Doctorate Researcher in Neuroscience<br>
-Hyperrealist colored pencil
 
 Partner: **Tristram Seidler**, Curator at UMass Herbarium
 
