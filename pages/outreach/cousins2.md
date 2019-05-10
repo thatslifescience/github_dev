@@ -1,5 +1,5 @@
 ---
-title: Untitled
+title: "Untitled"
 permalink: "/events/cousins2/"
 layout: page
 meta_title: Untitled | Pipettes & Paintbrushes
