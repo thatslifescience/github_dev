@@ -1,5 +1,5 @@
 ---
-title: Title: Untitled
+title: Untitled
 permalink: "/events/long/"
 layout: page
 meta_title: Untitled | Pipettes & Paintbrushes
