@@ -2,7 +2,7 @@
 title: The Rise of Sourdough and Mason Jar Ecosystems
 layout: page
 author: emelzer
-permalink: /2019-05-13-Mason-Jar-Ecosystems-Melzer/
+permalink: /2019-05-13-Mason-Jar-Ecosystems-EMelzer/
 tags:
 - microbiology
 - microbiome
