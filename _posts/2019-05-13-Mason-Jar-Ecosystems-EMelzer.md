@@ -27,7 +27,7 @@ Often when people think about microbiology, they think about disease causing bug
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/27919686218/in/dateposted-friend/" title="fig1"><img src="https://farm1.staticflickr.com/973/27919686218_fd8e0d3d05.jpg" width="445" height="443" alt="fig1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-Fig 1. One of my many sourdough creations. Luckily, the bugs don't seem to mind when I throw some garlic and rosemary into their ecosystem. Source: Emily S. Melzer
+**Fig 1.** One of my many sourdough creations. Luckily, the bugs don't seem to mind when I throw some garlic and rosemary into their ecosystem. Source: Emily S. Melzer
 
 **Who lives in the mason jar and how do they make bread?**
 
@@ -37,7 +37,7 @@ Species that fall under this category produce the tart compound that gives yoghu
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/39980681980/in/dateposted-friend/" title="fig2"><img src="https://farm1.staticflickr.com/903/39980681980_cb717288b7.jpg" width="500" height="230" alt="fig2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-Fig 2. There are different types of sourdough fermentation processes. Source: [1]
+**Fig 2.** There are different types of sourdough fermentation processes. Source: [1]
 
 **Where did they come from?**
 
@@ -45,21 +45,24 @@ There are many ways to start your own culture AKA sourdough starter. One option 
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/26919536917/in/dateposted-friend/" title="mov1"><img src="https://farm1.staticflickr.com/951/26919536917_42d54db9e5.jpg" width="275" height="500" alt="mov1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-Movie 1. Home fermentation can be really effective! This is a bottle of ginger beer made by my mom – 100% of the carbonation you see is the result of her yeast and bacteria consortium working hard to ferment. Source: Erica Melzer
+**Movie 1.** Home fermentation can be really effective! This is a bottle of ginger beer made by my mom – 100% of the carbonation you see is the result of her yeast and bacteria consortium working hard to ferment. Source: Erica Melzer
 
-**Is it fun living in that environment? **
+**Is it fun living in that environment?**
 
 Who wouldn't want to live in a home essentially made of dough, right? Turns out life in sourdough can be really stressful. Firstly, due to lactic acid and other acids produced by the bacteria, it can be an extremely acidic environment. By the end of the process, the pH of the sourdough might be so low that enzymes required for fermentation are inactivated. Competition for nutrients can also be a real struggle: carbohydrates are in limited supply, and unfortunately for the bacteria, yeast take up a lot of the amino acids floating around, leaving little available. The yeast cells have it tough as well, they are usually outnumbered by lactic acid bacteria with 10-100 times more bacteria than yeast cells. Oh, and let’s not forget there’s also limited oxygen for all these cells! [1] This environment sounds less than ideal. But luckily for us, the bugs have no choice but to ferment, which means that we get to enjoy the products of their strife. 
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/45191621475/in/dateposted-friend/" title="fig3"><img src="https://farm5.staticflickr.com/4812/45191621475_ff8358c724.jpg" width="468" height="370" alt="fig3"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><center>
 
-Fig 3. I often have multiple kitchen microbiology projects going simultaneously. Fermentation projects in this picture: soy yoghurt incubating (left), and sourdough bread rising (right). Source: Emily S. Melzer
+**Fig 3.** I often have multiple kitchen microbiology projects going simultaneously. Fermentation projects in this picture: soy yoghurt incubating (left), and sourdough bread rising (right). Source: Emily S. Melzer
+
 
 Bread is only one of my kitchen microbiology projects. In our household we also ferment our own vegan nut cheese and yoghurt as well as make our own beer and ginger beer. The use of microbes in home kitchens is making a huge come-back and increasing rapidly, and the internet is overflowing with recipes for kitchen microbiology projects like Kombucha, beer, and kefir. Fermenting at home is a fun and easy way to introduce some science into your everyday life while enjoying its delicious products, and as long as you can follow instructions, anyone can do it!
 
-References: 
+
+**References:** 
 
 [1] De Vuyst, Luc, Simon Van Kerrebroeck, and Frédéric Leroy. "[Microbial ecology and process technology of sourdough fermentation](https://www.ncbi.nlm.nih.gov/pubmed/28732554)." In *Advances in applied microbiology*, vol. 100, pp. 49-160. Academic Press, 2017.
+
 
 ## More From Thats Life [Science]
 {: .t60 }
