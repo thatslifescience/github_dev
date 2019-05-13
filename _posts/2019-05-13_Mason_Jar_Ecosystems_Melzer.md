@@ -72,3 +72,6 @@ References:
 
 [1] De Vuyst, Luc, Simon Van Kerrebroeck, and Frédéric Leroy. "[Microbial ecology and process technology of sourdough fermentation](https://www.ncbi.nlm.nih.gov/pubmed/28732554)." In *Advances in applied microbiology*, vol. 100, pp. 49-160. Academic Press, 2017.
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="How It Works" %}
