@@ -22,17 +22,6 @@ teaser: Science-up your everyday life with some kitchen microbiology, starting w
 source-id: 1lCy8O59ZhAR3GhPrqRMxSbbuyCOewzJsC0g4I-sIWDo
 published: true
 ---
-**Title:**  The Rise of Sourdough and Mason Jar Ecosystems 
-
-**Author:** Emily S. Melzer 
-
-**Teaser:** Science-up your everyday life with some kitchen microbiology, starting with the secret lives of microbes in sourdough!
-
-**Category:** How it works 
-
-**Keywords:** Microbiology, food, ecosystem, fermentation, yeast, bacteria 
-
-**Featured photo:** Figure 1
 
 Often when people think about microbiology, they think about disease causing bugs. However, microbes can be [useful](http://thatslifesci.com/2016-11-01-Employee-of-the-Month-Hire-a-Microbe-to-Do-Your-Work-Melzer/), [promote health](http://thatslifesci.com/2016-07-04-The-wonders-of-fecal-transplants-EMelzer/), and [make food](http://thatslifesci.com/2016-06-20-The-Unseen-World-On-Cheese-LAlteio/) for us. Like many other microbiologists I too spend my days in lab studying bacteria because of their [ability to cause disease](http://thatslifesci.com/2017-11-13-a-romantic-disease-melzer/). But when I get home from lab, I don't stop being a microbiologist – I transform into a food microbiologist. My kitchen becomes my lab and instead of test tubes with bacteria I have a mason jar with a sourdough starter in it! In fact, the microbes living in there are just as complex and interesting as anything you could grow in an academic lab! Kitchen microbiology is one of the main reasons that I decided to become a microbiologist in the first place. Growing up, we had cats and dogs, and we had one more pet: my mom’s sourdough starter (before it was cool…). She had maintained the same one for a whopping 16 years! From a very early age I was aware that in this jar was a collection of some odd living bugs that were doing something (I had no idea what), and somehow, we had fresh delicious bread every couple of days. The fact that microbes have the ability to create food for us really left an impression on me and made me want to know more about this group of powerful little creatures. 
 
