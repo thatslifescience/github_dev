@@ -14,23 +14,11 @@ header:
  image_fullwidth: gradschooldiaries-header.jpg
 image:
  thumb: chen-01.jpg
-teaser: “The second annual collaborative art/science exhibit was featured last week on the UMass Amherst campus. Check out this work in our virtual art gallery under the Events tab.”
+teaser: The second annual collaborative art/science exhibit was featured last week on the UMass Amherst campus. Check out this work in our virtual art gallery under the Events tab.
 source-id: 1eD_qw0syeAZLzmxvd2cSH-0a6FiiqDtpjRyEbFjGJAs
 published: true
 ---
-**Title: **Pipettes and Paintbrushes 2019
-
-**Author: **E. Dauster
-
-**Categories: **Outreach
-
-**Keywords: **Science Communication, Outreach, Art, Research
-
-**Teaser: **The second annual collaborative art/science exhibit was featured last week on the UMass Amherst campus. Check out this work in our virtual art gallery under the Events tab.
-
-**Featured Photos: **Thumbnail image = Fig. 3
-
-What's more different than art and science?  They’re like water and oil, day and night, complete opposites… or maybe they’re not so separate after all.  The *That’s Life [Science]* Outreach and Communications Committee just held the second annual Pipettes and Paintbrushes collaborative art/science exhibit at UMass Amherst and it was awesome!  Artists and scientists came together from the Amherst area to create beautiful pieces representing the research currently conducted at UMass Amherst.  People from all experience levels and specialties were invited to listen to each other’s passions and partner up with others whose work inspires them.  We had plant biologists, neuroscientists, microbiologists, ecologists, and biochemists collaborating with artists who specialize in pottery, colored pencil, origami, and photography.  **And just to completely boggle your stereotypes, several of the artists are also scientists,** or is it that several of the scientists are also artists…?**  **This event allowed us to address assumptions about scientists and communicate science in a unique way to bridge two seemingly distinct groups of people.  
+What's more different than art and science?  They’re like water and oil, day and night, complete opposites… or maybe they’re not so separate after all.  The *That’s Life [Science]* Outreach and Communications Committee just held the second annual Pipettes and Paintbrushes collaborative art/science exhibit at UMass Amherst and it was awesome!  Artists and scientists came together from the Amherst area to create beautiful pieces representing the research currently conducted at UMass Amherst.  People from all experience levels and specialties were invited to listen to each other’s passions and partner up with others whose work inspires them.  We had plant biologists, neuroscientists, microbiologists, ecologists, and biochemists collaborating with artists who specialize in pottery, colored pencil, origami, and photography.  **And just to completely boggle your stereotypes, several of the artists are also scientists,** or is it that several of the scientists are also artists…?  This event allowed us to address assumptions about scientists and communicate science in a unique way to bridge two seemingly distinct groups of people.  
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/33923885018/in/album-72157708323276805/" title="12"><img src="https://live.staticflickr.com/65535/33923885018_a3f3d96c8f.jpg" width="500" height="375" alt="12"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
