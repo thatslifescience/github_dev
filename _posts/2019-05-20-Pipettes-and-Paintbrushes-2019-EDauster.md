@@ -42,3 +42,6 @@ The image above actually won an international art/science award and will be circ
 
 Our exhibit also made its way to the March for Science in Amherst where it was featured for a broader audience in the off campus community. We were able to bring the artwork from Pipettes and Paintbrushes to the March for Science to reach a broader audience for an even greater impact.  The *That's Life [Science]* Outreach and Communications Committee has been coordinating Pipettes and Paintbrushes in addition to the March for Science event as part of our April outreach endeavors.  Through these events, we’ve brought art and science into our UMass Amherst community as well as the greater Amherst community.  Even the international readers of the blog can access our work through the Events tab on the *That’s Life [Science]* website.  Science is meant to be shared!
 
+## More From Thats Life [Science]
+{: .t60 }	
+{% include list-posts offset="1" entries="5" category="Outreach" %}
