@@ -14,7 +14,7 @@ header:
  image_fullwidth: gradschooldiaries-header.jpg
 image:
  thumb: chen-01.jpg
-teaser: The second annual collaborative art/science exhibit was featured last week on the UMass Amherst campus. Check out this work in our virtual art gallery under the Events tab.
+teaser: The second annual collaborative art/science exhibit was featured last month on the UMass Amherst campus. Check out this work in our virtual art gallery under the Events tab.
 source-id: 1eD_qw0syeAZLzmxvd2cSH-0a6FiiqDtpjRyEbFjGJAs
 published: true
 ---
