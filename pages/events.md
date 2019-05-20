@@ -1,6 +1,6 @@
 ---
 title: Events
-permalink: "/Events/"
+permalink: "/events/"
 layout: page-fullwidth
 meta_title: Events | That's Life [Science]
 subheadline: ''
