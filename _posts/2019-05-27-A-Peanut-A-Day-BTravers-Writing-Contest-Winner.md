@@ -21,7 +21,6 @@ image:
  thumb: 2019-05-27-baby-peanut.png
  title: undergrad_writing_contest_winner.png
 teaser: **Undergraduate Writing Contest Spring 2019 WINNER**
-
 source-id: 1q-k9ollJVX7bl9scFxmwa0nZxJaAWFOTctFNUTKM9Qg
 published: true
 ---
