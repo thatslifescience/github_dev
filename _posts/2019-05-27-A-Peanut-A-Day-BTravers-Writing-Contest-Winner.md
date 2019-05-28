@@ -32,7 +32,7 @@ Have you ever craved a peanut butter sandwich in school but couldn't eat any nut
 
 **Fig. 1** - Peanut allergies are all too common in schools today. (source: Eliza Marz, ["Thriving With Allergies" blog](http://thrivingwithallergies.blogspot.com/p/helpfu.html))
 
-Allergies have been on the rise ever since 1997 with their prevalence increasing three-fold between then and 2008 [1]. An allergy is described as an overreaction to a substance that should be harmless [2]. Our immune system, which is our body's protector from pathogens and foreign substances, gets overstimulated during an allergic reaction, causing inflammation and rashes on a minor scale, even closing off airways during severe allergic reactions [2]. Food allergies are no joke either. Imagine going to a friend’s house and being scared to eat, or not being able to eat a birthday cake because you cannot read the ingredients. Even worse, imagine being afraid to kiss someone because of what they ate! Food allergies are not fair to those suffering from them, but they are around us at an all-time high. Without a method to treat allergies, medical professionals are trying to understand why food allergies are becoming more prevalent and are striving to come up with preventative methods.
+Allergies have been on the rise ever since 1997 with their prevalence increasing three-fold between then and 2008 [1]. An allergy is described as an overreaction to a substance that should be harmless [2]. Our immune system, which is our body's protector from pathogens and foreign substances, gets overstimulated during an allergic reaction, causing inflammation and rashes on a minor scale, and can even close off airways during severe allergic reactions [2]. Food allergies are no joke either. Imagine going to a friend’s house and being scared to eat, or not being able to eat a birthday cake because you cannot read the ingredients. Even worse, imagine being afraid to kiss someone because of what they ate! Food allergies are not fair to those suffering from them, but they are around us at an all-time high. Without a method to treat allergies, medical professionals are trying to understand why food allergies are becoming more prevalent and are striving to come up with preventative methods.
 
 Currently, medical professionals specializing in allergies have turned to the hygiene hypothesis and lack of early exposure as a plausible explanation for this rise. The hygiene hypothesis simply states that the environments in the developing world are becoming too sterile, ultimately resulting in an immature immune system that hasn't had a chance to "practice" against enough foreign substances [3]. The lack of exposure to these substances, especially foods, are being noted as a driving factor in the increase of food allergies. 
 
@@ -68,10 +68,11 @@ So, what can you do about this? Spread the new data that supports early exposure
 <br>
 *About the Author:* **Brenton Travers**
 
-Brenton Travers is...
+Brenton Travers is a rising senior at the University of Massachusetts Amherst pursuing a dual degree in Microbiology and Public Health as a member of the Commonwealth Honors College. 
 
+As someone who has had severe food allergies for my entire life, a cure or preventative method is always on my mind. I always wonder why I have the allergies I do and how my childhood could have shaped my immune system. The amount of people with allergies have become noticeable over the years and I feel like the alarming number of allergies is not just a coincidence. This was ultimately my purpose of writing this blog; to expose others to allergies and explain that allergies may not be as random as once thought. As a pre-medical student, I plan to go to medical school and specialize in Immunology. My goal is to give back to the community I have been apart of, teach children and their families about allergies, and hopefully make an impact in the allergy field.
 
-<center></center>
+<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/47947159827/in/dateposted-friend/" title="btravers"><img src="https://live.staticflickr.com/65535/47947159827_277cfd9725.jpg" width="375" height="500" alt="btravers"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
 
 ## More From That's Life [Science]
