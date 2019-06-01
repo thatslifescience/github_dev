@@ -17,18 +17,6 @@ teaser: When the way fish look remind us of another animal, why not name them th
 source-id: 1XCWHAzGP_-KSdQGTJ3w0ZbGrCG2_wsaQTp5Qf8sU9Co
 published: true
 ---
-**Title: **When You Call a Fish a Frog 
-
-**Author:** Lian Guo
-
-**Category:** Earth's Organisms
-
-**Keywords:** fish, biology, science
-
-**Social media blurb:** When the way fish look remind us of another animal, why not name them that way? You can decide for yourself whether these fish really look like a lizard, hog, or frog!
-
-**Thumbnail:** Figure 1.
-
 Sometimes land animals are muses for scientists faced with naming fish species. In some cases the comparison makes sense, and in others… not so much. Here's a few fun examples we’ll look at today: lizardfish, hogfish, and frogfish (not to be confused with toadfish!). 
 
 <h3>Lizardfish</h3>
@@ -87,3 +75,6 @@ If you are still curious or intrigued, there are many more fish out there to inv
 
 [3] [https://www.floridamuseum.ufl.edu/discover-fish/species-profiles/antennarius-multiocellatus/](https://www.floridamuseum.ufl.edu/discover-fish/species-profiles/antennarius-multiocellatus/)
 
+## More From Thats Life [Science]
+{: .t60 }	
+{% include list-posts offset="1" entries="5" category="Earth's Organisms" %}
