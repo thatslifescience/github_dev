@@ -8,7 +8,7 @@ tags:
 - mammals
 - birds
 categories:
-Earth’s Organisms
+- Earth's Organisms
 header:
  image_fullwidth: organisms-header.jpg
 image:
@@ -17,18 +17,6 @@ teaser: “What could be the meaning behind squirrels with pink fur and puffins 
 source-id: 1PtR05e8sX6nkdCE8yva_swRqhBWce-pUanpooVSsCG8
 published: true
 ---
-**Title:** Things That Glow Pink in the Night: Why do some animals have fluorescent coloration under ultraviolet light?
-
-**Author:** RBell
-
-**Categories:** Earth's Organisms
-
-**Keywords:** Biodiversity, Mammals, Birds
-
-**Teaser:** What could be the meaning behind squirrels with pink fur and puffins with electric blue beaks?
-
-**Thumbnail image:** Figure 1
-
 This past February, you might have seen articles pop up online about a startling new report in *The Journal of Mammology*: researchers found that when put under an ultraviolet light, multiple species of flying squirrels glow bright pink! Fluorescent pigment cells that glow bright and strange colors under ultraviolet light are actually pretty common in birds, who can see in the ultraviolet visual spectrum all the time [1]. However, this is the first recorded case of placental mammals having fluorescent coloration too [2]! After reading about these flying pink squirrels, I wanted to understand more about this natural phenomenon. So I dove into the bright pink, green, and yellow world of fluorescence.
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/46757165315/in/dateposted-friend/" title="fig1pink"><img src="https://live.staticflickr.com/65535/46757165315_6387b5a4ba_o.jpg" width="540" height="359" alt="fig1pink"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
