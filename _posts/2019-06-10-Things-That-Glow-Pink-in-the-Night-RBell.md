@@ -12,7 +12,7 @@ categories:
 header:
  image_fullwidth: organisms-header.jpg
 image:
- thumb: rbell20190619_thumb.jpg
+ thumb: rbell20190610_thumb.jpg
 teaser: “What could be the meaning behind squirrels with pink fur and puffins with electric blue beaks?”
 source-id: 1PtR05e8sX6nkdCE8yva_swRqhBWce-pUanpooVSsCG8
 published: true
