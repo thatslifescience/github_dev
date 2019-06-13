@@ -10,9 +10,9 @@ tags:
 - outreach
 - summer postcard
 categories:
-- Grad School Diaries 
+- Outreach 
 header:
- image_fullwidth: gradschooldiaries-header.jpg
+ image_fullwidth: capaldo-01.jpg
 image:
  thumb: 2019-01-07-edauster.jpg
 teaser: My neuroscientist friends at UMass Amherst and I led a workshop with Girls Inc. to encourage curiosity among local middle school girls.
