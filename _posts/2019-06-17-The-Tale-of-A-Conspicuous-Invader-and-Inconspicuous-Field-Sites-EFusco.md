@@ -14,7 +14,7 @@ header:
  image_fullwidth: gradschooldiaries-header.jpg
 image:
  thumb: 20190617_EFusco_thumb.jpg
-teaser: A trip to scout field sites is thwarted when a notorious invasive grass refuses to live by the rules of a scientist’s study design.
+teaser: "A trip to scout field sites is thwarted when a notorious invasive grass refuses to live by the rules of a scientist’s study design."
 
 source-id: 1PWJvwRKGrjI4CDQmzRYS3yx8abJOZiVMdm7jQPuEIpY
 published: true
