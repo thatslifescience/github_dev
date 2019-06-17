@@ -9,7 +9,7 @@ tags:
 - field work
 - wildfire
 categories:
-
+- Grad School Diaries
 header:
  image_fullwidth: gradschooldiaries-header.jpg
 image:
