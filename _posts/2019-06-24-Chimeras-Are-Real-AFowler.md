@@ -15,7 +15,7 @@ header:
  image_fullwidth: howitworks-header.jpg
 image:
  thumb: 2019-06-24-AFowlerA.jpg
-teaser: All of our cells have the same DNA… right? Genetic chimeras shatter our ideas of identity and blur the lines between self and non-self, siblings, and sexes.
+teaser: All of our cells have the same DNA… right? Not always. Genetic chimeras shatter our ideas of identity and blur the lines between self and non-self, siblings, and sexes.
 
 source-id: 1SixSclyCB74x0bWmjb2T12Kc6t3Cgrany7EWfnox1LA
 published: true
