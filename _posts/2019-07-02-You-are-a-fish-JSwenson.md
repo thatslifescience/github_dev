@@ -18,17 +18,6 @@ image:
 source-id: 1bq1y05tp83fae-9N_x3-6OstQ4eGy_fd2HCHRvrrNnM
 published: true
 ---
-**Title: **You are a fish
-
-**Author(s): **JSwenson
-
-**Category: **Earth's Organisms
-
-**Keywords: **Human, Fish, Mammal, Evolution
-
-**Teaser: **Have you ever felt like a fish out of water? Because that's exactly what you are.
-
-**Thumbnail image**:  Fig. 2
 
 Have you ever thought about what a fish is, really?
 
