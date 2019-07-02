@@ -25,7 +25,7 @@ Sounds strange.
 
 It becomes less strange when we critically examine the implicit guidelines we use to intuitively distinguish a ‘fish’ from a ‘non-fish’ on a day-to-day basis. Let’s scrutinize these criteria more closely to see if the idea that humans are fish is as preposterous as it sounds.
 
-**Implicit ****Criterion 1:**** All fish have fins**
+**Implicit Criterion 1: All fish have fins**
 
 If the presence of fins is a defining feature of a fish then we need to define what a 'fin' actually is, and what distinguishes a ‘fin’ from a ‘limb.’ Unfortunately, the boundary between fins and limbs is a bit convoluted.
 
@@ -39,7 +39,7 @@ Turns out, that's the type of philosophical question that is best discussed over
 
 **Fig 1.** The fins of fish like coelacanths possess bony structures similar to the upper arm, forearm, and hand/wrist of humans. In other words, coelacanth fins (2nd from bottom) resemble human limbs (top) more than fins of other fish, like zebrafish (bottom). (Source: [Schneider and Shubin 2013](https://www.sciencedirect.com/science/article/abs/pii/S0168952513000243)).
 
-**Implicit Criterion 2:**** All fish have gills and breathe water**
+**Implicit Criterion 2: All fish have gills and breathe water**
 
 Gills. Water-breathing. The most fish-like characteristics there are...
 
