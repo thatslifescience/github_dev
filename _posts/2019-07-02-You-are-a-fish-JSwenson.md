@@ -87,3 +87,7 @@ The swim bladder/lung and fin/limb relationships show that it is difficult to dr
 
 6. [Longo, Sarah, Mark Riccio, and Amy R. McCune. "Homology of lungs and gas bladders: insights from arterial vasculature." ](https://onlinelibrary.wiley.com/doi/abs/10.1002/jmor.20128)*[Journal of Morpholog*y](https://onlinelibrary.wiley.com/doi/abs/10.1002/jmor.20128)[ 274.6 (2013): 687-703.](https://onlinelibrary.wiley.com/doi/abs/10.1002/jmor.20128)
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Earth's Organisms" %}
+
