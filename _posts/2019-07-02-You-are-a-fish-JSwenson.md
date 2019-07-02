@@ -55,9 +55,9 @@ It seems the line between a fish and a non-fish is a little blurred. Maybe it wo
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/47982444588/in/dateposted-friend/" title="Queensland lungfish"><img src="https://live.staticflickr.com/65535/47982444588_ef70ccc54d_z.jpg" width="640" height="427" alt="Queensland lungfish"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-**Fig 2. **This is a lungfish. It's a fish (with lungs) that exhales with its gills and inhales with its lungs. Yes, this is a real thing (Photo credit: [jan.stefka](https://www.flickr.com/photos/54034162@N02/45329090354/in/photolist-2c4zrjA-2c4zpZG-2adqnkS-27sKaWj-XLXb1P-2eoYAvX-XLWrYn-S5e71A-5crsXP-4eFMY5-Sr7xTh-T5n834-5cvgDm-8cVWX3-YHfS7o-R5QQtV-aEC9ew-FCnG57-3GK4vx-noupQZ-4dpLWj-TAHsZ3-47gSMx-SXpsrh-2eWAu5D-3GP4wY-47gQN8-XoRNBN-WJaqMs-toJAau-DyJiT-6M4NJV-XZTHKe-6M91au-XJUCA1-9Xmbpv-Xofe21-9XmbCg-9Z7uLn-6nMHoq-6nN4nN-6nHK6D-6nN3qN-6vcGVP-2adqonm-6nMM2s-WHxded-6fB5i8-6iDkeY-jPGq2)).
+**Fig 2.** This is a lungfish. It's a fish (with lungs) that exhales with its gills and inhales with its lungs. Yes, this is a real thing (Photo credit: [jan.stefka](https://www.flickr.com/photos/54034162@N02/45329090354/in/photolist-2c4zrjA-2c4zpZG-2adqnkS-27sKaWj-XLXb1P-2eoYAvX-XLWrYn-S5e71A-5crsXP-4eFMY5-Sr7xTh-T5n834-5cvgDm-8cVWX3-YHfS7o-R5QQtV-aEC9ew-FCnG57-3GK4vx-noupQZ-4dpLWj-TAHsZ3-47gSMx-SXpsrh-2eWAu5D-3GP4wY-47gQN8-XoRNBN-WJaqMs-toJAau-DyJiT-6M4NJV-XZTHKe-6M91au-XJUCA1-9Xmbpv-Xofe21-9XmbCg-9Z7uLn-6nMHoq-6nN4nN-6nHK6D-6nN3qN-6vcGVP-2adqonm-6nMM2s-WHxded-6fB5i8-6iDkeY-jPGq2)).
 
-**Implicit Criterion 3:**** Fish definitely do NOT breathe air**
+**Implicit Criterion 3: Fish definitely do NOT breathe air**
 
 Lungfish? Yeah, those problematic buggers inhale air and use it for metabolic purposes. But they're not the only fish that do this: [tarpon breathe air](https://myfwc.com/research/saltwater/tarpon/information/facts/) as well. In fact there are quite a few [amphibious fish](https://en.wikipedia.org/wiki/Amphibious_fish) that can easily breathe air and live out of water for days (or weeks) at a time (many even have 'fins’ that they use to walk, further blurring the demarcation between fins and limbs). So we cannot use air-breathing as a criterion either.
 
