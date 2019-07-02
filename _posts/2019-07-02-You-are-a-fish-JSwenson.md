@@ -1,5 +1,5 @@
 ---
-title: You-are-a-fish-JSwenson
+title: You are a fish
 layout: page
 author: jswenson
 permalink: /2019-07-02-You-are-a-fish-JSwenson/
@@ -19,17 +19,11 @@ teaser: "Have you ever felt like a fish out of water? Because that's exactly wha
 source-id: 1bq1y05tp83fae-9N_x3-6OstQ4eGy_fd2HCHRvrrNnM
 published: true
 ---
-Have you ever thought about what a fish is, really?
+Scientifically, you and I are fish [1]. 
 
-Scientifically, every land-dwelling vertebrate is classified as a fish [1]. 
+Sounds strange.
 
-Yes, you and I are fish.
-
-Sounds strange. 
-
-It may become less strange when we critically examine the implicit guidelines we use to intuitively distinguish a 'fish' from a ‘non-fish’ on a day-to-day basis. 
-
-Let's scrutinize these criteria more closely to see if the idea that humans are fish is as preposterous as it sounds.
+It becomes less strange when we critically examine the implicit guidelines we use to intuitively distinguish a ‘fish’ from a ‘non-fish’ on a day-to-day basis. Let’s scrutinize these criteria more closely to see if the idea that humans are fish is as preposterous as it sounds.
 
 **Implicit ****Criterion 1:**** All fish have fins**
 
@@ -43,7 +37,7 @@ Turns out, that's the type of philosophical question that is best discussed over
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/47982431427/in/dateposted-friend/" title="Fig_1"><img src="https://live.staticflickr.com/65535/47982431427_fd211890bb_z.jpg" width="516" height="640" alt="Fig_1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-**Fig 1.** The fins of fish like coelacanths possess bony structures similar to the upper arm, forearm, and hand/wrist of humans. Structurally, coelacanth fins (2nd from bottom) resemble human limbs (top) more than fins of other fish, like zebrafish (bottom). (Source: [Schneider and Shubin 2013](https://www.sciencedirect.com/science/article/abs/pii/S0168952513000243)).
+**Fig 1.** The fins of fish like coelacanths possess bony structures similar to the upper arm, forearm, and hand/wrist of humans. In other words, coelacanth fins (2nd from bottom) resemble human limbs (top) more than fins of other fish, like zebrafish (bottom). (Source: [Schneider and Shubin 2013](https://www.sciencedirect.com/science/article/abs/pii/S0168952513000243)).
 
 **Implicit Criterion 2:**** All fish have gills and breathe water**
 
