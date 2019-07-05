@@ -2,7 +2,7 @@
 title: "Why does alcohol make you dizzy?"
 layout: page
 author: edauster
-permalink: 2019-07-08-Why-does-alcohol-make-you-dizzy-Dauster.md
+permalink: /2019-07-08-Why-does-alcohol-make-you-dizzy-Dauster/
 tags:
 - alcohol
 - vestibular system
