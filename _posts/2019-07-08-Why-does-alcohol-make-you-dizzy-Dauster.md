@@ -1,5 +1,5 @@
 ---
-title: "Why does alcohol make you dizzy"
+title: "Why does alcohol make you dizzy?"
 layout: page
 author: edauster
 permalink: 2019-07-08-Why-does-alcohol-make-you-dizzy-Dauster.md
@@ -10,31 +10,19 @@ tags:
 - dopamine
 - digestion
 categories:
-How It Works
+- How It Works
 header:
  image_fullwidth: howitworks-header.jpg
 image:
- thumb: image-file-name-here.jpg
+ thumb: EDauster-thumb-20190708.jpg
 teaser: “How does drinking alcohol lead to lack of balance?  What are the physiological processes underlying this phenomenon?”
 
 source-id: 1sLaF8Zp0uUfX4nB5lcvFmNp2YGINsG3AF1IL_E3OL50
 published: true
 ---
-**Title: **Why Does Alcohol Make You Dizzy?
-
-**Author: **Emma Dauster
-
-**Categories: **How it works
-
-**Keywords: **Alcohol, Vestibular system, Balance, Dopamine, Digestion
-
-**Teaser: **How does drinking alcohol lead to lack of balance?  What are the physiological processes underlying this phenomenon?
-
-**Featured Photos: **Thumbnail image = Fig. 2
-
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/40663703623/in/dateposted-friend/" title="tls post 8pic1"><img src="https://live.staticflickr.com/65535/40663703623_d48501cc40.jpg" width="500" height="333" alt="tls post 8pic1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-**Fig 1.  **Alcohol is often consumed recreationally in doses that make it easy to get very drunk very quickly, such as shots in the image above.  (Source: [Pixabay](https://pixabay.com/photos/alcohol-bar-2275837/) by Pologi)
+**Fig 1.** Alcohol is often consumed recreationally in doses that make it easy to get very drunk very quickly, such as shots in the image above.  (Source: [Pixabay](https://pixabay.com/photos/alcohol-bar-2275837/) by Pologi)
 
 Why do people stumble around drunk?  Why do we feel dizzy after a few too many drinks of our favorite alcoholic beverage?  Alcohol messes with your equilibrium.  This is why the police are able to keep the roads safer with tests of agility and balance.  When someone appears to be driving recklessly, they are pulled over and asked to walk in a straight line or go through other tests of balance.  This is a test to assess how wobbly the drunk driver may be feeling.  But where does that wobbly feeling come from?  They just drank alcohol, and the digestive system that the alcohol travels through doesn't have anything to do with a person’s sense of balance…right?
 
@@ -66,3 +54,6 @@ References:
 
 [4] Alcohol.org. 2018. "Alcohol Acting as a Blood Thinner." Accessed February 18, 2019. https://www.alcohol.org/effects/thin-blood/
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="How It Works" %}
