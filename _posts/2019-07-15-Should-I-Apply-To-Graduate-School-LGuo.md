@@ -63,3 +63,7 @@ Other helpful links:
 
 [What's it like to Get a PhD in Science?](https://slate.com/human-interest/2015/08/stem-advanced-degree-whats-it-like-to-get-a-ph-d-in-science.html)
 
+
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Grad School Diaries" %}
