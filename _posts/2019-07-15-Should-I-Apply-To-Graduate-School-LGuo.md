@@ -45,7 +45,7 @@ Anecdotally, I have seen that my peers who work for several years between underg
 
 <h3>Bah, humbug!</h3>
 
-<div class="tenor-gif-embed" data-postid="4808611" data-share-method="host" data-width="100%" data-aspect-ratio="1.7857142857142858"><a href="https://tenor.com/view/bah-humbug-bah-humbug-angry-upset-gif-4808611">Bah Humbug GIF</a> from <a href="https://tenor.com/search/bahhumbug-gifs">Bahhumbug GIFs</a></div><script type="text/javascript" async src="[https://tenor.com/embed.js](https://tenor.com/embed.js)"></script>
+<center><div class="tenor-gif-embed" data-postid="4808611" data-share-method="host" data-width="100%" data-aspect-ratio="1.7857142857142858"><a href="https://tenor.com/view/bah-humbug-bah-humbug-angry-upset-gif-4808611">Bah Humbug GIF</a> from <a href="https://tenor.com/search/bahhumbug-gifs">Bahhumbug GIFs</a></div><script type="text/javascript" async src="[https://tenor.com/embed.js](https://tenor.com/embed.js)"></script></center>
 
 **Figure 1.** You may think I'm just a grumpy graduate student, but I’m earnestly trying to help!
 
