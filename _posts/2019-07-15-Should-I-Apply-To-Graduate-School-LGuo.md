@@ -18,17 +18,6 @@ teaser: “Thinking about the next steps in your life? If graduate school is one
 source-id: 1wWGkTT5Hik-vLXoxDztHqi3kV1-V4Z31qVJdv7SbHfU
 published: true
 ---
-**Title: **Should I Apply to Graduate School? 
-
-**Author:** Lian Guo
-
-**Category:** Grad School Diaries
-
-**Keywords:** graduate school, advice, application
-
-**Social media blurb:** Thinking about the next steps in your life? If graduate school is one of those potential options, here's some things you should be thinking about. 
-
-**Thumbnail:** Figure 1.
 
 *Note:* This blog post is based on the author's experience and opinions and do not reflect the opinions of That’s Life [Science] or other affiliated groups. Additionally, these experiences are likely most relevant to those interested in STEM graduate programs.
 
