@@ -43,18 +43,22 @@ Urban areas often present unfavorable growing conditions, narrowing the list of 
 
 **Figure 3**: Some of th/e many sources of stress all trees experience; from left to right, general sources of stress to those more specific to urban areas. 
 Image credit: Ashley McElhinney, modified from Anna Maloverjan via Pixels.com.
- 
+
+
 2. *Climate change*
 
 Analyzing future habitat suitability can help to ensure a tree's longevity. If climate change projections are accurate, species will have to either adapt, or migrate 3,000 to 5,000 meters per year to avoid extinction, far exceeding the maximum rate of 500 meters per year observed for plant species [1]. Therefore, you may consider assisted migration when selecting which tree species to include, because the silver lining to these altered climate conditions is that they may increase the habitat suitability for some tree species. By choosing to plant these species now, either at the northern edge, or just outside of, their current habitat range, you could help trees keep pace with climate change and prevent possible future tree loss. You can consult the US Forest Service’s [Climate Change Tree Atla](https://www.nrs.fs.fed.us/atlas/tree/tree_atlas.html)s for more information.
+
 
 3. *Area of origin*
 
 Consider planting native trees, for a number of [reasons](http://thatslifesci.com/2018-11-27-3-Reasons-Why-What-You-Grow-In-Your-Garden-Matters-EBeaury/). Native trees provide substantially more support to native wildlife when compared to their non-native counterparts: they have been shown to support a 50% higher abundance of native birds, 9x higher abundance of rare birds, 3x more butterfly species, and 2x higher abundance of native bees [2]! Non-native plants also present greater risks when planted, as they are 40x more likely to become invasive than native plants [3]. And even if they don't become invasive, non-native plant imports may act as a Trojan horse for forest pests: an estimated 70% of non-native forest pests, including hemlock woolly adelgid, arrived as contaminants on these plant imports.  Therefore, although a well-suited non-native species can make a great addition to the urban forest, it is recommended to limit the amount of non-native species in the landscape. 
 
+
 4. *Management issues*
 
 Considering species' various management issues, such as pest susceptibility, may help to avoid safety hazards, excessive costs, and tree mortality. For example, although Ash trees are generally a great urban species, the Emerald ash borer is currently causing widespread loss and mortality among these trees [5], therefore planting them at this time may pose a significant risk. Other possible management issues to consider are species’  invasive potential, messy fruit or leaves, or high susceptibility to branch breakage.
+
 
 5. *Biodiversity*
 
