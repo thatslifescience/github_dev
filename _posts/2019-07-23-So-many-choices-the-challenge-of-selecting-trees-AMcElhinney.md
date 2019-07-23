@@ -18,17 +18,6 @@ teaser: “With seemingly endless tree species available, how can you decide whi
 source-id: 1YVxiBtmPFlsGK6KQ-ICNyxx7d2gfP2iNg3CZZD8L5cM
 published: true
 ---
-**Title**: So Many Choices… The Challenge of Selecting Trees for the Urban Environment
-
-**Author**: A. McElhinney
-
-**Category**: Grad School Diaries
-
-**Keywords**: Urban forestry, Environment, Species selection
-
-**Teaser**: With seemingly endless tree species available, how can you decide which one to plant?
-
-**Thumbnail image**: Figure 2
 
 So, you want to plant a tree- great! Between the vast amount of environmental, economic, and societal benefits they provide (Fig.1), trees are becoming increasingly essential for maintaining environmental quality and human well-being in the face of urbanization and climate change.
 
@@ -127,8 +116,12 @@ J.A. Parrotta, and R. Nasi. 2011. [Forest Biodiversity and the Delivery of Ecosy
 Forestry 32(6):297–304.
 
 [8] Santamour, F.S. 1990. [Trees for urban planting: Diversity, uniformity and common sense](https://pdfs.semanticscholar.org/26a2/4c5361ce6d6e618a9fa307c4a34a3169e309.pdf). 
-
+https://github.com/thatslifescience/github_dev/blob/gh-pages/images/
 pp.57-65. In: Proceedings of the 7th Metropolitan Tree Improvement Alliance 
 
 (METRIA): Trees for the Nineties: Landscape Tree Selection, Testing, Evaluation, and Introduction Conference. The Morton Arboretum, Lisle, Illinois, U.S.
+
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Grad School Diaries" %}
 
