@@ -35,7 +35,8 @@ Image credit: Ashley McElhinney, modified from thegraphicsfairy.com.
 
 Beyond the basic site assessment, several criteria can be considered to help to achieve a healthy, resilient, urban forest. 
 
-1. *Urban conditions*
+
+ 1. *Urban conditions*
 
 Urban areas often present unfavorable growing conditions, narrowing the list of species that may otherwise be well-suited to a site's capacity. Not only must urban trees endure the stress factors that forest trees experience, but they must also tolerate a wide range of anthropogenic (human caused) challenges (Fig.3). It is important to note that although trees do not prefer these adverse conditions, some species may have a higher tolerance for them. If your site assessment indicates a tough planting site, you may consider selecting species with an observed tolerance to these conditions. 
 
@@ -45,22 +46,22 @@ Urban areas often present unfavorable growing conditions, narrowing the list of 
 Image credit: Ashley McElhinney, modified from Anna Maloverjan via Pixels.com.
 
 
-2. *Climate change*
+ 2. *Climate change*
 
 Analyzing future habitat suitability can help to ensure a tree's longevity. If climate change projections are accurate, species will have to either adapt, or migrate 3,000 to 5,000 meters per year to avoid extinction, far exceeding the maximum rate of 500 meters per year observed for plant species [1]. Therefore, you may consider assisted migration when selecting which tree species to include, because the silver lining to these altered climate conditions is that they may increase the habitat suitability for some tree species. By choosing to plant these species now, either at the northern edge, or just outside of, their current habitat range, you could help trees keep pace with climate change and prevent possible future tree loss. You can consult the US Forest Service’s [Climate Change Tree Atla](https://www.nrs.fs.fed.us/atlas/tree/tree_atlas.html)s for more information.
 
 
-3. *Area of origin*
+ 3. *Area of origin*
 
 Consider planting native trees, for a number of [reasons](http://thatslifesci.com/2018-11-27-3-Reasons-Why-What-You-Grow-In-Your-Garden-Matters-EBeaury/). Native trees provide substantially more support to native wildlife when compared to their non-native counterparts: they have been shown to support a 50% higher abundance of native birds, 9x higher abundance of rare birds, 3x more butterfly species, and 2x higher abundance of native bees [2]! Non-native plants also present greater risks when planted, as they are 40x more likely to become invasive than native plants [3]. And even if they don't become invasive, non-native plant imports may act as a Trojan horse for forest pests: an estimated 70% of non-native forest pests, including hemlock woolly adelgid, arrived as contaminants on these plant imports.  Therefore, although a well-suited non-native species can make a great addition to the urban forest, it is recommended to limit the amount of non-native species in the landscape. 
 
 
-4. *Management issues*
+ 4. *Management issues*
 
 Considering species' various management issues, such as pest susceptibility, may help to avoid safety hazards, excessive costs, and tree mortality. For example, although Ash trees are generally a great urban species, the Emerald ash borer is currently causing widespread loss and mortality among these trees [5], therefore planting them at this time may pose a significant risk. Other possible management issues to consider are species’  invasive potential, messy fruit or leaves, or high susceptibility to branch breakage.
 
 
-5. *Biodiversity*
+ 5. *Biodiversity*
 
 Biodiversity is essential to almost all ecosystem processes, resilience, and stability [6]. Considering that different species are susceptible to different pests, planting a variety of species can help to minimize urban forest canopy loss. The well-known depletion of urban forests across Massachusetts due to Dutch elm disease, compounded by to the over-planting of the American elm, is an example of the risk associated with monoculture [7]. The "10-20-30 guideline" is commonly used to ensure an ideal level of biodiversity; this rule states that in any community, less than 10% of trees should be of the same species, less than 20% should be from the same genus, and less than 30% should be from the same family [8]. However, some experts recommend no more than 10% should be from the same genus, while some even recommend no more than 5%. Considering which trees may be already overplanted in your community could help to maintain high levels of biodiversity.
 
