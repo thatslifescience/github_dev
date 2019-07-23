@@ -21,19 +21,19 @@ published: true
 
 So, you want to plant a tree- great! Between the vast amount of environmental, economic, and societal benefits they provide (Fig.1), trees are becoming increasingly essential for maintaining environmental quality and human well-being in the face of urbanization and climate change.
 
+<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/40711537313/in/dateposted-friend/" title="Tree benefits"><img src="https://live.staticflickr.com/65535/40711537313_54e09e2b2c_z.jpg" width="640" height="505" alt="Tree benefits"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> </center>
+
 Figure 1: Some of the many benefits trees provide; from left to right, general benefits to those more specific to urban areas. 
 
 Image credit: Ashley McElhinney, modified from Anna Maloverjan via Pixels.com.
 
-<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/40711537313/in/dateposted-friend/" title="Tree benefits"><img src="https://live.staticflickr.com/65535/40711537313_54e09e2b2c_z.jpg" width="640" height="505" alt="Tree benefits"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> </center>
-
 But now you're wondering… which tree species should I plant? It can be daunting to decide between the seemingly endless amount of species available. There are plenty of resources available to learn all about each species’ characteristics and environmental preferences, but this information can be useless when you don’t know what to consider before selection.
+
+<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/32734848067/in/dateposted-friend/" title="Tree selection"><img src="https://live.staticflickr.com/65535/32734848067_e95410b3b0_z.jpg" width="640" height="538" alt="Tree selection"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
 Figure 2: The age-old question. 
 
 Image credit: Ashley McElhinney, modified from thegraphicsfairy.com. 
-
-<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/32734848067/in/dateposted-friend/" title="Tree selection"><img src="https://live.staticflickr.com/65535/32734848067_e95410b3b0_z.jpg" width="640" height="538" alt="Tree selection"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
 Beyond the basic site assessment, several criteria can be considered to help to achieve a healthy, resilient, urban forest. 
 
@@ -41,21 +41,15 @@ Beyond the basic site assessment, several criteria can be considered to help to 
 
 Urban areas often present unfavorable growing conditions, narrowing the list of species that may otherwise be well-suited to a site's capacity. Not only must urban trees endure the stress factors that forest trees experience, but they must also tolerate a wide range of anthropogenic (human caused) challenges (Fig.3). It is important to note that although trees do not prefer these adverse conditions, some species may have a higher tolerance for them. If your site assessment indicates a tough planting site, you may consider selecting species with an observed tolerance to these conditions. 
 
- 
-
-Figure 3: Some of the many sources of stress all trees experience; from left to right, general sources of stress to those more specific to urban areas. 
-
-Image credit: Ashley McElhinney, modified from Anna Maloverjan via Pixels.com.
-
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/47625029902/in/dateposted-friend/" title="Tree stressors"><img src="https://live.staticflickr.com/65535/47625029902_8c3b810892_z.jpg" width="640" height="518" alt="Tree stressors"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
- 
+Figure 3: Some of th/e many sources of stress all trees experience; from left to right, general sources of stress to those more specific to urban areas. 
 
+Image credit: Ashley McElhinney, modified from Anna Maloverjan via Pixels.com.
+ 
 2. *Climate change*
 
 Analyzing future habitat suitability can help to ensure a tree's longevity. If climate change projections are accurate, species will have to either adapt, or migrate 3,000 to 5,000 meters per year to avoid extinction, far exceeding the maximum rate of 500 meters per year observed for plant species [1]. Therefore, you may consider assisted migration when selecting which tree species to include, because the silver lining to these altered climate conditions is that they may increase the habitat suitability for some tree species. By choosing to plant these species now, either at the northern edge, or just outside of, their current habitat range, you could help trees keep pace with climate change and prevent possible future tree loss. You can consult the US Forest Service’s [Climate Change Tree Atla](https://www.nrs.fs.fed.us/atlas/tree/tree_atlas.html)s for more information.
-
-  
 
 3. *Area of origin*
 
@@ -64,8 +58,6 @@ Consider planting native trees, for a number of [reasons](http://thatslifesci.co
 4. *Management issues*
 
 Considering species' various management issues, such as pest susceptibility, may help to avoid safety hazards, excessive costs, and tree mortality. For example, although Ash trees are generally a great urban species, the Emerald ash borer is currently causing widespread loss and mortality among these trees [5], therefore planting them at this time may pose a significant risk. Other possible management issues to consider are species’  invasive potential, messy fruit or leaves, or high susceptibility to branch breakage.
-
- 
 
 5. *Biodiversity*
 
