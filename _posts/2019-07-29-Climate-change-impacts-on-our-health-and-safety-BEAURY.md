@@ -8,7 +8,7 @@ tags:
 - climate change
 - human health
 categories:
-
+ Our Ecosystems
 header:
  image_fullwidth: ecosystem-header.jpg
 image:
@@ -17,18 +17,6 @@ teaser: What to know about the major impacts of climate change on our health and
 source-id: 11p-acb6qjTJJqLnd6m975plmW3R6d0f17h8zdUcFkWA
 published: true
 ---
-**Title: **Climate change impacts on our health and safety
-
-**Author(s): **EBeaury
-
-**Category: **Our Ecosystems
-
-**Keywords: **Adaptation, Climate Change, Human Health
-
-**Teaser: **What to know about the major impacts of climate change on our health and safety, and what we're doing to limit them.
-
-**Thumbnail image**: Figure 1
-
 Climate change will undoubtedly affect many aspects of our lives as temperatures rise, rainfall becomes less predictable, and our atmosphere fills with greenhouse gases [1]. It's important to understand some of the major ways climate change will impact human health and safety, and what we’re doing to prepare for the changes yet to come.
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/47661989621/in/dateposted-friend/" title="Regional Climate Change Impacts"><img src="https://live.staticflickr.com/65535/47661989621_7b36c98351.jpg" width="500" height="386" alt="Regional Climate Change Impacts"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
@@ -81,5 +69,7 @@ Many of these plans come from amazing teams of scientists testing new strategies
 
 8. Sarfaty M, Gould R, Maibach E. "Medical Alert! Climate Change is Harming Our Health." Medical Society Consortium for Climate and Health. March 2017:  page 1. [www.medsocietiesforclimatehealth.org/reports/medical-alert](http://www.medsocietiesforclimatehealth.org/reports/medical-alert).
 
-## More From Thats Life [Science]{: .t60 }{% include list-posts offset="1" entries='5' category="Our Ecosystems" %}
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Our Ecosystems" %}
 
