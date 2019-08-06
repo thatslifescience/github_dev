@@ -60,7 +60,6 @@ I study the distribution of these elusive creatures using a combination of metho
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/48241174646/in/dateposted-friend/" title="Fig3"><img src="https://live.staticflickr.com/65535/48241174646_349c11205a_z.jpg" width="640" height="480" alt="Fig3"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
 **Figure 3** Setting up a camera trap in a grassland.
-
 (Thanks to Steven, the armed scout accompanying me, for this photo.)
 
 The camera trapping is well underway and the first cycle has resulted in some adorable videos of elephants, Cape buffalo, Kinda baboons, common duikers, scrub hare, warthogs, puku, porcupine, large spotted genet, and (possibly) an African civet. There's even a video of a couple of spur-winged geese just waddling through the woodland. Due to the presence of elephants (and poachers), I have to be accompanied by an armed scout at all times. One of the Park’s guides also frequently accompanies me, as does Dr. Geraldine Taylor, from the management team who has been helping me with the logistics.
