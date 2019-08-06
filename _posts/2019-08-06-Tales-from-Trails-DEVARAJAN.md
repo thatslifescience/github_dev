@@ -22,20 +22,26 @@ teaser: “A postcard from a field biologist still a bit stunned about landing h
 source-id: 1rvnckvLC5AkXmhOkPBy-TJrMbfhTDyJtLJSx2Xwcrcs
 published: true
 ---
-To:
+
+*To:
 
 That's Life [Science] Readers
+
 Connoisseurs of SciComm Avenue
-World Wide Web
+
+World Wide Web*
 
 
 
-From:
+*From:
 
 Kadambari Devarajan
+
 Edge of Lake Wasa surrounded by Miombo woodland
+
 Kasanka National Park
-Zambia
+
+Zambia*
 
 Dear TLS readers,
 
