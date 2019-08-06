@@ -39,9 +39,8 @@ Kadambari Devarajan
 
 Edge of Lake Wasa surrounded by Miombo woodland
 
-Kasanka National Park
+Kasanka National Park, Zambia
 
-Zambia
 
 Dear TLS readers,
 
