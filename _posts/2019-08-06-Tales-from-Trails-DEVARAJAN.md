@@ -23,17 +23,17 @@ source-id: 1rvnckvLC5AkXmhOkPBy-TJrMbfhTDyJtLJSx2Xwcrcs
 published: true
 ---
 
-*To:
+_To:_
 
 That's Life [Science] Readers
 
 Connoisseurs of SciComm Avenue
 
-World Wide Web*
+World Wide Web
 
 
 
-*From:
+_From:_
 
 Kadambari Devarajan
 
@@ -41,7 +41,7 @@ Edge of Lake Wasa surrounded by Miombo woodland
 
 Kasanka National Park
 
-Zambia*
+Zambia
 
 Dear TLS readers,
 
