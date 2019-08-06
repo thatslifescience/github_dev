@@ -1,5 +1,5 @@
 ---
-title: Tales from Trails: Field Dispatches from Africa
+title: "Tales from Trails: Field Dispatches from Africa"
 layout: page
 author: kdevarajan
 permalink: /2019-08-06-Tales-from-Trails-DEVARAJAN/
@@ -22,18 +22,6 @@ teaser: “A postcard from a field biologist still a bit stunned about landing h
 source-id: 1rvnckvLC5AkXmhOkPBy-TJrMbfhTDyJtLJSx2Xwcrcs
 published: true
 ---
-**Title: **Tales from Trails: Field Dispatches from Africa
-
-**Author(s): **Kadambari Devarajan
-
-**Category: **Grad School Diaries
-
-**Keywords: **Carnivores, Ecology, Camera Traps, Field Work
-
-**Teaser: **A postcard from a field biologist still a bit stunned about landing her dream location in southern Africa!
-
-**Thumbnail image**: Figure 1 
-
 To:
 
 That's Life [Science] Readers
@@ -41,6 +29,7 @@ That's Life [Science] Readers
 Connoisseurs of SciComm Avenue
 
 World Wide Web
+
 
 From:
 
@@ -99,4 +88,8 @@ PS – While all animal videos are adorable, I do wish for more 'data'. Here’s
 **Related Reading**
 
 [Critter Candid Cam](http://thatslifesci.com/2018-07-23-Critter-Candid-Cam-Devarajan/) by Kadambari Devarajan
+
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries="5" category="Grad School Diaries" %}
 
