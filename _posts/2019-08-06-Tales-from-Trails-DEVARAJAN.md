@@ -25,20 +25,16 @@ published: true
 To:
 
 That's Life [Science] Readers
-
 Connoisseurs of SciComm Avenue
-
 World Wide Web
+
 
 
 From:
 
 Kadambari Devarajan
-
 Edge of Lake Wasa surrounded by Miombo woodland
-
 Kasanka National Park
-
 Zambia
 
 Dear TLS readers,
