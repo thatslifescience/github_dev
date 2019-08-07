@@ -43,6 +43,7 @@ Kasanka National Park, Zambia
 
 
 Dear TLS readers,
+
 I first heard of [Kasanka National Park](https://kasankanationalpark.com/) in December 2018 and here I am six months later in this incredible wilderness, still incredulous at the journey that brought me here. I'm trying to focus on writing, distracted both by the stunning view of Lake Wasa under a powdery blue sky peppered with fluffy marshmallow clouds as well as a cacophony of sounds – the wind rushing through the trees, piercing calls of the African fish eagle (the national bird of Zambia), rustling leaves, the occasional grunt of the hippo, flies and mosquitoes buzzing around my head, and an assortment of other delightful insect and bird noises. 
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/48241175286/in/dateposted-friend/" title="Fig1"><img src="https://live.staticflickr.com/65535/48241175286_c549fe983b_z.jpg" width="640" height="427" alt="Fig1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
