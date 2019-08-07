@@ -21,7 +21,7 @@ gallery:
 
 Research Area: Quantitative ecology, community ecology, species interactions
 
-I am an engineer-turned-ecologist (computer-scientist-turned-conservation-biologist, if you will) and my research involves applying quantitative tools to visualize and analyze scientific data. I am a data geek who likes to study wildlife populations and behavior. As a PhD student in the Sutherland Lab, I'm working on multi-species models with a focus on monitoring vertebrates.
+I am an engineer-turned-ecologist (computer-scientist-turned-conservation-biologist, if you will) and my research involves applying quantitative tools to visualize and analyze scientific data. I am a data geek who likes to study wildlife populations and behavior. As a PhD student in OEB, I'm working on multi-species models with a focus on monitoring vertebrates. 
 
 I’m fascinated by the sheer diversity of organisms on earth, how these organism interact with each other, and how these interactions affect where they are found, what they do, and how they go about doing them. I’m interested in how species are distributed in space and time, and how their interactions influence them at different levels - individual, population, community, ecosystem.
 
