@@ -13,7 +13,7 @@ gallery:
   caption: Kadambari "KD" Devarajan
 ---
 
-![Kadambari "KD" Devarajan]({{ site.urlimg }}/kdevarajan-01.jpg)<br>
+![Kadambari "KD" Devarajan]({{ site.url }}/images/kdevarajan-01.jpg)<br>
 
 [Personal Website](http://kadambarid.in)<br>
 [Email](mailto:kadambari.devarajan@gmail.com)<br>
