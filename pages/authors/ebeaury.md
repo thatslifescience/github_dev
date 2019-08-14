@@ -1,18 +1,18 @@
 ---
-title: Eve Beaury
+title: Evelyn Beaury
 permalink: "/authors/ebeaury/"
 layout: page
 author: ebeaury
-meta_title: Eve Beaury | That's Life [Science]
+meta_title: Evelyn Beaury | That's Life [Science]
 subheadline: Contributor since Fall 2017
 teaser: PhD Student in Organismic and Evolutionary Biology
 header:
   image_fullwidth: you-can-delete-me-header.png
 gallery:
-- image_url: ebeaury-01.jpg
-  caption: Eve Beaury
+- image_url: EBeaury-01.jpg
+  caption: Evelyn Beaury
 ---
-![Eve Beaury]({{ site.urlimg }}/ebeaury-01.jpg)<br>
+![Evelyn Beaury]({{ site.urlimg }}/EBeaury-01.jpg)<br>
 [Email](mailto:eve.beaury@gmail.com)
 
 Research Area: Biogeography of invasive plants to understand the patterns of invasion in the context of global change<br>
