@@ -17,7 +17,7 @@ header:
  image_fullwidth: ecosystem-header.jpg
 image:
  thumb: 2019-08-12-EKuras.jpg
-teaser: #indoorplants don’t just look great on Instagram; they also tell us about economic tradeoffs, priorities, and a changing economy
+teaser: "#indoorplants don’t just look great on Instagram; they also tell us about economic tradeoffs, priorities, and a changing economy"
 
 source-id: 15hZOnHH5N7PBeeQodHiLaH9wEklgbtYSBXMo_GGva_0
 published: true
