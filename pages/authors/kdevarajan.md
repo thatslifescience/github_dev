@@ -1,19 +1,19 @@
 ---
-title: Kadambari "KD" Devarajan
+title: Kadambari Devarajan
 permalink: "/authors/kdevarajan/"
 layout: page
 author: kdevarajan
-meta_title: Kadambari "KD" Devarajan | That's Life [Science]
+meta_title: Kadambari Devarajan | That's Life [Science]
 subheadline: Contributor since Fall 2017
-teaser: PhD Student in Organismic and Evolutionary Biology
+teaser: PhD Candidate in Organismic and Evolutionary Biology
 header:
   image_fullwidth: you-can-delete-me-header.png
 gallery:
 - image_url: kdevarajan-01.jpg
-  caption: Kadambari "KD" Devarajan
+  caption: Kadambari Devarajan
 ---
 
-![Kadambari "KD" Devarajan]({{ site.url }}/images/kdevarajan-01.jpg)<br>
+![Kadambari Devarajan]({{ site.url }}/images/kdevarajan-01.jpg)<br>
 
 [Personal Website](http://kadambarid.in)<br>
 [Email](mailto:kadambari.devarajan@gmail.com)<br>
