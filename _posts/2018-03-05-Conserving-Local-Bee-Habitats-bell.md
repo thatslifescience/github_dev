@@ -17,9 +17,9 @@ teaser: Girl scouts learn about why bees are in trouble and what they can do to 
   maintain local bee populations. Bee the Change!
 ---
 
-Post co-written with guest writer Alison Fowler
+Post co-written with [Alison Fowler](http://thatslifesci.com/authors/afowler)
 
-Here at TLS, one of our goals is to share the scientific world we hold so near and dear with those around us. So naturally, we jumped at the chance to help local Girl Scout troops achieve the Animal Habitats Badge in October 2017. You can find out more about all of the fun activities we did at the Animal Habitats Badge event here ([PART 1](https://thatslifescience.github.io/github_dev/2018-02-26-What-do-cockroaches-power-tools-and-pollinator-gardens-have-in-common-BEAURY/)). Alison Fowler, Elsa Cousins, and I had the chance to run an activity exploring bee habitats and the importance of bee conservation.
+Here at TLS, one of our goals is to share the scientific world we hold so near and dear with those around us. So naturally, we jumped at the chance to help local Girl Scout troops achieve the Animal Habitats Badge in October 2017. You can find out more about all of the fun activities we did at the Animal Habitats Badge event here ([PART 1](http://thatslifesci.com/2018-02-26-What-do-cockroaches-power-tools-and-pollinator-gardens-have-in-common-BEAURY/)). Alison Fowler, Elsa Cousins, and I had the chance to run an activity exploring bee habitats and the importance of bee conservation.
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/38636311372/in/dateposted-friend/" title="Bell figure1"><img src="https://farm5.staticflickr.com/4546/38636311372_3674c0c667.jpg" width="397" height="500" alt="Bell figure1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 **Figure 1** While learning about the amazing diversity of bees, the scouts got to meet bumble bees from Alison’s insect ecology laboratory. (Photo credit: Eve Beaury)
