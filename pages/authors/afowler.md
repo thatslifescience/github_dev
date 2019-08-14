@@ -4,7 +4,7 @@ permalink: "/authors/afowler/"
 layout: page
 author: afowler
 meta_title: Alison Fowler | That's Life [Science]
-subheadline: Contributor since Fall 2018
+subheadline: Contributor since Fall 2017
 teaser: PhD Candidate in Organismic and Evolutionary Biology
 header:
   image_fullwidth: you-can-delete-me-header.png
