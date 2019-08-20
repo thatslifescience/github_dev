@@ -11,6 +11,7 @@ tags:
 - science and society
 - women in science
 categories:
+- Grad School Diaries
 header:
  image_fullwidth: gradschooldiaries-header.jpg
 image:
@@ -19,18 +20,6 @@ teaser: “What are the implications of a male dominated field for women, whethe
 source-id: 1wxyLJ1DvZcQ4cpHazua1aQeTeO5eFytvwdXjwExUXsg
 published: true
 ---
-**Title: **Is Science for Women?
-
-**Author(s): **Emma Dauster
-
-**Category: **Grad School Diaries
-
-**Keywords: **Sexism, Research, Individualized Medicine, Diversity, Science and Society, Women in Science
-
-**Teaser: **What are the implications of a male dominated field for women, whether they are in that field or not?
-
-**Thumbnail image**: Figure 1
-
 I am incredibly lucky to be a woman in science.  I get up every morning, put my hair into a ponytail, and go to the lab where I work all day surrounded by women.  The Principal Investigator (PI) of the lab is a woman with a one-year-old baby, the post-doc is a woman, the lab tech is a woman, and the undergraduate researchers are women. This is the life and the career that I've always wanted. But despite the environment I work in, I find myself questioning if science really is for women.
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/48188030207/in/dateposted-friend/" title="tls post 9pic1"><img src="https://live.staticflickr.com/65535/48188030207_e06cbe0742.jpg" width="500" height="332" alt="tls post 9pic1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
@@ -70,4 +59,8 @@ References:
 6. Gender Equality Policies lecture, Universidad Carlos III de Madrid, (2016).
 
 7. Patty Brennan website, accessed 7/2/19. [www.pattybrennan.com](http://www.pattybrennan.com/press)/press
+
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Grad School Diaries" %}
 
