@@ -37,9 +37,7 @@ Fig. 1 - Regular & Rampant CO2 is an important distinction to make when trying t
 
 **The Ocean is the Climate's Heart**
 
-"Just as a heart circulates blood and regulates the body's temperature, the ocean
-
-controls the circulation of heat and moisture throughout the climate system." [2] This metaphor helps people understand the difference between climate (long term averages and patterns in heat and moisture movement) and weather (specific events resulting from the functioning of the climate), and why some places might be getting warmer and wetter while others are drier and cooler. 
+"Just as a heart circulates blood and regulates the body's temperature, the ocean controls the circulation of heat and moisture throughout the climate system." [2] This metaphor helps people understand the difference between climate (long term averages and patterns in heat and moisture movement) and weather (specific events resulting from the functioning of the climate), and why some places might be getting warmer and wetter while others are drier and cooler. 
 
 Fig. 2 - The Ocean is the Climate's Heart. (source: [NNOCCI’s Reframe Cards](https://climateinterpreter.org/content/changing-climate-conversation-all-nnocci-reframe-cards) via [https://climateinterpreter.org/](https://climateinterpreter.org/))
 
@@ -47,11 +45,7 @@ Fig. 2 - The Ocean is the Climate's Heart. (source: [NNOCCI’s Reframe Cards](h
 
 **Ocean Acidification is the Osteoporosis of the Sea**
 
-"Ocean acidification changes the chemistry of the ocean and causes 'osteoporosis of
-
-the sea,' which prevents animals at the bottom of the food chain from building and
-
-maintaining the protective shells they need to survive." [2] With this metaphor, you can draw people into how we impact the environment, and specifically the impact of CO2 on the ocean as an important part of the earth's climate.
+"Ocean acidification changes the chemistry of the ocean and causes 'osteoporosis of the sea,' which prevents animals at the bottom of the food chain from building and maintaining the protective shells they need to survive." [2] With this metaphor, you can draw people into how we impact the environment, and specifically the impact of CO2 on the ocean as an important part of the earth's climate.
 
 Fig. 3 - Osteoporosis of the Seas as a metaphor for ocean acidification. (source: [NNOCCI's Reframe Cards](https://climateinterpreter.org/content/changing-climate-conversation-all-nnocci-reframe-cards) via [https://climateinterpreter.org/](https://climateinterpreter.org/))
 
