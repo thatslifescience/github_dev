@@ -18,17 +18,6 @@ teaser: “My lessons learned from NNOCCI’s keys to successful climate change 
 source-id: 1Q4_vY4PwPlUGb5kVxWAj3A9nIchRqHigKM8ujmJDuFM
 published: true
 ---
-**Title: **Changing the climate change conversation
-
-**Author(s): **Eve Beaury
-
-**Category: **How it Works
-
-**Keywords****: **Climate Change, Communication, Human
-
-**Teaser: **My lessons learned from [NNOCCI's](https://climateinterpreter.org/about/projects/NNOCCI) keys to successful climate change conversations - let’s solve this together!
-
-**Thumbnail image**: Fig. 2
 
 With such a polarizing, politicized, and frightening subject, it's easy to slide into contentious conversation when talking about climate change. I often get frustrated if others don’t share the urgency I feel about this topic, but this is not the right tone to take if you want to encourage people to take action. So what’s the best way to approach this subject, and how do we get our communities more involved in finding solutions to climate change? At a conference this past year, I participated in a workshop focused on climate change communication, and I’m here to share the strategies I learned for having productive conversations about climate change.
 
@@ -97,4 +86,8 @@ Research & Recommendations:
 1. Gustafson, A., Bergquist, P., Leiserowitz, A., Maibach, E. "A growing majority of Americans think global warming is happening and are worried". Yale University and George Mason University. New Haven, CT: Yale Program on Climate Change Communication. 2019. [https://climatecommunication.yale.edu/publications/a-growing-majority-of-americans-think-global-warming-is-happening-and-are-worried/](https://climatecommunication.yale.edu/publications/a-growing-majority-of-americans-think-global-warming-is-happening-and-are-worried/)
 
 2. NNOCCI and FrameWorks Institute. "Changing the Climate Conversation: All NNOCCI Reframe Cards". The National Network for Ocean and Climate Change Interpretation. 2016. [https://climateinterpreter.org/content/changing-climate-conversation-all-nnocci-reframe-cards](https://climateinterpreter.org/content/changing-climate-conversation-all-nnocci-reframe-cards)
+
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="How It Works" %}
 
