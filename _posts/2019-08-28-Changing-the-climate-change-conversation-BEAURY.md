@@ -14,7 +14,7 @@ header:
  image_fullwidth: howitworks-header.jpg
 image:
  thumb: 08282019-Fig2-Beaury.png
-teaser: “My lessons learned from NNOCCI’s keys to successful climate change conversations - let’s solve this together!”
+teaser: My lessons learned from NNOCCI’s keys to successful climate change conversations - let’s solve this together!
 source-id: 1Q4_vY4PwPlUGb5kVxWAj3A9nIchRqHigKM8ujmJDuFM
 published: true
 ---
