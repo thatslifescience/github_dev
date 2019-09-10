@@ -9,6 +9,7 @@ tags:
 - camera traps
 - field work
 categories:
+- Grad School Diaries
 header:
  image_fullwidth: gradschooldiaries-header.jpg
 image:
@@ -18,18 +19,6 @@ teaser:  A tale of carnivores, camera traps, and camaraderie straight from the g
 source-id: 1LTJ0TSriJ3CaJVta7nJvOojtgwRmb_X3u1wnMbQfa34
 published: true
 ---
-**Title: **More Tales from Trails
-
-**Author(s): **KadambariDevarajan
-
-**Category: **Grad School Diaries
-
-**Keywords: **Carnivores, Ecology, Camera Traps, Field Work
-
-**Teaser: **A tale of carnivores, camera traps, and camaraderie straight from the grasslands and woodlands of Africa.
-
-**Thumbnail image**: Figure 4 
-
 It has been a surreal summer. By some stroke of magic, I was able to do a [pilot study in Zambia](http://thatslifesci.com/2019-08-06-Tales-from-Trails-DEVARAJAN/) for my dissertation research on carnivore communities. This involved lugging a ton of equipment halfway across the world and back. In the end it was well worth it, as you'll get to see.
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/48694756111/in/dateposted-friend/" title="Fig1"><img src="https://live.staticflickr.com/65535/48694756111_dd0c1e6a9f_c.jpg" width="800" height="600" alt="Fig1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
@@ -47,8 +36,6 @@ Making sure that all the equipment safely reached my final destination, the remo
 **Fig 3** Every field researcher would second me on this – field work cannot happen in isolation. For that matter, research cannot happen in isolation. Field crew can make or break any project – my study could not have happened without the support of the the Kasanka Trust management team and their incredible, passionate crew of rangers, scouts, and support staff. I'd forever be grateful for their enthusiastic support and friendship.
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/48694926277/in/dateposted-friend/" title="Fig4"><img src="https://live.staticflickr.com/65535/48694926277_a775bc1f8d_b.jpg" width="650" height="433" alt="Fig4"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
-
-![image alt text]({{ site.url }}/public/U60mqcH3zOgRYJX25wGqKw_img_0.jpg)
 
 **Figure 4** Setting up a camera trap in miombo woodland.
 
