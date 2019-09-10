@@ -61,3 +61,7 @@ This majestic sable antelope was recorded in one of the cameras that was set in 
 
 [Critter Candid Cam](http://thatslifesci.com/2018-07-23-Critter-Candid-Cam-Devarajan/) by Kadambari Devarajan
 
+
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Grad School Diaries" %}
