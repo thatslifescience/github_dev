@@ -18,17 +18,6 @@ teaser: “Brain surgery is surprisingly simple.  Aside from the risk of death, 
 source-id: 1dvdOoqi6EC1R1SpxcvnuBu3UbyEOEteaORuRmjcWJcE
 published: true
 ---
-Title: Brain Surgery… It's Not Rocket Science!
-
-Category: How it Works
-
-Author: Emma Dauster
-
-Key Words: Neuroscience, Brains, Surgery
-
-Teaser: Brain surgery is surprisingly simple.  Aside from the risk of death, here's all there is to it.
-
-Thumbnail Image: Figure 3.
 
 I performed my first brain surgery at age 19.  I'm a neuroscientist, but the less you know about what I do every day, the more impressive it sounds.  I perform brain surgery…on rats.  And then for the next six months I train them to perform operant tasks, while getting peed on most days cleaning up after them.  (The operant task involves pressing a lever to get sugar-water, so they will perform hundreds of self-initiated trials every day.)  The life of a rodent brain surgeon isn’t as luxurious as it sounds.  
 
@@ -72,3 +61,7 @@ References:
 
 5. O'Driscoll, K., & Leach, J. P. (1998). ["No longer Gage": an iron bar through the head. Early observations of personality change after injury to the prefrontal cortex](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1114479/). *BMJ (Clinical research ed.)*, *317*(7174), 1673–1674. doi:10.1136/bmj.317.7174.1673a.
 
+
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="How It Works" %}
