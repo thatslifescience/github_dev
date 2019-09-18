@@ -27,7 +27,7 @@ Rodent brains are closer to human brains than a lot of people realize.  The fact
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/48689604116/in/dateposted-friend/" title="Untitled"><img src="https://live.staticflickr.com/65535/48689604116_a5154bef86.jpg" width="500" height="210" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-**Figure 1. ** Comparative physiology of various animal brains.  There's a little variety but overall they are much more similar than you might have thought. (Source: [CFCF Wikimedia commons](https://commons.wikimedia.org/wiki/User:CFCF))
+**Figure 1.** Comparative physiology of various animal brains.  There's a little variety but overall they are much more similar than you might have thought. (Source: [CFCF Wikimedia commons](https://commons.wikimedia.org/wiki/User:CFCF))
 
 Actually, that's how brain surgery works.  Okay, the directions are a little more specific, but not by *that *much.  We use sutures (the lines where bones in the skull join together) as landmarks to orient ourselves when finding specific brain regions underneath.  Every skull has the top line (bregma), middle line (midline), and bottom inverted V (lambda) that the brain surgeon can use to locate their surgery site.  For example, to find the main source of the neurotransmitter norepinephrine to the brain (located in the brainstem), you make sure the skull is flat by measuring 0 mm change from bregma to lambda, then measure back from bregma 9.5 mm, to the left or right 1.3 mm, and down 6.5 mm.  These are example coordinates from the female rat brain, but a similar procedure can be followed in other organisms.
 
