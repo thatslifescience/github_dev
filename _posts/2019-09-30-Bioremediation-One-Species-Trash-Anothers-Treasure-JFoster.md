@@ -46,53 +46,49 @@ What are your thoughts on the matter, leave them below in the comments!
 
 References:
 
-1. [National Overview: Facts and Figures on Materials, Wastes and Recycling](www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/national-overview-facts-and-figures-materials). EPA, Environmental Protection Agency, 26 Oct. 2018.
+[1] [National Overview: Facts and Figures on Materials, Wastes and Recycling](www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/national-overview-facts-and-figures-materials). EPA, Environmental Protection Agency, 26 Oct. 2018.
 
-2. No End in Sight to US Landfill Cost Increases - Pacific Region to Experience Highest Growth." SWEEP, 13 June 2018, [nrra.net/sweep/no-end-in-sight-to-us-landfill-cost-increases-pacific-region-to-experience-highest-growth/](https://nrra.net/sweep/no-end-in-sight-to-us-landfill-cost-increases-pacific-region-to-experience-highest-growth/).
+[2] No End in Sight to US Landfill Cost Increases - Pacific Region to Experience Highest Growth." SWEEP, 13 June 2018, [nrra.net/sweep/no-end-in-sight-to-us-landfill-cost-increases-pacific-region-to-experience-highest-growth/](https://nrra.net/sweep/no-end-in-sight-to-us-landfill-cost-increases-pacific-region-to-experience-highest-growth/).
 
-3. Liboiron, Max. "[Municipal versus Industrial Waste:](https://discardstudies.com/2016/03/02/municipal-versus-industrial-waste-a-3-97-ratio-or-something-else-entirely/)
+[3] Liboiron, Max. "[Municipal versus Industrial Waste:](https://discardstudies.com/2016/03/02/municipal-versus-industrial-waste-a-3-97-ratio-or-something-else-entirely/) [Questioning the 3-97 Ratio](https://discardstudies.com/2016/03/02/municipal-versus-industrial-waste-a-3-97-ratio-or-something-else-entirely/)." Discard Studies, 2 Mar. 2016,
 
-[Questioning the 3-97 Ratio](https://discardstudies.com/2016/03/02/municipal-versus-industrial-waste-a-3-97-ratio-or-something-else-entirely/)." Discard Studies, 2 Mar. 2016,
+[4] "Industrial Waste Management: Waste Stream Statistics." Recover Inc., 3 Mar. 2017, [recoverusa.com/industrial-waste-management/](https://recoverusa.com/industrial-waste-management/).
 
-4. "Industrial Waste Management: Waste Stream Statistics." Recover Inc., 3 Mar. 2017, [recoverusa.com/industrial-waste-management/](https://recoverusa.com/industrial-waste-management/).
+[5] PDR Development Team. "PROJECT DATA RESEARCH." Landfills | Project Data Research - Landfills, Lining & Mining Project Bid Information | Landfill, Liner & Mining Specialists |,[ www.projectdataresearch.com/landfills.html](http://www.projectdataresearch.com/landfills.html).
 
-5. PDR Development Team. "PROJECT DATA RESEARCH." Landfills | Project Data Research - Landfills, Lining & Mining Project Bid Information | Landfill, Liner & Mining Specialists |,[ www.projectdataresearch.com/landfills.html](http://www.projectdataresearch.com/landfills.html).
+[6] Superfund: National Priorities List (NPL)." EPA, Environmental Protection Agency, 4 June 2018,[ www.epa.gov/superfund/superfund-national-priorities-list-npl](http://www.epa.gov/superfund/superfund-national-priorities-list-npl).
 
-6. Superfund: National Priorities List (NPL)." EPA, Environmental Protection Agency, 4 June 2018,[ www.epa.gov/superfund/superfund-national-priorities-list-npl](http://www.epa.gov/superfund/superfund-national-priorities-list-npl).
+[7] Vidali, Mn. "[Bioremediation. an overview.](https://www.degruyter.com/view/j/pac.2001.73.issue-7/pac200173071163/pac200173071163.xml)" Pure and Applied Chemistry 73.7 (2001): 1163-1172.
 
-7. Vidali, Mn. "[Bioremediation. an overview.](https://www.degruyter.com/view/j/pac.2001.73.issue-7/pac200173071163/pac200173071163.xml)" Pure and Applied Chemistry 73.7 (2001): 1163-1172.
+[8] Agarwal, Ashutosh, and Yu Liu. "[Remediation technologies for oil-contaminated sediments.](https://www.sciencedirect.com/science/article/pii/S0025326X15300242)" Marine Pollution Bulletin 101.2 (2015): 483-490.
 
-8. Agarwal, Ashutosh, and Yu Liu. "[Remediation technologies for oil-contaminated sediments.](https://www.sciencedirect.com/science/article/pii/S0025326X15300242)" Marine Pollution Bulletin 101.2 (2015): 483-490.
+[9] Singer, A. C., et al. "[Bioremediation of polychlorinated biphenyl-contaminated soil using carvone and surfactant-grown bacteria.](https://link.springer.com/article/10.1007/s002530000472)" Applied Microbiology and Biotechnology 54.6 (2000): 838-843.
 
-9. Singer, A. C., et al. "[Bioremediation of polychlorinated biphenyl-contaminated soil using carvone and surfactant-grown bacteria.](https://link.springer.com/article/10.1007/s002530000472)" Applied Microbiology and Biotechnology 54.6 (2000): 838-843.
+[10] Davis, Gregory B., Bradley M. Patterson, and Colin D. Johnston. "[Aerobic bioremediation of 1, 2 dichloroethane and vinyl chloride at field scale](https://www.sciencedirect.com/science/article/pii/S0169772209000515)." Journal of contaminant hydrology 107.1-2 (2009): 91-100.
 
-10. Davis, Gregory B., Bradley M. Patterson, and Colin D. Johnston. "[Aerobic bioremediation of 1, 2 dichloroethane and vinyl chloride at field scale](https://www.sciencedirect.com/science/article/pii/S0169772209000515)." Journal of contaminant hydrology 107.1-2 (2009): 91-100.
+[11] Fogel, M. MARGARET, ARTHUR R. Taddeo, and S. A. M. U. E. L. Fogel. "[Biodegradation of chlorinated ethenes by a methane-utilizing mixed culture](https://aem.asm.org/content/51/4/720.short)." Appl. Environ. Microbiol. 51.4 (1986): 720-724.
 
-11. Fogel, M. MARGARET, ARTHUR R. Taddeo, and S. A. M. U. E. L. Fogel. "[Biodegradation of chlorinated ethenes by a methane-utilizing mixed culture](https://aem.asm.org/content/51/4/720.short)." Appl. Environ. Microbiol. 51.4 (1986): 720-724.
+[12]  Malaviya, Piyush, and Asha Singh. "[Bioremediation of chromium solutions and chromium containing wastewaters](https://www.tandfonline.com/doi/full/10.3109/1040841X.2014.974501)." Critical reviews in microbiology 42.4 (2016): 607-633.
 
-12.  Malaviya, Piyush, and Asha Singh. "[Bioremediation of chromium solutions and chromium containing wastewaters](https://www.tandfonline.com/doi/full/10.3109/1040841X.2014.974501)." Critical reviews in microbiology 42.4 (2016): 607-633.
+[13] Biello, David. "[Slick Solution: How Microbes Will Clean Up the Deepwater Horizon Oil Spill.](https://www.scientificamerican.com/article/how-microbes-clean-up-oil-spills/)" Scientific American, 25 May 2010.
 
-13. Biello, David. "[Slick Solution: How Microbes Will Clean Up the Deepwater Horizon Oil Spill.](https://www.scientificamerican.com/article/how-microbes-clean-up-oil-spills/)" Scientific American, 25 May 2010.
+[14] Boopathy, R. "[Factors limiting bioremediation technologies](https://www.sciencedirect.com/science/article/pii/S0960852499001443)." Bioresource technology 74.1 (2000): 63-67.
 
-14. Boopathy, R. "[Factors limiting bioremediation technologies](https://www.sciencedirect.com/science/article/pii/S0960852499001443)." Bioresource technology 74.1 (2000): 63-67.
+[15]  Juwarkar, Asha A., Sanjeev K. Singh, and Ackmez Mudhoo. "[A comprehensive overview of elements in bioremediation](https://link.springer.com/article/10.1007/s11157-010-9215-6)." Reviews in Environmental Science and bio/technology 9.3 (2010): 215-288.
 
-15.  Juwarkar, Asha A., Sanjeev K. Singh, and Ackmez Mudhoo. "[A comprehensive overview of elements in bioremediation](https://link.springer.com/article/10.1007/s11157-010-9215-6)." Reviews in Environmental Science and bio/technology 9.3 (2010): 215-288.
+[16] Perumbakkam, Sudeep, Thomas F. Hess, and Ronald L. Crawford. "[A bioremediation approach using natural transformation in pure-culture and mixed-population biofilms.](https://link.springer.com/article/10.1007/s10532-005-9025-7)" Biodegradation 17.6 (2006): 545-557.
 
-16. Perumbakkam, Sudeep, Thomas F. Hess, and Ronald L. Crawford. "[A bioremediation approach using natural transformation in pure-culture and mixed-population biofilms.](https://link.springer.com/article/10.1007/s10532-005-9025-7)" Biodegradation 17.6 (2006): 545-557.
+[17] Dua, M., et al. "[Biotechnology and bioremediation: successes and limitations.](https://link.springer.com/article/10.1007/s00253-002-1024-6)" Applied microbiology and biotechnology 59.2-3 (2002): 143-152.
 
-17. Dua, M., et al. "[Biotechnology and bioremediation: successes and limitations.](https://link.springer.com/article/10.1007/s00253-002-1024-6)"
+[18] Pieper, Dietmar H., and Walter Reineke. "[Engineering bacteria for bioremediation.](https://www.sciencedirect.com/science/article/pii/S095816690000094X)" Current opinion in biotechnology 11.3 (2000): 262-270.
 
-Applied microbiology and biotechnology 59.2-3 (2002): 143-152.
+[19] Perpetuo, Elen Aquino, Cleide Barbieri Souza, and Claudio Augusto Oller Nascimento. "[Engineering bacteria for bioremediation](https://www.intechopen.com/books/progress-in-molecular-and-environmental-bioengineering-from-analysis-and-modeling-to-technology-applications/engineering-bacteria-for-bioremediation)." Progress in Molecular and Environmental Bioengineering-From Analysis and Modeling to Technology Applications. IntechOpen, 2011.
 
-18. Pieper, Dietmar H., and Walter Reineke. "[Engineering bacteria for bioremediation.](https://www.sciencedirect.com/science/article/pii/S095816690000094X)" Current opinion in biotechnology 11.3 (2000): 262-270.
+[20] Chaurasia, Akhilesh Kumar, Tapan Kumar Adhya, and Shree Kumar Apte. "[Engineering bacteria for bioremediation of persistent organochlorine pesticide lindane (γ-hexachlorocyclohexane)](https://www.sciencedirect.com/science/article/pii/S0960852413015162)." Bioresource technology 149 (2013): 439-445.
 
-19. Perpetuo, Elen Aquino, Cleide Barbieri Souza, and Claudio Augusto Oller Nascimento. "[Engineering bacteria for bioremediation](https://www.intechopen.com/books/progress-in-molecular-and-environmental-bioengineering-from-analysis-and-modeling-to-technology-applications/engineering-bacteria-for-bioremediation)." Progress in Molecular and Environmental Bioengineering-From Analysis and Modeling to Technology Applications. IntechOpen, 2011.
+[21]  Brim, Hassan, et al. "[Engineering Deinococcus geothermalis for bioremediation of high-temperature radioactive waste environments](https://aem.asm.org/content/69/8/4575.short)." Appl. Environ. Microbiol. 69.8 (2003): 4575-4582.
 
-20. Chaurasia, Akhilesh Kumar, Tapan Kumar Adhya, and Shree Kumar Apte. "[Engineering bacteria for bioremediation of persistent organochlorine pesticide lindane (γ-hexachlorocyclohexane)](https://www.sciencedirect.com/science/article/pii/S0960852413015162)." Bioresource technology 149 (2013): 439-445.
-
-21.  Brim, Hassan, et al. "[Engineering Deinococcus geothermalis for bioremediation of high-temperature radioactive waste environments](https://aem.asm.org/content/69/8/4575.short)." Appl. Environ. Microbiol. 69.8 (2003): 4575-4582.
-
-22. Ohtsubo, Yoshiyuki, et al. "[Strategies for bioremediation of polychlorinated biphenyls](https://link.springer.com/article/10.1007/s00253-004-1654-y)." Applied microbiology and biotechnology 65.3 (2004): 250-258.
+[22] Ohtsubo, Yoshiyuki, et al. "[Strategies for bioremediation of polychlorinated biphenyls](https://link.springer.com/article/10.1007/s00253-004-1654-y)." Applied microbiology and biotechnology 65.3 (2004): 250-258.
 
 ## More From Thats Life [Science]
 {: .t60 }	
