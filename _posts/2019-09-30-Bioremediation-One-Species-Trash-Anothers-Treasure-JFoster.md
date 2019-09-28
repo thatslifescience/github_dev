@@ -18,21 +18,8 @@ teaser: How microbes can help address one of the long-term issues associated wit
 source-id: 1PRu8qOV7DgknV3gaePWlUJSgz6Q-6_AVnp5BxEMA5nY
 published: true
 ---
-**Title: **Bioremediation - One Species' Trash, Another’s Treasure?
 
-**Author(s): **Joshua Foster
-
-**Category: **How it Works
-
-**Keywords: **Bioremediation, Microbiology, Science and Society, Waste disposal
-
-**Teaser: **How microbes can help address one of the long-term issues associated with waste disposal.
-
-**Thumbnail image**: Figure 1
-
- 
-
-How much time do you spend each day thinking about the lifecycle of trash? Unless you're actively taking your trash to the dumpster, or catch a whiff of the distinctive odor of a landfill when driving past, probably not more than a couple minutes. Municipal (civic/town) and especially commercial/industrial waste disposal is a relatively invisible part of all of our lives. But despite how inconspicuous waste disposal can be, it represents a significant economic, and potentially environmental, cost! As of 2015 there were ~260 million tons of solid municipal waste (MW) generated each year representing a total annual cost of almost 7 billion dollars [1-2]. These values do not account for commercial/industrial waste which some, fairly outdated [3], sources estimate to be nearly 30x municipal waste, at 7.6 ***billion***** **tons annually [4]!
+How much time do you spend each day thinking about the lifecycle of trash? Unless you're actively taking your trash to the dumpster, or catch a whiff of the distinctive odor of a landfill when driving past, probably not more than a couple minutes. Municipal (civic/town) and especially commercial/industrial waste disposal is a relatively invisible part of all of our lives. But despite how inconspicuous waste disposal can be, it represents a significant economic, and potentially environmental, cost! As of 2015 there were ~260 million tons of solid municipal waste (MW) generated each year representing a total annual cost of almost 7 billion dollars [1-2]. These values do not account for commercial/industrial waste which some, fairly outdated [3], sources estimate to be nearly 30x municipal waste, at 7.6 **billion** tons annually [4]!
 
 All of this waste has to go *somewhere,* with the majority of waste disposal strategies functioning as long term storage until natural biological and chemical processes degrade the waste over time. If everything goes well the waste is stably contained by a layered system of liners and clay retainers while the degradation processes proceed. This liner system is put in place to prevent the leachate (percolating water containing soluble or small particles) from entering the soil and water surrounding the disposal site [5]. 
 
@@ -44,11 +31,11 @@ However, like all systems there are inefficiencies and flaws which can result in
 
 Organic environmental contaminants like oil and flame retardants (polybrominated diphenyl ethers) can enter the ecosphere from municipal waste where they are used in the treatment and production of plastics (13.1% of MW), textiles (6.1% of MW) and rubber/leather (3.2% of MW) [1].  Industrial waste can also contribute many compounds which are carcinogens with additional disruptive effects on development, immune function, and hormone regulation. Heavy metals such as chromium, cadmium, uranium, and lead can also leach into the soil and water through the discarded metals/electronics in municipal waste (9.1% of MW) or as a component of industrial waste where they are used in numerous production processes [1]. The contamination of an area by one or more of these POPs can result in its classification as a Superfund site, an EPA designation indicating a location has been deemed hazardous to human and/or environmental health [6]. As suggested by the term 'persistent' in their POP designation, these compounds are difficult to remove by traditional treatment options, which suffer from limitations of scalability and efficiency [7-8].
 
-Luckily there is a potential solution! Despite the resistance of these compounds to traditional biological degradation, there exist niche microbes capable of degrading or containing these compounds by a process referred to as bioremediation. Bioremediation offers advantages in terms of sustainability, cost-effectiveness, and scalability when compared to traditional remediation strategies and can be relatively easy to implement at many sites. The process functions by taking advantage of the naturally occurring enzymatic degradation pathways these microbes possess. For comparison, you can visualize 'traditional' bacterial degradation, like when food spoils, as a simple system for microbes to obtain energy by enzymatically breaking down the proteins and sugars in the food. Bioremediation is essentially, for lack of a better term, just a *fancier* version of food spoiling where the microbes are using more exotic substances, for example persistent organic pollutants, as their source of energy. This was highlighted nicely during the treatment of the 2010 Deepwater Horizon oil spill, where the natural enzymatic degradation of hydrocarbons by *Alcanivorax borkumensis* was used to remove oil [13].* *
+Luckily there is a potential solution! Despite the resistance of these compounds to traditional biological degradation, there exist niche microbes capable of degrading or containing these compounds by a process referred to as bioremediation. Bioremediation offers advantages in terms of sustainability, cost-effectiveness, and scalability when compared to traditional remediation strategies and can be relatively easy to implement at many sites. The process functions by taking advantage of the naturally occurring enzymatic degradation pathways these microbes possess. For comparison, you can visualize 'traditional' bacterial degradation, like when food spoils, as a simple system for microbes to obtain energy by enzymatically breaking down the proteins and sugars in the food. Bioremediation is essentially, for lack of a better term, just a *fancier* version of food spoiling where the microbes are using more exotic substances, for example persistent organic pollutants, as their source of energy. This was highlighted nicely during the treatment of the 2010 Deepwater Horizon oil spill, where the natural enzymatic degradation of hydrocarbons by *Alcanivorax borkumensis* was used to remove oil [13].
 
-<center> <a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/48708959122/in/dateposted-friend/" title="Deepwater_Horizon_Oil_Spill_-_Gulf_of_Mexico"><img src="https://live.staticflickr.com/65535/48708959122_ec30d08f4b_z.jpg" width="640" height="427" alt="Deepwater_Horizon_Oil_Spill_-_Gulf_of_Mexico"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> </center>
+<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/48708959122/in/dateposted-friend/" title="Deepwater_Horizon_Oil_Spill_-_Gulf_of_Mexico"><img src="https://live.staticflickr.com/65535/48708959122_ec30d08f4b_z.jpg" width="640" height="427" alt="Deepwater_Horizon_Oil_Spill_-_Gulf_of_Mexico"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-**Figure 2.**** **Oil slick from the Deepwater Horizon oil spill, where *A. borkumensis *bacterial bioremediation played a role in mitigating the disaster's damage. (Photo source: Deepwater oil spill via Wikimedia commons).
+**Figure 2.** Oil slick from the Deepwater Horizon oil spill, where *A. borkumensis* bacterial bioremediation played a role in mitigating the disaster's damage. (Photo source: Deepwater oil spill via Wikimedia commons).
 
 Is bioremediation a viable solution to persistent organic pollutants? If bioremediation proceeds completely, the process can be used on site at a much lower cost than traditional methods and the products of the process are harmless. However, there is always a catch... Because bioremediation relies on living organisms, sometimes these organisms are picky about where and when they will grow, so the environmental factors of the site (temperature, oxygen levels, pH, etc…) have to be amenable to the favorable growth of that organism. These limitations are nicely outlined in the earlier article by David Biello, as well as comprehensively in the review publication[ Factors limiting bioremediation technologies](https://www.sciencedirect.com/science/article/pii/S0960852499001443) [14]. In addition to site limitations, the compounds themselves may pose challenges as some are not amenable to complete degradation by a single organism, potentially producing a *more toxic* compound as an intermediate [15]. Luckily multiple organisms can work together to degrade these intermediate compounds, in a disassembly line style [16], but then environmental conditions for two or more organisms must be met. Furthermore, the concentration and complexity of many of these contaminated sites can prevent microbial growth as the degrading organism(s) may tolerate one compound at a low or moderate level but not numerous at mixed levels [17]. And as a final limitation, the bioremediation process can occur so slowly it isn't reasonable for human timescales [7]. 
 
@@ -56,7 +43,6 @@ The environmental science field is currently addressing many of these limitation
 
 What are your thoughts on the matter, leave them below in the comments!
 
- 
 
 References:
 
@@ -108,3 +94,6 @@ Applied microbiology and biotechnology 59.2-3 (2002): 143-152.
 
 22. Ohtsubo, Yoshiyuki, et al. "[Strategies for bioremediation of polychlorinated biphenyls](https://link.springer.com/article/10.1007/s00253-004-1654-y)." Applied microbiology and biotechnology 65.3 (2004): 250-258.
 
+## More From Thats Life [Science]
+{: .t60 }	
+{% include list-posts offset="1" entries="5" category="How It Works" %}
