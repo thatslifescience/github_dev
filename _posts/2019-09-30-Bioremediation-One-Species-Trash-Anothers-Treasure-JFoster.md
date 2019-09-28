@@ -1,5 +1,5 @@
 ---
-title: Bioremediation - One Species’ Trash, Another’s Treasure?
+title: "Bioremediation - One Species’ Trash, Another’s Treasure?"
 layout: page
 author: jfoster
 permalink: /2019-09-30-Bioremediation-One-Species-Trash-Anothers-Treasure-JFoster/
