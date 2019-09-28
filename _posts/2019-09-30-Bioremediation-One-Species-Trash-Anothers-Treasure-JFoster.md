@@ -1,5 +1,5 @@
 ---
-title: 2019-08-09-Bioremediation-One-Species-Trash-Anothers-Treasure-JFoster
+title: 2019-09-30-Bioremediation-One-Species-Trash-Anothers-Treasure-JFoster
 layout: page
 author: jfoster
 permalink: /2019-09-30-Bioremediation-One-Species-Trash-Anothers-Treasure-JFoster/
