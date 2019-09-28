@@ -14,12 +14,11 @@ header:
  image_fullwidth: howitworks-header.jpg
 image:
  thumb: 20190930-JFoster-thumb.jpg
-teaser: How microbes can help address one of the long-term issues associated with waste disposal.
+teaser: "How microbes can help address one of the long-term issues associated with waste disposal."
 
 source-id: 1PRu8qOV7DgknV3gaePWlUJSgz6Q-6_AVnp5BxEMA5nY
 published: true
 ---
-
 How much time do you spend each day thinking about the lifecycle of trash? Unless you're actively taking your trash to the dumpster, or catch a whiff of the distinctive odor of a landfill when driving past, probably not more than a couple minutes. Municipal (civic/town) and especially commercial/industrial waste disposal is a relatively invisible part of all of our lives. But despite how inconspicuous waste disposal can be, it represents a significant economic, and potentially environmental, cost! As of 2015 there were ~260 million tons of solid municipal waste (MW) generated each year representing a total annual cost of almost 7 billion dollars [1-2]. These values do not account for commercial/industrial waste which some, fairly outdated [3], sources estimate to be nearly 30x municipal waste, at 7.6 ***billion*** tons annually [4]!
 
 All of this waste has to go *somewhere*, with the majority of waste disposal strategies functioning as long term storage until natural biological and chemical processes degrade the waste over time. If everything goes well the waste is stably contained by a layered system of liners and clay retainers while the degradation processes proceed. This liner system is put in place to prevent the leachate (percolating water containing soluble or small particles) from entering the soil and water surrounding the disposal site [5]. 
