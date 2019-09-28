@@ -54,7 +54,7 @@ References:
 
 [4] "Industrial Waste Management: Waste Stream Statistics." Recover Inc., 3 Mar. 2017, [recoverusa.com/industrial-waste-management/](https://recoverusa.com/industrial-waste-management/).
 
-[5] PDR Development Team. "PROJECT DATA RESEARCH." Landfills | Project Data Research - Landfills, Lining & Mining Project Bid Information | Landfill, Liner & Mining Specialists |,[ www.projectdataresearch.com/landfills.html](http://www.projectdataresearch.com/landfills.html).
+[5] PDR Development Team. "PROJECT DATA RESEARCH." Landfills. Project Data Research - Landfills, Lining & Mining Project Bid Information. Landfill, Liner & Mining Specialists,[ www.projectdataresearch.com/landfills.html](http://www.projectdataresearch.com/landfills.html).
 
 [6] Superfund: National Priorities List (NPL)." EPA, Environmental Protection Agency, 4 June 2018,[ www.epa.gov/superfund/superfund-national-priorities-list-npl](http://www.epa.gov/superfund/superfund-national-priorities-list-npl).
 
