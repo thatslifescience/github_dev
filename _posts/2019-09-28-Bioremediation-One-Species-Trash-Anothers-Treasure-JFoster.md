@@ -1,5 +1,5 @@
 ---
-title: Bioremediation: One Species’ Trash, Another’s Treasure?
+title: "Bioremediation: One Species’ Trash, Another’s Treasure?"
 layout: page
 author: jfoster
 permalink: /2019-09-28-Bioremediation-One-Species-Trash-Anothers-Treasure-JFoster/
@@ -9,7 +9,7 @@ tags:
 - science and society
 - waste disposal
 categories:
- How It Works
+- How It Works
 header:
  image_fullwidth: howitworks-header.jpg
 image:
@@ -19,19 +19,6 @@ teaser: How microbes can help address one of the long-term issues associated wit
 source-id: 1PRu8qOV7DgknV3gaePWlUJSgz6Q-6_AVnp5BxEMA5nY
 published: true
 ---
-**Title: **Bioremediation - One Species' Trash, Another’s Treasure?
-
-**Author(s): **Joshua Foster
-
-**Category: **How it Works
-
-**Keywords: **Bioremediation, Microbiology, Science and Society, Waste disposal
-
-**Teaser: **How microbes can help address one of the long-term issues associated with waste disposal.
-
-**Thumbnail image**: Figure 1
-
- 
 
 How much time do you spend each day thinking about the lifecycle of trash? Unless you're actively taking your trash to the dumpster, or catch a whiff of the distinctive odor of a landfill when driving past, probably not more than a couple minutes. Municipal (civic/town) and especially commercial/industrial waste disposal is a relatively invisible part of all of our lives. But despite how inconspicuous waste disposal can be, it represents a significant economic, and potentially environmental, cost! As of 2015 there were ~260 million tons of solid municipal waste (MW) generated each year representing a total annual cost of almost 7 billion dollars [1-2]. These values do not account for commercial/industrial waste which some, fairly outdated [3], sources estimate to be nearly 30x municipal waste, at 7.6 ***billion***** **tons annually [4]!
 
@@ -109,3 +96,7 @@ Applied microbiology and biotechnology 59.2-3 (2002): 143-152.
 
 22. Ohtsubo, Yoshiyuki, et al. "[Strategies for bioremediation of polychlorinated biphenyls](https://link.springer.com/article/10.1007/s00253-004-1654-y)." Applied microbiology and biotechnology 65.3 (2004): 250-258.
 
+
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="How It Works" %}
