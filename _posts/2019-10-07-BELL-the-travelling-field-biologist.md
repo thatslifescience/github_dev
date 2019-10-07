@@ -8,7 +8,7 @@ tags:
 - research
 - travel
 categories:
-Grad School Diaries
+- Grad School Diaries
 header:
  image_fullwidth: gradschooldiaries-header.jpg
 image:
@@ -17,18 +17,6 @@ teaser: “What does it take to get to the remote field sites where so many biol
 source-id: 1-vA4skAaScA5adpw_vkHKfQmu_lulKHv3bVNGBeh6ts
 published: true
 ---
-Title: The travelling field biologist
-
-Author(s): RBell
-
-Category: Grad School Diaries
-
-Keywords: Fieldwork, Research, Travel
-
-Teaser: What does it take to get to the remote field sites where so many biologists collect their data?
-
-Thumbnail image:  Figure 2
-
 After my most recent field season at a nature reserve in Southwest Madagascar, the topic of travel to and from my field site is fresh on my mind. Though the main objective of a field season is to collect data out in nature, actually getting there is an adventure of its own! Take, for example, the drive to my remote field site from the capital of Madagascar—Antananarivo.
 
 After 2 (or 3) flights to get from the United States to Madagascar, we arrive in Antananarivo in the center of the island country (Fig. 1). The other researchers and I usually get a couple days to explore the city before beginning the drive down to the field. This usually involves eating at several of the great restaurants in the city and getting a few gifts for family and friends back home.
@@ -48,7 +36,6 @@ The two or three day drive to the field site starts in the central plateau of Ma
 **Figure 3.** Riding a pedi-cab through the streets of Antsirabe. This was actually my very first time riding in a pedi-cab! Photo credits: Rachel Bell
 
  
-
 We are on paved road for a good portion of the drive. The last 116 kilometers or so, however, are on dirt roads. This part of the drive can be slow going while the driver skillfully navigates uneven terrain in a vehicle carrying tons of people and luggage, but it is also beautiful and exciting as we get closer and closer to the field site.
 
 Once we enter the reserve and begin the final drive to the campsite where the researchers stay, both sides of the road are lined with the one of a kind spiny forest found only in Madagascar (Fig. 4). Getting into camp is always exciting and marked by lots of warm greetings and the hustle and bustle of settling in. Then, about four weeks later, I head back to the capital city and the adventure starts up again in reverse!
@@ -59,5 +46,7 @@ Once we enter the reserve and begin the final drive to the campsite where the re
 
 Travel is a major part of fieldwork, and for me, it is always a memorable and breathtaking component of doing research as a field biologist.
 
-## More From Thats Life [Science]{: .t60 }{% include list-posts offset="1" entries='5' category="Grad School Diaries" %}
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Grad School Diaries" %}
 
