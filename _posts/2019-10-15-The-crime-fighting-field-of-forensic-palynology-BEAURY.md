@@ -24,8 +24,6 @@ Pollen is just about the coolest thing ever, and one of my favorite treasures of
 
 While pollen can be a pain when allergy season starts, the growing field of **forensic palynology** is helping the criminal justice system catch crooks. Palynology is the study of pollen grains and how they differ from plant to plant. Although hard to see with the naked eye, each pollen grain is incredibly unique from species to species (Fig. 1). So unique, that when looking at pollen under a microscope, experts can instantly see the difference between pollen from an oak and a maple, or an orchid and a hydrangea.
 
-![image alt text]({{ site.url }}/public/D8mwn5Y7j1FcArQRBtzUSg_img_0.jpg)
-
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/48769442988/in/dateposted-friend/" title="Three_Species_Pollen_Grains"><img src="https://live.staticflickr.com/65535/48769442988_fd19639569.jpg" width="467" height="500" alt="Three_Species_Pollen_Grains"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
 **Fig. 1** - Microscope images of the peace lily (left), passionvine (right), and a species of daisy (bottom) (source: [Asja Radja](https://commons.wikimedia.org/wiki/File:Three_Species_Pollen_Grains.jpg) via Wikimedia Commons)
@@ -36,8 +34,6 @@ This differentiation happened over millions of years, but the field of forensics
 
 When a crime has occurred, a team of forensic scientists goes to the crime scene and samples everything. They swab the blood on the wall, the dirt on the floor, and even the snot in the poor victim's nose. When scientists examine these samples, they sometimes find a stray pollen grain or two in the system of the victim (Fig. 2). Because these grains are so unique, and each plant produces pollen during a certain time of the year, forensic scientists are able to narrow down the time and place of the crime.
 
-![image alt text]({{ site.url }}/public/D8mwn5Y7j1FcArQRBtzUSg_img_1.jpg)
-
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/rkimpeljr/448898913/" title="pollen hand"><img src="https://live.staticflickr.com/168/448898913_5bc223583f.jpg" width="500" height="375" alt="pollen hand"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
 **Fig. 2** - Leftover pollen on shirts, shoes, or even inside a body can help detectives understand a crime scene. (source: [Rick Kimpel](https://www.flickr.com/photos/rkimpeljr/448898913/) via Flickr)
@@ -45,8 +41,6 @@ When a crime has occurred, a team of forensic scientists goes to the crime scene
 For example, in 2006 police were trying to reconstruct the events of a recounted assault. Pollen from a rare plant was swabbed off of the victim and analyzed by the forensics team, which allowed detectives to pinpoint the location of the crime and corroborate the victim's account of when the crime occurred [2].
 
 Pollen can also help forensic scientists validate an alibi. Several years ago a man was found dead in a mountain town of New Zealand. Eye witnesses helped police identify a suspect, but the suspect claimed that he had never been to the area of the crime and had never worn the jacket that witnesses supposedly saw him in [3]. However, after swabbing the jacket, forensic scientists identified pollen of a mountain plant that occurs near the location where the victim was found dead [3]. Although this evidence is circumstantial, investigators were able to use palynology to discredit the suspect's alibi and show that it was very likely the suspect had visited the mountain range where the victim was found dead [3].
-
-![image alt text]({{ site.url }}/public/D8mwn5Y7j1FcArQRBtzUSg_img_2.jpg)
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/48769983427/in/dateposted-friend/" title="Pollen_from_pine_tree"><img src="https://live.staticflickr.com/65535/48769983427_6a565c2204.jpg" width="500" height="410" alt="Pollen_from_pine_tree"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
