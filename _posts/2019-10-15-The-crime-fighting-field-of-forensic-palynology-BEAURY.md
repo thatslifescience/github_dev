@@ -19,17 +19,6 @@ teaser: “The distinct diversity of pollen grains has many uses - including hel
 source-id: 1CTHXGjGwP9W6yh2X3Rgpfa8xuRYWR9d9fA1ITDsZ1AU
 published: true
 ---
-**Title: **The crime-fighting field of forensic palynology
-
-**Author(s): **EBeaury
-
-**Category: **How it Works
-
-**Keywords: **Pollen, Botany, Forensic Science, Palynology
-
-**Teaser: **The distinct diversity of pollen grains has many uses - including helping detectives around the world piece together the details of a crime.
-
-**Thumbnail image**: Figure 2
 
 Pollen is just about the coolest thing ever, and one of my favorite treasures of biodiversity. Pollen is essential for the reproduction of more than 300,000 plant species and is carried around by approximately 200,000 different [pollinators](http://thatslifesci.com/2017-03-20-Finding-the-Perfect-Partner-LAguirre/) [1]. It can also be preserved in the soil for hundreds of thousands of years, allowing scientists to reconstruct past distributions of biodiversity. If that doesn't blow your mind already, pollen can also be used to fight crime.
 
@@ -75,3 +64,6 @@ Although evidence compiled through forensic palynology is often circumstantial (
 
 4. [Bell, Karen L., Kevin S. Burgess, Kazufusa C. Okamoto, Roman Aranda, and Berry J. Brosi. "Review and future prospects for DNA barcoding methods in forensic palynology." ](https://www.sciencedirect.com/science/article/pii/S187249731530106X)*[Forensic Science International: Genetic*s](https://www.sciencedirect.com/science/article/pii/S187249731530106X)[ 21 (2016): 110-116.](https://www.sciencedirect.com/science/article/pii/S187249731530106X)
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="How It Works" %}
