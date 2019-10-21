@@ -21,9 +21,11 @@ gallery:
 
 Research Area: Quantitative ecology, community ecology, species interactions
 
-I am an engineer-turned-ecologist (computer-scientist-turned-conservation-biologist, if you will) and my research involves applying quantitative tools to visualize and analyze scientific data. I am a data geek who likes to study wildlife populations and behavior. As a PhD student in OEB, I'm working on multi-species models with a focus on monitoring vertebrates. 
+I am an engineer-turned-ecologist (computer-scientist-turned-conservation-biologist, if you will) and my research involves applying quantitative tools to visualize and analyze scientific data. I’m fascinated by the sheer diversity of organisms on earth, how these organism interact with each other, and how these interactions affect where they are found, what they do, and how they go about doing them. I’m interested in how species are distributed in space and time, and how their interactions influence them at different levels - individual, population, community, ecosystem. 
 
-I’m fascinated by the sheer diversity of organisms on earth, how these organism interact with each other, and how these interactions affect where they are found, what they do, and how they go about doing them. I’m interested in how species are distributed in space and time, and how their interactions influence them at different levels - individual, population, community, ecosystem.
+As a PhD student in OEB, I'm working on modeling wildlife communities with a focus on monitoring vertebrates. My PhD research focuses on the effects of global change and species interactions on carnivore communities. I am trying to understand the abiotic and biotic drivers of carnivore community dynamics at local scales using a field study in a protected area in Zambia with fifteen species of carnivores.
+
+I'm passionate about science communication and involved with Science Café (http://oebsciencecafe.org/) as well as the Graduate Women in STEM in a leadership capacity (https://blogs.umass.edu/gwis/about/current-leadership/). At That's Life [Science], I have been a writer and peer editor since 2017, managing editor and Web & Graphic Design committee member since 2018, and President for 2019-20.
 
 {% assign index = true %}
 {% for post in site.posts %}
