@@ -19,6 +19,8 @@ teaser: Sometimes the best defense from predators is to stay in plain sight.
 source-id: 1fZm7KGT8Dzx7-07SeDKvlxaebivuDy6Xaad22FGHk0E
 published: true
 ---
+Post Author: [Alex Winsor](https://winsorbiology.wordpress.com/)
+
 The most intuitive way for prey animals to avoid detection from predators is to disguise their appearance with their natural environment, a strategy called crypsis. After all, if a prey animal remains hidden, there will be less chance of getting eaten! However, some animals employ a different technique: conspicuous warning coloration, often referred to as aposematism (Fig. 1). 
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/48749209238/in/dateposted-friend/" title="fig1"><img src="https://live.staticflickr.com/65535/48749209238_c8e0f670e5_b.jpg" width="1024" height="461" alt="fig1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
