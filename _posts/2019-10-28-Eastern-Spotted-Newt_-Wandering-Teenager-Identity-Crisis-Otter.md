@@ -10,7 +10,7 @@ tags:
 - aquatic ecology
 - orange
 categories:
-
+- Earth's Organisms
 header:
  image_fullwidth: organisms-header.jpg
 image:
@@ -20,18 +20,6 @@ teaser: The Eastern Spotted Newt has three dramatically different looks as it gr
 source-id: 14OOOaFDjAm3Izms7qyooVxziNwKl5MKQOrF0cjpI_o8
 published: true
 ---
-**Title: **The Eastern Spotted Newt: A Wandering Teenage Identity Crisis 
-
-**Author(s): **KOtter
-
-**Category: **Earth's Organisms
-
-**Keywords: **Massachusetts, Salamander, Niche, Aquatic Ecology, orange
-
-**Teaser: **The Eastern Spotted Newt has three dramatically different looks as it grows from egg to adulthood.
-
-**Thumbnail image**:  Figure 2 
-
 Teenage years. *Ugh*. If you're anything like me you went through many stages in which your style, taste and attitudes changed dramatically. Maybe you didn’t rapidly switch between a purple mohawk and long brown hair, but most of us have experienced this searching phase. 
 
 Turns out this experience of wandering about and changing your looks and behavior between childhood and adulthood is not exclusive to humans. The eastern spotted newt, *Notophthalmus viridescens*, has a similar (though presumably angst free) stage of life. 
@@ -46,17 +34,17 @@ Now things get crazy. Whereas most amphibians would metamorphose into adults, th
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/48724333011/in/dateposted-friend/" title="efts"><img src="https://live.staticflickr.com/65535/48724333011_93c57d6910_b.jpg" width="1024" height="683" alt="efts"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-**Fig 2**.** **Eastern spotted newt efts at the stage where you can see their bright orange coloration and rough skin, taken in May 2013 Harriman Park, NY (Source: Bruce Lucas via Wikimedia commons).
+**Fig 2.** Eastern spotted newt efts at the stage where you can see their bright orange coloration and rough skin, taken in May 2013 Harriman Park, NY (Source: Bruce Lucas via Wikimedia commons).
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/48724332976/in/dateposted-friend/" title="newtrange"><img src="https://live.staticflickr.com/65535/48724332976_66511002f7_b.jpg" width="700" height="450" alt="newtrange"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-**Fig 3.**** **The dark orange on the map represents the range of *Notophthalmus viridescens *in the United States (Source:  United States Geological Survey) [3].
+**Fig 3.** The dark orange on the map represents the range of *Notophthalmus viridescens *in the United States (Source:  United States Geological Survey) [3].
 
 After they have wandered to new bodies of water far from where they hatched, they will reinvent themselves and return to the water as sexually mature adults. Their skin dramatically changes color again, this time from a bright orange to an olive green with orange spots. Their tails widen and flatten, their skin becomes thinner, and they begin to hunt underwater as a keystone predator (predators that have a significant impact on their environment and in controlling prey populations) in many aquatic habitats [4].
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/48724002548/in/dateposted-friend/" title="adultnewtsss"><img src="https://live.staticflickr.com/65535/48724002548_20a9ccf5fc_b.jpg" width="1024" height="662" alt="adultnewtsss"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-**Fig 4.**** **An adult male Eastern Spotted Newt, where you can see the olive green delicate skin, orange spots, countershading (light belly and dark back) and wide flattened tail (Source: Brian Gratwicke via Wikimedia commons).
+**Fig 4.** An adult male Eastern Spotted Newt, where you can see the olive green delicate skin, orange spots, countershading (light belly and dark back) and wide flattened tail (Source: Brian Gratwicke via Wikimedia commons).
 
 This life history is more complex than that of any other North American amphibian. Much like the varying environments of obligations and expectations that we humans must navigate as we grow into adults, these newts must be able to find food and survive in dramatically different environments. These metamorphic life events likely require changes in their brains and sensory systems as they need to be able to hunt in water, on land, and in water again. However, no one has studied the neuroscience of this double metamorphosis, and we likely have a lot more to learn about these curious creatures. 
 
@@ -64,7 +52,7 @@ Exploring different niches (roles in an environment) can be a normal part of you
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/139839751@N06/48724333051/in/dateposted-friend/" title="camoflauge"><img src="https://live.staticflickr.com/65535/48724333051_a5e4edd0ba_b.jpg" width="1020" height="921" alt="camoflauge"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-**Fig 5.**** **[Left] An Eastern Spotted Newt eft on the forest floor in Gosham, MA where you can see that their orange coloration is not for camouflage but is a warning for predators that they are toxic, taken in September 2019 (source: Nikki Lee via personal communication). [Right] Two eastern spotted newts after mating in a pond, taken in April 2019 in Wendell, MA where you can see how their olive green coloration and countershading blends in with the pond (source: Kate Otter).
+**Fig 5.** (Left) An Eastern Spotted Newt eft on the forest floor in Gosham, MA where you can see that their orange coloration is not for camouflage but is a warning for predators that they are toxic, taken in September 2019 (source: Nikki Lee via personal communication). (Right) Two eastern spotted newts after mating in a pond, taken in April 2019 in Wendell, MA where you can see how their olive green coloration and countershading blends in with the pond (source: Kate Otter).
 
  **References**
 
