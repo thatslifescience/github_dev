@@ -19,19 +19,6 @@ teaser: Why might your advisor become distant from your work and how can you bri
 source-id: 1P9zzAQGtJuJj_dW5UoCtps21YtBNLXAMEcNYU7I9il4
 published: true
 ---
-**Title: **Managing Up
-
-**Author: **EDauster
-
-**Categories: **Diaries of a Grad Student
-
-**Key Words: **career, academia, advice, soft skills, graduate school
-
-**Teaser: **Why might your advisor become distant from your work and how can you bring them back into it?
-
-**Featured Photo: **Figure 1
-
- 
 
 <center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/48903032248/in/dateposted-friend/" title="https://www.flickr.com/photos/dff-jisc/4135521829/"><img src="https://live.staticflickr.com/65535/48903032248_f4f6be3e6c.jpg" width="429" height="500" alt="https://www.flickr.com/photos/dff-jisc/4135521829/"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
@@ -81,3 +68,6 @@ After all, you have so many projects to keep track of.
 
 When you manage your own guidance, work grows to become something you love.
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Grad School Diaries" %}
