@@ -23,7 +23,7 @@ published: true
 <center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/48903032248/in/dateposted-friend/" title="https://www.flickr.com/photos/dff-jisc/4135521829/"><img src="https://live.staticflickr.com/65535/48903032248_f4f6be3e6c.jpg" width="429" height="500" alt="https://www.flickr.com/photos/dff-jisc/4135521829/"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
 **Figure 1.** There is a lot of behind the scenes work to research experimentation which often includes reading and writing by the Principal Investigator (PI).  The top circle is often much more of their involvement than the bottom circle, which is usually completed by graduate students and undergraduates alone. However,feedback and guidance help that bottom circle progress much more rapidly and happily.
-
+ 
 The career path of an academic is not logical.
 
 A PI's life has been eventful.
