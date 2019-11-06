@@ -13,7 +13,7 @@ gallery:
   caption: Amy V. H. Strauss
 ---
 
-![Amy V.H. Strauss]({{ site.url }}/thatslifesci/images/strauss-01-01.jpg)
+![Amy V.H. Strauss]({{ site.url }}/images/strauss-01-01.jpg)
 
 [Personal Website](http://gpls.cns.umass.edu/oeb/directory/amy-v.-h.-strauss)<br>
 [Twitter](https://twitter.com/avstrauss)
