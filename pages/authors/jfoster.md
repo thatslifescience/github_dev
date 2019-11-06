@@ -16,9 +16,10 @@ gallery:
 ![Josh Foster]({{ site.url }}/images/JFoster1.png)
 
 
-Research Area: Protein engineering, structural biology
+Research Area: Biological nanopore engineering to develop novel biosensors in order to facilitate improved public health outcomes. 
 
-I am currently a first-year rotation student, so my exact research area is not yet fully defined, but I joined the MCB program with three years of industrial protein engineering experience. I am interested in expanding my existing knowledge set into crystallography and computational analysis of protein structure in order to facilitate greater understanding of enzyme mechanisms. From the information gained using these methods I want to manipulate the structure of these enzymes in order to expand on their potential research and societal applications. I am involved in the That’s Life [Science] outreach committee as well as the editing committee and can be reached at Jcfoster@umass.edu. 
+My research focuses on utilizing protein engineering techniques to alter the properties of biological nanopores to create sensors to detect and study bio-analytes using single-channel current recordings. My current project is focused on utilizing outer membrane protein G (OmpG) as a display scaffold to select novel biomarker binding peptides from a bacterially-displayed library via flow-cytometry. My general research focus is on tool development through the application of protein engineering methods. I am a writer, managing editor, and a member of the outreach committee for TLS. Please feel free to contact me at jcfoster@umass.edu with any questions regarding my research or TLS in general.
+
 {% assign index = true %}
 {% for post in site.posts %}
 {% if post.author contains page.author %}
