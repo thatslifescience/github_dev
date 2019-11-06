@@ -199,5 +199,17 @@ amcelhinney:
 nraytselis:
      name: “Nadia Raytselis”
      siterole: “B.S. in Microbiology, Spanish Minor”
+     
+jswenson:
+     name: “John Swenson”
+     siterole: “PhD Student in Organismic and Evolutionary Biology”
+     
+awinsor:
+     name: “Alex Winsor”
+     siterole: “PhD Student in Organismic and Evolutionary Biology”
+     
+kotter:
+     name: “Kate Otter”
+     siterole: “PhD Student in Neuroscience and Behavior”
 
 # you can add more authors here
