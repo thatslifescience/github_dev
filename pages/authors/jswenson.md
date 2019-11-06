@@ -15,7 +15,7 @@ gallery:
 
 ![John Swenson]({{ site.url }}/images/JSwenson-01.jpg)
 
-[Email](mailto:JSwenson@umass.edu)
+[Email](mailto:JSwenson@umass.edu)<br>
 [Twitter](https://twitter.com/peaceandscience)
 
 Research area: Molecular Ecology and Population Genomics
