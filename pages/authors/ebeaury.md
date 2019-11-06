@@ -12,7 +12,8 @@ gallery:
 - image_url: EBeaury-01.jpg
   caption: Evelyn Beaury
 ---
-![Evelyn Beaury]({{ site.urlimg }}/EBeaury-01.jpg)<br>
+![Evelyn Beaury]({{ site.url }}/images/EBeaury-01.jpg)<br>
+
 [Email](mailto:eve.beaury@gmail.com)
 
 Research Area: Biogeography of invasive plants to understand the patterns of invasion in the context of global change<br>
