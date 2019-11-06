@@ -92,10 +92,6 @@ header: no
         <p><a href = "{{ site.url }}/authors/kstraley"><b>Kit Straley</b></a></p>
         </div>
         <div class="large-3 columns">
-        <img src="{{ site.urlimg }}strauss-01-01.jpg" alt="Amy Strauss">
-        <p><a href = "{{ site.url }}/authors/astrauss"><b>Amy Strauss</b></a></p>
-        </div>
-        <div class="large-3 columns">
         <img src="{{ site.urlimg }}JSwenson-01.jpg" alt="John Swenson">
         <p><a href = "{{ site.url }}/authors/jswenson"><b>John Swenson</b></a></p>
         </div> 
@@ -222,6 +218,10 @@ header: no
         <img src="{{ site.urlimg }}shaughnessy-01-01.jpg" alt="Ciaran A. Shaughnessy">
         <p><a href = "{{ site.url }}/authors/cshaughnessy"><b>Ciaran A. Shaughnessy</b></a></p>
         </div>
+        <div class="large-3 columns">
+        <img src="{{ site.urlimg }}strauss-01-01.jpg" alt="Amy Strauss">
+        <p><a href = "{{ site.url }}/authors/astrauss"><b>Amy Strauss</b></a></p>
+        </div>
         <div class="large-3 columns end">
         <img src="{{ site.urlimg }}vahaba-01.jpg" alt="Dan Vahaba">
         <p><a href = "{{ site.url }}/authors/dvahaba"><b>Dan Vahaba</b></a></p>
@@ -230,6 +230,8 @@ header: no
         <img src="{{ site.urlimg }}vanderlinden-01-01.jpg" alt="Abby Vander Linden">
         <p><a href = "{{ site.url }}/authors/avlinden"><b>Abby Vander Linden</b></a></p>
         </div> 
+</div>
+<div class="row row-centered">
         <div class="large-3 columns end">
         <img src="{{ site.urlimg }}tzintel.jpg" alt="Trisha Zintel">
         <p><a href = "{{ site.url }}/authors/tzintel"><b>TrishaZintel</b></a></p>
