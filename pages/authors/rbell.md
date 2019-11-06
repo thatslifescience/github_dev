@@ -9,11 +9,11 @@ teaser: PhD Student in Organismic and Evolutionary Biology
 header:
   image_fullwidth: you-can-delete-me-header.png
 gallery:
-- image_url: rbell-01.jpg
+- image_url: RBell-01.jpg
   caption: Rachel Bell
 ---
 
-![Rachel Bell]({{ site.url }}/images/rbell-01.jpg)<br>
+![Rachel Bell]({{ site.url }}/images/RBell-01.jpg)<br>
 
 [Email](mailto:rbbell@umass.edu)
 [Twitter](https://twitter.com/primate_eco_evo)
