@@ -95,8 +95,6 @@ header: no
         <img src="{{ site.urlimg }}JSwenson-01.jpg" alt="John Swenson">
         <p><a href = "{{ site.url }}/authors/jswenson"><b>John Swenson</b></a></p>
         </div> 
-</div>
-<div class="row row-centered">
         <div class="large-3 columns end">
         <img src="{{ site.urlimg }}AWinsor-01.jpg" alt="Alex Winsor">
         <p><a href = "{{ site.url }}/authors/awinsor"><b>Alex Winsor</b></a></p>
