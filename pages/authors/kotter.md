@@ -9,11 +9,11 @@ teaser: PhD Student in Neuroscience and Behavior
 header:
   image_fullwidth: you-can-delete-me-header.png
 gallery:
-- image_url: KOtter-01.jpeg
+- image_url: KOtter-01.jpg
   caption: Kate Otter
 ---
 
-![Kate Otter]({{ site.url }}/images/KOtter-01.jpeg)
+![Kate Otter]({{ site.url }}/images/KOtter-01.jpg)
 
 Research Area: Neuroethology
 
