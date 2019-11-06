@@ -13,7 +13,7 @@ gallery:
   caption: Trisha Zintel
 ---
 
-![Trisha Zintel]({{ site.urlimg }}/tzintel.jpg)<br>
+![Trisha Zintel]({{ site.url }}/images/tzintel.jpg)<br>
 
 [Email](mailto:tzintel@umass.edu)<br>
 [Twitter](https://twitter.com/TrishaMZintel)<br>
