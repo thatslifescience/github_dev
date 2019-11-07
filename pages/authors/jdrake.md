@@ -16,7 +16,9 @@ gallery:
 ![Joseph Drake]({{ site.url }}/images/drake-01.jpg)
 
 [Personal Website](https://secretlifeofafieldbiologist.wordpress.com/)<br>
-[Twitter](https://twitter.com/VAN_DLL)<br>
+[Twitter](https://twitter.com/fieldbiojoe)<br>
+[Instagram](https://www.instagram.com/fieldbiojoe/)<br>
+
 Research Area: I am currently trying to understand how dispersal influences connectivity and overcomes fragmentation for Water Voles in the Assynt Scotland.
 
 I grew up in rural Indiana surrounded by nature, hiking, camping, fishing, and hunting. I always had an appreciation for the natural world as a result, but my journey to becoming a scientist has been long and unpredictable.  I am currently a Ph.D. student at UMass studying how humans and landscape influences connectivity, dispersal, and fragmentation.  Before I started my current research project, I got my Masters at TTU studying desert ecology and landscape connectivity in the Sonoran Desert for everything from bullfrogs to bighorn sheep.  I have worked on wildland and prescribed fires and tracked endangered and threatened species.  I have also worked with the US Forest Service and NPS.   Helping others develop a love of the natural world by sharing how I feel about the world around me, the love, wonder, and appreciation, is one of the most important things I can do. 
