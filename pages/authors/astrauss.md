@@ -15,7 +15,7 @@ gallery:
 
 ![Amy Strauss]({{ site.url }}/images/strauss-01-01.jpg)
 
-[Personal Website](www.amyvhstrauss.com)<br>
+[Personal Website](https://www.amyvhstrauss.com)<br>
 [Email](mailto:amyvstrauss@gmail.com)<br>
 [Twitter](https://twitter.com/avstrauss)
 
