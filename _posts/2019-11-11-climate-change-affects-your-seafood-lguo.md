@@ -18,17 +18,6 @@ teaser: The ocean is shifting along with a changing climate. What does that mean
 source-id: 1TzIbj2BC15on_DhmmcTCzCgVn1DhFrJT-uH3ujwOHuY
 published: true
 ---
-**Title: **How Climate Change Affects Your Seafood 
-
-**Author:** Lian Guo
-
-**Category:** Our Ecosystems
-
-**Keywords:** climate change, seafood, ocean, fish
-
-**Social media blurb:** The ocean is shifting along with a changing climate. What does that mean for the local seafood on your plate and in the market?
-
-**Thumbnail:** Figure 1.
 
 When you think about your ideal plate of seafood, what do you imagine? A bright red lobster? Grilled pink salmon? A beautiful fillet of swordfish? Whatever your preferences are, it's important to know that the price and availability of seafood on your plate depends on what can be caught in the ocean. Due to climate change, new temperature regimes are altering coastal ecosystems, which means the food on your plate will be altered as well. 
 
@@ -75,4 +64,9 @@ References:
 [6] Witkin, Taylor, Sahan TM Dissanayake, and Loren McClenachan. "Opportunities and barriers for fisheries diversification: Consumer choice in New England." Fisheries research 168 (2015): 56-62.
 
 [7] Perry, Allison L., Paula J. Low, Jim R. Ellis, and John D. Reynolds. "Climate change and distribution shifts in marine fishes." science 308, no. 5730 (2005): 1912-1915.
+
+## More From Thats Life [Science]
+{: .t60 }	
+{% include list-posts offset="1" entries="5" category="Our Ecosystems" %}
+
 
