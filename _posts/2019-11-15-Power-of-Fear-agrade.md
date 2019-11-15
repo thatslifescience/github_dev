@@ -11,7 +11,7 @@ tags:
 - survival
 - wildlife
 categories:
-How It Works
+- How It Works
 header:
  image_fullwidth: howitworks-header.jpg
 image:
@@ -20,17 +20,6 @@ teaser: Fear is a powerful driver of wildlife behavior, here are five ways anima
 source-id: 1SC1IliRD8Wi-ogzCe0dnnJLysly6aeiuNIbMi4gdIo8
 published: true
 ---
-**Title: **The Power of Fear: Four Ways Being Scared Affects Wildlife  
-
-**Author(s):** agrade
-
-**Category: **How it Works
-
-**Keywords: **Animal Behavior, Evolution, Fear, Survival, Wildlife
-
-**Teaser: **Fear is a powerful driver of wildlife behavior, here are five ways animals respond to fear. 
-
-**Thumbnail image**: Figure 3
 
 Fear is complicated. This is probably why biologists have only begun to scratch the surface of how being scared affects wildlife. When biologists study animal populations, simplifying these complex populations into an easy to understand equation can help better understand these populations as a whole and within each component. For example, consider a population of gray squirrels living on a college campus. They are well fed by dining hall trash, so some squirrels will immigrate in for a better squirrel life (Fig. 1). These squirrels may have a lot of babies. Others might not be so lucky and are picked off by a hawk or cat. Some others may leave for greener pastures and emigrate out. This sets the stage for the simplest way to track a population: Immigration + Births - Deaths - Emigration. A huge focus for study in biology has been death by predation – a.k.a. being eaten. Famous studies such as the Lynx and Hare relationship in Canada have tracked the interplay between predators and their prey [1]. But only recently have scientists recognized the power of fear. Fear effects, also called non-lethal effects, are how the mere *presence* of predators alters animal behavior [2]. Here are four ways that fear affects wildlife:
 
@@ -89,4 +78,9 @@ Despite these amazing findings, the true effects of fear are still being debated
 [5] [Ripple, William J., and Robert L. Beschta. "Restoring Yellowstone's aspen with wolves." Biological Conservation 138, no. 3-4 (2007): 514-519.](https://www.sciencedirect.com/science/article/pii/S0006320707001966)
 
 [6] [Peers, Michael JL, Yasmine N. Majchrzak, Eric Neilson, Clayton T. Lamb, Anni Hämäläinen, Jessica A. Haines, Laura Garland et al. "Quantifying fear effects on prey demography in nature." Ecology 99, no. 8 (2018): 1716-1723.](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.2381)
+
+
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="How It Works" %}
 
