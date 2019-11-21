@@ -13,7 +13,7 @@ categories:
 header:
  image_fullwidth: howitworks-header.jpg
 image:
- thumb: 2012_12_4_edauster.jpg
+ thumb: 2012-12-4-edauster.jpg
 teaser: "How do neuroscientists make a certain population of cells stand out from a sea of them squished together in the brain? The tools are already in nature, no need to reinvent the wheel."
 
 source-id: 1NCPyMdNRb_Jx0ibKBVzH0nJ_RGOjH_Jz_RZa7-Zvc4g
