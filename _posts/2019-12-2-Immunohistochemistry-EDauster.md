@@ -19,19 +19,6 @@ teaser: "How do neuroscientists make a certain population of cells stand out fro
 source-id: 1NCPyMdNRb_Jx0ibKBVzH0nJ_RGOjH_Jz_RZa7-Zvc4g
 published: true
 ---
-**Title: **Immunohistochemistry: One man's illness is another man’s experimental verification method
-
-**Author: **E. Dauster
-
-**Categories: **How it Works
-
-**Keywords: **neuroscience, antibody, bioluminescence, virus
-
-**Teaser: **How do neuroscientists make a certain population of cells stand out from a sea of them squished together in the brain?  The tools are already in nature, no need to reinvent the wheel.
-
-**Featured Photos: **Thumbnail image = Fig. 1
-
- 
 
 Why engineer something from scratch when our bodies have already figured out a way to do it?  That's the rationale that led to immunohistochemistry.  Immunohistochemistry, or IHC for short, is a commonly used method to make a group of cells fluoresce a certain color so that they stand out from all other nearby cells.  I have always used IHC following viral infusion into the brain to validate that it reached the cells I aimed for. (Neuroscientists can squirt a virus into the brain and use it to alter cellular activity.  For example we can decrease activity to see if certain cells are necessary to produce certain outcomes.  Don’t worry, these viruses don’t harm the rats.)  One of my recent[ posts](http://thatslifesci.com/2019-09-17-Brain-Surgery-Its-Not-Rocket-Science-DAUSTER/) goes over the imprecision sometimes involved in brain surgery.  To account for this imprecision, we must verify the location of our manipulations using IHC. 
 
@@ -73,3 +60,6 @@ References:
 
 [4] Ma, M., Ma, Y., Yi, X. et al. Intranasal delivery of transforming growth factor-beta1 in mice after stroke reduces infarct volume and increases neurogenesis in the subventricular zone. BMC Neurosci 9, 117 (2008) doi:10.1186/1471-2202-9-117.
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="How It Works" %}
