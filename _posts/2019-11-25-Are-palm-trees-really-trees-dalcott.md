@@ -17,18 +17,6 @@ teaser: Palm trees are quite unique, and to be honest, a little funny looking. A
 source-id: 1sheV9MCmBuYlumnRRV4Eld90Dhqm4EeykZLUgkBjZTc
 published: true
 ---
-**Title: **Are palm trees really trees?
-
-**Author(s): **dalcott
-
-**Category: **Earth's Organisms
-
-**Keywords: ** plants, trees, tropics
-
-**Teaser: **Palm trees are quite unique, and to be honest, a little funny looking. Are they actually trees? And why are they the way they are?
-
-**Thumbnail image**:  Figure 1
-
 Recently, I had the good fortune of getting away to some place warm for the weekend. I'm an early riser in a family of not-so-early risers, so the mornings offer a period of peace and quiet to myself. One morning, I found myself sitting under a palm tree that looked a lot like this one (Fig. 1) and I couldn’t help but think: "Palm trees are weird." I’m a bit of a tree nerd, so I probably spend more time than the average person looking at different trees. This might explain why the features of this palm tree struck me as so bizarre. But if you take a second and look at a palm tree, they really are quite different than most trees.
 
 <center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/48960491247/in/dateposted-friend/" title="PalmTree1"><img src="https://live.staticflickr.com/65535/48960491247_1f2862ffbe.jpg" width="243" height="500" alt="PalmTree1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
@@ -87,3 +75,6 @@ A few more fun facts about palm trees:
 
 [6] Reichgelt, Tammo, Christopher K. West, and David R. Greenwood. "[The relation between global palm distribution and climate](https://www.nature.com/articles/s41598-018-23147-2?utm_source=commission_junction&utm_medium=affiliate)." Scientific Reports 8, 1 (2018).
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Earth's Organisms" %}
