@@ -1,5 +1,5 @@
 ---
-title: Are palm trees really trees?
+title: "Are palm trees really trees?"
 layout: page
 author: dalcott
 permalink: /2019-11-25-Are-palm-trees-really-trees-dalcott/
