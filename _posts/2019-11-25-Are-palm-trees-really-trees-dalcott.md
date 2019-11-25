@@ -13,7 +13,7 @@ header:
  image_fullwidth: organisms-header.jpg
 image:
  thumb: 2019-11-25-dalcott-fig1.jpg
-teaser: Palm trees are quite unique, and to be honest, a little funny looking. Are they actually trees? And why are they the way they are?
+teaser: "Palm trees are quite unique, and to be honest, a little funny looking. Are they actually trees? And why are they the way they are?"
 source-id: 1sheV9MCmBuYlumnRRV4Eld90Dhqm4EeykZLUgkBjZTc
 published: true
 ---
