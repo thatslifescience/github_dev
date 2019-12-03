@@ -34,10 +34,14 @@ Figure 3.  This is a different example in which a primary antibody from a rabbit
  
 With a little bit of creative thinking, we have the ability to use things in nature as tools for research.  The main example in this article is the immune system, but I also mentioned viruses as tools we use to change the frequency of cell activity.  Viruses in general are bad for us, but scientists figured out a way to make them harmless and use their machinery to deliver new pieces of genetic material to an animal.  Rabies is now used as a tracing mechanism to see where one cell is getting information from.  It’s all the same idea of having a question that needs to be solved or a method that needs to be created, and looking in the world around you to find a solution.  Viruses aren’t bad if you use them for good, and the immune system can be productive rather than destructive if you manipulate it appropriately.
  
-References:
+**References**
+
 [1] Shimomura O, Johnson FH, Saiga Y (Jun 1962). "Extraction, purification and properties of aequorin, a bioluminescent protein from the luminous hydromedusan, Aequorea". Journal of Cellular and Comparative Physiology. 59 (3): 223–39. doi:10.1002/jcp.1030590302. PMID 13911999.
+
 [2]  Tsien RY (1998). "The green fluorescent protein"(PDF). Annual Review of Biochemistry. 67: 509–44. doi:10.1146/annurev.biochem.67.1.509. PMID 9759496.
+
 [3] Chalfie M, Tu Y, Euskirchen G, Ward WW, Prasher DC (Feb 1994). "Green fluorescent protein as a marker for gene expression". Science. 263 (5148): 802–5. Bibcode:1994Sci...263..802C. doi:10.1126/science.8303295. PMID 8303295.
+
 [4] Ma, M., Ma, Y., Yi, X. et al. Intranasal delivery of transforming growth factor-beta1 in mice after stroke reduces infarct volume and increases neurogenesis in the subventricular zone. BMC Neurosci 9, 117 (2008) doi:10.1186/1471-2202-9-117.
 
 
