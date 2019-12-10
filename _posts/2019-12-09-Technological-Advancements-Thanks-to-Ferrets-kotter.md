@@ -1,8 +1,8 @@
 ---
-title: Technological Advancements…. Thanks to Ferrets?
+title: "Technological Advancements…. Thanks to Ferrets?"
 layout: page
 author: kotter
-permalink: /2019-11-08-technological-advancements….-thanks-to-ferrets-otter/
+permalink: /2019-11-08-technological-advancements-thanks-to-ferrets-kotter/
 tags:
 - ferret
 - predator
@@ -46,7 +46,7 @@ However, I am willing to bet you did not think of **Ferrets **(Fig. 2)**.**
 
 <center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/48919507856/in/dateposted-friend/" title="petferretscollage"><img src="https://live.staticflickr.com/65535/48919507856_7411c00a6b.jpg" width="500" height="262" alt="petferretscollage"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-**Fig. 3 **-My brother and I (age 6) holding our first ferrets, Romeo and Juliet. (source: Kate Otter) 
+**Fig. 3 **- My brother and I (age 6) holding our first ferrets, Romeo and Juliet. (source: Kate Otter) 
 
 Ferrets, as companion animals, are very close to my heart (Fig. 3). I have owned ferrets throughout my life. That said, I was shocked to learn how humans have partnered with ferrets to solve problems. Now I know what you're thinking… It makes total sense that ferrets can change your life by making you happy and reducing stress, but how could they help solve civilization-level problems?
 
@@ -88,21 +88,21 @@ It is amazing to consider how humans have partnered with animals and used them t
 
 **References **
 
-1. Pagad, Shyama. "Mustela Furo (Mammal)." Edited by Sugoto Roy. Global Invasive Species Database. IUCN/SSC Invasive Species Specialist Group (ISSG) with support from the Terrestrial and Freshwater Biodiversity Information System (TFBIS) Programme, October 4, 2010. [http://issg.org/database/species/ecology.asp?si=886&fr=1&sts=&lang=EN](http://issg.org/database/species/ecology.asp?si=886&fr=1&sts=&lang=EN).
+[1] Pagad, Shyama. "Mustela Furo (Mammal)." Edited by Sugoto Roy. Global Invasive Species Database. IUCN/SSC Invasive Species Specialist Group (ISSG) with support from the Terrestrial and Freshwater Biodiversity Information System (TFBIS) Programme, October 4, 2010. [http://issg.org/database/species/ecology.asp?si=886&fr=1&sts=&lang=EN](http://issg.org/database/species/ecology.asp?si=886&fr=1&sts=&lang=EN).
 
-2. Blandford, P. R. S. "Biology of the Polecat Mustela Putorius: a Literature Review." *Mammal Review* 17, no. 4 (1987): 155–98. [https://doi.org/10.1111/j.1365-2907.1987.tb00282.x](https://doi.org/10.1111/j.1365-2907.1987.tb00282.x).
+[2] Blandford, P. R. S. "Biology of the Polecat Mustela Putorius: a Literature Review." *Mammal Review* 17, no. 4 (1987): 155–98. [https://doi.org/10.1111/j.1365-2907.1987.tb00282.x](https://doi.org/10.1111/j.1365-2907.1987.tb00282.x).
 
-3. Davison, A, J.d.s Birks, H.i Griffiths, A.c Kitchener, D Biggins, and R.k Butlin. "Hybridization and the Phylogenetic Relationship between Polecats and Domestic Ferrets in Britain." *Biological Conservation* 87, no. 2 (1999): 155–61. [https://doi.org/10.1016/s0006-3207(98)00067-6](https://doi.org/10.1016/s0006-3207(98)00067-6).
+[3] Davison, A, J.d.s Birks, H.i Griffiths, A.c Kitchener, D Biggins, and R.k Butlin. "Hybridization and the Phylogenetic Relationship between Polecats and Domestic Ferrets in Britain." *Biological Conservation* 87, no. 2 (1999): 155–61. [https://doi.org/10.1016/s0006-3207(98)00067-6](https://doi.org/10.1016/s0006-3207(98)00067-6).
 
-4. "Invention of the Telegraph." The Library of Congress. Accessed November 7, 2019. [https://www.loc.gov/collections/samuel-morse-papers/articles-and-essays/invention-of-the-telegraph/](https://www.loc.gov/collections/samuel-morse-papers/articles-and-essays/invention-of-the-telegraph/).
+[4] "Invention of the Telegraph." The Library of Congress. Accessed November 7, 2019. [https://www.loc.gov/collections/samuel-morse-papers/articles-and-essays/invention-of-the-telegraph/](https://www.loc.gov/collections/samuel-morse-papers/articles-and-essays/invention-of-the-telegraph/).
 
-5. "Ferrets to Carry Cables ." *The Minneapolis Journal *, March 3, 1906, sec. Curios and Oddities. [https://chroniclingamerica.loc.gov/data/batches/mnhi_calumet_ver01/data/sn83045366/0020653445A/1906030301/0054.pdf](https://chroniclingamerica.loc.gov/data/batches/mnhi_calumet_ver01/data/sn83045366/0020653445A/1906030301/0054.pdf).
+[5] "Ferrets to Carry Cables ." *The Minneapolis Journal *, March 3, 1906, sec. Curios and Oddities. [https://chroniclingamerica.loc.gov/data/batches/mnhi_calumet_ver01/data/sn83045366/0020653445A/1906030301/0054.pdf](https://chroniclingamerica.loc.gov/data/batches/mnhi_calumet_ver01/data/sn83045366/0020653445A/1906030301/0054.pdf).
 
-6. "Ferrets to String Wires in Conduits." *The Richmond Palladium*, August 5, 1906, Vol. XXXI edition, sec. No. 188. [https://chroniclingamerica.loc.gov/data/batches/in_johnwooden_ver01/data/sn82015675/00271744614/1906080501/0741.pdf](https://chroniclingamerica.loc.gov/data/batches/in_johnwooden_ver01/data/sn82015675/00271744614/1906080501/0741.pdf).
+[6] "Ferrets to String Wires in Conduits." *The Richmond Palladium*, August 5, 1906, Vol. XXXI edition, sec. No. 188. [https://chroniclingamerica.loc.gov/data/batches/in_johnwooden_ver01/data/sn82015675/00271744614/1906080501/0741.pdf](https://chroniclingamerica.loc.gov/data/batches/in_johnwooden_ver01/data/sn82015675/00271744614/1906080501/0741.pdf).
 
-7. Gustafson, Jo. "'Felicia:' $35 Pipe Cleaner Saves Thousands at NAL." *The Aurora Beacon News*, September 13, 1971. [https://history.fnal.gov/felicia.html](https://history.fnal.gov/felicia.html).
+[7] Gustafson, Jo. "'Felicia:' $35 Pipe Cleaner Saves Thousands at NAL." *The Aurora Beacon News*, September 13, 1971. [https://history.fnal.gov/felicia.html](https://history.fnal.gov/felicia.html).
 
-8. "Ferrets Save Millennium Concert." *BBC News*, December 29, 1999. [http://news.bbc.co.uk/2/hi/uk_news/582123.stm](http://news.bbc.co.uk/2/hi/uk_news/582123.stm)
+[8] "Ferrets Save Millennium Concert." *BBC News*, December 29, 1999. [http://news.bbc.co.uk/2/hi/uk_news/582123.stm](http://news.bbc.co.uk/2/hi/uk_news/582123.stm)
 
-9. "Ferret Helps Fix High-Tech Problem." *The Associated Press*, October 2, 1999. [https://apnews.com/35f8627c4aafba24c0bbcc38154431d5](https://apnews.com/35f8627c4aafba24c0bbcc38154431d5).
+[9] "Ferret Helps Fix High-Tech Problem." *The Associated Press*, October 2, 1999. [https://apnews.com/35f8627c4aafba24c0bbcc38154431d5](https://apnews.com/35f8627c4aafba24c0bbcc38154431d5).
 
