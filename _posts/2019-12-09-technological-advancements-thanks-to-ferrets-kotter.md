@@ -10,12 +10,12 @@ tags:
 - technology
 - history
 categories:
-- Earth’s Organisms
+- Earth's Organisms
 header:
  image_fullwidth: organisms-header.jpg
 image:
  thumb: 2019-11-08-kotter.jpg
-teaser: "Ferrets did what? The surprising use of ferrets for solving technological problems."
+teaser: Ferrets did what? The surprising use of ferrets for solving technological problems.
 source-id: 189hG77CCBZJFriYmgff3x9zaKFgh4aHyI5OmZL7kZ1g
 published: true
 ---
