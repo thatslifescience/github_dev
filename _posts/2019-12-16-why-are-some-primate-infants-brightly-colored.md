@@ -18,17 +18,6 @@ teaser: “In some primate species, infants are born with conspicuous coats that
 source-id: 1CX1S6i1_WwXv4zyPGR_04P_C-1QGcYU7RmByKrMqJGo
 published: true
 ---
-**Title:** Why are some primate infants brightly colored?
-
-**Author:** rbell
-
-**Categories:** Earth's Organisms
-
-**Keywords:** Primate, Evolution, Color
-
-**Teaser:** In some primate species, infants are born with conspicuous coats that fade to normal adult coloration over time. What could be causing these uniquely colored infants? What do species with natal coats all have in common?
-
-**Thumbnail image:** Fig. 1
 
 If you have ever been to a zoo that has silvery langurs or black-and-white colobus monkeys, you might have had the wonderful opportunity to see one of their infants. They aren't difficult to spot: silvery langur infants are bright orange! Black and white colobus infants are snowy white, in great contrast to their parents’ mostly black coats. This phenomenon is known as conspicuous natal coat coloration. Several primate species including some monkey, gibbon, and lemur species have infants born with coats that contrast sharply with adult coloration, typically making them very easy to see amongst other members of their group. Despite these numerous examples among primate species, this is actually quite rare in other non-primate animals. So why does this happen in primates? Researchers have been considering the evolutionary advantage of brightly colored infants for decades, and a few hypotheses remain popular.
 
@@ -63,4 +52,8 @@ References:
 [3] Ross, Caroline, and Gemma Regan. "[Allocare, predation risk, social structure and natal coat colour in anthropoid primates.](https://www.karger.com/Article/Abstract/21731)" *Folia Primatologica* 71, no. 1-2 (2000): 67-76.
 
 [4] Barthold, Julia, Claudia Fichtel, and Peter Kappeler. "[What is it going to be? Pattern and potential function of natal coat change in sexually dichromatic redfronted lemurs (](https://onlinelibrary.wiley.com/doi/pdf/10.1002/ajpa.20868)*[Eulemur fulvus rufu*s](https://onlinelibrary.wiley.com/doi/pdf/10.1002/ajpa.20868)[).](https://onlinelibrary.wiley.com/doi/pdf/10.1002/ajpa.20868)" *American Journal of Physical Anthropology* 138, no. 1 (2009): 1-10.
+
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Earth's Organisms" %}
 
