@@ -2,7 +2,7 @@
 title: Why are some primate infants brightly colored?
 layout: page
 author: rbell
-permalink: /2019-12-16-why-are-some-primate-infants-brightly-colored/
+permalink: /2019-12-16-why-are-some-primate-infants-brightly-colored-rbell/
 tags:
 - primate
 - evolution
