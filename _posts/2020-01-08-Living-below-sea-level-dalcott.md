@@ -13,7 +13,7 @@ header:
  image_fullwidth: ecosystem-header.jpg
 image:
  thumb: 20190108-Alcott-thumb.jpg
-teaser: “Us: Living near water and below sea-level is a bad idea. The Dutch: Challenge accepted.”
+teaser: "Us: Living near water and below sea-level is a bad idea. The Dutch: Challenge accepted."
 source-id: 1gCyqraXq1jQDuFb8Wj27tCkPgmbItFDpXkp-nm9iEKs
 published: true
 ---
