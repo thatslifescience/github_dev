@@ -1,5 +1,5 @@
 ---
-title: "Living below sea level - Dutch engineering marvels"
+title: "Living below sea level: Dutch engineering marvels"
 layout: page
 author: dalcott
 permalink: /2020-01-08-Living-below-sea-level-dalcott/
