@@ -1,5 +1,5 @@
 ---
-title: "Living below sea level: Dutch engineering marvels"
+title: "Living below sea level - Dutch engineering marvels"
 layout: page
 author: dalcott
 permalink: /2020-01-08-Living-below-sea-level-dalcott/
@@ -38,8 +38,6 @@ Protecting against devastating and deadly floods, the people of the Netherlands 
 <center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/49122844068/in/dateposted-friend/" title="NetherlandsReclaimedLandMap1"><img src="https://live.staticflickr.com/65535/49122844068_50a847896d.jpg" width="467" height="500" alt="NetherlandsReclaimedLandMap1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
 **Fig. 4** – A map of a portion of the Netherlands depicting original land and land reclaimed from the sea, including the year that the construction projects were completed. Notice that the construction of the Afsluitdijk dam created a freshwater lake out of what was previously seawater by cutting off the sea but retaining freshwater inputs from rivers (Modified with permission from[ Io Herodotus](https://en.wikipedia.org/wiki/Zuiderzee_Works) under[ CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en)).
-
- 
 
 <center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/49122844043/in/dateposted-friend/" title="Noordoostpolder"><img src="https://live.staticflickr.com/65535/49122844043_117bacab8e.jpg" width="500" height="391" alt="Noordoostpolder"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center> 
 
