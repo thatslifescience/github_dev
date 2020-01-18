@@ -18,19 +18,6 @@ teaser: Why do we go on autopilot when we travel somewhere we’ve been a thousa
 source-id: 1ZArzt3q3u6ijZhtFbhwNH6RLli1DPCF3ZI9rEV5_PIs
 published: true
 ---
-**Title: **Going on Autopilot? Thank Your Place Cells
-
-**Author: **E. Dauster
-
-**Categories: **How it Works
-
-**Keywords: **adaptation, animal behavior, neuroscience, navigation
-
-**Teaser: **Why do we go on autopilot when we travel somewhere we've been a thousand times?  How do our brains snap out of this routine when we need to change it up?
-
-**Featured Photos: **Thumbnail image = Fig. 1
-
-________________
 
 <center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/49356096233/in/dateposted-friend/" title="tls post 12 pic2"><img src="https://live.staticflickr.com/65535/49356096233_074e43aa6d_o.jpg" width="768" height="1024" alt="tls post 12 pic2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center><br>
 
@@ -48,7 +35,7 @@ Once you're familiar with a route, these place cells become linked by strong con
 
 <center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/49356071698/in/dateposted-friend/" title="tls post 12 pic1"><img src="https://live.staticflickr.com/65535/49356071698_46b82d9970_o.gif" width="256" height="440" alt="tls post 12 pic1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center><br>
 
-**Figure 3. ** This is a much larger scale of the "cells that fire together wire together" phenomenon.  Scientists can determine which cells send information to which other cells, and then create a map of cellular communication throughout the brain like the maps above.  (Source: Wikipedia,[ J.menezes1204](https://upload.wikimedia.org/wikipedia/commons/b/b5/Connection-wise_Analysis.gif))
+**Figure 3.** This is a much larger scale of the "cells that fire together wire together" phenomenon. Scientists can determine which cells send information to which other cells, and then create a map of cellular communication throughout the brain like the maps above.  (Source: Wikipedia,[ J.menezes1204](https://upload.wikimedia.org/wikipedia/commons/b/b5/Connection-wise_Analysis.gif))
 
 One day, you are on your way to work and your regular coffee shop has closed. You know that you can't go there to get your coffee in the mornings anymore, but somehow you still end up on autopilot in their parking lot some days.  Now you need to re-route and find a new path that doesn’t lead you to a closed establishment. Your place cells are springing to life!  If the path changes, your previously subdued place cells that were not utilized in the old path will jump in to make a representation of your new path. Eventually, the new route will become familiar and the new connections will solidify. You and your neurons are back to autopilot. 
 
@@ -66,5 +53,7 @@ So don't worry about running out of space in your brain for new memories.  At le
 
 [3] Moser EI, Kropff E, and Moser MB. 2008. [Place Cells, Grid Cells, and the Brain's Spatial Representation System](https://www.annualreviews.org/doi/abs/10.1146/annurev.neuro.31.061307.090723). *Annual Review of Neuroscience *31:69-89.
 
- 
+ ## More From Thats Life [Science]
+{: .t60 }	
+{% include list-posts offset="1" entries="5" category="How It Works" %}
 
