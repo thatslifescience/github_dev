@@ -53,7 +53,7 @@ So don't worry about running out of space in your brain for new memories.  At le
 
 [3] Moser EI, Kropff E, and Moser MB. 2008. [Place Cells, Grid Cells, and the Brain's Spatial Representation System](https://www.annualreviews.org/doi/abs/10.1146/annurev.neuro.31.061307.090723). *Annual Review of Neuroscience *31:69-89.
 
- ## More From Thats Life [Science]
+## More From Thats Life [Science]
 {: .t60 }	
 {% include list-posts offset="1" entries="5" category="How It Works" %}
 
