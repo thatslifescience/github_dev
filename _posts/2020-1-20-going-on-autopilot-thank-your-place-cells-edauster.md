@@ -47,11 +47,11 @@ So don't worry about running out of space in your brain for new memories.  At le
 
 **References:**
 
-[1] O'Keefe J, Dostrovsky J, 1971.  [The hippocampus as a spatial map.  Preliminary evidence from unit activity in the freely-moving rat](https://www.sciencedirect.com/science/article/abs/pii/0006899371903581?via%3Dihub). *Brain Res. *34:171-75.
+[1] O'Keefe J, Dostrovsky J, 1971. [The hippocampus as a spatial map. Preliminary evidence from unit activity in the freely-moving rat](https://www.sciencedirect.com/science/article/abs/pii/0006899371903581?via%3Dihub). *Brain Res.* 34:171-75.
 
-[2] Wilson MA, McNaughton BL. 1993.  [Dynamics of the hippocampal ensemble code for space](https://science.sciencemag.org/content/261/5124/1055). *Science *261:1055-58.
+[2] Wilson MA, McNaughton BL. 1993. [Dynamics of the hippocampal ensemble code for space](https://science.sciencemag.org/content/261/5124/1055). *Science* 261:1055-58.
 
-[3] Moser EI, Kropff E, and Moser MB. 2008. [Place Cells, Grid Cells, and the Brain's Spatial Representation System](https://www.annualreviews.org/doi/abs/10.1146/annurev.neuro.31.061307.090723). *Annual Review of Neuroscience *31:69-89.
+[3] Moser EI, Kropff E, and Moser MB. 2008. [Place Cells, Grid Cells, and the Brain's Spatial Representation System](https://www.annualreviews.org/doi/abs/10.1146/annurev.neuro.31.061307.090723). *Annual Review of Neuroscience* 31:69-89.
 
 ## More From Thats Life [Science]
 {: .t60 }	
