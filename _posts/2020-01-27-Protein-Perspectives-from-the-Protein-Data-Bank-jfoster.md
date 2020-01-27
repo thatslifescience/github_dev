@@ -48,3 +48,7 @@ Macromolecular structures contain a wealth of information relating the secondary
 
 [2] Phelan, Benjamin. "The Most Spectacular Mutation in Recent Human History." Slate, Slate, 23 Oct. 2012, [https://slate.com/technology/2012/10/evolution-of-lactose-tolerance-why-do-humans-keep-drinking-milk.html](https://slate.com/technology/2012/10/evolution-of-lactose-tolerance-why-do-humans-keep-drinking-milk.html)
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Grad School Diaries" %}
+
