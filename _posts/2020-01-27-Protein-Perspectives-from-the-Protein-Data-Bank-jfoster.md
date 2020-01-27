@@ -26,7 +26,7 @@ The vast array of macromolecular structures (158,787 as of 12/22/2019) covers a 
 
 <center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/49399075758/in/dateposted-friend/" title="1jyn"><img src="https://live.staticflickr.com/65535/49399075758_4b4a880c4f_c.jpg" width="800" height="638" alt="1jyn"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-**Figure 1. **An X-ray diffraction crystal structure of *E.coli* lactase, showing alpha-helical (pink) and beta-sheet (blue) secondary structural elements. Lactose itself can be seen as green/red balls! Source: Wikimedia Commons, [Astrojan](https://commons.wikimedia.org/wiki/User:Astrojan).
+**Figure 1.** An X-ray diffraction crystal structure of *E.coli* lactase, showing alpha-helical (pink) and beta-sheet (blue) secondary structural elements. Lactose itself can be seen as green/red balls! Source: Wikimedia Commons, [Astrojan](https://commons.wikimedia.org/wiki/User:Astrojan).
 
 Macromolecular structures contain a wealth of information relating the secondary structural elements (seen in Fig. 1), which form all of our proteins, to the biological function of the protein. By visualizing the structure of protein, researchers are able to connect changes in the genome to structural alterations in the protein product that may not have been obvious from the primary amino acid sequence of the protein. Protein Data Bank provides all this and more, so if you've ever been interested in what molecule is causing a disease, or even healthy functionality, the Protein Data Bank is a fascinating resource to peruse!  
 
