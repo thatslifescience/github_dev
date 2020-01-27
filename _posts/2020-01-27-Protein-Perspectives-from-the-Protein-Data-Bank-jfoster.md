@@ -20,18 +20,6 @@ teaser: A tool to see things from a protein’s point of view!
 source-id: 1X8REhcuA2UX1OBYNuvBAgKeqEzDOdGO6yq3igluKFZc
 published: true
 ---
-**Title: ** Protein Perspectives from the Protein Data Bank
-
-**Author(s): **JFoster
-
-**Category: **Grad School Diaries
-
-**Keywords: **Protein, Science and Society, Human Health, Data, Resource
-
-**Teaser: **A tool to see things from a protein's point of view!
-
-**Thumbnail image**: Fig 1
-
 Have you ever heard about a genetic disorder or disease but had a hard time conceptualizing how a DNA sequence resulted in this ailment? What does a DNA mutation actually mean at the level of an organism? Connecting genomic changes with phenotypic (physically observable) outcomes isn't always intuitive, but luckily there are an increasing number of tools available to aid in that process! One such tool, which I use constantly in my own research, is the Protein Data Bank (PDB, [http://www.rcsb.org/](http://www.rcsb.org/)): an open-access repository of X-ray diffraction, electron microscopy, and NMR structures of a wide variety of proteins and nucleic acids (sometimes both together!). 
 
 The vast array of macromolecular structures (158,787 as of 12/22/2019) covers a gamut of proteins from both prokaryotic and eukaryotic organisms and functions as a valuable research tool for numerous fields, especially those related to human health. An everyday example would be the protein lactase [PDB ID 3WF3], which is an enzyme that helps humans process dairy and whose absence is responsible for lactose intolerance [1]. The genetic basis for lactose intolerance is primarily related to a mutation in the gene responsible for expression of the lactase gene [2]. In other words, people with lactose intolerance have a functioning gene that codes for the production of lactase, but this mutation prevents the expression of the enzyme. People with this mutation thus have a difficult time breaking down milk sugar. More complicated examples can be found in the lysosomal storage disease class of disorders, such as Fabry disease or Tay-Sachs. In these diseases, mutations in certain genes lead to expressed but 'incorrect' enzymes which typically exhibit reduced or non-existent function, leading to the disease phenotype.
