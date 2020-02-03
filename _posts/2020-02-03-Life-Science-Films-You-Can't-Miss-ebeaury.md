@@ -11,7 +11,7 @@ tags:
 categories:
  - Grad School Diaries
 header:
- image_fullwidth:gradschooldiaries-header.jpg
+ image_fullwidth: gradschooldiaries-header.jpg
 image:
  thumb: 20-02-03-ebeaury.jpg
 teaser: With the constant stream of content coming your way, here are some of the best science/nature films entertainment has to offer
@@ -21,11 +21,11 @@ published: true
 
 With the growing popularity of online streaming services, the flow of content is at an all time high. To avoid getting lost in the shuffle of everything new, I'm here to remind you of some of the great movies and TV series that may have passed you by. If you love science and nature—anything from the far reaches of the galaxy to the microscopic specks of pollen carried around by bees—here are some can’t-miss films, documentaries, and shows from the last few decades (in no particular order).
 
-**1) ****_The Cove_**** (2009)**
+**1) *The Cove* (2009)**
 
-In *The Cove,* filmmakers Louis Psihoyos and Mark Monroe expose Japan's controversial industry of dolphin fishing. *The Cove* is a staggering account of animal cruelty and food contamination that received an Oscar for Best Documentary Feature in the 2010 Academy Awards [1]. This film is available to stream on Amazon Prime, iTunes, Youtube and Google Play. If you enjoy *The Cove*, check out Psihoyos’ and Monroe’s other film *Racing Extinction* (2015) about mankind's effect on the survival of animals.
+In *The Cove*, filmmakers Louis Psihoyos and Mark Monroe expose Japan's controversial industry of dolphin fishing. *The Cove* is a staggering account of animal cruelty and food contamination that received an Oscar for Best Documentary Feature in the 2010 Academy Awards [1]. This film is available to stream on Amazon Prime, iTunes, Youtube and Google Play. If you enjoy *The Cove*, check out Psihoyos’ and Monroe’s other film *Racing Extinction* (2015) about mankind's effect on the survival of animals.
 
-**2) ****_The Hellstrom Chronicle_**** (1971)**
+**2) *The Hellstrom Chronicle* (1971)**
 
 Another Oscar winner [2], *The Hellstrom Chronicle*, explores the power of the insect world. A lot has changed since the release of this film in the early 70s, but if you're looking for something different and entertaining, check out this film about the potential for insects to take over the world. 
 
@@ -33,11 +33,11 @@ Another Oscar winner [2], *The Hellstrom Chronicle*, explores the power of the i
 
 **Fig. 1** - The site of the real Stanford Prison Experiment at Stanford University (source: [Eric E. Castro](https://commons.wikimedia.org/wiki/File:Plaque_Dedicated_to_the_Location_of_the_Stanford_Prison_Experiment.jpg) via Wikimedia Commons)
 
-**3) ****_The Stanford Prison Experiment_**** (****2015****)**
+**3) *The Stanford Prison Experiment* (2015)**
 
 While not quite a documentary, *The Stanford Prison Experiment* is a dramatic reenactment of a very real, and very controversial experiment that took place at Stanford University in 1971 [3]. In this experiment, social scientists staged a mock prison environment in which male students were either prisoners or guards. The scientists let these power dynamics play out to what ended in a violent and shocking display of human behavior. If the movie piques your interest, the lead researcher of the experiment also wrote a book called ["The Lucifer Effect: Understanding How Good People Turn Evil"](https://www.amazon.com/Lucifer-Effect-Understanding-Good-People/dp/0812974441).
 
-**4) ****_Blackfish_****(2013)**
+**4) *Blackfish* (2013)**
 
 If you have yet to see *Blackfish*, drop everything and rent this film. This documentary exposes SeaWorld's incredible mistreatment of Orcas and their trainers, which ultimately resulted in the death of a trainer and led to SeaWorld restructuring their captive animal programs (although SeaWorld still houses Orcas). *Blackfish* is available on multiple streaming services for a small fee.
 
@@ -47,15 +47,15 @@ If you have yet to see *Blackfish*, drop everything and rent this film. This doc
 
  
 
-**5) ****_Honeyland_****(2019)**
+**5) *Honeyland* (2019)**
 
 *Honeyland* is an artistic documentary following Hatidze Muratova, a Macedonian woman trying to save the bees. This film explores her life and relationship with the natural world as a beehunter in a time when we're rapidly losing these precious pollinators. *Honeyland *was a highly regarded film, earning the title as the "Most Awarded Film" at the prestigious Sundance Film Festival in 2019 [4].
 
-**6) ****_Becoming Human_**** (2009)**
+**6) *Becoming Human* (2009)**
 
 *Becoming Human* is a [PBS three-part special](https://www.pbs.org/wgbh/nova/series/becoming-human/) that digs into the past to explore what it means to be human. The episodes span from our earliest ancestors to the last remaining human species left on Earth: us.
 
-**7) ****_March of the Penguins_****(2005)**
+**7) *March of the Penguins* (2005)**
 
 An oldie but a goodie *March of the Penguins* gives an in-depth and touching view of life in the Antarctic as it follows penguins through the long days of summer to the harsh darkness of winter. If fluffy penguins and tales of triumph are what you're into, you can’t go wrong with this family friendly documentary. 
 
@@ -63,19 +63,19 @@ An oldie but a goodie *March of the Penguins* gives an in-depth and touching vie
 
 **Fig. 3** - An Emperor Penguin and her chick (source: [Christopher Michel](https://www.flickr.com/photos/cmichel67/11866023003/in/photolist-j5ytev-FPCZG1-akzf9T-F1hqF2-87zVLF-3FtN5-8DDuKu-9bNm4P-qZHSs-XhtAkX-93oGwm-DenfoQ) via Flickr)
 
-**8) ****_The Biggest Little Farm_**** (2018)**
+**8) *The Biggest Little Farm* (2018)**
 
 If you've ever dabbled in backyard gardening, you might be interested in *The Biggest Little Farm*, which tells the story of John and Molly Chester on the quest to develop a sustainable farm amidst all the environmental degradation we’re facing today.
 
-**9) ****_Okja_**** (2017)**
+**9) *Okja* (2017)**
 
 If you're looking for something other than a documentary, check out *Okja*, which tells the story of a young girl protecting an enormous, genetically modified, "super pig" in Korea [6]. This film explores the implications of some of the life science technologies researchers are developing today.
 
-**10) ****_How the Universe Works_**** (2010 - Present)**
+**10) *How the Universe Works* (2010 - Present)**
 
-Last but not least, I have one recommendation that is slightly outside this blog's comfort zone of life science. Described as "A users guide to the cosmos" [5], *How the Universe Works *unravels the mysteries of black holes, infinite universes, and how the stars align. For a trip through outer space, check out eight unique seasons of this docu-series, which are available for free through Amazon Prime.
+Last but not least, I have one recommendation that is slightly outside this blog's comfort zone of life science. Described as "A users guide to the cosmos" [5], *How the Universe Works* unravels the mysteries of black holes, infinite universes, and how the stars align. For a trip through outer space, check out eight unique seasons of this docu-series, which are available for free through Amazon Prime.
 
-Of course this is not an exhaustive list, and I would be remiss if I didn't mention some of the most amazing life science and nature docu-series such as *Blue Planet*, *One Strange Rock*, and *Planet Earth*. If you prefer to leave Earth for your viewing pleasures, you can also check out *[The Planet*s](https://www.pbs.org/wgbh/nova/series/planets/episodes/)[ series on PBS](https://www.pbs.org/wgbh/nova/series/planets/episodes/). For my microbiologists out there, *Unnatural Selection* on Netflix is a new story about gene editing, and please chime in with more of your favorites in the comments below.
+Of course this is not an exhaustive list, and I would be remiss if I didn't mention some of the most amazing life science and nature docu-series such as *Blue Planet*, *One Strange Rock*, and *Planet Earth*. If you prefer to leave Earth for your viewing pleasures, you can also check out *[The Planet's]* (https://www.pbs.org/wgbh/nova/series/planets/episodes/)[ series on PBS](https://www.pbs.org/wgbh/nova/series/planets/episodes/). For my microbiologists out there, *Unnatural Selection* on Netflix is a new story about gene editing, and please chime in with more of your favorites in the comments below.
 
 Happy viewing!
 
