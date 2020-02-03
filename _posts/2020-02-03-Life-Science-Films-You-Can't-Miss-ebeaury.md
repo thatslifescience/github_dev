@@ -8,21 +8,16 @@ tags:
 - art
 - movies
 - nature
-gradschooldiaries-header.jpg
+categories:
+- Grad School Diaries
+header:
+image_fullwidth:gradschooldiaries-header.jpg
+image:
+ thumb: 20-02-03-ebeaury.jpg
+teaser: With the constant stream of content coming your way, here are some of the best science/nature films entertainment has to offer
 source-id: 1vA4_66tNH7k4f8g8-VGs-r2lyO7yrgKLUlQvHybe83A
 published: true
 ---
-**Title: **10 Life Science Films You Can't Miss
-
-**Author(s): **ebeaury
-
-**Category: **Grad School Diaries
-
-**Keywords: **Art, Film, Movies, Nature, Biology
-
-**Teaser: **With the constant stream of content coming your way, here are some of the best science/nature films entertainment has to offer
-
-**Thumbnail image**: Figure 2
 
 With the growing popularity of online streaming services, the flow of content is at an all time high. To avoid getting lost in the shuffle of everything new, I'm here to remind you of some of the great movies and TV series that may have passed you by. If you love science and nature—anything from the far reaches of the galaxy to the microscopic specks of pollen carried around by bees—here are some can’t-miss films, documentaries, and shows from the last few decades (in no particular order).
 
