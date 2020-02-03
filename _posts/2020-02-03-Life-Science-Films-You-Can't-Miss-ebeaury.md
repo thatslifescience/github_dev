@@ -71,7 +71,7 @@ If you've ever dabbled in backyard gardening, you might be interested in *The Bi
 
 If you're looking for something other than a documentary, check out *Okja*, which tells the story of a young girl protecting an enormous, genetically modified, "super pig" in Korea [6]. This film explores the implications of some of the life science technologies researchers are developing today.
 
-**10)****_How the Universe Works_**** (2010 - Present)**
+**10) ****_How the Universe Works_**** (2010 - Present)**
 
 Last but not least, I have one recommendation that is slightly outside this blog's comfort zone of life science. Described as "A users guide to the cosmos" [5], *How the Universe Works *unravels the mysteries of black holes, infinite universes, and how the stars align. For a trip through outer space, check out eight unique seasons of this docu-series, which are available for free through Amazon Prime.
 
