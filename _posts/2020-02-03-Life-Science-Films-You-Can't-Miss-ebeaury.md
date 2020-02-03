@@ -1,5 +1,5 @@
 ---
-title: 10-Life-Science-Films-You-Can't-Miss
+title: 10 Life Science Films You Can't Miss
 layout: page
 author: ebeaury
 permalink: /2020-02-03-Life-Science-Films-You-Can't-Miss-ebeaury/
