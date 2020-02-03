@@ -49,7 +49,7 @@ If you have yet to see *Blackfish*, drop everything and rent this film. This doc
 
 **5) *Honeyland* (2019)**
 
-*Honeyland* is an artistic documentary following Hatidze Muratova, a Macedonian woman trying to save the bees. This film explores her life and relationship with the natural world as a beehunter in a time when we're rapidly losing these precious pollinators. *Honeyland *was a highly regarded film, earning the title as the "Most Awarded Film" at the prestigious Sundance Film Festival in 2019 [4].
+*Honeyland* is an artistic documentary following Hatidze Muratova, a Macedonian woman trying to save the bees. This film explores her life and relationship with the natural world as a beehunter in a time when we're rapidly losing these precious pollinators. *Honeyland* was a highly regarded film, earning the title as the "Most Awarded Film" at the prestigious Sundance Film Festival in 2019 [4].
 
 **6) *Becoming Human* (2009)**
 
