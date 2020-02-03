@@ -100,3 +100,7 @@ P.S. - Thank you to all my lovely friends who contributed to the formation of th
 
 [6] "Okja (2017)," IMDb. Amazon, 1990-2020. Accessed 1/10/2020. [https://www.imdb.com/title/tt3967856/?ref_=nv_sr_srsg_0](https://www.imdb.com/title/tt3967856/?ref_=nv_sr_srsg_0)
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Grad School Diaries" %}
+
