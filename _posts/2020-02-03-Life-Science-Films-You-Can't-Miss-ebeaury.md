@@ -37,7 +37,7 @@ Another Oscar winner [2], *The Hellstrom Chronicle*, explores the power of the i
 
 While not quite a documentary, *The Stanford Prison Experiment* is a dramatic reenactment of a very real, and very controversial experiment that took place at Stanford University in 1971 [3]. In this experiment, social scientists staged a mock prison environment in which male students were either prisoners or guards. The scientists let these power dynamics play out to what ended in a violent and shocking display of human behavior. If the movie piques your interest, the lead researcher of the experiment also wrote a book called ["The Lucifer Effect: Understanding How Good People Turn Evil"](https://www.amazon.com/Lucifer-Effect-Understanding-Good-People/dp/0812974441).
 
-**4) ****_Blackfish _****(2013)**
+**4) ****_Blackfish_****(2013)**
 
 If you have yet to see *Blackfish*, drop everything and rent this film. This documentary exposes SeaWorld's incredible mistreatment of Orcas and their trainers, which ultimately resulted in the death of a trainer and led to SeaWorld restructuring their captive animal programs (although SeaWorld still houses Orcas). *Blackfish* is available on multiple streaming services for a small fee.
 
@@ -47,7 +47,7 @@ If you have yet to see *Blackfish*, drop everything and rent this film. This doc
 
  
 
-**5) ****_Honeyland _****(2019)**
+**5) ****_Honeyland_****(2019)**
 
 *Honeyland *is an artistic documentary following Hatidze Muratova, a Macedonian woman trying to save the bees. This film explores her life and relationship with the natural world as a beehunter in a time when we're rapidly losing these precious pollinators. *Honeyland *was a highly regarded film, earning the title as the "Most Awarded Film" at the prestigious Sundance Film Festival in 2019 [4].
 
@@ -55,7 +55,7 @@ If you have yet to see *Blackfish*, drop everything and rent this film. This doc
 
 *Becoming Human *is a [PBS three-part special](https://www.pbs.org/wgbh/nova/series/becoming-human/) that digs into the past to explore what it means to be human. The episodes span from our earliest ancestors to the last remaining human species left on Earth: us.
 
-**7) ****_March of the Penguins _****(2005)**
+**7) ****_March of the Penguins_****(2005)**
 
 An oldie but a goodie—*March of the Penguins *gives an in-depth and touching view of life in the Antarctic as it follows penguins through the long days of summer to the harsh darkness of winter. If fluffy penguins and tales of triumph are what you're into, you can’t go wrong with this family friendly documentary. 
 
@@ -71,7 +71,7 @@ If you've ever dabbled in backyard gardening, you might be interested in *The Bi
 
 If you're looking for something other than a documentary, check out *Okja*, which tells the story of a young girl protecting an enormous, genetically modified, "super pig" in Korea [6]. This film explores the implications of some of the life science technologies researchers are developing today.
 
-**10)****_ How the Universe Works_**** (2010 - Present)**
+**10)****_How the Universe Works_**** (2010 - Present)**
 
 Last but not least, I have one recommendation that is slightly outside this blog's comfort zone of life science. Described as "A users guide to the cosmos" [5], *How the Universe Works *unravels the mysteries of black holes, infinite universes, and how the stars align. For a trip through outer space, check out eight unique seasons of this docu-series, which are available for free through Amazon Prime.
 
