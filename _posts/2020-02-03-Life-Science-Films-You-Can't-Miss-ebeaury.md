@@ -11,7 +11,7 @@ tags:
 categories:
  - Grad School Diaries
 header:
-image_fullwidth:gradschooldiaries-header.jpg
+ image_fullwidth:gradschooldiaries-header.jpg
 image:
  thumb: 20-02-03-ebeaury.jpg
 teaser: With the constant stream of content coming your way, here are some of the best science/nature films entertainment has to offer
