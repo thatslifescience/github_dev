@@ -75,7 +75,7 @@ If you're looking for something other than a documentary, check out *Okja*, whic
 
 Last but not least, I have one recommendation that is slightly outside this blog's comfort zone of life science. Described as "A users guide to the cosmos" [5], *How the Universe Works* unravels the mysteries of black holes, infinite universes, and how the stars align. For a trip through outer space, check out eight unique seasons of this docu-series, which are available for free through Amazon Prime.
 
-Of course this is not an exhaustive list, and I would be remiss if I didn't mention some of the most amazing life science and nature docu-series such as *Blue Planet*, *One Strange Rock*, and *Planet Earth*. If you prefer to leave Earth for your viewing pleasures, you can also check out *[The Planet's]* (https://www.pbs.org/wgbh/nova/series/planets/episodes/)[ series on PBS](https://www.pbs.org/wgbh/nova/series/planets/episodes/). For my microbiologists out there, *Unnatural Selection* on Netflix is a new story about gene editing, and please chime in with more of your favorites in the comments below.
+Of course this is not an exhaustive list, and I would be remiss if I didn't mention some of the most amazing life science and nature docu-series such as *Blue Planet*, *One Strange Rock*, and *Planet Earth*. If you prefer to leave Earth for your viewing pleasures, you can also check out [*The Planet's*](https://www.pbs.org/wgbh/nova/series/planets/episodes/)[ series on PBS](https://www.pbs.org/wgbh/nova/series/planets/episodes/). For my microbiologists out there, *Unnatural Selection* on Netflix is a new story about gene editing, and please chime in with more of your favorites in the comments below.
 
 Happy viewing!
 
