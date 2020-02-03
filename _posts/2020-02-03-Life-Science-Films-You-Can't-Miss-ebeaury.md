@@ -49,15 +49,15 @@ If you have yet to see *Blackfish*, drop everything and rent this film. This doc
 
 **5) ****_Honeyland_****(2019)**
 
-*Honeyland *is an artistic documentary following Hatidze Muratova, a Macedonian woman trying to save the bees. This film explores her life and relationship with the natural world as a beehunter in a time when we're rapidly losing these precious pollinators. *Honeyland *was a highly regarded film, earning the title as the "Most Awarded Film" at the prestigious Sundance Film Festival in 2019 [4].
+*Honeyland* is an artistic documentary following Hatidze Muratova, a Macedonian woman trying to save the bees. This film explores her life and relationship with the natural world as a beehunter in a time when we're rapidly losing these precious pollinators. *Honeyland *was a highly regarded film, earning the title as the "Most Awarded Film" at the prestigious Sundance Film Festival in 2019 [4].
 
 **6) ****_Becoming Human_**** (2009)**
 
-*Becoming Human *is a [PBS three-part special](https://www.pbs.org/wgbh/nova/series/becoming-human/) that digs into the past to explore what it means to be human. The episodes span from our earliest ancestors to the last remaining human species left on Earth: us.
+*Becoming Human* is a [PBS three-part special](https://www.pbs.org/wgbh/nova/series/becoming-human/) that digs into the past to explore what it means to be human. The episodes span from our earliest ancestors to the last remaining human species left on Earth: us.
 
 **7) ****_March of the Penguins_****(2005)**
 
-An oldie but a goodie—*March of the Penguins *gives an in-depth and touching view of life in the Antarctic as it follows penguins through the long days of summer to the harsh darkness of winter. If fluffy penguins and tales of triumph are what you're into, you can’t go wrong with this family friendly documentary. 
+An oldie but a goodie *March of the Penguins* gives an in-depth and touching view of life in the Antarctic as it follows penguins through the long days of summer to the harsh darkness of winter. If fluffy penguins and tales of triumph are what you're into, you can’t go wrong with this family friendly documentary. 
 
 <center><a data-flickr-embed="true" href="https://www.flickr.com/photos/cmichel67/11866023003/in/photolist-j5ytev-FPCZG1-akzf9T-F1hqF2-87zVLF-3FtN5-8DDuKu-9bNm4P-qZHSs-XhtAkX-93oGwm-DenfoQ" title="Penguin Parents"><img src="https://live.staticflickr.com/3826/11866023003_9034eac36b.jpg" width="488" height="488" alt="Penguin Parents"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
