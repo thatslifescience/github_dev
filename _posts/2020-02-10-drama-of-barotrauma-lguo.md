@@ -14,23 +14,12 @@ categories:
 header:
  image_fullwidth: organisms-header.jpg
 image:
- thumb: 2020-02-10-lguo.jpg.jpg
+ thumb: 2020-02-10-lguo.jpg
 teaser: Have you ever wondered why blobfish looks the way it does? Or why some fish have their stomachs bulging out of their mouths and eyes popping out of their heads when they’re caught? You’ve just witnessed barotrauma.
 
 source-id: 1goQ_FSbD-rYM9ny7Pwzbm96daykTl3tjiCewYshe5Qo
 published: true
 ---
-**Title: **The Drama of Barotrauma: Blobfish, Rockfish, and More
-
-**Author:** Lian Guo
-
-**Category:** Earth's Organisms
-
-**Keywords:** fish, fishing, barotrauma, adaptation, ocean
-
-**Social media blurb:** Have you ever wondered why blobfish looks the way it does? Or why some fish have their stomachs bulging out of their mouths and eyes popping out of their heads when they're caught? You’ve just witnessed barotrauma.
-
-**Thumbnail:** Figure 1.
 
 Blobfish rose quickly to internet fame for its sad, saggy, mucousy looking face (Fig 1). It has made its way around the world in memes, stuffed animals, and even featured in [Saturday Night Live](https://youtu.be/vd1pvUG_aAc). What you might not know is that blobfish, formally known as blob sculpin (*Psychrolutes phrictus*), does not look like a blobfish, at least not 9,200 feet (1.7 mi) below the surface of the ocean [1]. Have a look for yourself (Fig. 2)!
 
@@ -74,3 +63,7 @@ The next time you see blobfish looking sad and grumpy, you now know why it looks
 
 [3] Yancey, Paul H., et al. "[Marine fish may be biochemically constrained from inhabiting the deepest ocean depths](https://www.pnas.org/content/111/12/4461.short)." *Proceedings of the National Academy of Sciences* 111.12 (2014): 4461-4465.
 
+
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Earth’s Organisms" %}
