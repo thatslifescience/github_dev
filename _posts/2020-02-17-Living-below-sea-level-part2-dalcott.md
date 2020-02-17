@@ -1,5 +1,5 @@
 ---
-title: Living below sea level (Part 2): Learning to live with water
+title: Living below sea level: Learning to live with water
 layout: page
 author: dalcott
 permalink: /2020-02-17-Living-below-sea-level-part2-dalcott/
