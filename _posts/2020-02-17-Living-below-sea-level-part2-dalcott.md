@@ -30,7 +30,7 @@ Completely eliminating the effect of the tide by walling off the sea (like was d
 
 <center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/49479365322/in/dateposted-friend/" title="Brouwersdam"><img src="https://live.staticflickr.com/65535/49479365322_812513f36e.jpg" width="500" height="375" alt="Brouwersdam"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-**Fig. 1. **The Brouwersdam which permanently closed off the former Brouwershavense Gat estuary from the North sea, converting it to the saltwater lake Grevelingenmeer in 1971 (source: [Svdmolen](https://en.wikipedia.org/wiki/Brouwersdam#/media/File:Brouwersdam-02.jpg) via Wikimedia commons).
+**Fig. 1.** The Brouwersdam which permanently closed off the former Brouwershavense Gat estuary from the North sea, converting it to the saltwater lake Grevelingenmeer in 1971 (source: [Svdmolen](https://en.wikipedia.org/wiki/Brouwersdam#/media/File:Brouwersdam-02.jpg) via Wikimedia commons).
 
 Beyond the immediate death of some intertidal species, other impacts were observed long after the dam was built. Eliminating tidal flushing causes water to be retained in the lake for 3-6 years, allowing pollutants to accumulate to much greater levels than when water was flushed out in only a few days [2]. Sea walls like the Brouwersdam also prevent migratory fishes from entering the system. Finally, since salt marshes are highly valuable in combating global climate change, loss of this habitat decreases the planet's natural resilience to climate change. In response to these observed ecological consequences, alterations were made to this lake to partially restore seawater inflow, mitigating but not eliminating some of the impacts. 
 
