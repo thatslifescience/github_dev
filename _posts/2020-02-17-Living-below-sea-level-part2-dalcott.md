@@ -13,7 +13,7 @@ header:
  image_fullwidth: ecosystem-header.jpg
 image:
  thumb: 02172020-Fig2a-Alcott.jpg
-teaser: “The Dutch are leading the world in flood-risk mitigation through clever engineering and an eco-friendly mindset.”
+teaser: The Dutch are leading the world in flood-risk mitigation through clever engineering and an eco-friendly mindset.
 
 source-id: 18X9QyfvBWZV3j9JWUDVwu8rSh6kUBJ-X-PBp6hyqp0M
 published: true
