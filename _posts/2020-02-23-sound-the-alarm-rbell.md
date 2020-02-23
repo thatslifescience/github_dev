@@ -9,6 +9,7 @@ tags:
 - predators
 - behavior
 categories:
+- Earth's Organisms
 header:
  image_fullwidth: organisms-header.jpg
 image:
@@ -18,18 +19,6 @@ teaser: “Many primates use alarm calls to alert other members of their group t
 source-id: 11YsuocZjtJyBGxII0EXLO-b7HZJ0TlP8XUEG5I5NquM
 published: true
 ---
-**Title:** Sound the Alarm! One Unique Way Primates Avoid Being Eaten
-
-**Author:** rbell
-
-**Categories:** Earth's Organisms
-
-**Keywords:** Primate, Evolution, Predators, Behavior
-
-**Teaser:** Many primates use alarm calls to alert other members of their group to potential predators. But how specific and effective are these alarm calls? What risks come with sounding the alarm?
-
-**Thumbnail image:** Fig. 1
-
 Imagine this: You are a blue monkey (*Cercopithecus mitis*), foraging in the canopy with other members of your group, maybe taking a break to nap on a branch or climb to a fruit-laden tree. Suddenly, one individual in the group makes a loud "hack!" sound! You and the rest of the monkeys rush down to tree branches close to the ground and look up, scanning the sky and upper canopy. An eagle flies off in the distance, empty-taloned. What happened? How did these monkeys know what to do when an eagle was near?
 
 <center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/49574484836/in/dateposted-friend/" title="rbell-20200223-thumb"><img src="https://live.staticflickr.com/65535/49574484836_79067da421.jpg" width="500" height="333" alt="rbell-20200223-thumb"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
