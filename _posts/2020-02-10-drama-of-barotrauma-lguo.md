@@ -10,7 +10,7 @@ tags:
 - adaptation
 - ocean
 categories:
-- Earth’s Organisms
+- Earth's Organisms
 header:
  image_fullwidth: organisms-header.jpg
 image:
