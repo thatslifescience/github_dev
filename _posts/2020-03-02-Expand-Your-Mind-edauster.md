@@ -46,3 +46,6 @@ Boyden's group and many other scientists are very excited to use this technology
 
 [3] Physical Specimen Expansion, Enabling 3-D Large Volume, Nanoscale Imaging[ http://expansionmicroscopy.org/](http://expansionmicroscopy.org/)
 
+## More From Thats Life [Science]
+{: .t60 }	
+{% include list-posts offset="1" entries="5" category="How It Works" %}
