@@ -17,17 +17,6 @@ teaser: Make what you want to look at bigger so you don’t have to build a micr
 source-id: 10k4RNCy6vvaag9IHF9vGv9kOJHwP_CJGLtw2MWfRY6I
 published: true
 ---
-**Title:** Expand Your Mind
-
-**Author(s): **edauster
-
-**Category: **How it Works
-
-**Keywords: **Neuroscience, microscopy, proteins
-
-**Teaser: **Make what you want to look at bigger so you don't have to build a microscope that sees smaller.**  **Expansion microscopy uses diaper technology to make small things, like neurons, bigger. 
-
-**Thumbnail image**:  Figure 1
 
 Ed Boyden, biological engineering professor at the Massachusetts Institute of Technology, has made a name for himself in the neuroscience community by thinking outside the box and challenging our understanding of the possible and the impossible.  As a relatively young principal investigator, he has already inspired and enabled scientists to ask questions that were previously unaskable.
 
@@ -37,14 +26,12 @@ With the ability to understand what makes up our brains, we now need newer fanci
 
 Diapers. 
 
-<center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/49592861698/in/dateposted-friend/" title="tls post 13 pic1"><img src="https://live.staticflickr.com/65535/49592861698_a654afb346_o.jpg" width="500" height="375" alt="tls post 13 pic1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
-
+<center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/49592861698/in/dateposted-friend/" title="tls post 13 pic1"><img src="https://live.staticflickr.com/65535/49592861698_a654afb346_o.jpg" width="500" height="375" alt="tls post 13 pic1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center><br>
 **Figure 1.**  A child with a diaper on their head might not sound scientific because no, it's not scientific.  But the idea of using diaper technology on a brain; that’s real science! Source: Flickr, [waitingforwonderful](https://www.flickr.com/photos/waitingforwonderful)
 
 What expands on its own?  A diaper.  An easy question with an easy solution… Or maybe it's more complicated than that.  How do you get a diaper into someone’s brain?  The Boyden lab took the expanding ingredient from diapers, sodium polyacrylate, and added it to brain tissue to make the target area bigger [1].  Sodium polyacrylate absorbs water and swells in the process.  The lab has found a way to harness the sodium polyacrylate and take tissue with it as it swells.  By de-crowding the brain tissue, they have managed to get ten times higher yield of the different molecules inside.  Now, they can see more of what’s in that previously dense cluster under a microscope.  The lab found that when they allowed tissue to expand using this technique, they introduced about 14 nanometers of error in molecule movement.  By comparing an image of the tissue before expansion with an image after expansion, they quantified this error in the location of different components.  And when you’re talking about molecules within a cell, nanometers matter.  In an attempt to bring some uniformity to this expansion process, they added a tetrahedral gel matrix to form a crystal lattice structure that should expand the tissue evenly in different directions [2].  Even cooler, they’ve figured out how to make the brain section even bigger than what they just expanded!  First, they use proteins to attach the matrix, that keeps everything uniform, to the tissue.  Then they let it expand.  Next, they attach a new matrix to the expanded tissue and let it expand again [3, Figure 2].  The result is a piece of brain tissue much larger than it originally was.  Now they can see what’s really inside using a standard (but still expensive) laboratory grade microscope.
 
-<center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/49593605802/in/dateposted-friend/" title="tls post 13 pic2"><img src="https://live.staticflickr.com/65535/49593605802_d9ed267d3d_o.jpg" width="359" height="598" alt="tls post 13 pic2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
-
+<center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/49593605802/in/dateposted-friend/" title="tls post 13 pic2"><img src="https://live.staticflickr.com/65535/49593605802_d9ed267d3d_o.jpg" width="359" height="598" alt="tls post 13 pic2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center><br>
 **Figure 2.**  Start with a piece of tissue.  Then stain it to follow a certain cell through the expansion process.  Link the tissue to a matrix to keep the expansion uniform, then let it expand! Source: Wikimedia Commons, [Kanethecat](https://commons.wikimedia.org/wiki/File:ExM_Steps.jpg)
 
 One major caveat to this technique is the lack of retention of intercellular interactions.  By pulling everything in a piece of brain tissue apart from each other, you are able to see much more than before, but not how it is packed in there.  That is a big drawback for researchers investigating cellular signalling because they can no longer see the original configuration of all of these tiny pieces within tissue.  What touches what is often a huge indication of information flow through the brain.  Ultimately, no technique is perfect, but this one will allow us to gain insight into how some cellular interactions are happening in the first place.
