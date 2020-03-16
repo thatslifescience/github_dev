@@ -21,17 +21,6 @@ teaser: “With people protesting all around the world, how are the rest of the 
 source-id: 1hiY0JUFOvb3HfX1wughOx11UGcMIfF-TFK6lnbXN51g
 published: true
 ---
-**Title**: How Monkeys and Apes Fight Climate Change by Eating Fruit
-
-**Author**: Undergraduate Writing Contest Winner, Stephanie Smith
-
-**Categories**: Earth's Organisms
-
-**Keywords**: frugivores, conservation, forests, climate change, apes
-
-**Teaser**: With people protesting all around the world, how are the rest of the world's inhabitants fighting against the climate crisis? What role do primates play? Why is primate conservation important?
-
-**Thumbnail image**: Figure 1
 
  
 
@@ -112,4 +101,8 @@ References
 [10] Traveset, Anna. (1998) Effect of seed passage through vertebrate frugivores' guts on germination: a review. *Perspectives in Plant Ecology, Evolution and Systematics. *https://doi.org/10.1078/1433-8319-00057
 
 [11] Wich, S. A., & Marshall, A. J. (2016). An introduction to primate conservation. *An Introduction to Primate Conservation,* 1-12. doi:10.1093/acprof:oso/9780198703389.003.0001
+
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Earth's Organisms" %}
 
