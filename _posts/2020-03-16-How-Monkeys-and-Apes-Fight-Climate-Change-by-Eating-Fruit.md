@@ -16,7 +16,8 @@ header:
  image_fullwidth: organisms-header.jpg
 image:
  thumb: 2020-03-16-ssmith.jpg
-teaser: “With people protesting all around the world, how are the rest of the world’s inhabitants fighting against the climate crisis? What role do primates play? Why is primate conservation important?”
+teaser: “by Stephanie Smith - winner writing contest"
+ "With people protesting all around the world, how are the rest of the world’s inhabitants fighting against the climate crisis? What role do primates play? Why is primate conservation important?”
 
 source-id: 1hiY0JUFOvb3HfX1wughOx11UGcMIfF-TFK6lnbXN51g
 published: true
@@ -25,7 +26,7 @@ published: true
  
 
 *Frugivorous primates are keystone species that aid in forest regeneration through their role as seed dispersers.*
-by Stephanie Smith - winner writing contest 
+
 
 Many primates are frugivorous, meaning their diet primarily consists of fruits. Though they aren't aware of it, all of this fruit-eating can have a massive beneficial impact on their habitat! These frugivorous primates play crucial roles as seed dispersers for a broad range of trees, so much so that they are considered "keystone species" [9]. Keystone species are those that have large effects on their surrounding environment due to the vital role they play in the community; they positively influence the species diversity of an ecological community [1]. Seed dispersing frugivorous primates promote the growth of forest trees, which function as carbon sinks. Monkeys and apes disperse the highest quantity of seeds compared to other seed dispersers in the same habitat [6]. Therefore, primates play active roles in allowing the continuation of the carbon cycle and carbon sequestration against global climate change. Let’s explore this process in more detail!
 
