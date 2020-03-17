@@ -2,7 +2,7 @@
 title: How Monkeys and Apes Fight Climate Change by Eating Fruit
 layout: page
 author: ssmith
-permalink: /by-Stephanie-Smith-winner-writing-contest-How-Monkeys-and-Apes-Fight-Climate-Change-by-Eating-Fruit/
+permalink: /2020-03-16-How-Monkeys-and-Apes-Fight-Climate-Change-by-Eating-Fruit/
 tags:
 - nature
 - conservation
@@ -21,7 +21,7 @@ teaser: “With people protesting all around the world, how are the rest of the 
 source-id: 1hiY0JUFOvb3HfX1wughOx11UGcMIfF-TFK6lnbXN51g
 published: true
 ---
-
+by Stephanie Smith - Winner writing contest
  
 
 *Frugivorous primates are keystone species that aid in forest regeneration through their role as seed dispersers.*
