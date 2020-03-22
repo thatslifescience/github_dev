@@ -15,7 +15,7 @@ categories:
 header:
  image_fullwidth: organisms-header.jpg
 image:
- thumb: 
+ thumb: 2020-03-16-ssmith.jpg
  title: 2020-contest-winner.jpg
 teaser: With people protesting all around the world, how are the rest of the world’s inhabitants fighting against the climate crisis? What role do primates play? Why is primate conservation important?
 
