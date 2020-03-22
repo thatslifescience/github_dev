@@ -21,7 +21,7 @@ teaser: With people protesting all around the world, how are the rest of the wor
 source-id: 1hiY0JUFOvb3HfX1wughOx11UGcMIfF-TFK6lnbXN51g
 published: true
 ---
-by Stephanie Smith - Winner writing contest
+by Stephanie Smith - Winner of the 2020 TLS Writing Contest
  
 
 *Frugivorous primates are keystone species that aid in forest regeneration through their role as seed dispersers.*
