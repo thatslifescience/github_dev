@@ -32,6 +32,8 @@ published: true
 
 **Thumbnail image**: Figure 1 
 
+by M. Shan, runner-up of the 2020 TLS Writing Contest.
+
 It's late at night. You start to feel tired, so you set your alarm for the next day and go to bed. When you wake up, you notice that it’s still dark outside so you check the time to see if you’ve woken up too early, and you realize you've actually slept until the next night! But you don't feel tired when you wake up, if anything you feel a little hungry. So you decide to eat and go on the internet for a while until you finally begin to feel tired and fall asleep just as the sun rises the following day. What if this cycle of staying awake during the night and sleeping during the day were to continue for some time? 
 
 <center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/49679472651/in/dateposted-friend/" title="sleeping-woman-1489600175vGe"><img src="https://live.staticflickr.com/65535/49679472651_92459fdfd8_c.jpg" width="800" height="533" alt="sleeping-woman-1489600175vGe"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
