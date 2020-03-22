@@ -21,7 +21,7 @@ teaser: Researching the neural mechanisms behind your sex hormone levels and you
 source-id: 1Rp6m7bIRXEeHbk3HT69c7D4VepGWlJgoW2Age25N0tU
 published: true
 ---
-by M. Shan, runner-up of the 2020 TLS Writing Contest.
+by Mythreayi Shan, runner-up of the 2020 TLS Writing Contest.
 
 It's late at night. You start to feel tired, so you set your alarm for the next day and go to bed. When you wake up, you notice that it’s still dark outside so you check the time to see if you’ve woken up too early, and you realize you've actually slept until the next night! But you don't feel tired when you wake up, if anything you feel a little hungry. So you decide to eat and go on the internet for a while until you finally begin to feel tired and fall asleep just as the sun rises the following day. What if this cycle of staying awake during the night and sleeping during the day were to continue for some time? 
 
