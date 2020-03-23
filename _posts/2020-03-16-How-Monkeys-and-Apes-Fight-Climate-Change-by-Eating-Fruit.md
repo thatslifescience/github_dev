@@ -2,7 +2,7 @@
 title: How Monkeys and Apes Fight Climate Change by Eating Fruit
 layout: page
 author: gwriter
-permalink: /2020-03-16-How-Monkeys-and-Apes-Fight-Climate-Change-by-Eating-Frui$
+permalink: /2020-03-16-How-Monkeys-and-Apes-Fight-Climate-Change-by-Eating-Fruit
 tags:
 - nature
 - conservation
