@@ -1,7 +1,7 @@
 ---
 title: How Monkeys and Apes Fight Climate Change by Eating Fruit
 layout: page
-author: ssmith
+author: gwriter
 permalink: /2020-03-16-How-Monkeys-and-Apes-Fight-Climate-Change-by-Eating-Frui$
 tags:
 - nature
@@ -16,7 +16,7 @@ header:
  image_fullwidth: organisms-header.jpg
 image:
  thumb: 2020-03-16-ssmith.jpg
- title: 2020-contest-winner.jpg
+ title: 2020-contest-winner.jpeg
 teaser: With people protesting all around the world, how are the rest of the world’s inhabitants fighting against the climate crisis? What role do primates play? Why is primate conservation important?
 
 source-id: 1hiY0JUFOvb3HfX1wughOx11UGcMIfF-TFK6lnbXN51g
