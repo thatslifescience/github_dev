@@ -1,7 +1,7 @@
 ---
 title: How does your clock tick?
 layout: page
-author: mshan
+author: gwriter
 permalink: /2020-03-23-How-does-your-clock-tick/
 tags:
 - brains
@@ -15,7 +15,7 @@ header:
  image_fullwidth: howitworks-header.jpg
 image:
  thumb: 2020-03-23-mshan.jpg
- title: 2020-contest-runner-up.png
+ title: 2020-contest-runner-up.jpg
 teaser: Researching the neural mechanisms behind your sex hormone levels and your body’s circadian rhythms.
 
 source-id: 1Rp6m7bIRXEeHbk3HT69c7D4VepGWlJgoW2Age25N0tU
