@@ -18,17 +18,6 @@ teaser: Is 2 degrees Celsius warming too much for our planet? Researchers suspec
 source-id: 1ogj2Y-jEMrkLz5wEALafLydb-6ttTaxw2LoDo-8Ilbo
 published: true
 ---
-**Title: ****Climate Disaster? Humans Will Pass Point of No Return Sooner Than We Think**
-
-**Author(s): **ashields
-
-**Category: **Our Ecosystems
-
-**Keywords: **Climate Change, Anthropocene,** **Paris Accord
-
-**Teaser: **Is 2 degrees Celsius warming too much for our planet?  Researchers suspect yes…
-
-**Thumbnail Image:** Figure 1
 
 	In 2015, countries from every continent came together at the Conference of Parties (COP 21) in Paris to develop international objectives that would combat climate change [1]. During the conference, they negotiated the Paris Agreement — an international commitment that limits global warming to 2°C above pre-industrial levels [1]. Since the Accord, 2 degrees Celsius (3.6 F) has become the politically agreed upon limit to prevent catastrophic consequences of climate change. However, climate scientists warn this critical 2-degree threshold is too high.
 
@@ -50,7 +39,7 @@ Figure 3.  Storm severity is likely to increase as temperature thresholds are pa
 
         	However, not all hope is lost. While our time to change course is shorter than previously broadcasted, urgent collective actions can stabilize our climate. Offshore wind installations have increased in Europe and local communities across the world are committing to carbon neutrality well ahead of national targets. Nevertheless, Steffen suggests that widespread transformation is imperative to stabilize the earth's climate and generally more challenging on a global scale [4]. International collaboration will be necessary to implement sweeping technological, structural and social changes. In addition to large scale changes, Steffen argues every human must be willing to redefine consumption patterns which includes shifting away from unsustainable food systems and generally consuming less goods [4]. If we cannot embrace the same fundamental mission, we will minimize our chances of a future on this planet. With the Trump administration rescinding the U.S. pledge to the Paris Agreement and many nations failing to meet their carbon reduction commitments, aggressive change doesn’t look realistic. We face the greatest challenge in human history with just a fraction of time to fix it. Will we pull the shade on this window of opportunity?  
 
-**References **
+**References**
 
 [1] UNFCCC. Accessed February 21, 2020. https://unfccc.int/process-and-meetings/the-paris-agreement/the-paris-agreement.
 
@@ -58,13 +47,17 @@ Figure 3.  Storm severity is likely to increase as temperature thresholds are pa
 
  
 
-[3] Aschwanden, A. et al. Contribution of the Greenland Ice Sheet to sea level over the next millennium. *Science Advances *5 (2019)**:** eaav9396.
+[3] Aschwanden, A. et al. Contribution of the Greenland Ice Sheet to sea level over the next millennium. *Science Advances* 5 (2019): eaav9396.
 
  
 
-[4] Steffen, W. et al*.* Trajectories of the Earth System in the Anthropocene. *Proceedings of the National Academy of Sciences *115 (2018)**:** 8252–8259.
+[4] Steffen, W. et al. Trajectories of the Earth System in the Anthropocene. *Proceedings of the National Academy of Sciences* 115 (2018): 8252–8259.
 
  
 
 [5] "What Kinds of Data Do Scientists Use to Study Climate? – Climate Change: Vital Signs of the Planet." NASA. NASA. Accessed March 19, 2020. https://climate.nasa.gov/faq/34/what-kinds-of-data-do-scientists-use-to-study-climate/.
 
+
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Our Ecosystems" %}
