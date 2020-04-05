@@ -20,33 +20,22 @@ teaser: “Jumping spiders have a complex visual system, and here's how it works
 source-id: 1SP8doR_ImwJK9XEcsqRpEASQylGOKpySF076DfrrYNM
 published: true
 ---
-**Title:** A Unique Case of Arthropod Vision
-
-**Author(s):** [Alex Winsor](https://alexmwinsor.wordpress.com/)
-
-**Category:** How It Works
-
-**Keywords:** vision, optics, spider, perception, evolution 
-
-**Teaser:** Jumping spiders have a complex visual system, and here's how it works
-
-**Thumbnail Image:** Fig. 2
 
 There is striking diversity in the visual systems that have evolved in arthropods, which include insects, arachnids, crustaceans, and myriapods [1-2]. For example, many insects and crustaceans have compound eyes consisting of thousands of smaller individual optical units called ommatidia, each of which produces a small fragment of a larger mosaic image (Figure 1). Others have simple eyes that contain a single lens and function similarly to a camera. A particularly unusual visual system can be found in jumping spiders. I recommend you familiarize yourself with [this](http://thatslifesci.com.s3-website-us-east-1.amazonaws.com/2016-10-31-watching-your-every-move-MBruce/) article for an introduction of how their eyes work before reading on!    
 
-<center>[<a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/49705388432/in/dateposted-friend/" title="FlyFig1"><img src="https://live.staticflickr.com/65535/49705388432_18c649a648_b.jpg" width="1024" height="735" alt="FlyFig1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>](https://www.flickr.com/photos/139839751@N06/49705388432/in/dateposted-friend/)</center>
+<center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/49705388432/in/dateposted-friend/" title="FlyFig1"><img src="https://live.staticflickr.com/65535/49705388432_18c649a648_b.jpg" width="1024" height="735" alt="FlyFig1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
 **Figure 1.** Compound eyes of a *Condylostylus* Longlegged Fly. Source: [Thomas Shahan](https://www.flickr.com/people/opoterser/), Flickr commons 
 
 Jumping spiders have excellent vision and are thought to have spatial acuity, which is the ability to discriminate between points separated in space, ranking among the best of all invertebrates [4]. Not surprisingly, these spiders use vision as their dominant sense to forage, avoid predators, find mates, and otherwise navigate their environment. Jumping spiders have eight total eyes, arranged in four pairs located in a row on the front of the cephalothorax (the fused head and thorax structure of spiders). If you think you might have stumbled upon a jumping spider, look at their eyes. This arrangement is unique to jumping spiders and gives them their characteristic appearance (Fig. 2). The principal eyes, also known as the anterior median (AM) eyes, are the largest and most forward-facing pair [4]. These eyes have a narrow field of view (around 3°) but have high visual acuity (sharpness of vision) and moveable retinas that enable them to increase their field of view through scanning [5-6]. The secondary eyes consist of the forward-facing anterior lateral (AL) eyes, the posterior lateral (PL) eyes, and a reduced pair of posterior median (PM) eyes, all of which have lower visual acuity than the AM eyes [4]. The secondary eyes have overlapping visual ranges that provide a nearly 360° field of view, and function similarly to motion detectors [4, 7]. All eight of these eyes are simple eyes, meaning they each have a single lens (just like humans), but do not be fooled by the terminology as what they can achieve together is quite impressive!   
 
-<center>[<a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/49704537133/in/dateposted-friend/" title="jumpingspiderFig2"><img src="https://live.staticflickr.com/65535/49704537133_be6e28b77e_b.jpg" width="1000" height="743" alt="jumpingspiderFig2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>](https://www.flickr.com/photos/139839751@N06/49704537133/in/dateposted-friend/)</center>
+<center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/49704537133/in/dateposted-friend/" title="jumpingspiderFig2"><img src="https://live.staticflickr.com/65535/49704537133_be6e28b77e_b.jpg" width="1000" height="743" alt="jumpingspiderFig2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
 **Figure 2.** The jumping spider *Habronattus coecatus* demonstrates the characteristic arrangement of eyes. Source: [Thomas Shahan](https://www.flickr.com/people/opoterser/), Flickr commons
 
 Although different visual responsibilities are distributed across each set of eyes, they all still interact with each other. Interestingly, the principal and secondary eyes have different neural pathways that converge, meaning visual information travels separately and then is integrated in the brain. Although the principal eyes have a fixed lens and small field of view, the forward-facing anterior lateral eyes can direct the principal eyes towards movement, while the posterior lateral and posterior median eyes can signal to the spider to reorient their entire body [8]. Once the spider is able to lock onto their target with their principal eyes, they are able to see it with much greater resolution. The principal eyes have boomerang shaped retinas, which are the structures that enable vision by turning light into nerve signals that reach the brain. The visual acuity of the retinas are determined by the density of photoreceptors, so a greater density allows for better vision [9]. The center point of the boomerangs, also called the foveal region, have the highest density of photoreceptors and are directed to an object during selective visual attention (Fig. 3).
 
-<center>[<a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/49704537068/in/dateposted-friend/" title="retinasFig3"><img src="https://live.staticflickr.com/65535/49704537068_8e2a1d8f9b_b.jpg" width="905" height="1024" alt="retinasFig3"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>](https://www.flickr.com/photos/139839751@N06/49704537068/in/dateposted-friend/)</center>
+<center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/49704537068/in/dateposted-friend/" title="retinasFig3"><img src="https://live.staticflickr.com/65535/49704537068_8e2a1d8f9b_b.jpg" width="905" height="1024" alt="retinasFig3"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
 **Figure 3.** The boomerang shaped retinas of a *Phidippus audax* jumping spider visualized using IR light from a custom built ophthalmoscope at the University of Massachusetts, Amherst. This spider is scanning a cricket silhouette stimulus. Source: [Daniel ](https://www.researchgate.net/profile/Daniel_Daye)[Daye](https://www.researchgate.net/profile/Daniel_Daye)  
 
@@ -54,11 +43,10 @@ Incoming light passes through the corneal lens where it is magnified and project
 
 Arthropod eyes are often too close together to use binocular cues such as stereopsis, where the brain interprets the combined visual input of both eyes, for depth perception. Many insects like the praying mantis solve this issue by using a monocular depth cue called motion parallax, in which closer objects are perceived to move faster than farther objects. Alternatively, jumping spiders use image defocus, in which farther objects are blurrier than closer objects, to make accurate estimations of depth [10]. When illuminated wavelengths of light are manipulated during behavioral experiments, spiders lose their ability to perceive depth and will miscalculate jumps to a target [10]. This is because light of a single wavelength distorts the amount of defocus that can occur due to chromatic aberration. 
 
- 
 
 It was once commonly thought that jumping spiders only have dichromatic color vision, maximally sensitive to UV and green light. However, many behavioral studies suggest that some of these spiders are able to see red, even though it appeared they did not have photoreceptor cells sensitive to longer wavelengths. For example, spiders could be trained to learn the color red when it was paired with an aversive stimulus such as heat [11]. In addition, many male spiders display their bright colors during ritualized courtship dances (Fig 4), suggesting that sexual selection was acting on color patterns. Zurek et al. elegantly described a mechanism in which 'spectral filtering' allows *Habronattus* jumping spiders to perceive red, thus enabling trichromatic color vision, just like in humans [12]. 
 
-<center>[<a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/49705069816/in/dateposted-friend/" title="courtshipFig4"><img src="https://live.staticflickr.com/65535/49705069816_304e3c7090_b.jpg" width="1024" height="517" alt="courtshipFig4"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>](https://www.flickr.com/photos/139839751@N06/49705069816/in/dateposted-friend/)</center>
+<center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/49705069816/in/dateposted-friend/" title="courtshipFig4"><img src="https://live.staticflickr.com/65535/49705069816_304e3c7090_b.jpg" width="1024" height="517" alt="courtshipFig4"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
 **Figure 4.** A male jumping spider *Habronattus coecatus* displaying a ritualized courtship dance. Source: [David Hill](https://www.flickr.com/people/dehill/), Flickr Commons
 
