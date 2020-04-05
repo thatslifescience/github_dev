@@ -15,7 +15,7 @@ header:
  image_fullwidth: howitworks-header.jpg
 image:
  thumb: 04062020-Fig2-Winsor.jpg
-teaser: Jumping spiders have a complex visual system, and here's how it works
+teaser: Jumping spiders have a complex visual system, and here's how it works.
 
 source-id: 1SP8doR_ImwJK9XEcsqRpEASQylGOKpySF076DfrrYNM
 published: true
