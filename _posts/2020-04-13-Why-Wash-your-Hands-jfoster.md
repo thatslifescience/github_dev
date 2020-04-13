@@ -20,18 +20,6 @@ teaser: "What even IS soap and how does using it to wash your hands prevent dise
 source-id: 1CM4Hw4jwwL6_OfEb0QqdjgeSbYOCJeWx87jBtseDIfU
 published: true
 ---
-**Title:** Why Wash Your Hands?  
-
-**Author(s): **jfoster
-
-**Category: **How it Works
-
-**Keywords: **soap, disease, health, membrane
-
-**Teaser:** What even *IS* soap and how does using it to wash your hands prevent disease?
-
-**Thumbnail image**: Fig 1
-
 We've all been inundated with hand washing advice from an early age, even more so recently with the pervasive threat of COVID-19, but why are soap and water so effective against microscopic threats to our health?
 
 <center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/49740100917/in/dateposted-friend/" title="washing-hands-4940196_1920"><img src="https://live.staticflickr.com/65535/49740100917_20f8a79c1e_c.jpg" width="800" height="533" alt="washing-hands-4940196_1920"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
