@@ -55,7 +55,7 @@ All of this is to say that fat does some great things for your mind.  You might 
 
 [3] Cavanagh J.B. [The Problems of Neurons with Long Axons.](https://www.sciencedirect.com/science/article/pii/S0140673684924577) (1984) *The Lancet* 323(8389):1284-1287.
 
-[4] Kandel E., Schwartz J.H., Jessell T.* Principles of Neural Science.* (1981).
+[4] Kandel E., Schwartz J.H., Jessell T. *Principles of Neural Science.* (1981).
 
 
 ## More From Thats Life [Science]
