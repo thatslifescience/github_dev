@@ -13,7 +13,7 @@ categories:
 header:
  image_fullwidth: howitworks-header.jpg
 image:
- thumb: 2020-04-20-EDausterA.jpg
+ thumb: 2020-04-20-EDausterA.png
 teaser: There is a time and place for everything. While fat on your belly might make you run slower, fat in your brain lets you think faster.
 
 source-id: 1pjjnHaXw43VPdZplfs0qyUfH_fMa9KiHgu22Y8KhvxY
