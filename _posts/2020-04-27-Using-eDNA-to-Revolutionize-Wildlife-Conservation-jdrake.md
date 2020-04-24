@@ -41,11 +41,9 @@ By using [eDNA methods](https://www.umass.edu/newsoffice/article/environmental-d
 Imagine having a system in the future, where land managers can take samples of waters from well placed rivers and ponds, and have "libraries" of the animal communities recorded. This can help manage rare species and detect invasive species as they move across an entire landscape. Scientists and managers would be able to detect landscape scale trends, and then pinpoint management to local spots that emerge from those landscape surveys. This type of monitoring could help managers focus on trouble spots and utilize scarce resources more efficiently; eDNA has the possibility to revolutionize monitoring. 
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/49665944873/in/dateposted-friend/" title="jdrake_reddeer_cameratrap"><img src="https://live.staticflickr.com/65535/49665944873_c83b01b65f_c.jpg" width="800" height="600" alt="jdrake_reddeer_cameratrap"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
 **Fig. 3** – A camera trap image of a red deer, a culturally, economically, and ecologically important species in the [NW of Scotland where the study was carried out](http://thatslifesci.com/2018-10-22-scottish-summer-surprises-part-2-jdrake/). We were able to detect the deer in camera traps and via eDNA from water samples near the camera trap. Photo by Joseph Drake.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/49666765767/in/dateposted-friend/" title="jdrake_watervole_cameratrap2"><img src="https://live.staticflickr.com/65535/49666765767_bbb64f951a_c.jpg" width="800" height="600" alt="jdrake_watervole_cameratrap2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
 **Fig. 4** – A camera trap image of a water vole swimming in the riparian area, probably leaving behind a wonderful trail of DNA from scat and hair, ready to be collected as eDNA, long after the animal has left the scene. Photo by Joe Drake
 
 **References**
