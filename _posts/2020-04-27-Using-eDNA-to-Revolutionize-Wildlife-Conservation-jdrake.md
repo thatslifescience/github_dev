@@ -19,17 +19,6 @@ teaser: From scat to skin, animals leave a lot of evidence to track them with, b
 source-id: 1_qvUJmdAkOQQq5wcX84uoRUO_Q1hfEt9x32MaekiUL4
 published: true
 ---
-**Title: **Using eDNA to Revolutionize Wildlife Conservation
-
-**Author(s): **jdrake
-
-**Category: **How it Works
-
-**Keywords: **endangered, DNA, invasive species, management, field work
-
-**Teaser: **From scat to skin, animals leave a lot of evidence to track them with, but can we use this environmental DNA to monitor them? 
-
-**Thumbnail image**:  Figure 1
 
 Some animals are more difficult to detect than others. These cryptic species hide well or cannot be trapped easily, making it harder for scientists to detect them. You can sometimes survey for these animals by what traces they leave behind - their tracks or [scat](http://thatslifesci.com/2017-09-25-Crap-you-didnt-really-need-to-know-JDrake/). These surveys aren't perfect though. As a surveyor, one can occasionally miss the stuff left behind. Even if you don’t miss any sign that is still there, sometimes visual evidence has already been washed away in the rain or the majority has been lost to decomposition. What if we could still find the animal after they left the scene, after their footprints (and your remote camera) get washed away?
 
@@ -59,9 +48,12 @@ Imagine having a system in the future, where land managers can take samples of w
 
 **Fig. 4** – A camera trap image of a water vole swimming in the riparian area, probably leaving behind a wonderful trail of DNA from scat and hair, ready to be collected as eDNA, long after the animal has left the scene. Photo by Joe Drake
 
-**References **
+**References**
 
 [1] Sales NG, McKenzie MB, Drake J, Harper LR, Browett SS, Coscia I, Wangensteen OS, Baillie C, Bryce E, Dawson DA, Ochu E, Hänfling B, Handley LL, Mariani S, Lambin X, Sutherland C, McDevitt AD (2020) Fishing for mammals: landscape-level monitoring of terrestrial and semi-aquatic communities using eDNA from riverine systems*. Journal of Applied Ecology* doi: 10.1111/1365-2664.13592.
 
 [2] Harper LR, Lawson Handley L, Carpenter AI, Murray-Dickson G, Di Muri C, MacGregor CJ, Logan TW, Law A, Breithaupt T, Read DS, McDevitt AD, Hanfling B (2019) Environmental DNA (eDNA) metabarcoding of pond water as a tool to survey conservation and management priority mammals. *Biological Conservation* 238**:** 108225
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="How It Works" %}
