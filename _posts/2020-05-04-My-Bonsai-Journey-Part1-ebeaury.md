@@ -1,5 +1,5 @@
 ---
-title: My Bonsai Journey Part1
+title: My Bonsai Journey Part 1
 layout: page
 author: ebeaury
 permalink: /2020-05-04-my-bonsai-journey-part1-ebeaury/
