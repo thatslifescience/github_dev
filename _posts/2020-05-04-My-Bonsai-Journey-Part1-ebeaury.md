@@ -66,3 +66,6 @@ Figure 5. A close-up of some of the seedlings. They grow with a spindle shape un
 
 [3] Rhoades, H., "How To Soak Seeds Before Planting And The Reasons For Soaking Seeds". Gardening Know How. [https://www.gardeningknowhow.com/garden-how-to/propagation/seeds/soaking-seeds.htm](https://www.gardeningknowhow.com/garden-how-to/propagation/seeds/soaking-seeds.htm) (accessed April 9, 2020).
 
+## More From Thats Life [Science]
+{: .t60 }	
+{% include list-posts offset="1" entries="5" category="Grad School Diaries" %}
