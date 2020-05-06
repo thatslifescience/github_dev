@@ -1,5 +1,5 @@
 ---
-title: 2020-05-04-My-Bonsai-Journey-Part1-ebeaury
+title: My Bonsai Journey Part1
 layout: page
 author: ebeaury
 permalink: /2020-05-04-my-bonsai-journey-part1-ebeaury/
@@ -7,22 +7,16 @@ tags:
 - plants
 - plant care
 - development
-Grad School Diaries
-
+categories:
+ - Grad School Diaries
+header:
+ image_fullwidth: gradschooldiaries-header.jpg
+image:
+ thumb: 2020_05_04ebeauty.jpg
+teaser: This spring, I tackled the art of bonsai tree care. Check out the first part of my journey to prune my green thumb!
 source-id: 1RLMttEMxUkMqqKuylbtE0Zv-zyiQZNc_YX8LktcMNag
 published: true
 ---
-**Title: **My Bonsai Journey Part 1
-
-**Author(s): **ebeaury
-
-**Category: **Grad School Diaries
-
-**Keywords: **development, plant health, plants, plant care
-
-**Teaser: **This spring, I tackled the art of bonsai tree care. Check out the first part of my journey to prune my green thumb!
-
-**Thumbnail image**:  Figure 1
 
 I am a plant ecologist by training, but for graduate school I transitioned away from hands-on work with plants into working with technology - like computer modeling - to understand broad patterns in plant distributions. Even so, to maintain some semblance of connection to living plants, I keep several plant friends at home and in my campus office. This spring, in search of a new hobby, I decided to test my green thumb by entering the world of bonsai.
 
