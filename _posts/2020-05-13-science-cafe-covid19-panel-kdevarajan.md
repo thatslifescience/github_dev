@@ -45,23 +45,23 @@ Some questions were answered outside of the discussion by the panelists through 
 
 The antibody (a protein used by the immune system to protect against pathogens) tests being used everywhere will allow us to see exactly how many people have been infected, so we can calibrate how far away we are from 'safety'. Large-scale serological (tests used to identify and measure antibodies in serums and bodily fluids such as blood) studies to find antibodies are underway nationally. The National Institutes of Health (NIH) is enrolling ten thousand people while the UMass Sero-Mass study scheduled to begin shortly will enroll two thousand.
 
-**What precautions should we take for long distance road travel during the pandemic? **
+**What precautions should we take for long distance road travel during the pandemic?**
 
 Minimize all stops, use disposable gloves for stops where necessary, and then follow your health care facility's guidance as closely as possible.
 
-**What effect did the 1918 Spanish flu pandemic have on social institutions, and what lessons from that apply to COVID-19? **
+**What effect did the 1918 Spanish flu pandemic have on social institutions, and what lessons from that apply to COVID-19?**
 
 The book "Pale Rider: The Spanish Flu of 1918 and How it Changed the World" by Laura Spinney provides an overview of the 1918 Spanish flu pandemic [2].
 
-**There has been discussion about the possibility that a booster dose of the Polio or TB vaccine could impart (partial) non-specific immunity to the population. Is that something worth pursuing?**** **
+**There has been discussion about the possibility that a booster dose of the Polio or TB vaccine could impart (partial) non-specific immunity to the population. Is that something worth pursuing?**
 
 There's no good data yet; and we don’t expect this to be an important 'silver bullet’ moving forward.
 
-**We hear there are two strains of COVID-19, and that the mutated one from Europe came to the East Coast whereas the other came directly from China to the West Coast. Are we at risk of getting infected from each strain? **
+**We hear there are two strains of COVID-19, and that the mutated one from Europe came to the East Coast whereas the other came directly from China to the West Coast. Are we at risk of getting infected from each strain?**
 
 That is something we do not completely know yet. It has been too short a time to know if protective immunity is acquired after infection, and how long it lasts. That said, it is suspected that we do gain some degree of immunity after infection, and if we have protective antibodies to one strain we would be protected from both based on their degree of genetic similarity. However, we have no data to say either way, so the best thing to do is to still be cautious.
 
-**Why****,**** in times of crisis, is it so hard to think as a group like the social animals that we are rather than as separate individuals?**
+**Why, in times of crisis, is it so hard to think as a group like the social animals that we are rather than as separate individuals?**
 
 We often do think about ourselves as members of groups, but we're not necessarily very 'inclusive' in terms of how we think about the boundaries for different groups. Under threat, we are especially likely to think of ourselves and others in terms of family or kinship ties, national or ethnic/racial/religious groups, and we tend not to be as generous toward people who extend beyond those group boundaries. But just because we're not as inclined toward it, doesn't mean it can't or shouldn't happen - we are fully capable of becoming more generous toward groups and social units beyond our own.
 
