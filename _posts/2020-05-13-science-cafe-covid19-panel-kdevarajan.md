@@ -8,7 +8,7 @@ tags:
 - pandemic
 - virus
 - infectious disease
-- covid-19
+- covid 19
 categories:
 - Our Ecosystems
 header:
@@ -20,17 +20,6 @@ teaser: “The COVID-19 pandemic has raised a number of questions about the viru
 source-id: 10txEwqq7FuqG7b58nKtMAjRJMrQOryNkUbWt7NNeDYc
 published: true
 ---
-**Title: **The Pandemic That Changed The World: Many Questions and a Few Answers
-
-**Author(s): **kdevarajan
-
-**Category: **Our Ecosystems
-
-**Keywords: **coronavirus, pandemic, covid-19, virus, infectious disease
-
-**Teaser: **The COVID-19 pandemic has raised a number of questions about the virus, how it spreads, and its global impacts. A panel of biologists provides answers to some frequently asked questions.
-
-**Thumbnail image**: Figure 1 
 
 "*I wish it need not have happened in my time," said Frodo. "So do I,” said Gandalf, “and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us.*” [1]
 
