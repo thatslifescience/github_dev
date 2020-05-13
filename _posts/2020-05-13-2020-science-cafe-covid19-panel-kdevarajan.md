@@ -20,18 +20,6 @@ teaser: “The COVID-19 pandemic has raised a number of questions about the viru
 source-id: 10txEwqq7FuqG7b58nKtMAjRJMrQOryNkUbWt7NNeDYc
 published: true
 ---
-**Title: **The Pandemic That Changed The World: Many Questions and a Few Answers
-
-**Author(s): **kdevarajan
-
-**Category: **Our Ecosystems
-
-**Keywords: **coronavirus, pandemic, covid-19, virus, infectious disease
-
-**Teaser: **The COVID-19 pandemic has raised a number of questions about the virus, how it spreads, and its global impacts. A panel of biologists provides answers to some frequently asked questions.
-
-**Thumbnail image**: Figure 1 
-
 "*I wish it need not have happened in my time," said Frodo. "So do I,” said Gandalf, “and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us.*” [1]
 
 The novel coronavirus has plunged our daily lives into turmoil while simultaneously bringing the world to a standstill. In a few short months the world has become a drastically different place for billions of people. There are questions raised every minute and unforeseen problems cropping up like weeds, the answers to which could save lives. [What are coronaviruses](https://www.youtube.com/watch?v=sHP0UIdZyI4)? [Is a virus alive](https://youtu.be/nwfHEUO-k_U)? [Where do coronaviruses come from](https://youtu.be/NJLXdsO1GBI)? [How does the COVID-19 virus spread](https://www.youtube.com/watch?v=G9FGrmYUr5c)? [When and, just as importantly, how will the pandemic end](https://www.theatlantic.com/health/archive/2020/03/how-will-coronavirus-end/608719/)? But as we are slowly realizing, answers and solutions are never easy. 
