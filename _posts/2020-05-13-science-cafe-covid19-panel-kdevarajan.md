@@ -1,5 +1,5 @@
 ---
-title: The Pandemic That Changed The World: Many Questions and a Few Answers
+title: "The Pandemic That Changed The World: Many Questions and a Few Answers"
 layout: page
 author: kdevarajan
 permalink: /2020-05-13-science-cafe-covid19-panel-kdevarajan/
@@ -8,7 +8,7 @@ tags:
 - pandemic
 - virus
 - infectious disease
-- covid 19
+- covid-19
 categories:
 - Our Ecosystems
 header:
