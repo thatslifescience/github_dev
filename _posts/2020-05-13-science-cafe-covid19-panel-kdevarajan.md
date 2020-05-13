@@ -29,8 +29,7 @@ The novel coronavirus has plunged our daily lives into turmoil while simultaneou
 
 <center><a href="https://www.cdc.gov/coronavirus/2019-ncov/index.html?s_cid=bb-coronavirus-2019-ncov-NCIRD" title="image of SARS-CoV-2"><img src="http://www.cdc.gov/coronavirus/2019-ncov/images/Coronavirus-badge-300.png" style="width:300px; height:250px; border:0px;" alt="image of Coronavirus Disease 2019 (COVID-19)" /></a></center>
 
-**Figure 1** The novel coronavirus disease COVID-19 graphic released by the Centers for Disease Control and Prevention (CDC)
-
+**Figure 1** The novel coronavirus disease COVID-19 graphic released by the Centers for Disease Control and Prevention (CDC).
 (*Source*: [Centers for Disease Control and Prevention](https://www.cdc.gov/coronavirus/2019-ncov/communication/buttons-badges.html))
 
 How is COVID-19 different from other viruses? How accurate is testing at this time? How is it transmitted? What preventative measures can we take against the novel coronavirus? How do antibody tests, vaccines, and herd immunity work? Is there anything that can speed up recovery from COVID? What are the best practices for grocery shopping during the pandemic? Can COVID-19 be transmitted during food processing? What are the risks when getting take-out food? What are the social impacts of the pandemic? What kind of societal effects will persist even when we return to some level of normalcy? What will happen now that several countries and U.S. states are opening back up? For answers to these questions and more, tune into the recording of the Life Science Cafe panel discussion.
