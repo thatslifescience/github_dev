@@ -39,6 +39,7 @@ How is COVID-19 different from other viruses? How accurate is testing at this ti
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GsjpnKwxW_g?start=230" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 Some questions were answered outside of the discussion by the panelists through live chat. The Cafe's questions and responses have been edited for clarity.
 
 **When will it be safe to return to normalcy given the uncertainty with testing and exposure?**
@@ -79,13 +80,12 @@ Yes, there are some research studies focusing on the many ways in which we are s
 
 [The Biology of Booze ft. Gin & Tonic](http://thatslifesci.com/2020-05-11-The-Biology-of-Booze-GnT-kdevarajan/) by Kadambari Devarajan
 
-## More From Thats Life [Science]
-{: .t60 }
-{% include list-posts offset="1" entries='5' category="Our Ecosystems" %}
-
 **References**
 
 1. Tolkien, J.R.R. *The Fellowship of the Ring*. New York: Houghton Mifflin Company, 1994. Print.
 
 2. Spinney, Laura. *Pale rider: the Spanish flu of 1918 and how it changed the world*. PublicAffairs, 2017.
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Our Ecosystems" %}
