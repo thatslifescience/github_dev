@@ -35,6 +35,7 @@ The novel coronavirus has plunged our daily lives into turmoil while simultaneou
 How is COVID-19 different from other viruses? How accurate is testing at this time? How is it transmitted? What preventative measures can we take against the novel coronavirus? How do antibody tests, vaccines, and herd immunity work? Is there anything that can speed up recovery from COVID? What are the best practices for grocery shopping during the pandemic? Can COVID-19 be transmitted during food processing? What are the risks when getting take-out food? What are the social impacts of the pandemic? What kind of societal effects will persist even when we return to some level of normalcy? What will happen now that several countries and U.S. states are opening back up? For answers to these questions and more, tune into the recording of the Life Science Cafe panel discussion.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GsjpnKwxW_g?start=230" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **Figure 2** Recording of the Life Science Café special COVID-19 panel answering FAQs on the novel coronavirus.
 
 
