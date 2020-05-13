@@ -84,7 +84,7 @@ Yes, there are some research studies focusing on the many ways in which we are s
 
 1. Tolkien, J.R.R. *The Fellowship of the Ring*. New York: Houghton Mifflin Company, 1994. Print.
 
-2. Spinney, Laura. *Pale rider: the Spanish flu of 1918 and how it changed the world*. PublicAffairs, 2017.
+2. Spinney, Laura. *Pale rider: The Spanish Flu of 1918 and How It Changed the World*. PublicAffairs, 2017.
 
 ## More From Thats Life [Science]
 {: .t60 }
