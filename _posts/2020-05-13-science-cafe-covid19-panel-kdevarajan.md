@@ -15,7 +15,7 @@ header:
  image_fullwidth: ecosystem-header.jpg
 image:
  thumb: 05132020-Fig1-Devarajan.png
-teaser: “The COVID-19 pandemic has raised a number of questions about the virus, how it spreads, and its global impacts. A panel of biologists provides answers to some frequently asked questions.”
+teaser: The COVID-19 pandemic has raised a number of questions about the virus, how it spreads, and its global impacts. A panel of biologists provides answers to some frequently asked questions.
 
 source-id: 10txEwqq7FuqG7b58nKtMAjRJMrQOryNkUbWt7NNeDYc
 published: true
@@ -78,6 +78,10 @@ Yes, there are some research studies focusing on the many ways in which we are s
 [Why Wash Your Hands?](http://thatslifesci.com/2020-04-13-Why-Wash-your-Hands-jfoster/) By Josh Foster
 
 [The Biology of Booze ft. Gin & Tonic](http://thatslifesci.com/2020-05-11-The-Biology-of-Booze-GnT-kdevarajan/) by Kadambari Devarajan
+
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Our Ecosystems" %}
 
 **References**
 
