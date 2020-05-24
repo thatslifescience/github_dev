@@ -20,17 +20,6 @@ teaser: Do you feel like your allergies are worse than those of your grandparent
 source-id: 1HpdTYz14a4fSab9KC-VvXj5lwtzVDIA2FsOmQtfkE3U
 published: true
 ---
-Title: How Botanical Sexism is Making Your Allergies Worse
-
-Author: Mehak Kang (Undergraduate Writing Contest Winner)
-
-Category: Our Ecosystems 
-
-Keywords: botanical sexism, allergies, dioecious, agriculture
-
-Teaser: Do you feel like your allergies are worse than those of your grandparents?  It could be due to an overabundance of male trees in your environment.
-
-Thumbnail image: Figure 1
 
 Written by Spring 2020 Undergraduate Writing Contest Winner, Mehak Kang
 
@@ -52,31 +41,19 @@ With the American allergy problem only worsening, it is imperative to stop the s
 
 **References**
 
-[1] "Allergy Facts." *ACAAI Public Website*,  9 Jan. 2018, 
+[1] "Allergy Facts." *ACAAI Public Website*,  9 Jan. 2018, acaai.org/news/facts-statistics/allergies.
 
-       acaai.org/news/facts-statistics/allergies.
+[2] Imbler, Sabrina. "America's Love of Male Trees Could Be Why You're Sneezing Right Now." *Atlas Obscura*, Atlas Obscura, 6 Jan. 2020, www.atlasobscura.com/articles/seasonal-allergies-blame-male-trees. 
 
-[2] Imbler, Sabrina. "America's Love of Male Trees Could Be Why You're Sneezing Right 
+[3] Ogren, Thomas Leo. "Botanical Sexism Cultivates Home-Grown Allergies." *Scientific American Blog Network*, Scientific American, 29 Apr. 2015, blogs.scientificamerican.com/guest-blog/botanical-sexism-cultivates-home-grown-allergies/.
 
-Now." *Atlas Obscura*, Atlas Obscura, 6 Jan. 2020, www.atlasobscura.com/articles/seasonal-allergies-blame-male-trees. 
+[4] The Victory Seed Company - www.victoryseeds.com. *Welcome to the Victory Horticultural Library - A Portal for Historical Research*, [www.saveseeds.org/library/holdings/yoa.html](http://www.saveseeds.org/library/holdings/yoa.html).
 
-[3] Ogren, Thomas Leo. "Botanical Sexism Cultivates Home-Grown Allergies." *Scientific *
+[5] Osterweil, Neil. "Allergies and Hematologic Cancer Risk: Is There a Link?" *Medscape*, 27 Nov. 2013,      [www.medscape.com/viewarticle/815109](http://www.medscape.com/viewarticle/815109).
 
-*American Blog Network*, Scientific American, 29 Apr. 2015, blogs.scientificamerican.com/guest-blog/botanical-sexism-cultivates-home-grown-allergi es/.
+[6] Henry, Heather. "Importance of the Allergy Friendly Landscape: The Plantium." *The Plantium- Find. Organize. Evaluate.*, 11 July 2017, theplantium.com/2017/06/14/allergy-friendly-landscape/.
 
-[4] The Victory Seed Company - www.victoryseeds.com. *Welcome to the Victory*
-
-*      Horticultural Library - A Portal for Historical Research*,
-
-      [www.saveseeds.org/library/holdings/yoa.html](http://www.saveseeds.org/library/holdings/yoa.html).
-
-[5] Osterweil, Neil. "Allergies and Hematologic Cancer Risk: Is There a Link?"
-
-*      Medscape*, 27 Nov. 2013, 
-
-      [www.medscape.com/viewarticle/815109](http://www.medscape.com/viewarticle/815109).
-
-[6] Henry, Heather. "Importance of the Allergy Friendly Landscape: The Plantium." *The *
-
-*Plantium- Find. Organize. Evaluate.*, 11 July 2017, theplantium.com/2017/06/14/allergy-friendly-landscape/.
+## More From Thats Life [Science]
+{: .t60 }      	
+{% include list-posts offset="1" entries="5" category="Our Ecosystems" %}
 
