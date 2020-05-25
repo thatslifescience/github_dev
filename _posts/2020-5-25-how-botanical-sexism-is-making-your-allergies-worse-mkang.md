@@ -14,6 +14,7 @@ header:
  image_fullwidth: ecosystem-header.jpg
 image:
  thumb: 2020-05-25-MKang.jpg
+ title: 2020-contest-winner.jpeg
 teaser: Do you feel like your allergies are worse than those of your grandparents?  It could be due to an overabundance of male trees in your environment.
 
 
