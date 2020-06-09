@@ -63,4 +63,4 @@ References:
 
 ## More From Thats Life [Science]
 {: .t60 }
-{% include list-posts offset="1" entries='5' category="How It works" %}
+{% include list-posts offset="1" entries='5' category="How It Works" %}
