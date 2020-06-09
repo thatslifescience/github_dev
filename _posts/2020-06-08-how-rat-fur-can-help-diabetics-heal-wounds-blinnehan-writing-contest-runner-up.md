@@ -1,8 +1,8 @@
 ---
-title: 2020-06-08-how-rat-fur-can-help-diabetics-heal-wounds-blinnehan-writing-contest-runner-up
+title: How rat fur can help diabetics heal wounds 
 layout: page
 author: gwriter
-permalink: /2020-06-08-how-rat-fur-can-help-diabetics-heal-wounds-blinnehan-writing-contest-runner-up/
+permalink: /2020-06-08-How-rat-fur-can-help-diabetics-heal-wounds/
 tags:
 - fur
 - tissue
@@ -12,25 +12,15 @@ tags:
 categories:
 -How It Works
 header:
-image_fullwidth: howitworks-header.jpg
+ image_fullwidth: howitworks-header.jpg
 image:
- thumb: *gwriter.jpg*
- title: 2020-contest-winner.jpeg 
+ thumb: gwriter.jpg
+ title: 2020-contest-runner-up.jpeg
+teaser: The lab rat, historically used for countless areas of scientific and medical research, presents a promising possibility in the field of biomedical and regenerative medicine. New research shows that these furry critters help regenerate tissue to heal wounds, having implications for diseases like diabetes.
+
 source-id: 1gCSLPBvC9Un_vKjqNhbUOer2mY3K5HcnjA9qLQR-lRs
 published: true
 ---
-Title: How Rat Fur Can Help Diabetics Heal Wounds
-
-Author: gwriter
-
-Category: How It Works
-
-Keywords: fur, tissue regeneration, rats, immune system
-
-Teaser: The lab rat, historically used for countless areas of scientific and medical research, presents a promising possibility in the field of biomedical and regenerative medicine. New research shows that these furry critters help regenerate tissue to heal wounds, having implications for diseases like diabetes. 
-
-Thumbnail image: Figure 1
-
 Written by Spring 2020 Undergraduate Writing Contest runner-up Brooke Linnehan
 
 Diabetes, a metabolic disorder characterized by dysregulated insulin responses, makes it difficult for the body to manage blood sugar levels. The Centers for Disease Control and Prevention (CDC) state that over 34 million people in the United States have diabetes, and estimate that 88 million adults have "prediabetes," meaning that they are at risk for type 2 diabetes [1].  Permanently high blood-glucose levels can weaken the immune system by impairing white blood cell function [2]. Due to a weakened immune system, weakened circulation, or diabetic neuropathy, diabetics may experience difficulty recovering from wounds [2].
@@ -71,3 +61,6 @@ References:
 
 [11] Gupta, A., Singh, R. L., & Raghubir, R. (2002). [Antioxidant status during cutaneous wound healing in immunocompromised rats](https://link.springer.com/article/10.1023/A:1020804916733). *Molecular and Cellular Biochemistry*, *241*(1-2), 1-7.
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="How It works" %}
