@@ -1,8 +1,8 @@
 ---
-title: How rat fur can help diabetics heal wounds 
+title: How Rat Fur can Help Diabetics Heal Wounds 
 layout: page
 author: gwriter
-permalink: /2020-06-08-How-rat-fur-can-help-diabetics-heal-wounds/
+permalink: /2020-06-08-How-Rat-Fur-Can-Help-Diabetics-Heal-Wounds/
 tags:
 - fur
 - tissue
