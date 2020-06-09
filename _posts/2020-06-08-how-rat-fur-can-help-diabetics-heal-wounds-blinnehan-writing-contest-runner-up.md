@@ -33,7 +33,7 @@ Keratin is tough and fibrous, making it the perfect material for use in scaffold
 
 <center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/49955925693/in/dateposted-friend/" title="2684073750_3c202d50a3_o"><img src="https://live.staticflickr.com/65535/49955925693_e9e32eb5c4_z.jpg" width="640" height="463" alt="2684073750_3c202d50a3_o"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-**Figure 1. **Rat fur could have a profound impact on the field of biomedicine. Source [Sarah Laval](https://www.flickr.com/photos/smercury98/) at [Flickr](https://www.flickr.com/photos/smercury98/2684073750/in/photostream/)
+**Figure 1.**Rat fur could have a profound impact on the field of biomedicine. Source [Sarah Laval](https://www.flickr.com/photos/smercury98/) at [Flickr](https://www.flickr.com/photos/smercury98/2684073750/in/photostream/)
 
 This discovery has the potential for widespread benefits due to the availability of rat fur. Rats have long been used as an organism of study in biological systems and it's safe to say that rats are not going away any time soon. To take something often overlooked, such as their fur, and turn it into a biomedical tool to help facilitate wound recovery has the potential to help countless people. The applications of keratin scaffolds could extend beyond diabetic wounds to help those wounded in the military, or those who are predisposed to having a long recovery such as the elderly or immunocompromised [11]. Remember that the next time you spot a rat and scream "Eek!"
 
