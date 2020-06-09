@@ -10,7 +10,7 @@ tags:
 - rats
 - immune system
 categories:
--How It Works
+- How It Works
 header:
  image_fullwidth: howitworks-header.jpg
 image:
