@@ -52,7 +52,7 @@ Tips and tricks:
 
 The email might look something like this:
 
-<p style="color:purple;"><span style="padding-left: 30px; display:block; border: 1px solid black"><br><br>Hello Dr. Vazey,<br><br>
+<p style="color:purple;"><span style="padding-left: 20px; display:block; border: 1px solid black"><br>Hello Dr. Vazey,<br><br>
 
 My name is Emma Dauster and I am a Junior at Bethesda-Chevy Chase High School.  I am in the process of applying for Summer research programs and am reaching out to professors with whom I share research interests.  I have taken every advanced science course offered at my school and am excited to build on the knowledge I have gained in class with laboratory experience. <br><br>
 
