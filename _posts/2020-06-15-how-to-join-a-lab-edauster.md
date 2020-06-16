@@ -52,17 +52,17 @@ Tips and tricks:
 
 The email might look something like this:
 
-<blockquote><p style="color:purple;">Hello Dr. Vazey,
+<p style="color:purple;"><span style="padding-left: 20px; display:block">Hello Dr. Vazey,<br><br>
 
-My name is Emma Dauster and I am a Junior at Bethesda-Chevy Chase High School.  I am in the process of applying for Summer research programs and am reaching out to professors with whom I share research interests.  I have taken every advanced science course offered at my school and am excited to build on the knowledge I have gained in class with laboratory experience. 
+My name is Emma Dauster and I am a Junior at Bethesda-Chevy Chase High School.  I am in the process of applying for Summer research programs and am reaching out to professors with whom I share research interests.  I have taken every advanced science course offered at my school and am excited to build on the knowledge I have gained in class with laboratory experience. <br><br>
 
-As a dedicated student and researcher, I would go into the lab every day to conduct meaningful research such as that conducted in your laboratory.  I am excited to devote more of my time and energy to neurosciences and learn more in the process.  Your study on sex differences in attention regulation is particularly exciting!  I love science and plan for a future of one day becoming a researcher myself.
+As a dedicated student and researcher, I would go into the lab every day to conduct meaningful research such as that conducted in your laboratory.  I am excited to devote more of my time and energy to neurosciences and learn more in the process.  Your study on sex differences in attention regulation is particularly exciting!  I love science and plan for a future of one day becoming a researcher myself.<br><br>
 
-Today I am writing to ask if you predict to have a student position available in your lab for the upcoming Summer.  If so, I hope you find me to be a suitable applicant.  I have attached my CV to this email.  Thank you so much for your time and consideration!  I am looking forward to hearing from you soon.
+Today I am writing to ask if you predict to have a student position available in your lab for the upcoming Summer.  If so, I hope you find me to be a suitable applicant.  I have attached my CV to this email.  Thank you so much for your time and consideration!  I am looking forward to hearing from you soon.<br><br>
 
-Have a wonderful day,
+Have a wonderful day,<br>
 
-Emma Dauster</p></blockquote>
+Emma Dauster</span></p>
 
 For more research guidance check out my website:  [emmadauster.com](https://emmadauster.com/)
 
