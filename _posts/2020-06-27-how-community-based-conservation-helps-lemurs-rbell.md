@@ -64,3 +64,6 @@ References:
 
 [9] United Nations Development Programme. "[Anja Miray Association, Madagascar.](https://www.equatorinitiative.org/wp-content/uploads/2017/05/case_1370356089_EN.pdf)" Equator Initiative Case Study Series (2013).
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Our Ecosystems" %}
