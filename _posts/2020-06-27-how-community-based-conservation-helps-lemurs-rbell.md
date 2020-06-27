@@ -14,7 +14,7 @@ header:
  image_fullwidth: ecosystem-header.jpg
 image:
  thumb: 06272020-Fig3_Bell.jpg
-teaser: “Madagascar is undergoing environmental and socioeconomic crises that threaten the future of the island country. Here is how community-based conservation can help.”
+teaser: Madagascar is undergoing environmental and socioeconomic crises that threaten the future of the island country. Here is how community-based conservation can help.
 source-id: 1SnSv0u9C1pwEclCeBqf-8pwZeC1CEkPv1iJ5wEGL3Qk
 published: true
 ---
