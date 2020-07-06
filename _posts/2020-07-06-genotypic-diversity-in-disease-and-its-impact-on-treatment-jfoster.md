@@ -19,17 +19,6 @@ teaser: Though not captured in the language we use to describe disease, many ail
 source-id: 1X8JtG5fYZLaxIwe968SAXxmx9pF0sus_oZ5CIMlAIv8
 published: true
 ---
-**Title: ****Genetic Diversity and Its Impact on Disease Treatment **
-
-**Author(s): **jfoster
-
-**Category: **How It Works
-
-**Keywords: **disease, personalized medicine, variation, genetics
-
-**Teaser: **Though not captured in the language we use to describe disease, many ailments are caused by diverse genetic backgrounds. What are the implications of these variations and how can we take advantage of them to develop better treatments?
-
-**Thumbnail image**: Figure 1
 
 How do you describe when you're sick? Not how you’re feeling, but the actual 'sickness’ itself? With the increased frequency of conversations regarding ‘sickness’ recently, I noticed an interesting trend. Anecdotally, when someone is infected with an influenza strain they will most likely say they "Caught *the *flu," whereas an infection with the common cold would be described as “Caught *a *cold”. This minor difference in language reflects an interesting discrepancy between how we talk about disease versus what the underlying cause(s) actually are.
 
@@ -101,3 +90,6 @@ References:
 
 [22] Liu, Katherine A., and Natalie A. Dipietro Mager. "[Women's involvement in clinical trials: historical perspective and future implications.](http://scielo.isciii.es/pdf/pharmacy/v14n1/revision.pdf)" Pharmacy Practice (Granada) 14.1 (2016): 0-0.
 
+## More From Thats Life [Science]
+{: .t60 }	
+{% include list-posts offset="1" entries="5" category="How It Works" %}
