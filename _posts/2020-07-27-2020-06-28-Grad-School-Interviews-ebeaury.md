@@ -1,5 +1,5 @@
 ---
-title: 2020-07-27-Grad-School-Interviews-ebeaury
+title: Grad School Interviews
 layout: page
 author: ebeaury 
 permalink: /2020-07-27-grad-school-interviews-ebeaury/
@@ -14,22 +14,11 @@ header:
  image_fullwidth: gradschooldiaries-header.jpg
 image:
  thumb: 2020-07-27-ebeaury.png
-teaser: “What to expect during graduate school interviews, and the key questions to ask to land you in the right program”
+teaser: What to expect during graduate school interviews, and the key questions to ask to land you in the right program.
 
 source-id: 1rKB2MnD8QeLtp2oI90JBTnXIw1NlxdYgn1cnhufuMG8
 published: true
 ---
-**Title: **A Guide to Graduate School Interviews
-
-**Author(s): **ebeaury
-
-**Category:** Grad School Diaries
-
-**Keywords: **academia, advice, graduate school, career
-
-**Teaser: **What to expect during graduate school interviews, and the key questions to ask to land you in the right program.
-
-**Thumbnail image**:  Figure 1
 
 *Disclaimer* This is from my perspective as a PhD candidate in a life science program. I don't have a masters degree and my program is research-focused. This post will be most useful for those applying to similar PhD programs where you are paired with an advisor. However, these considerations can still be useful for most graduate school interviews.
 
