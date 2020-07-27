@@ -34,6 +34,7 @@ Once you've successfully interpreted program requirements and managed expensive 
 
 ### Questions for your potential advisor:
 
+
 **1) What is your advising style like?** 
 What you're trying to assess with this question is how hands-on or hands-off this person is. Both approaches to mentoring can work, but the key is to think about what your working style is and whether that seems to fit with your advisor’s approach to mentoring. For me, I like receiving feedback and since I didn’t have a master’s degree before starting my PhD, I thought I might need more guidance from my advisor. So, I wanted to work with someone who seemed easy to communicate with and who was an attentive advisor. If you want to forge your own path, you might function better with a hands-off advisor, but be ready to do A LOT on your own or with the help of your labmates.
 
@@ -45,6 +46,7 @@ This can be useful for getting a sense of your advisor's approach to research an
 
 ### Questions for your potential labmates:
 
+
 **1) What is [insert PI's name] like as an advisor?** 
 You want to ask multiple people this question because you really want the inside scoop on your advisor’s style as a mentor. Advisor-advisee conflict can be really damaging to graduate student mental health, which affects multiple dimensions of academic success. Selecting a supportive advisor can be a more significant career altering decision than the type of research you want to work on during your degree.
 
@@ -55,6 +57,7 @@ Teaching can be an awesome part of graduate school, but if you have to TA every 
 This might feel like an awkward question to ask, but this can be really useful for assessing what your work-life balance might be like. Are your labmates constantly working nights and weekends? Is it by choice or obligation? Are they able to spend time with friends and family over the holidays? For some, the rigor of research is worth putting in crazy hours at the lab/field. However, *you should not have to give up your personal life for graduate school*. It is possible to strike a healthy work-life balance, and talking to future labmates about their experience is one way to suss this out.
 
 ### Questions for other students (as well as your labmates) in the program:
+
 
 **1) What classes do you have to take? What classes have you enjoyed?**
 It's always good to get a feel for the quality of the program’s requirements, as well as opportunities for getting to know other students. Your advisor will not be able to mentor you through every skill needed to successfully complete a PhD. What other resources are available?
