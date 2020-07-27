@@ -1,5 +1,5 @@
 ---
-title: Grad School Interviews
+title: A Guide to Graduate School Interviews
 layout: page
 author: ebeaury 
 permalink: /2020-07-27-grad-school-interviews-ebeaury/
