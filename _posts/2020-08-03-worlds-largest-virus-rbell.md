@@ -18,17 +18,6 @@ teaser: We have barely scratched the surface of virus diversity, but over the pa
 source-id: 18wAgWloBjUn3z-iUc3XwLOelm8lQWSLiYEyb2vaaI_4
 published: true
 ---
-**Title:** What is the world's largest virus?
-
-**Author:** RBell
-
-**Categories:** Earth's Organisms
-
-**Keywords:** Virus, Microbiology, Ecosystem, Amoeba
-
-**Teaser:** We have barely scratched the surface of virus diversity, but over the past decade scientists have discovered shockingly large viruses in environments across the globe. These giant viruses shook up everything we thought we knew about the origin of viruses.
-
-**Thumbnail image:** Figure 1
 
 Viruses are a major component of earth's ecosystems and exist in nearly every corner of the world. Though some—such as coronaviruses, lentiviruses, and rotaviruses—parasitize animal hosts, plenty of viruses exist in our ecosystems that cannot harm us. Some viruses specifically infect and replicate within bacteria, and are called bacteriophages. Others target single-celled organisms known broadly as amoebas. Extraordinarily, these amoeba-targeting viruses include the largest viruses in the world. Not only are these viruses remarkable for their size: their complexity has completely shifted how scientists think about the origin of viruses and life on Earth. But first things first, what *are* the biggest viruses in the world?
 
@@ -40,7 +29,7 @@ There are actually two different candidates for largest virus in the world, depe
 
 <center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/50182487907/in/dateposted-friend/" title="figure 2 virus"><img src="https://live.staticflickr.com/65535/50182487907_8c197a0812_c.jpg" width="800" height="189" alt="figure 2 virus"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-**Figure 2.** A comparison of bacteria and viruses, all with scale bars. From left to right: MRSA bacteria with a scale bar of 1 micron; the largest known virus *Pithovirus sibericum* with a scale bar of 1 micron; HPV particles with a scale bar of 100 nanometers (equal to 0.1 microns!). This figure illustrates how *Pithovirus *is closer in size to many bacteria than it is to other typical viruses like HPV. Image credits (from left to right): [Janice Haney Carr](https://phil.cdc.gov/Details.aspx?pid=9994) via the Public Health Image Library, [Pavel Hrdlička](https://commons.wikimedia.org/wiki/File:Pithovirus_sibericum_sketch.jpg) via Wikimedia Commons, [Dr. Graham Beards](https://commons.wikimedia.org/wiki/File:Papilloma_Virus_(HPV)_EM_(new_version).jpg) via Wikimedia Commons
+**Figure 2.** A comparison of bacteria and viruses, all with scale bars. From left to right: MRSA bacteria with a scale bar of 1 micron; the largest known virus *Pithovirus sibericum* with a scale bar of 1 micron; HPV particles with a scale bar of 100 nanometers (equal to 0.1 microns!). This figure illustrates how *Pithovirus* is closer in size to many bacteria than it is to other typical viruses like HPV. Image credits (from left to right): [Janice Haney Carr](https://phil.cdc.gov/Details.aspx?pid=9994) via the Public Health Image Library, [Pavel Hrdlička](https://commons.wikimedia.org/wiki/File:Pithovirus_sibericum_sketch.jpg) via Wikimedia Commons, [Dr. Graham Beards](https://commons.wikimedia.org/wiki/File:Papilloma_Virus_(HPV)_EM_(new_version).jpg) via Wikimedia Commons
 
 Another candidate for the world's largest virus is the virus with the biggest genome (the entirety of its genetic material). For some context, one of the smallest viral genomes is around 5,000 base pairs in length [6]. *Pandoravirus salinus* is a giant virus with a genome approximately 2.5 *million* base pairs in length [7]. That is larger than many bacterial genomes and even bigger than the genome of a type of microscopic fungi [7,8]! *Pandoravirus salinus* was found in the marine sediment layer off the coast of Chile, and similarly parasitizes aquatic amoebas [7].
 
@@ -73,4 +62,5 @@ References:
 [9] Schulz, Frederik, Lauren Alteio, Danielle Goudeau, Elizabeth M. Ryan, B. Yu Feiqiao, Rex R. Malmstrom, Jeffrey Blanchard, and Tanja Woyke. ["Hidden diversity of soil giant viruses."](https://www.nature.com/articles/s41467-018-07335-2) *Nature Communications* 9, no. 1 (2018): 1-9.
 
 [10] Abergel, Chantal, Matthieu Legendre, and Jean-Michel Claverie. ["The rapidly expanding universe of giant viruses: Mimivirus, Pandoravirus, Pithovirus and Mollivirus."](https://academic.oup.com/femsre/article/39/6/779/550971) *FEMS Microbiology Reviews* 39, no. 6 (2015): 779-796.
+
 
