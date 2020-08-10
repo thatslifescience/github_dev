@@ -66,3 +66,6 @@ Figure 1. Mentorship is a two way street – you should both benefit from one an
 
 If you have advice you'd like to see added to this list, feel free to comment below! Happy mentoring!
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Grad School Diaries" %}
