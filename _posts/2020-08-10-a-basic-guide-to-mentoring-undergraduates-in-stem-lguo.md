@@ -13,7 +13,7 @@ header:
  image_fullwidth: gradschooldiaries-header.jpg
 image:
  thumb: 08102020-Fig1-Guo.jpg
-teaser: “Project and people management is not part of normal curriculum in graduate school – but you better believe you will be expected to do it! Here’s some advice to help you be a better mentor to undergraduate students.”
+teaser: Project and people management is not part of normal curriculum in graduate school – but you better believe you will be expected to do it! Here’s some advice to help you be a better mentor to undergraduate students.
 
 source-id: 1Y6M4P5wYybYrYpqfwFzIUTQU5FAPbH8NlrESXycV1dI
 published: true
