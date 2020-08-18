@@ -54,7 +54,7 @@ Liu and colleagues (2018) studied the heat transfer of wolverine hairs and descr
 
 Further down the hair shaft the pores get larger and allow rapid changes in temperature such that the distal parts (part of the hair farthest from the body) of the hair are the same as the ambient temperature [9]. This allows the ruff to keep the area around your face warmer than when surrounded by other materials. It is still not known how wolverine fur stays dry and allows frost to be easily brushed off, though the angle of the guard hairs (long, coarse hairs that form the outer layer of an animal's coat), fur density, and the smoothness of the hair shaft have been suggested as potential mechanisms [6]. Researchers still haven’t uncovered why wolverine fur is best suited for ruffs, but that won’t stop folks living in the coldest parts of our world from continuing to use these techniques to survive. 
 
-**References **
+**References**
 
 [1] Ruggiero, Leonard F. The scientific basis for conserving forest carnivores: American marten, fisher, lynx, and wolverine in the western United States. Vol. 254. US Department of Agriculture, Forest Service, Rocky Mountain Forest and Range Experiment Station, 1994.
 
