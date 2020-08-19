@@ -34,7 +34,7 @@ We aren't talking about the Marvel superhero here, but the largest land-dwelling
 
 In Alaska, wolverine fur is highly valued by Indigenous peoples. Wolverine fur is often featured on the ruff (fur lining around the hood) of traditional parkas made by many native Alaskan groups. One traditional ruff style is the sunshine ruff made by the Iñupiat people of northwest Alaska; this ruff is made with a halo of wolf fur on the outside and wolverine fur on the inside towards the face. The rump and back legs of the wolverine are the most prized parts, and are traditionally used for women's ruffs and reserved for elders [2] (Fig.3). 
 
-<center>"<a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/50199405867/in/dateposted-friend/" title="Wolverine-pelt"><img src="https://live.staticflickr.com/65535/50199405867_3e62dfc218.jpg" width="500" height="367" alt="Wolverine-pelt"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>”</center>
+<center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/50199405867/in/dateposted-friend/" title="Wolverine-pelt"><img src="https://live.staticflickr.com/65535/50199405867_3e62dfc218.jpg" width="500" height="367" alt="Wolverine-pelt"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
 **Fig. 3** – A tanned wolverine pelt; the light fur on the hind end of the animal is traditionally used for women's sunshine ruffs. (Source: [Kürschner](https://commons.wikimedia.org/wiki/File:Wolverine_fur-skin.jpg) via Wikipedia)
 
@@ -46,7 +46,7 @@ Many traditional Yup'ik hoods are also trimmed with wolverine fur [3,4] (Fig 4).
 
 This might not seem like a big deal to folks who aren't from Alaska and haven’t experienced the coating of frost on your face, hair, and ruff that collects at forty below (Fig. 5). However, this is a big deal because the frost collected makes the micro environment around your face colder and the frozen hairs can cut your face [6,7]. Frost collects on surfaces near the face because the warmed water droplets in your breath contact surfaces near the face and freeze. Wolverine fur solves this problem, which has led scientists to try to understand how exactly it works so they can produce synthetic biomimetic (life-copying) materials that can be used instead. 
 
-<center>"<a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/50198588898/in/dateposted-friend/" title="frost-face"><img src="https://live.staticflickr.com/65535/50198588898_dca7245288.jpg" width="450" height="298" alt="frost-face"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>”</center>
+<center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/50198588898/in/dateposted-friend/" title="frost-face"><img src="https://live.staticflickr.com/65535/50198588898_dca7245288.jpg" width="450" height="298" alt="frost-face"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
 **Fig. 5** – Frost collects around one's face as they breathe. (source: [US Navy](https://www.doncio.navy.mil/chips/ArticleDetails.aspx?ID=4967))
 
