@@ -24,17 +24,13 @@ In an alternate reality, I would have spent this summer hard at work continuing 
 
 <center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/50274051572/in/dateposted-friend/" title="Fig1_WildlifePandemic_KadambariDevarajan"><img src="https://live.staticflickr.com/65535/50274051572_8c89a8f736_z.jpg" width="640" height="480" alt="Fig1_WildlifePandemic_KadambariDevarajan"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-**Figure 1** One of the camera traps the author had set up in the summer of 2019 facing a watering hole that resulted in a veritable smorgasbord of wildlife.
-
-(Image credit: Kadambari Devarajan)
+**Figure 1** One of the camera traps the author had set up in the summer of 2019 facing a watering hole that resulted in a veritable smorgasbord of wildlife. (Image credit: Kadambari Devarajan)
 
 But no, in 2020 that was not to be. Like numerous others during this extraordinary time, I'm dealing with reshuffling, rearranging, and scrambling to salvage best laid plans. My dissertation fieldwork has been put on hold indefinitely. Persistent as ever, during bleak times I cling tightly to the prospect of returning to Zambia to finish my beloved fieldwork. Perhaps that’s the audacity of hope. 
 
 <center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/50274051867/in/dateposted-friend/" title="Fig2_WildlifePandemic_KadambariDevarajan"><img src="https://live.staticflickr.com/65535/50274051867_0be0e38a3d_z.jpg" width="640" height="427" alt="Fig2_WildlifePandemic_KadambariDevarajan"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-**Figure 2** The author diligently noting down sampling information while setting up trail cameras at Kasanka National Park in Zambia as part of her research on the distribution patterns of mammalian carnivores present in the Park.
-
-(Image credit: Geraldine Taylor)
+**Figure 2** The author diligently noting down sampling information while setting up trail cameras at Kasanka National Park in Zambia as part of her research on the distribution patterns of mammalian carnivores present in the Park. (Image credit: Geraldine Taylor)
 
 This is not about my travails though. Yearning for my annual escape from the grad student grind, my predicament prodded me to find out how Kasanka and other protected areas are faring. 
 
@@ -44,9 +40,7 @@ Protected areas (national parks, sanctuaries, wildlife reserves, nature refuges)
 
 The loss of revenue from wildlife tourism is just one dimension of this complex issue. In several parts of the world, responsible wildlife tourism has been shown to decrease poaching of wildlife, thereby slowing biodiversity loss [1,2]. Increasingly, the success of wildlife tourism when combined with [community-based conservation initiatives](http://thatslifesci.com/2020-06-27-how-community-based-conservation-helps-lemurs-rbell/) is emerging as the gold standard of biodiversity conservation. This is especially important due to colonial histories and the oppression of Indigenous communities across the world which tie closely with conservation and biodiversity protection movements. Community-based conservation, when implemented well, helps acknowledge the history of harm on local communities, while mitigating human-wildlife conflict, enhancing biodiversity conservation efforts, empowering local communities, and ensuring that the benefits reaped (monetary and otherwise) from conservation initiatives reaches the stakeholders most closely associated with a particular protected area.
 
-[https://www.youtube.com/embed/TIr0xKk2YJ0](https://www.youtube.com/embed/TIr0xKk2YJ0)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TIr0xKk2YJ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[https://www.youtube.com/embed/TIr0xKk2YJ0](https://www.youtube.com/embed/TIr0xKk2YJ0) <iframe width="560" height="315" src="https://www.youtube.com/embed/TIr0xKk2YJ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 One such protected area that needs help raising funds for continuing its conservation activities is [Kasanka National Park](https://kasanka.com/) in Zambia. Kasanka is a very special place - combining the habitats and fauna of arid and semi-arid southern Africa with the rich woodlands, wetlands, and forests of central Africa. This unique mix of habitats has resulted in an astounding diversity of flora and fauna (about 480 species of birds and over a hundred mammal species in a 400 sq. km area). It's also home to the [largest known mammal migration in the world](https://www.nationalgeographic.com/travel/intelligent-travel/2015/10/28/witness-africas-other-epic-migration/) (some ten million straw colored fruit bats). 
 
