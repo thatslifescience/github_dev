@@ -19,17 +19,6 @@ teaser: With tourism down to a standstill, how are protected areas persisting du
 source-id: 1cx2AAhbFuj0mlpWV4rWxqbxqAyliUL7QyNn9Ixrmgns
 published: true
 ---
-**Title: **Wildlife and Protected Areas During the Pandemic
-
-**Author(s): **kdevarajan
-
-**Category: **Grad School Diaries
-
-**Keywords: **wildlife, conservation, protected areas, pandemic, tourism 
-
-**Teaser: **With tourism down to a standstill, how are protected areas persisting during the pandemic? People are not moving around locally or globally as much as before the pandemic. How does this impact wildlife?
-
-**Thumbnail image**: Figure 2
 
 In an alternate reality, I would have spent this summer hard at work continuing the tradition of many a wildlife biology grad student. I would have been setting up trail cameras in woodlands and grasslands to enjoy a front row seat at the greatest show on earth hosted in a remote corner of Zambia. I might have been jumping excitedly at carnivore poop (I've heard all permutations of the 'shitty work’ quip), trying hard to keep mosquitoes and tse-tse flies at bay, basking under the African sun, and relishing the whooshing, whistling, rustling, bird song, and animal calls so evocative of being immersed in nature. 
 
@@ -86,4 +75,8 @@ Kasanka also happens to be [my field site](https://www.facebook.com/605922586100
 [1] Baral, Ana. "Impacts of wildlife tourism on poaching of Greater One-horned Rhinoceros (Rhinoceros unicornis) in Chitwan National Park, Nepal." PhD diss., Lincoln University, 2013.
 
 [2] Newsome, David. "The collapse of tourism and its impact on wildlife tourism destinations." *Journal of Tourism Futures* (2020).
+
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Grad School Diaries" %}
 
