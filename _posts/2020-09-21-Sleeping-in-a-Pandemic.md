@@ -12,7 +12,7 @@ tags:
 - covid-19
 categories:
  - Grad School Diaries
-header:
+header: 
  image_fullwidth: gradschooldiaries-header.jpg
 image:
  thumb: 2020-09-21-cbattle.jpg
