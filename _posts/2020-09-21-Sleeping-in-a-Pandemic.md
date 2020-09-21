@@ -2,7 +2,7 @@
 title: Sleeping in a Pandemic
 layout: page
 author: cbattle
-permalink: /2020-09-21-Sleeping-in-a-Pandemic/
+permalink: /2020-09-21-Sleeping-in-a-Pandemic-cbattle/
 tags:
 - adaptation
 - behavior
@@ -11,7 +11,7 @@ tags:
 - insomnia
 - covid-19
 categories:
--Grad School Diaries
+ -Grad School Diaries
 header:
  image_fullwidth: 2020-09-21-cbattle.jpg
 image:
