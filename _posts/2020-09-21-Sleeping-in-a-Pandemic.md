@@ -16,7 +16,7 @@ header:
  image_fullwidth: gradschooldiaries-header.jpg
 image:
  thumb: 2020-09-21-cbattle.jpg
-teaser: “Can’t fall asleep, stay asleep, or wake up? Here’s how to fix it!”
+teaser: Can’t fall asleep, stay asleep, or wake up? Here’s how to fix it!
 
 
 source-id: 1S45uEVTt0y_XnzdywfZFWK0cX9TUXgLaZVW4ES8a6Lk
