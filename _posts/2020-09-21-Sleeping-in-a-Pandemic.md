@@ -22,17 +22,6 @@ teaser: “Can’t fall asleep, stay asleep, or wake up? Here’s how to fix it!
 source-id: 1S45uEVTt0y_XnzdywfZFWK0cX9TUXgLaZVW4ES8a6Lk
 published: true
 ---
-Title: Sleeping in a Pandemic 
-
-Author: cbattle
-
-Category: Grad School Diaries
-
-Keywords: adaptation, behavior, sleep, quarantine, insomnia, COVID-19
-
-Teaser: Can't fall asleep, stay asleep, or wake up? Here’s how to fix it!
-
-Thumbnail image: figure 1
 
 I'm usually an extremely scheduled person, including when and how long I sleep. A few months ago (pre-pandemic), I consistently fell asleep around 11 PM and woke up around 7 AM, without fail. Now? I’m all over the map! I have come to realize that my trouble sleeping isn’t just because of me, and quarantine is playing a huge role. 
 
