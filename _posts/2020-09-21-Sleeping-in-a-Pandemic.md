@@ -29,7 +29,7 @@ Sleep is crucial for many biological processes, such as reducing inflammation, s
 
 <center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/50279903277/in/dateposted-friend/" title="dog-asleep-in-bed-1536"><img src="https://live.staticflickr.com/65535/50279903277_09a923b6e8.jpg" width="500" height="300" alt="dog-asleep-in-bed-1536"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> </center>
 
-**Figure 1:** Getting a good night's sleep can be a game-changer, and its importance is growing with COVID-19. (Source: Help Guide)
+**Figure 1** Getting a good night's sleep can be a game-changer, and its importance is growing with COVID-19. (Source: Help Guide)
 
 One major cause of sleep disruption, either through insomnia, fragmented sleep, or nightmares, is heightened anxiety levels. With COVID-19 dominating the media, threatening our health and safety, and no signs of quick improvement in terms of case numbers, deaths, and state and federal restrictions (at least in the U.S.) , everyone is affected everyday, thus leading to increased anxiety. 
 
