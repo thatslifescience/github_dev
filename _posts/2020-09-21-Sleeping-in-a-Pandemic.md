@@ -2,7 +2,7 @@
 title: Sleeping in a Pandemic
 layout: page
 author: cbattle
-permalink: /2020-09-21-Sleeping-in-a-Pandemic-cbattle/
+permalink: /cbattle-Sleeping-in-a-Pandemic-2020-09-21/
 tags:
 - adaptation
 - behavior
@@ -83,3 +83,6 @@ References:
 
 [7] [Kluger, Jeffrey. "How the COVID-19 Pandemic Could Be Messing With Your Sleep." Time. Time, June 24, 2020.](https://time.com/5858211/covid-19-sleep/.) 
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Grad School Diaries" %}
