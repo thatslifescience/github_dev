@@ -1,8 +1,8 @@
 ---
-title: Interview with Dr. Matthew Moore - Viral Perspectives
+title: "Interview with Dr. Matthew Moore - Viral Perspectives"
 layout: page
 author: jfoster
-permalink: /2020-09-28-interview-with-dr-matthew-moore---viral-perspectives/
+permalink: /2020-09-28-interview-with-dr-matthew-moore-viral-perspectives-jfoster/
 tags:
 - virus
 - foodborne
