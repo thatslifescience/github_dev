@@ -16,6 +16,8 @@ header:
 image:
  thumb: 2020-09-28-jfoster.png
 teaser: Going viral (or rather not): perspectives on viruses with an emphasis on foodborne disease from UMass professor Dr. Matthew Moore.
+
+
 source-id: 1HE4dGnCC6hCNu-Hr-g5EVfBT0kPM9RWexNJpPx-gwCw
 published: true
 ---
