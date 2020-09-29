@@ -1,5 +1,5 @@
 ---
-title: "Interview with Dr. Matthew Moore - Viral Perspectives"
+title: Interview with Dr. Matthew Moore - Viral Perspectives
 layout: page
 author: jfoster
 permalink: /2020-09-28-interview-with-dr-matthew-moore---viral-perspectives/
@@ -84,7 +84,7 @@ Yeah, whereas your transfer is going to be a lot more efficient if it's on somet
 
 Yeah, and since SARS-Cov-2 is pretty easy to kill, *relatively* easy to kill compared to norovirus, and copper worked on norovirus to an *OK* degree it has been relatively effective. I think it died in a couple hours, maybe six hours, I can send you a paper where they actually looked at survival on different surfaces.
 
-**That'd be super! [Links [here](https://www.journalofhospitalinfection.com/article/S0195-6701(20)30046-3/fulltext) & [here](https://www.nejm.org/doi/full/10.1056/nejmc2004973)** [2-3]]**
+**That'd be super! [Links [here](https://www.journalofhospitalinfection.com/article/S0195-6701(20)30046-3/fulltext) & [here](https://www.nejm.org/doi/full/10.1056/nejmc2004973) [2-3]]**
 
 **Branching off the discussion of how material can affect transmissibility, are their other significant factors, biotic or abiotic, that are worth considering in that same realm?**
 
