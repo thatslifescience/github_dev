@@ -58,7 +58,7 @@ I don't know, that’s a great question. Really, from the applied end, whenever 
 
 **And that's because it’s much easier to disrupt that envelope than it is to disrupt the protein capsid?**
 
-*/*Reminder, the protein capsid is the 'shell' that protects the viral genome from outside factors; it is made up of multiple interconnected proteins.*
+*\*Reminder, the protein capsid is the 'shell' that protects the viral genome from outside factors; it is made up of multiple interconnected proteins.*
 
 Yeah, exactly. But the earlier point is a good question, especially when you start looking at antigenicity (the ability of a molecule to induce an immune response), and what antigenic factors might be involved. It's presumably just the spike protein but we're not entirely sure. There’s another interesting point raised there, you hear people talking about different "strains" of virus but really they’re just detecting different variants. You’d need to actually see some mechanistic or novel physical difference that’s functional to really consider it significant. We are seeing different *variants* - genetic variants. Whether or not that translates to different strains of virus than can be potentially antigenic is a different question.
 
