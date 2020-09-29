@@ -132,7 +132,7 @@ So, with any type of infectious disease there's never a 0% chance, it's always *
 
 
 
-**References **
+**References**
 
 [1] Feuer, W. (2020, March 28). CDC says coronavirus RNA found in Princess Cruise ship cabins up to 17 days after passengers left. Retrieved September 01, 2020, from [https://www.cnbc.com/2020/03/23/cdc-coronavirus-survived-in-princess-cruise-cabins-up-to-17-days-after-passengers-left.html](https://www.cnbc.com/2020/03/23/cdc-coronavirus-survived-in-princess-cruise-cabins-up-to-17-days-after-passengers-left.html)
 
