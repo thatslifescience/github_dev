@@ -50,7 +50,7 @@ Yeah, well that's basically it. The other consideration there, very specifically
 
 **<center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/50294955602/in/dateposted-friend/" title="6VSB_spike_protein_SARS-CoV-2_monomer_in_homotrimer"><img src="https://live.staticflickr.com/65535/50294955602_46eaa55192_z.jpg" width="425" height="640" alt="6VSB_spike_protein_SARS-CoV-2_monomer_in_homotrimer"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>**
 
-**Fig. 1** Cryo-EM structure of the SARS-CoV-2 spike protein, the structure responsible for the interaction between the virus and its target receptor ACE2.** **[Source 5-HT2AR on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:6VSB_spike_protein_SARS-CoV-2_monomer_in_homotrimer.png)]
+**Fig. 1** Cryo-EM structure of the SARS-CoV-2 spike protein, the structure responsible for the interaction between the virus and its target receptor ACE2. [Source 5-HT2AR on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:6VSB_spike_protein_SARS-CoV-2_monomer_in_homotrimer.png)]
 
 **Are there host-factors that are carried into the viral envelope? Like some of the other host cell-surface receptors? Or, looking at it the other way, how pure is the lipid composition of the envelope?**
 
@@ -58,7 +58,7 @@ I don't know, that’s a great question. Really, from the applied end, whenever 
 
 **And that's because it’s much easier to disrupt that envelope than it is to disrupt the protein capsid?**
 
-* *Reminder, the protein capsid is the 'shell' that protects the viral genome from outside factors; it is made up of multiple interconnected proteins.*
+*/*Reminder, the protein capsid is the 'shell' that protects the viral genome from outside factors; it is made up of multiple interconnected proteins.*
 
 Yeah, exactly. But the earlier point is a good question, especially when you start looking at antigenicity (the ability of a molecule to induce an immune response), and what antigenic factors might be involved. It's presumably just the spike protein but we're not entirely sure. There’s another interesting point raised there, you hear people talking about different "strains" of virus but really they’re just detecting different variants. You’d need to actually see some mechanistic or novel physical difference that’s functional to really consider it significant. We are seeing different *variants* - genetic variants. Whether or not that translates to different strains of virus than can be potentially antigenic is a different question.
 
@@ -124,7 +124,7 @@ Yes, and even surfaces that seem flat have a bunch of micro-imperfections which 
 
 Oh that's a great point, that’s the other aspect of inactivation, it's not just organic load it's also contact time. You need adequate exposure to the inactivation method. So, it certainly doesn’t hurt but...
 
-**An excellent point. Moving forward, I wanted to touch on something interesting you brought up during the *Life Science Café* [[The Pandemic That Changed The World: Many Questions and a Few Answers](http://thatslifesci.com/2020-05-13-science-cafe-covid19-panel-kdevarajan/)]. You mentioned that prepared food is relatively safe because the natural route of infection for the virus is through the respiratory tract, so the viral particles aren't as likely to survive and infect you through the gastrointestinal tract. Now, just for the sake of an example, say instead of incidental exposure someone sneezed directly on your food. Is the lowered risk of infection through food just based on the viral load, or would it be low across the board?**
+**An excellent point. Moving forward, I wanted to touch on something interesting you brought up during the Life Science Café [[The Pandemic That Changed The World: Many Questions and a Few Answers](http://thatslifesci.com/2020-05-13-science-cafe-covid19-panel-kdevarajan/)]. You mentioned that prepared food is relatively safe because the natural route of infection for the virus is through the respiratory tract, so the viral particles aren't as likely to survive and infect you through the gastrointestinal tract. Now, just for the sake of an example, say instead of incidental exposure someone sneezed directly on your food. Is the lowered risk of infection through food just based on the viral load, or would it be low across the board?**
 
 So, with any type of infectious disease there's never a 0% chance, it's always *some* probability. From what we’ve seen with studies of MERS you’d need to ingest a fairly high load of virus, one that’s not normally present when it's just exposure from a food handler depositing the virus through contact. Presumably that low titer would just get eaten up in your stomach acid, and in terms of food-borne normally there’s very low number of viral particles on the food [sic]. So to have a scenario that mimics what was seen with MERS you would need more virus to be deposited than is likely to occur. But we can’t necessarily say as we don’t have the data for SARS-Cov-2 yet. It wouldn’t be realistic in terms of food borne at least in the way that we know viruses are transmitted. The stomach acid really just does a number of these viruses, because that’s not how they evolved.
 
