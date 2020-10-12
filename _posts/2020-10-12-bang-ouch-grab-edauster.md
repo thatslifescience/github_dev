@@ -19,17 +19,7 @@ teaser: When you bang your elbow on a table, why is your first instinct to grab 
 source-id: 1xfqW43Y45Eji9qshr2fTvjQeZIng9VwM_f86MICKd2g
 published: true
 ---
-**Title:** Bang! "Ouch" *Grab*
 
-**Author(s): **edauster
-
-**Category: **How it Works
-
-**Keywords: **neurons, pain, axons, biology
-
-**Teaser:** When you bang your elbow on a table, why is your first instinct to grab it? This response might have something to do with how your sensory neurons process information.
-
-**Thumbnail image**:  Figure 1
 
 You're walking into a room and **bang**! You hit your elbow on a table. You exclaim "Ouch" and grab your elbow. Why did you feel the need to touch your elbow? You had just experienced pain from a touch to the elbow, so why would your next response be to touch it more? And why did it make you feel better?
 
@@ -63,13 +53,12 @@ The answer to the question at the beginning of this article comes at the level o
 
 Next time you injure yourself, you can distract your brain from the pain in two ways:
 
-1.      Touch the part of the body that just got hurt
+1. Touch the part of the body that just got hurt
 
-2.      Think about how cool your neuronal system is and marvel at the inner workings of your body.
+2. Think about how cool your neuronal system is and marvel at the inner workings of your body.
 
 For more lab discoveries and research guidance, check out my website @ [emmadauster.com](https://emmadauster.com/)
 
- 
 
 **References:**
 
@@ -81,3 +70,7 @@ For more lab discoveries and research guidance, check out my website @ [emmadaus
 
 [4] Melzak R, Wall PD (1965) [Pain mechanisms: a new theory](https://www.canonsociaalwerk.eu/1846_anesthesie/Canon%20Palliatieve%20Zorg%20-%20Ontstaan%20van%20anesthesie%20-%20Science%20-%20melzackandwallgatecontroltheory.pdf). Science 150:971-9.
 
+
+## More From Thats Life [Science]
+{: .t60 }	
+{% include list-posts offset="1" entries="5" category="How It Works" %}
