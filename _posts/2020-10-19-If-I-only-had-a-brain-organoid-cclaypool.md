@@ -18,17 +18,6 @@ teaser: What would you think if I told you I grow human brains in a lab?
 source-id: 1NCT91uIKjoZEuAgG832UOt0klqqaAChmJBm9JvFJxQM
 published: true
 ---
-**Title: **If I Only Had A Brain (Organoid)
-
-**Author(s): **Christopher G. Claypool
-
-**Category: **How it Works
-
-**Keywords: **Brains, Evolution, Human(s), Research lab/work
-
-**Teaser: **What would you think if I told you I grow human brains in a lab? 
-
-**Thumbnail image**:  Fig. 3
 
 <center><a href="https://imgflip.com/i/4d32oy"><img src="https://i.imgflip.com/4d32oy.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div></center>
 
@@ -87,4 +76,9 @@ To grow a brain in the lab, we try to mimic nature so that the cells will differ
 [6] Zintel, Trisha. 2018. "[Research Highlight - Making Brain Cells](http://thatslifesci.com/2018-07-09-ResearchHighlightMakingBrainCells-Zintel/)." *That's Life [Science].*
 
 [7] [Bioreactor](https://en.wikipedia.org/wiki/Bioreactor). *Wikipedia.* Accessed August 31, 2020. 
+
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="How It Works" %}
+
 
