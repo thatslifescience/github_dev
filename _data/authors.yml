@@ -211,5 +211,13 @@ awinsor:
 kotter:
      name: “Kate Otter”
      siterole: “PhD Student in Neuroscience and Behavior”
+     
+cbattle:
+     name: “Christine Battle”
+     siterole: “PhD Student in Molecular and Cellular Biology”
+     
+asuzzi:
+     name: “Amanda Suzzi”
+     siterole: “PhD Student in Environmental Conservation”
 
 # you can add more authors here
