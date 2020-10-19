@@ -34,6 +34,10 @@ header: no
         <p><a href = "{{ site.url }}/authors/rbell"><b>Rachel Bell</b></a></p>
         </div>
         <div class="large-3 columns">
+        <img src="{{ site.urlimg }}correll-01.jpg" alt="Erika Correll">
+        <p><a href = "{{ site.url }}/authors/ecorrell"><b>Erika Correll</b></a></p>
+        </div>
+        <div class="large-3 columns">
         <img src="{{ site.urlimg }}edauster-01.jpg" alt="Emma Dauster">
         <p><a href = "{{ site.url }}/authors/edauster"><b>Emma Dauster</b></a></p>
         </div>
@@ -41,12 +45,12 @@ header: no
         <img src="{{ site.urlimg }}kdevarajan-01.jpg" alt="Kadambari Devarajan">
         <p><a href = "{{ site.url }}/authors/kdevarajan"><b>Kadambari Devarajan</b></a></p>
         </div>
+</div>
+<div class="row row-centered">
         <div class="large-3 columns">
         <img src="{{ site.urlimg }}drake-01.jpg" alt="Joseph Drake">
         <p><a href = "{{ site.url }}/authors/jdrake"><b>Joseph Drake</b></a></p>
         </div>
-</div>
-<div class="row row-centered">
         <div class="large-3 columns">
         <img src="{{ site.urlimg }}JFoster1.png" alt="Josh Foster">
         <p><a href = "{{ site.url }}/authors/jfoster"><b>Josh Foster</b></a></p>
@@ -59,12 +63,12 @@ header: no
         <img src="{{ site.urlimg }}grade-01-01.jpg" alt="Aaron Grade">
         <p><a href = "{{ site.url }}/authors/agrade"><b>Aaron Grade</b></a></p>
         </div>
+</div>
+<div class="row row-centered">
         <div class="large-3 columns">
         <img src="{{ site.urlimg }}guo-01.jpg" alt="Lian Guo">
         <p><a href = "{{ site.url }}/authors/lguo"><b>Lian Guo</b></a></p>
         </div>
-</div>
-<div class="row row-centered">
         <div class="large-3 columns">
         <img src="{{ site.urlimg }}hancock-01-01.jpg" alt="Laura Hancock">
         <p><a href = "{{ site.url }}/authors/lhancock"><b>Laura Hancock</b></a></p>
@@ -77,12 +81,15 @@ header: no
         <img src="{{ site.urlimg }}KOtter-01.jpg" alt="Kate Otter">
         <p><a href = "{{ site.url }}/authors/kotter"><b>Kate Otter</b></a></p>
         </div>
+</div>
+<div class="row row-centered">
+        <img src="{{ site.urlimg }}gpearson-01.jpg" alt="Greg Pearson">
+        <p><a href = "{{ site.url }}/authors/gpearson"><b>Greg Pearson</b></a></p>
+        </div>
         <div class="large-3 columns">
         <img src="{{ site.urlimg }}kstraley.jpg" alt="Kit Straley">
         <p><a href = "{{ site.url }}/authors/kstraley"><b>Kit Straley</b></a></p>
         </div>
-</div>
-<div class="row row-centered">
         <div class="large-3 columns">
         <img src="{{ site.urlimg }}JSwenson-01.jpg" alt="John Swenson">
         <p><a href = "{{ site.url }}/authors/jswenson"><b>John Swenson</b></a></p>
@@ -91,6 +98,9 @@ header: no
         <img src="{{ site.urlimg }}ASuzzi-01.jpg" alt="Amanda Suzzi">
         <p><a href = "{{ site.url }}/authors/asuzzi"><b>Amanda Suzzi</b></a></p>
         </div>
+        <div class="large-3 columns">
+</div>
+<div class="row row-centered">
         <div class="large-3 columns end">
         <img src="{{ site.urlimg }}AWinsor-01.jpg" alt="Alex Winsor">
         <p><a href = "{{ site.url }}/authors/awinsor"><b>Alex Winsor</b></a></p>
