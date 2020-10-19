@@ -1,6 +1,6 @@
 ---
-title: Christine Battle
-permalink: "/authors/cbattle/"
+title: Amanda Suzzi
+permalink: "/authors/asuzzi/"
 layout: page
 author: asuzzi
 meta_title: Amanda Suzzi | That's Life [Science]
