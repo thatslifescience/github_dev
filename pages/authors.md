@@ -34,7 +34,7 @@ header: no
         <p><a href = "{{ site.url }}/authors/rbell"><b>Rachel Bell</b></a></p>
         </div>
         <div class="large-3 columns">
-        <img src="{{ site.urlimg }}correll-01.jpg" alt="Erika Correll">
+        <img src="{{ site.urlimg }}ecorrell-01.jpg" alt="Erika Correll">
         <p><a href = "{{ site.url }}/authors/ecorrell"><b>Erika Correll</b></a></p>
         </div>
         <div class="large-3 columns">
