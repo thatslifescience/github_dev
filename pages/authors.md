@@ -83,10 +83,14 @@ header: no
         </div>
 </div>
 <div class="row row-centered">
-        <div class="large-3 columns end">
+        <div class="large-3 columns">
         <img src="{{ site.urlimg }}AWinsor-01.jpg" alt="Alex Winsor">
         <p><a href = "{{ site.url }}/authors/awinsor"><b>Alex Winsor</b></a></p>
         </div> 
+        <div class="large-3 columns end">
+        <img src="{{ site.urlimg }}twashington-01.jpg" alt="Tatjana Washington">
+        <p><a href = "{{ site.url }}/authors/twashington"><b>Tatjana Washington</b></a></p>
+        </div>
 </div>
               
 <center><h3>Past Contributors</h3></center><br>
