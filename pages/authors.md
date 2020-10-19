@@ -83,6 +83,7 @@ header: no
         </div>
 </div>
 <div class="row row-centered">
+        <div class="large-3 columns">
         <img src="{{ site.urlimg }}gpearson-01.jpg" alt="Greg Pearson">
         <p><a href = "{{ site.url }}/authors/gpearson"><b>Greg Pearson</b></a></p>
         </div>
@@ -98,7 +99,6 @@ header: no
         <img src="{{ site.urlimg }}ASuzzi-01.jpg" alt="Amanda Suzzi">
         <p><a href = "{{ site.url }}/authors/asuzzi"><b>Amanda Suzzi</b></a></p>
         </div>
-        <div class="large-3 columns">
 </div>
 <div class="row row-centered">
         <div class="large-3 columns end">
