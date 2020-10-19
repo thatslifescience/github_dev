@@ -13,7 +13,7 @@ gallery:
   caption: Tatjana Washington
 ---
 
-![Tatjana Washington]({{ site.urlimg }}/images/twashington-01.jpg)<br>
+![Tatjana Washington]({{ site.urlimg }}/twashington-01.jpg)<br>
 
 [Email](mailto:tatjanawashi@umass.edu)<br>
 [Website](http://amyvhstrauss.com)<br>
