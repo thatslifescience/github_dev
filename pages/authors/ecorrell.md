@@ -4,7 +4,7 @@ permalink: "/authors/ecorrell/"
 layout: page
 author: ecorrell
 meta_title: Erika Correll | That's Life [Science]
-subheadline: Contributor since Fall 2020
+subheadline: Contributor since Fall 2019
 teaser: PhD Student in Neuroscience and Behavior
 header:
   image_fullwidth: you-can-delete-me-header.png
