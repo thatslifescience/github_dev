@@ -18,9 +18,9 @@ gallery:
 [Email](mailto:rbbell@umass.edu)
 [Twitter](https://twitter.com/primate_eco_evo)
 
-Research Area: Ecology and evolution of primate hair morphology
+Research Area: Primate ecology, evolution and microbiomes
 
-I am interested in how primate hair morphology has been shaped by different ecological and evolutionary factors. I am currently conducting research on primate hair microbiome diversity, and hope to connect my ecological and evolutionary research with primate conservation issues. I am also passionate about science outreach and education, and am a member of the TLS Outreach Committee.
+My research interests are broad and include phylogenetic comparative methods, mammalian color evolution, biogeography, and the microbiome. My dissertation research focuses on how human disturbance affects the microbiomes of three sympatric lemur species in southwest Madagascar. I am the 2020-2021 Vice President of TLS.
 
 {% assign index = true %}
 {% for post in site.posts %}
