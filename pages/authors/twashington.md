@@ -16,8 +16,7 @@ gallery:
 ![Tatjana Washington]({{ site.url }}/images/twashington-01.jpg)
 
 [Email](mailto:tatjanawashi@umass.edu)
-[Twitter](https://necsc.umass.edu/people/tatjana-washington)
-[Instagram]()
+[Website](http://amyvhstrauss.com)<br>
 
 Research area: Climate Change effects on urban wildlife physiology
 
