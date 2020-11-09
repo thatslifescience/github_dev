@@ -17,17 +17,7 @@ teaser: Access to large, open source datasets is paving the way for new scientif
 source-id: 1sEBVXEfmp1PA0MEnYIK1oJnpsdxjGE6dauzYnwaEf8A
 published: true
 ---
-**Title: **The Big Data Revolution
 
-**Author(s): **ebeaury
-
-**Category: **How it Works
-
-**Keywords: **communication, collaboration, data** **
-
-**Teaser: **Access to large, open source datasets is paving the way for new scientific insights. But is bigger always better?
-
-**Thumbnail image**:  Figure 1
 
 The life sciences are in the midst of what many people are calling a "big data revolution." In the past, scientific studies were confined to the scale of what a few individuals could accomplish in their lab or at a few field sites near their university. The datasets were small and only accessible in the form of summarized results in publications. In the last few decades (and as COVID-19 has limited some of the ways in which we accomplish science) this has changed drastically: science has opened its arms to the data revolution. 
 
@@ -43,7 +33,7 @@ The push for open access to data is important for a few reasons:
 
 1. It increases transparency in scientific findings (a [recent controversy in fabricated data](https://www.sciencemagazinedigital.org/sciencemagazine/07_february_2020_Main/MobilePagedArticle.action?articleId=1559413&app=false#articleId1559413) makes a strong case for why this is important).
 
-2. Sharing data can facilitate new and exciting collaborations
+2. Sharing data can facilitate new and exciting collaborations.
 
 3. Using preexisting data can save time and money; no need to run more experiments if the data you're interested in collecting already exists and can be repurposed for new research questions.
 
@@ -61,7 +51,7 @@ First, not all data points are what they claim to be. The people submitting data
 
 <center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/50381765643/in/dateposted-friend/" title="figure2-beaury-9-2020"><img src="https://live.staticflickr.com/65535/50381765643_34c5d1b7e1_z.jpg" width="640" height="230" alt="figure2-beaury-9-2020"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-**Figure 2. **Data based on user observations can be tricky to fact check. Can you spot the differences between nutria (invasive, on the left) and beavers (native, on the right)? (Sources: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nutria_(Myocastor_coypus)_in_a_partially_frozen_river_Ljubljanica.jpg) and [Pixabay](https://pixabay.com/photos/search/beaver%20eating/))
+**Figure 2.** Data based on user observations can be tricky to fact check. Can you spot the differences between nutria (invasive, on the left) and beavers (native, on the right)? (Sources: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nutria_(Myocastor_coypus)_in_a_partially_frozen_river_Ljubljanica.jpg) and [Pixabay](https://pixabay.com/photos/search/beaver%20eating/))
 
 **Tips for managing big data**
 
