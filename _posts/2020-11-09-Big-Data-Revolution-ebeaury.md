@@ -83,3 +83,7 @@ Happy coding!
 
 [3] Stohlgren, Thomas J., David T. Barnett, and John T. Kartesz. "The rich get richer: patterns of plant invasions in the United States." Frontiers in Ecology and the Environment 1, no. 1 (2003): 11-14.
 
+
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="How It Works" %}
