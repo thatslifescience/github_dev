@@ -14,22 +14,11 @@ header:
  image_fullwidth: howitworks-header.jpg
 image:
  thumb: 11172020-Fig2-Drake.jpg
-teaser: “Ever wonder how wildlife biology and conservation got to be the way it is? If you live in the U.S., you may need to thank an oyster...”
+teaser: Ever wonder how wildlife biology and conservation got to be the way it is? If you live in the U.S., you may need to thank an oyster...
 
 source-id: 1MasXI-9_q_4zMJh5_1yyPT6gPwTyGp161cbaICL9bxs
 published: true
 ---
-**Title:** Hug an Oyster for Wildlife Conservation
-
-**Author(s): **jdrake
-
-**Category: **How It Works
-
-**Keywords: **Conservation, Fishing, Hunting, Funding
-
-**Teaser: **Ever wonder how wildlife biology and conservation got to be the way it is? If you live in the U.S., you may need to thank an oyster... 
-
-**Thumbnail image**:  Figure 2 
 
 A group of birders peer avidly through binoculars at a rare sighting in a town park [1]. Fishermen cast into the Refuge's coastal surf, hoping to land the catch of a lifetime. Hikers at a National Monument stare in awe at an ewe in the distance. All of these diverse outdoors experiences are linked by the public land and wildlife in them. Have you ever wondered how our wildlife and wildspaces got protected for the public to enjoy? It hasn’t always been like this in the United States and there are still groups aiming to privatize public resources. To understand what a public land even is, we may have an oyster or two to thank... 
 
@@ -81,3 +70,6 @@ ________________
 
 [10] Jacobson, R. 2020., "The Oyster Guide" [https://www.oysterguide.com/maps/mass-and-ri/](https://www.oysterguide.com/maps/mass-and-ri/) [Accessed 2020-10-20]
 
+## More From Thats Life [Science]
+{: .t60 }	
+{% include list-posts offset="1" entries="5" category="How It Works" %}
