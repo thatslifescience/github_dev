@@ -19,23 +19,12 @@ teaser: Evolving is a team sport. Many animals co-evolve along with microbes in 
 source-id: 1TMrOIO-66z9M2zufvD6Ifn5iLgblf3MoKRfrsM7h4YY
 published: true
 ---
-**Title:** How do microbes help animals adapt?
-
-**Author:** rbell
-
-**Categories:** Earth's Organisms
-
-**Keywords:** Microbiology, evolution, adaptation, co-evolution, microbiome
-
-**Teaser:** Evolving is a team sport. Many animals co-evolve along with microbes in a symbiotic relationship.
-
-**Thumbnail image:** Figure 3
 
 Though you might not know it just by looking around, our planet is teeming with microbial life. Microbes are the oldest and most diverse types of organisms on Earth. They were the first life on our planet 3.5 billion years ago, and today they contain more genetic diversity than all macroscopic (visible to the naked eye) organisms combined [1]. All macroscopic life on Earth has evolved in the constant presence of microbes. So, it makes sense that microbes have influenced the evolution of animal life. In many cases, microbes have formed symbiotic (mutually beneficial) relationships with animals that shape how these animals adapt to their environment and confer massive evolutionary advantages.
 
 <center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/50548652147/in/dateposted-public/" title="Stromatolites_in_Sharkbay"><img src="https://live.staticflickr.com/65535/50548652147_b197c0ae60_c.jpg" width="800" height="595" alt="Stromatolites_in_Sharkbay"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-**Figure 1. **Stromatolites just like these modern ones in Australia are the rocky deposits of some of the oldest lifeforms on earth, Cyanobacteria. Though not the focus of this blog post, cyanobacteria are one of the microbes that massively shaped the evolution of life on Earth by producing large quantities of atmospheric oxygen early in Earth's history. Photo credit: [Paul Harrison](https://commons.wikimedia.org/wiki/File:Stromatolites_in_Sharkbay.jpg) via Wikimedia Commons.
+**Figure 1.** Stromatolites just like these modern ones in Australia are the rocky deposits of some of the oldest lifeforms on earth, Cyanobacteria. Though not the focus of this blog post, cyanobacteria are one of the microbes that massively shaped the evolution of life on Earth by producing large quantities of atmospheric oxygen early in Earth's history. Photo credit: [Paul Harrison](https://commons.wikimedia.org/wiki/File:Stromatolites_in_Sharkbay.jpg) via Wikimedia Commons.
 
 A great example of host-microbe symbiotic relationships is the [gut ](http://thatslifesci.com/2016-08-11-If-you-don't-care-for-your-microbiome-SHa/)[microbiome](http://thatslifesci.com/2016-08-11-If-you-don't-care-for-your-microbiome-SHa/) of herbivores (plant-eating animals). Fermenting microbes exist in the digestive tracts of most plant-eating vertebrates. Many dedicated herbivores have a digestive tract morphology that has co-evolved with fermenting microbes: they often have an enlarged section of the gut that houses a rich community of microbes that break down plant fibers the animal host can't digest on its own [2]. These fibers are broken down into energy-rich compounds called short chain fatty acids, or SCFAs. SCFAs can be a very important source of energy for herbivorous and omnivorous animals—accounting for up to 57% of a leaf-eating primate’s energy needs [2]. The gut microbiome also produces vitamins that their animal host cannot get from its diet or synthesize on its own but are necessary to the animal’s health and functions, including vitamin E, vitamin K, and several types of B vitamins [3].
 
@@ -65,3 +54,6 @@ References:
 
 [6] Margulis, Lynn, and René Fester, eds. *Symbiosis as a source of evolutionary innovation: speciation and morphogenesis*. Mit Press, 1991.
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Earth's Organisms" %}
