@@ -40,7 +40,7 @@ One particularly striking example of microbe-animal co-evolution is bioluminesce
 
 These are just two examples of a larger pattern in which microbes are co-opted by animals to help the animals quickly adapt to selective pressures. As our knowledge of the microbiome increases, we are beginning to understand how important microbes are to animal evolution. Rather than slowly evolve on their own, animals can form symbiotic relationships with microbes that allow animals to use the existing abilities of different microbes to adapt to the environment. In this context, macroscopic organisms plus their associated microbes can be thought of as a discrete biological unit—called the "holobiont"—upon which evolutionary forces act [6]. Truly, evolution is a group effort!
 
-References:
+**References:**
 
 [1] Hug, Laura A., Brett J. Baker, Karthik Anantharaman, Christopher T. Brown, Alexander J. Probst, Cindy J. Castelle, Cristina N. Butterfield et al. "[A new view of the tree of life](https://www.nature.com/articles/nmicrobiol201648)." *Nature Microbiology* 1, no. 5 (2016): 1-6.
 
