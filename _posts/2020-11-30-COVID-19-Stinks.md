@@ -20,20 +20,6 @@ teaser: Many people who have recovered from COVID-19 report a loss of their sens
 source-id: 1vtRhVwiMgEhNO9AmbAXlqBIe-gjMqD5OLbbKlEH-R_0
 published: true
 ---
-**Title:** COVID-19 Stinks!
-
-**Author(s): **edauster
-
-**Category: **Earth's Organisms
-
-**Keywords: **brain, biology, smell, olfaction, anosmia
-
-**Teaser:** Many people who have recovered from COVID-19 report a loss of their sense of smell. How important is your sense of smell, really?
-
-**Thumbnail image**:  Figure 1
-
- 
-
 COVID-19 stinks for so many reasons. On August 26, 2020, the[ BBC reported](https://www.bbc.com/news/world-51235105) a worldwide death toll at 820,264 out of 23,895,181 total confirmed cases [1]. Even those who recover from COVID-19 often experience symptoms such as difficulty breathing, diarrhea, or chills [2]. But one symptom has been almost laughed off, as if it should be considered a blessing in disguise: loss of smell. The loss of your ability to smell odors in your environment is called anosmia. COVID-19 stinks, and it has resulted in many people who know firsthand how much it stinks to lose their ability to smell [2].
 
 <center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/50364875791/in/dateposted-friend/" title="https://commons.wikimedia.org/wiki/File:World_map_of_total_confirmed_COVID-19_cases_per_million_people.png"><img src="https://live.staticflickr.com/65535/50364875791_fc543252bc_o.png" width="800" height="565" alt="https://commons.wikimedia.org/wiki/File:World_map_of_total_confirmed_COVID-19_cases_per_million_people.png"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
@@ -44,13 +30,13 @@ COVID-19 stinks for so many reasons. On August 26, 2020, the[ BBC reported](http
 
 Why do we even want to be able to smell? I'd be happy if I never had to smell a dumpster or morning breath ever again. But we often disregard the many ways losing your sense of smell would make you unhappy:
 
-1.      **Death****:** One major use for the human sense of smell is to avoid poisoning ourselves [3]. Eating spoiled or contaminated food can result in death or sickness; meats, fruits, dairy, and vegetables all give off a distinct odor when they're no longer safe to eat. By smelling the odor of rotten food, we know to avoid rather than ingest it.
+1.      **Death****:* One major use for the human sense of smell is to avoid poisoning ourselves [3]. Eating spoiled or contaminated food can result in death or sickness; meats, fruits, dairy, and vegetables all give off a distinct odor when they're no longer safe to eat. By smelling the odor of rotten food, we know to avoid rather than ingest it.
 
-2.      **Social Isolation and Depression: **Have you ever cut a conversation short because someone's breath was unbearable? What about avoiding someone with extreme body odor? A lack of ability to smell applies to your own odors, and many people experiencing anosmia report decreased quality of life in relation to social interactions [3]. Even those who overcome personal odor obstacles still miss out on shared experiences of smelling the ocean, a campfire, or dinner on the grill.
+2.      **Social Isolation and Depression:** Have you ever cut a conversation short because someone's breath was unbearable? What about avoiding someone with extreme body odor? A lack of ability to smell applies to your own odors, and many people experiencing anosmia report decreased quality of life in relation to social interactions [3]. Even those who overcome personal odor obstacles still miss out on shared experiences of smelling the ocean, a campfire, or dinner on the grill.
 
-3.      **Lack of Taste: **Have you ever noticed that food is less flavorful when you have a cold? Remember being told to plug your nose when you take medicine you don't like the flavor of? When your nose is clogged up and/or your sense of smell is impaired, food just doesn’t have the flavor that it otherwise would. This is because your sense of smell is tied to taste [3]. Many people experiencing anosmia report reduced enjoyment of food and dining experiences. This can lead to an altered diet, overeating (often reported in women), or undereating (often reported in men) [3].
+3.      **Lack of Taste:** Have you ever noticed that food is less flavorful when you have a cold? Remember being told to plug your nose when you take medicine you don't like the flavor of? When your nose is clogged up and/or your sense of smell is impaired, food just doesn’t have the flavor that it otherwise would. This is because your sense of smell is tied to taste [3]. Many people experiencing anosmia report reduced enjoyment of food and dining experiences. This can lead to an altered diet, overeating (often reported in women), or undereating (often reported in men) [3].
 
-4.      **Anxiety: **People experiencing anosmia often also experience anxiety [3]. Anosmia makes you aware that you miss signals such as smoke from a fire or a gas leak in your house that other people will respond to. Lacking this information can easily put someone in an anxious and/or hyper vigilant state.
+4.      **Anxiety:** People experiencing anosmia often also experience anxiety [3]. Anosmia makes you aware that you miss signals such as smoke from a fire or a gas leak in your house that other people will respond to. Lacking this information can easily put someone in an anxious and/or hyper vigilant state.
 
  
 
@@ -70,14 +56,10 @@ Knowing that anosmia can have such severe ramifications, why do we discount our 
 
 The proportions of a rodent brain directly align with this priority of olfactory information. They have giant olfactory bulbs. Those are the rugby ball-shaped parts at the front of the brain closest to the nose, optimally positioned for the processing of olfactory information from the nose (Figure 2). In contrast, the human olfactory bulbs take up a much smaller percentage of the brain (Figure 3).
 
- 
 
 Ultimately, humans don't prioritize our sense of smell over our other senses. We’re not set up to do so. But maybe we shouldn’t take it for granted either.
 
- 
-
 For more research insights, check out my website:[ emmadauster.com](https://emmadauster.com/)
-
  
 
 References:
@@ -89,4 +71,9 @@ References:
 [3] Boesveldt S, Postma EM, Boak D, Welge-Luessen A, Schöpf V, Mainland JD, Martens J, Ngai J, Duffy VB (2017) [Anosmia-A Clinical Review.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5863566/)[ Chem Senses](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5863566/). 42(7): 513–23.[ ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5863566/)
 
 [4] Carlson KS, Gadziola MA, Dauster ES, Wesson DW (2018) [Selective Attention Controls Olfactory Decisions and the Neural Encoding of Odors.](https://www.cell.com/current-biology/fulltext/S0960-9822(18)30613-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982218306134%3Fshowall%3Dtrue) Current Biology. 28(14): 2195-205.[ ](https://www.cell.com/current-biology/fulltext/S0960-9822(18)30613-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982218306134%3Fshowall%3Dtrue)
+
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Earth's Organisms" %}
+
 
