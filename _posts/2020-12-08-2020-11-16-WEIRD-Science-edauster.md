@@ -14,7 +14,7 @@ categories:
 header:
  image_fullwidth: howitworks-header.jpg
 image:
- thumb: 2020_07_12_edauster.jpg
+ thumb: 2020_07_12_edauster.png
 teaser: Why wouldn’t you trust a scientist or a medical professional? They’ve spent years developing a better understanding of the world and how we can survive it… or how some of us can survive it.
 
 source-id: 1IGBlWKQzpm28acUVijpp3g1kOcfvBz8Hs1ThhWWMz-o
