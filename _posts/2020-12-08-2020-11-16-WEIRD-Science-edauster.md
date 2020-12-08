@@ -1,15 +1,16 @@
 ---
-title: 2020-11-16-WEIRD Science-edauster
+title: WEIRD Science
 layout: page
 author: edauster
-permalink: /2020-11-16-weird-science-edauster/
+permalink: /weird-science/
 tags:
 - covid-19
 - health
 - medicine
 - history
 - bias
--How It Works
+categories:
+- How It Works
 header:
  image_fullwidth: howitworks-header.jpg
 image:
@@ -19,17 +20,6 @@ teaser: Why wouldn’t you trust a scientist or a medical professional? They’v
 source-id: 1IGBlWKQzpm28acUVijpp3g1kOcfvBz8Hs1ThhWWMz-o
 published: true
 ---
-**Title:** WEIRD Science
-
-**Author(s): **edauster
-
-**Category: **How it Works
-
-**Keywords: **bias, COVID-19, health, history, medicine
-
-**Teaser:** Why wouldn't you trust a scientist or a medical professional? They’ve spent years developing a better understanding of the world and how we can survive it… or how some of us can survive it.
-
-**Thumbnail image**:  Figure 1
 
 I am a scientist. As such, I think we should all heed the advice of researchers and medical professionals. However, I also see the shortcomings of modern-day science and understand why many people would distrust medical interventions.
 
@@ -77,3 +67,6 @@ References:
 
 [7] Centers for Disease Control and Prevention "[COVID-19 Hospitalization and Death by Race/Ethnicity](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/investigations-discovery/hospitalization-death-by-race-ethnicity.html)" Updated August 18, 2020, Accessed November 25, 2020.
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="How It Works" %}
