@@ -18,21 +18,11 @@ teaser: Alzheimer's and depression are more commonly diagnosed in women, while P
 source-id: 1U8C2Ck6-dJyrppHoZqjXCZn64LQfmui3NBr49EmIt2I
 published: true
 ---
-**Title:** Built Different
 
-**Author(s): **edauster
 
-**Category: **Earth's Organisms
+Alzheimer's, depression, and Parkinson's are just a few examples of disorders that affect females and males differently. Recent research found differences in male and female brains that might account for these sex differences in pathology. While a number of factors such as societal pressures and biases may underlie a differential rate of diagnosis, these sex differences might also stem from anatomical and chemical sex differences in the brain, according to recent [research](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7541090/) in China.
 
-**Keywords: **brains, Alzheimer's, Parkinson’s, sex
-
-**Teaser:** Alzheimer's and depression are more commonly diagnosed in women, while Parkinson’s is more commonly diagnosed in men. Why is that?
-
-**Thumbnail image**:  Figure 1
-
-Alzheimer's, depression, and Parkinson’s are just a few examples of disorders that affect females and males differently. Recent research found differences in male and female brains that might account for these sex differences in pathology. While a number of factors such as societal pressures and biases may underlie a differential rate of diagnosis, these sex differences might also stem from anatomical and chemical sex differences in the brain, according to recent [research](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7541090/) in China.
-
-Historically, scientists have focused on understanding males and assumed that the results will apply to females. Just in the past few decades, they started investigating the female brain as it compares to the male brain. Contrary to previous assumptions, these studies indicate that male and female brains are not the same. It makes sense, though. Many psychological disorders are diagnosed more frequently in females than males, and vice versa. These "striking sex differences exist among multiple behaviors, such as cognitive function, fear, stress, and pain, as well as several neurological and psychiatric diseases, such as Parkinson's disease, Alzheimer’s disease, and epilepsy [1-5]." Research into sex differences in how the brain functions is critical to better understand where these sex differences in behavior come from.
+Historically, scientists have focused on understanding males and assumed that the results will apply to females. Just in the past few decades, they started investigating the female brain as it compares to the male brain. Contrary to previous assumptions, these studies indicate that male and female brains are not the same. It makes sense, though. Many psychological disorders are diagnosed more frequently in females than males, and vice versa. These "striking sex differences exist among multiple behaviors, such as cognitive function, fear, stress, and pain, as well as several neurological and psychiatric diseases, such as Parkinson's disease, Alzheimer's disease, and epilepsy [1-5]." Research into sex differences in how the brain functions is critical to better understand where these sex differences in behavior come from.
 
 <center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/50800888452/in/dateposted-public/" title="https://pixy.org/83605/"><img src="https://live.staticflickr.com/65535/50800888452_af829e2cd6_b.jpg" width="950" height="760" alt="https://pixy.org/83605/"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
@@ -44,13 +34,13 @@ Sun and colleagues looked through the entire brain to find each area that sends 
 
 <center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/50800029368/in/dateposted-public/" title="https://commons.wikimedia.org/wiki/File:Norepinephrine_Part_1.png"><img src="https://live.staticflickr.com/65535/50800029368_63301c10a5_c.jpg" width="771" height="600" alt="https://commons.wikimedia.org/wiki/File:Norepinephrine_Part_1.png"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-**Figure 2. **The locus coeruleus sends a chemical called noradrenaline (or norepinephrine) throughout the entire brain. Source: [Bruce Blaus, Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Norepinephrine_Part_1.png) 
+**Figure 2.** The locus coeruleus sends a chemical called noradrenaline (or norepinephrine) throughout the entire brain. Source: [Bruce Blaus, Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Norepinephrine_Part_1.png) 
 
 It's important to note that the researchers investigated 257 different parts of the brain and found 11 that had sex differences in relation to locus coeruleus communication [1]. So overall, females and males are more similar than different. 
 
-Of the different areas, the parts of the brain most involved in memory and depression communicate more with the locus coeruleus in males than in females, while the part of the brain involved in motor control communicates more with the locus coeruleus in females than in males [1]. These are just three examples that align the findings of this study with observed pathological sex differences. That is to say, the memory and depression regions of the brain don't communicate as much in female brains and females are more frequently diagnosed with Alzheimer’s and depression than males. Similarly, the motor region of the brain doesn’t communicate as much in male brains and males are more frequently diagnosed with Parkinson’s. These studies evaluated the **underlying brain setup **that leaves populations particularly vulnerable to disorders down the line.
+Of the different areas, the parts of the brain most involved in memory and depression communicate more with the locus coeruleus in males than in females, while the part of the brain involved in motor control communicates more with the locus coeruleus in females than in males [1]. These are just three examples that align the findings of this study with observed pathological sex differences. That is to say, the memory and depression regions of the brain don't communicate as much in female brains and females are more frequently diagnosed with Alzheimer's and depression than males. Similarly, the motor region of the brain doesn't communicate as much in male brains and males are more frequently diagnosed with Parkinson's. These studies evaluated the **underlying brain setup** that leaves populations particularly vulnerable to disorders down the line.
 
-Currently, there are no effective treatments for most of these disorders. This research provides incredible insights into next steps toward treatment development, with results that offer hope for future scientists to develop interventions that target those parts of the brain. Ultimately, with research like this study on sex differences in the brain, we should be better equipped to treat sexually differentiated disorders like Alzheimer's and Parkinson’s.
+Currently, there are no effective treatments for most of these disorders. This research provides incredible insights into next steps toward treatment development, with results that offer hope for future scientists to develop interventions that target those parts of the brain. Ultimately, with research like this study on sex differences in the brain, we should be better equipped to treat sexually differentiated disorders like Alzheimer's and Parkinson's.
 
 References:
 
@@ -64,3 +54,6 @@ References:
 
 5. Robert E. Sorge, and Larissa J. Strath. "[Sex differences in pain responses](https://doi.org/10.1016/j.cophys.2018.05.006)." *Current Opinion in Physiology* 6 (2018): 75-81.
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Earth's Organisms" %}
