@@ -20,17 +20,6 @@ teaser: Navigating the world of scientific research and academia can be tricky a
 source-id: 18B8pF1N1dFmG7OQf_wIc44Zj7n4c0XIgjmK7ZKtJVPE
 published: true
 ---
-**Title:** Three things STEM undergrads might not know (that you can teach them!)
-
-**Author:** rbell
-
-**Categories:** Grad School Diaries
-
-**Keywords:** hidden curriculum, academia, undergraduate, mentoring, research
-
-**Teaser:** Navigating the world of scientific research and academia can be tricky as an undergraduate. Grad students and instructors can teach STEM undergrads these three things to make their lives easier!
-
-**Thumbnail image:** Figure 2
 
 I remember frequently being bewildered during my first year of college. I didn't know how to talk to professors, I was terrified while writing my first research paper, and I was spending countless hours each week closely reading and deciphering research articles. Through excellent mentors and trial and error, these tasks became less and less daunting over time. Eventually, it became second nature, and was particularly useful as I became a graduate student immersed in scientific research and academic life. Navigating research, professional relationships, and academia becomes so familiar to graduate students and instructors over time that it can be hard to remember how daunting it all was at first. It wasn’t until I began working as a teaching assistant that I recognized how important this hidden curriculum [1] was to undergraduate success, and that many of these things could be explicitly taught in STEM classes. So, without further ado, here are three things we should be teaching STEM undergraduates:
 
