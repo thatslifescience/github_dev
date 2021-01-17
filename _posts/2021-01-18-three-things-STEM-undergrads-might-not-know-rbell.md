@@ -53,3 +53,8 @@ References:
 
 [1] Hariharan, Janani. [I felt lost in a new academic culture. Then I learned about the hidden curriculum](https://www.sciencemag.org/careers/2019/05/i-felt-lost-new-academic-culture-then-i-learned-about-hidden-curriculum). Science (2019).
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Grad School Diaries" %}
+
+
