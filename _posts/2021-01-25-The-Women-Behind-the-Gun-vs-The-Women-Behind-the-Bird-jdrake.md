@@ -54,7 +54,7 @@ ________________
 
 *The Lacey Act and the Migratory Bird Treaty Act defined two key tenants (1. Eliminating markets for wildlife and game & 2. Considering wildlife an international resource) of the North American Model of Conservation. This conservation framework consists of 7 key principles that shape how wildlife and fisheries management is carried out in North America. I will continue to write about this in a future post! To learn more about the North American Model of Conservation, check out my [blog post on the public trust doctrine](http://thatslifesci.com/2020-11-17-Hug-an-Oyster-for-Wildlife-jdrake/).
 
-**References **
+**References**
 
 [1] Serratore, A. 2018. Keeping Feathers Off Hats-And On Birds. Smithsonian Magazine. [https://www.smithsonianmag.com/history/migratory-bird-act-anniversary-keeping-feathers-off-hats-180969077/](https://www.smithsonianmag.com/history/migratory-bird-act-anniversary-keeping-feathers-off-hats-180969077/) 
 
