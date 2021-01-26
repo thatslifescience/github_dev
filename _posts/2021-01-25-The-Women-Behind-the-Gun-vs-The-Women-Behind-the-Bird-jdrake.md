@@ -8,6 +8,7 @@ tags:
 - history
 - hunting
 - funding
+categories:
 - Our Ecosystems
 header:
  image_fullwidth: ecosystem-header.jpg
