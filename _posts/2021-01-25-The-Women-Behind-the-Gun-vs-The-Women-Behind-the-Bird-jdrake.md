@@ -13,21 +13,11 @@ header:
  image_fullwidth: ecosystem-header.jpg
 image:
  thumb: jdrake.jpg
-teaser: “Two lesser known women helped set the stage for international wildlife treaties and conservation in the United States.”
+teaser: Two lesser known women helped set the stage for international wildlife treaties and conservation in the United States.
 source-id: 1BVRtPTkxVJ6dcxEHlZ8tZ27yEP-cLFxrgZPKqH1EgDk
 published: true
 ---
-**Title:** The Women Behind the Gun vs. The Women Behind the Bird
 
-**Author(s): **jdrake
-
-**Category: **Our Ecosystems
-
-**Keywords: **Conservation, History, Hunting, Funding
-
-**Teaser: **Two lesser known women helped set the stage for international wildlife treaties and conservation in the United States. 
-
-**Thumbnail image**:  Figure 2 
 
 Climate change, pesticides, and habitat loss are commonly known as modern threats to wildlife . The cultural awakening to such perils started in the mid 20th Century with Rachel Carson's *Silent Spring,* in which she detailed how DDT was killing bug and bird alike. However, before industrial pollutants and pesticides became infamous and the human population skyrocketed, there was another risk faced by our most cherished avian brethren: **high fashion** (Figure 1).
 
@@ -85,3 +75,6 @@ ________________
 
 [10] Eilperin, J. & Kaplan, S. 2020. Trump Officials move to relax rules on killing birds. The Washington Post. November 27, 2020 [https://www.washingtonpost.com/climate-environment/2020/11/27/migratory-bird-treaty-act/](https://www.washingtonpost.com/climate-environment/2020/11/27/migratory-bird-treaty-act/)  Accessed 2020-12-31
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Our Ecosystems" %}
