@@ -12,7 +12,7 @@ tags:
 header:
  image_fullwidth: ecosystem-header.jpg
 image:
- thumb: jdrake.jpg
+ thumb: 2020-01-25-jdrake.jpg
 teaser: Two lesser known women helped set the stage for international wildlife treaties and conservation in the United States.
 source-id: 1BVRtPTkxVJ6dcxEHlZ8tZ27yEP-cLFxrgZPKqH1EgDk
 published: true
