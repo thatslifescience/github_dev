@@ -18,17 +18,6 @@ teaser: Reflections on an evolving sense of self in the age of social media and 
 source-id: 1txNqxVBuGpaVsSeh8D80wyLSaKX-fN5X9hSzIVGUHTs
 published: true
 ---
-**Title****: ****N****urturing and celebrating our offline selves**
-
-**Author(s): **AFowler
-
-**Category:** Grad School Diaries
-
-**Keywords: **mental health, physical health, internet, social media 
-
-**Teaser: **Reflections on an evolving sense of self in the age of social media and COVID.
-
-**Thumbnail image**:  Figure 1
 
 It's pretty ironic to write a blog post about my love/hate relationship with the Internet, but here I am. Here we all are, thanks to the pandemic... In some ways, the Internet is a wonderful communication tool; we can connect with friends, family, and colleagues nearly anywhere on Earth. I can connect with *you*, who I may have never met before. However, Internet use (especially on social media) can have some serious negative effects on our health. For example, social media use has been correlated with depression, anxiety, irritability, and can become an addiction [1]. I’ve felt these effects, particularly anxiety about how the Internet does not lend itself to personal, emotional, or intellectual growth. It can be quite unforgiving. I am growing, learning, and updating my perspective and opinions all the time. And so, I've become conflicted about my Internet use and presence.
 
@@ -38,7 +27,7 @@ The other day, I went for a jog on a cold and sunny morning. I caught a glimpse 
 
 <center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/50894696342/in/dateposted-public/" title="afowler-shadow"><img src="https://live.staticflickr.com/65535/50894696342_dcd429cb2d_z.jpg" width="480" height="640" alt="afowler-shadow"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-Figure 1. My morning shadow. Source: [A. Fowler](http://thatslifesci.com/authors/afowler/)
+**Figure 1.** My morning shadow. Source: [A. Fowler](http://thatslifesci.com/authors/afowler/)
 
 I end with reminders to myself and others for self-care in the digital age, especially during the pandemic. First, get out of your house and move your body! Feel the sun on your skin and appreciate your shadow. Second, seek out the dynamic and forgiving experience of a live (not text) conversation. Third, use social media with the intention to create meaningful and authentic connections with others, but don't forget to close the screen and connect with yourself. 
 
