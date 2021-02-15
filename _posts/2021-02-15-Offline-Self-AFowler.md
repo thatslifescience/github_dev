@@ -35,5 +35,4 @@ I'd love to hear others’ thoughts about this topic and if anyone else feels th
 
 References: 
 
-[1]  Meier and Reinecke. (2020) Computer-Mediated Communication, Social Media, and Mental Health: A Conceptual and Empirical Meta-Review. *Communication Research. *[https://doi.org/10.1177/0093650220958224](https://doi.org/10.1177%2F0093650220958224)* *
-
+[1]  Meier and Reinecke. (2020) Computer-Mediated Communication, Social Media, and Mental Health: A Conceptual and Empirical Meta-Review. *Communication Research.*[https://doi.org/10.1177/0093650220958224](https://doi.org/10.1177%2F0093650220958224)
