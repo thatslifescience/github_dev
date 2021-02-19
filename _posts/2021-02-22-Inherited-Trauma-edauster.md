@@ -19,6 +19,19 @@ teaser: What kind of environmental and social traumas can be passed down to the 
 source-id: 17r3WSNYfpn2VwB4X2-fvWaQP-GPTKJD6wlfGyUCznbE
 published: true
 ---
+**Title:** Inherited Trauma
+
+**Author(s): **edauster
+
+**Category: **How It Works
+
+**Keywords: **trauma, epigenetics, history, human health, neurobiology
+
+**Teaser: **What kind of environmental and social traumas can be passed down to the next generation? What does that manifestation even look like?
+
+**Thumbnail image**:  Figure 2 
+
+ 
 
 It is the year 2000 in Bucharest, Romania. Ten years prior, the Romanian Revolution called for an end to Communist control in the country, leaving years of additional political unrest in its wake. Abandoned children are placed in overcrowded orphanages, known as institutions. Staff are spread so thin that babies receive almost no human interaction. Scientists wonder if growing up in this traumatic environment will affect the children's development. The[ Bucharest Early Intervention Project](http://www.bucharestearlyinterventionproject.org/About-Us.html) is born.
 
@@ -52,9 +65,9 @@ About half of the Holocaust survivors reported PTSD, while none of the compariso
 
  
 
-<center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/50950515212/in/dateposted-public/" title="https://snl.no/Holocaust"><img src="https://live.staticflickr.com/65535/50950515212_3f62604027_m.jpg" width="182" height="69" alt="https://snl.no/Holocaust"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
+<center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/50950515212/in/dateposted-public/" title="https://snl.no/Holocaust"><img src="https://live.staticflickr.com/65535/50950515212_3f62604027_m.jpg" width="364" height="138" alt="https://snl.no/Holocaust"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-**Figure 2.** Holocaust survivors lived through one of the greatest horrors of humanity. They can pass the effects of psychological and physical trauma on to their children via epigenetics. Source:[ Alexander Voronzow, Store Norske Leksikon](https://snl.no/Holocaust)
+**Figure 2. **Holocaust survivors lived through one of the greatest horrors of humanity. They can pass the effects of psychological and physical trauma on to their children via epigenetics. Source:[ Alexander Voronzow, Store Norske Leksikon](https://snl.no/Holocaust)
 
  
 
