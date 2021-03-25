@@ -20,21 +20,8 @@ teaser: Take some time to appreciate the beauty and complexity of maps used in o
 source-id: 1VlReCmMR8wJ0OvWCtYvKmAL2jgwr3kv0NJi-UtoogMM
 published: true
 ---
-**Title: Maps are the ultimate scientific tool ** 
 
-**Author(s): **AFowler
-
-**Category: **How it works
-
-**Keywords: **Maps, Cartography, Geography, Imaging, Navigation, Neuroscience
-
-**Teaser: **Take some time to appreciate the beauty and complexity of maps used in our everyday lives and in nearly every field of science. 
-
-**Thumbnail image**: Figure 1
-
- 
-
-Maps are awesome. With Google Earth, we can go from looking at the Earth as if we were astronauts in outer space, to our very own neighborhood in a moment. We have created maps of the cosmos, both outside us –[ the solar system](https://www.visualcapitalist.com/mapping-every-object-in-our-solar-system/), [the moon](https://www.usgs.gov/news/usgs-releases-first-ever-comprehensive-geologic-map-moon),[ Mars](https://pubs.usgs.gov/sim/3292/pdf/sim3292_map.pdf) – and within us – our[ brain connections](http://humanconnectomeproject.org/). Maps are wonderfully compact displays of knowledge, transforming abstract relationships into concrete images and allowing us to share and update information efficiently. Thus, maps have become a foundational tool for nearly every field of science (Figure 1).
+ Maps are awesome. With Google Earth, we can go from looking at the Earth as if we were astronauts in outer space, to our very own neighborhood in a moment. We have created maps of the cosmos, both outside us –[ the solar system](https://www.visualcapitalist.com/mapping-every-object-in-our-solar-system/), [the moon](https://www.usgs.gov/news/usgs-releases-first-ever-comprehensive-geologic-map-moon),[ Mars](https://pubs.usgs.gov/sim/3292/pdf/sim3292_map.pdf) – and within us – our[ brain connections](http://humanconnectomeproject.org/). Maps are wonderfully compact displays of knowledge, transforming abstract relationships into concrete images and allowing us to share and update information efficiently. Thus, maps have become a foundational tool for nearly every field of science (Figure 1).
 
 <center> <a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/51039459583/in/dateposted-public/" title="all4maps"><img src="https://live.staticflickr.com/65535/51039459583_82eb81fd6c_h.jpg" width="1403" height="816" alt="all4maps"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> </center>
 
