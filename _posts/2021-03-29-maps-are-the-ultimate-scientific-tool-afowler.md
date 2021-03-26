@@ -49,9 +49,9 @@ Despite their limitations, maps improve how we engage with the world and how we 
 
 **References**
 
-[1] Maguire et al. Navigation-related structural change in the hippocampi of taxi drivers. 2000. *PNAS; *97(8): 4398-4403. [https://www.pnas.org/content/97/8/4398.long](https://www.pnas.org/content/97/8/4398.long)
+[1] Maguire et al. Navigation-related structural change in the hippocampi of taxi drivers. 2000. *PNAS*; 97(8): 4398-4403. [https://www.pnas.org/content/97/8/4398.long](https://www.pnas.org/content/97/8/4398.long)
 
-[2] Hromádková et al. Seasonally specific responses to wind patterns and ocean productivity facilitate the longest animal migration on Earth. *MEPS; *638: 1-12.
+[2] Hromádková et al. Seasonally specific responses to wind patterns and ocean productivity facilitate the longest animal migration on Earth. *MEPS*; 638: 1-12.
 [https://www.int-res.com/abstracts/meps/v638/p1-12/](https://www.int-res.com/abstracts/meps/v638/p1-12/) 
 
  
