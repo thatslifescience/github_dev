@@ -13,9 +13,9 @@ tags:
 categories:
 - How It Works
 header:
- image_fullwidth: 2021-maps-afowler-fig1.png
+ image_fullwidth: howitworks-header.jpg
 image:
- thumb: howitworks-header.jpg
+ thumb: 2021-maps-afowler-fig1.png
 teaser: Take some time to appreciate the beauty and complexity of maps used in our everyday lives and in nearly every field of science.
 source-id: 1VlReCmMR8wJ0OvWCtYvKmAL2jgwr3kv0NJi-UtoogMM
 published: true
