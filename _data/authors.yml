@@ -202,7 +202,7 @@ nraytselis:
      
 jswenson:
      name: “John Swenson”
-     siterole: “PhD Student in Organismic and Evolutionary Biology”
+     siterole: “PhD Candidate in Organismic and Evolutionary Biology”
      
 awinsor:
      name: “Alex Winsor”
@@ -231,5 +231,9 @@ gpearson:
 twashington:
      name: “Tatjana Washington”
      siterole: “MS Student in Enviromental Conservation”
+     
+afowler:
+     name: “Alison Fowler”
+     siterole: “PhD Candidate in Organismic and Evolutionary Biology”
      
 # you can add more authors here
