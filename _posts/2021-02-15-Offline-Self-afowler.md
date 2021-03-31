@@ -2,7 +2,7 @@
 title: Nurturing and celebrating our offline selves
 layout: page
 author: afowler
-permalink: /2021-02-15-Offline-Self-AFowler/
+permalink: /2021-02-15-Offline-Self-afowler/
 tags:
 - mental health
 - physical health
