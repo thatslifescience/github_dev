@@ -1,5 +1,5 @@
 ---
-title: Three-Minute Thesis…But Make It Virtual
+title: Three Minute Thesis…But Make It Virtual
 layout: page
 author: edauster
 permalink: /2021-04-27-Three-Minute-Thesis-edauster/
@@ -14,14 +14,14 @@ header:
  image_fullwidth: gradschooldiaries-header.jpg
 image:
  thumb: 4-27-2021-edauster.jpg
-teaser: Put a bunch of graduate students in a room to give three-minute talks about their research. Then, put them on a Zoom call and see how it changes. What did I learn from one year to the next?
+teaser: Put a bunch of graduate students in a room to give three minute talks about their research. Then, put them on a Zoom call and see how it changes. What did I learn from one year to the next?
 source-id: 15TofDCMbvvRRYw4nuuf8G0RU0Ki49YSA0CszYYoD1Pc
 published: true
 ---
 
 Scientists love to talk about their research. Give them a microphone and one scientist will usually go on for an hour. On March 18th, we took that hour and filled it with 10 different researchers. Talk about bang for your buck (especially because it was free)!
 
-So, if it was a free event, what was the currency? Time. Time is our most valuable commodity. Because we are so guarded of our time, it is even more important to use every minute of a talk intentionally. The Three-Minute Thesis (3MT) is an excellent forum to accomplish that goal.
+So, if it was a free event, what was the currency? Time. Time is our most valuable commodity. Because we are so guarded of our time, it is even more important to use every minute of a talk intentionally. The Three Minute Thesis (3MT) is an excellent forum to accomplish that goal.
 
 In the 3MT, graduate students are challenged to outline their research in three minutes or less, with only one static slide as a visual aid. This presentation is judged by a panel of non-academics, so we need to ensure that whatever we say is as understandable as possible to people who don't work in our field. It all started at the University of Queensland in 2008, and today there are over 900 universities across 85 countries holding 3MTs [1]. But why has this competition grown to be the world-renowned event that it is today?
 
@@ -37,7 +37,7 @@ In my first competition, I learned a lot about the balance between engagement an
 
 The winner of my preliminary round that year went on to win the runner-up award for the entire UMass competition. I learned a lot by comparing my presentation with theirs. They presented at a slower pace, giving breaks throughout the talk. They showed excitement in their voice only at certain points in the talk, so the audience knew when to focus and soak in what was said. In the end, I knew why they thought their research was important, but I was still unsure of what they did to accomplish this goal.
 
-I took all of this observation with me when creating my presentation for the next year's competition. This time around, I spoke slowly, quietly, and intentionally. I added pauses after key statements. I told a story about the impact more than the minutiae of my daily experiments. But I made sure to keep some of the experimental design in my talk so that the audience would understand how I explored my research question. Of course, I still had to focus on just a small sample of the work that I do to fit within the three-minute restriction. In the first year, I focused on the chemical underpinnings of my research [Figure 1]. Then in the second year, I focused on the behavioral component of my work [Figure 2], because I saw that more technical descriptions were harder to follow.
+I took all of this observation with me when creating my presentation for the next year's competition. This time around, I spoke slowly, quietly, and intentionally. I added pauses after key statements. I told a story about the impact more than the minutiae of my daily experiments. But I made sure to keep some of the experimental design in my talk so that the audience would understand how I explored my research question. Of course, I still had to focus on just a small sample of the work that I do to fit within the three minute restriction. In the first year, I focused on the chemical underpinnings of my research [Figure 1]. Then in the second year, I focused on the behavioral component of my work [Figure 2], because I saw that more technical descriptions were harder to follow.
 
 <center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/51101426794/in/dateposted-public/" title="Source: Emma Dauster"><img src="https://live.staticflickr.com/65535/51101426794_4eaeb50b6b_m.jpg" width="720" height="420" alt="Source: Emma Dauster"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
