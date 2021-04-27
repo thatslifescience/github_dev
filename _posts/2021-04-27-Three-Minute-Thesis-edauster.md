@@ -31,7 +31,7 @@ As a Ph.D. candidate at the University of Massachusetts, Amherst (UMass), I comp
 
 In my first competition, I learned a lot about the balance between engagement and content. I went into this competition thinking the most engaging story I could tell would be one with the most exciting research conclusion. This was not true. By attempting to tell a complete research story with as many twists and turns as I could fit into three minutes, I wound up rushing through the talk. I thought that consistent enthusiasm would keep everyone on board. In reality, this translated to me essentially shouting for three minutes without much inflection. I was speaking so quickly and taking very few breaks for the audience to soak up the information (Figure 1).
 
-<center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/51102256515/in/dateposted-public/" title="Source: Emma Dauster"><img src="https://live.staticflickr.com/65535/51102256515_30ccca0423_m.jpg" width="480" height="270" alt="Source: Emma Dauster"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
+<center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/51102256515/in/dateposted-public/" title="Source: Emma Dauster"><img src="https://live.staticflickr.com/65535/51102256515_30ccca0423_m.jpg" width="720" height="405" alt="Source: Emma Dauster"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
 **Figure 1.** In my first 3MT, I focused on the chemical components of my research. This is the slide that I made to outline the creation of sex-specific ADHD medication. (Source: Emma Dauster)
 
@@ -39,7 +39,7 @@ The winner of my preliminary round that year went on to win the runner-up award 
 
 I took all of this observation with me when creating my presentation for the next year's competition. This time around, I spoke slowly, quietly, and intentionally. I added pauses after key statements. I told a story about the impact more than the minutiae of my daily experiments. But I made sure to keep some of the experimental design in my talk so that the audience would understand how I explored my research question. Of course, I still had to focus on just a small sample of the work that I do to fit within the three-minute restriction. In the first year, I focused on the chemical underpinnings of my research [Figure 1]. Then in the second year, I focused on the behavioral component of my work [Figure 2], because I saw that more technical descriptions were harder to follow.
 
-<center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/51101426794/in/dateposted-public/" title="Source: Emma Dauster"><img src="https://live.staticflickr.com/65535/51101426794_4eaeb50b6b_m.jpg" width="240" height="140" alt="Source: Emma Dauster"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
+<center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/51101426794/in/dateposted-public/" title="Source: Emma Dauster"><img src="https://live.staticflickr.com/65535/51101426794_4eaeb50b6b_m.jpg" width="720" height="420" alt="Source: Emma Dauster"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
 **Figure 2.** In my second 3MT competition, I gave a virtual talk. I positioned myself in the top corner and focused the slide on more relatable content. (Source: Emma Dauster)
 
