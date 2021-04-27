@@ -31,7 +31,7 @@ As a Ph.D. candidate at the University of Massachusetts, Amherst (UMass), I comp
 
 In my first competition, I learned a lot about the balance between engagement and content. I went into this competition thinking the most engaging story I could tell would be one with the most exciting research conclusion. This was not true. By attempting to tell a complete research story with as many twists and turns as I could fit into three minutes, I wound up rushing through the talk. I thought that consistent enthusiasm would keep everyone on board. In reality, this translated to me essentially shouting for three minutes without much inflection. I was speaking so quickly and taking very few breaks for the audience to soak up the information (Figure 1).
 
-<center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/51102256515/in/dateposted-public/" title="Source: Emma Dauster"><img src="https://live.staticflickr.com/65535/51102256515_30ccca0423_m.jpg" width="240" height="135" alt="Source: Emma Dauster"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
+<center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/51102256515/in/dateposted-public/" title="Source: Emma Dauster"><img src="https://live.staticflickr.com/65535/51102256515_30ccca0423_m.jpg" width="480" height="270" alt="Source: Emma Dauster"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
 **Figure 1.** In my first 3MT, I focused on the chemical components of my research. This is the slide that I made to outline the creation of sex-specific ADHD medication. (Source: Emma Dauster)
 
