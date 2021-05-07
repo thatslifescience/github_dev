@@ -12,7 +12,7 @@ header:
  image_fullwidth: gradschooldiaries-header.jpg
 image:
  thumb: 2021-4-28_edauster.png
-teaser: “Top 10 mentoring tips for a successful relationship.”
+teaser: Top 10 mentoring tips for a successful relationship.
 
 source-id: 1w-Bm8pILQ5wdeb5Gs5vSpEb9n-DFzBxb-p71perdHkw
 published: true
