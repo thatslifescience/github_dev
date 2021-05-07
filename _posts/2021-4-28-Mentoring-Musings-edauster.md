@@ -20,7 +20,7 @@ published: true
 
 Mentorship, or lack of mentorship, can make or break an experience. Whether you are a student, employee, employer, or somewhere in between, you and your team could probably benefit from the support of dedicated mentors. I wrote this list specifically with mentors of students or young people in academia in mind, but it can apply to a variety of relationships and fields. In a perfect world these 10 items, in no particular order, would be considered by both a mentor and a mentee to increase productivity, job satisfaction, and personal growth:
 
-<center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/51160503448/in/dateposted-public/" title="https://stevestedman.com/2021/01/sql-server-mentoring-2/"><img src="https://live.staticflickr.com/65535/51160503448_c7a386fa68_z.jpg" width="640" height="427" alt="https://stevestedman.com/2021/01/sql-server-mentoring-2/"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
+<center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/51160503448/in/dateposted-public/" title="https://stevestedman.com/2021/01/sql-server-mentoring-2/"><img src="https://live.staticflickr.com/65535/51160503448_c7a386fa68_z.jpg" width="640" height="427" alt="https://stevestedman.com/2021/01/sql-server-mentoring-2/"></a>
 
 ![image alt text]({{ site.url }}/public/aTEUtjuGNCV7wrygY3EnHQ_img_0.png)
 
