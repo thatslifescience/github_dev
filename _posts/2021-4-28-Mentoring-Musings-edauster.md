@@ -59,4 +59,4 @@ For more insights and guidance, check out emmadauster.com
 
 ## More From Thats Life [Science]
 {: .t60 }
-{% include list-posts offset="1" entries='5' category="How It Works" %}
+{% include list-posts offset="1" entries='5' category="Grad School Diaries" %}
