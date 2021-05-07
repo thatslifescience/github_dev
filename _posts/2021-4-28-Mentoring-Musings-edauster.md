@@ -17,17 +17,6 @@ teaser: “Top 10 mentoring tips for a successful relationship.”
 source-id: 1w-Bm8pILQ5wdeb5Gs5vSpEb9n-DFzBxb-p71perdHkw
 published: true
 ---
-**Title:** Mentoring Musings
-
-**Author(s): **edauster
-
-**Category: **Grad School Diaries
-
-**Keywords: **communication, mentoring
-
-**Teaser:** Top 10 mentoring tips for a successful relationship.
-
-**Thumbnail image**:  Figure 1
 
 Mentorship, or lack of mentorship, can make or break an experience. Whether you are a student, employee, employer, or somewhere in between, you and your team could probably benefit from the support of dedicated mentors. I wrote this list specifically with mentors of students or young people in academia in mind, but it can apply to a variety of relationships and fields. In a perfect world these 10 items, in no particular order, would be considered by both a mentor and a mentee to increase productivity, job satisfaction, and personal growth:
 
@@ -67,3 +56,7 @@ If you genuinely do your best, that's all anyone can ask of you.
 
 For more insights and guidance, check out emmadauster.com
 
+
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="How It Works" %}
