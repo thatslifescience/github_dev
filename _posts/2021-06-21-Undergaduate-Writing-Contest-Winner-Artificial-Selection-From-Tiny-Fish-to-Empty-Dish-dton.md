@@ -53,13 +53,13 @@ In a 2002 study on the evolutionary consequences of fishing, researchers subject
 
 The effects of size-selective fishing extend beyond size to include sexual maturation and fecundity. Two life strategies influence the age at which fish mature and reproduce: the "live slow, grow old" strategy and the “[live fast, die young](http://thatslifesci.com/2019-02-11-Live-Fast-Die-Young-LGuo/)” strategy [2]. Size-selective fishing favors the latter by forcing fish to put all their energy into maturing quickly and producing offspring early to ensure the survival of their species. Unfortunately, compared to their larger counterparts, small fish lay fewer and smaller eggs, have more natural predators, and exhibit higher larval mortality. This means that populations with higher proportions of small fish generally face more difficulties bouncing back after being overfished.
 
-**Just Keep Swimming **
+**Just Keep Swimming**
 
 Low abundance and low diversity now plague many fish populations, restricting their adaptability to ecological competition and environmental variability. To make fishing more sustainable, we could seek out medium-sized fish, expand our size preferences, or even combine fishing methods that target different traits. Whatever we do, we must remember that the future of our plates is in our hands.
 
 **References:**
 
-[1] Food and Agriculture Organization of the United Nations. (2020). *[The state of world fisheries and aquaculture 202*0](https://www.fao.org/state-of-fisheries-aquaculture/en/ )[.](https://www.fao.org/state-of-fisheries-aquaculture/en/ ) 
+[1] Food and Agriculture Organization of the United Nations. (2020). [*The state of world fisheries and aquaculture 2020*](https://www.fao.org/state-of-fisheries-aquaculture/en/ )[.](https://www.fao.org/state-of-fisheries-aquaculture/en/ ) 
 
 [2] Diaz Pauli, B., Bartuseviciute, V., & Heino, M. [Fishing can turn big fish into small fish.](https://doi.org/10.3389/frym.2020.00112) *Frontiers for Young Minds*, 8, no. 112 (2020). 
 
