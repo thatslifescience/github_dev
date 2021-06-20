@@ -24,7 +24,7 @@ published: true
 
 Fish are decreasing not only in number but also in size. What does this mean for the future of fish sauce, fish populations, and fisheries? 
 
-<center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/51233041169/in/dateposted-public/" title="d_tonh_fig1"><img src="https://live.staticflickr.com/65535/51233041169_84725c7e45_c.jpg" width="800" height="489" alt="d_tonh_fig1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
+<center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/51233041169/in/dateposted-public/" title="d_tonh_fig1"><img src="https://live.staticflickr.com/65535/51233041169_84725c7e45_c.jpg" width="800" height="489" alt="d_tonh_fig1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center><br>
 **Figure 1.** Fishing boats in Oban, Scotland. (Source: Ray in Manila via Flickr.)
 
 Many cuisines around the world rely on different species of fish to serve as sources of high-quality protein. In Vietnam, cá kho tộ typically features braised catfish and a caramelized sauce in a clay pot. Gravlax is a Nordic dish that offers a mouth-watering blend of cured salmon and mustard-dill. A staple in Senegal and Mauritania, thieboudienne is loaded with rice, tomato sauce, and red snapper.
@@ -43,7 +43,7 @@ Size-selective fishing allows juveniles to continue breeding and propagating the
 
 It has been argued that in the absence of large predatory fish, fisheries will turn to increasingly smaller species [4]. Whether or not this concept of "fishing down the food web" holds has been a topic of debate for over two decades. If one thing's for sure, it’s that fisheries-induced evolution is resulting in diminished fish sizes. 
 
-<center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/51235977064/in/dateposted-public/" title="Menidia_menidia_RR_08-11-19_0545_(48555459552)"><img src="https://live.staticflickr.com/65535/51235977064_587c7fa016_c.jpg" width="800" height="199" alt="Menidia_menidia_RR_08-11-19_0545_(48555459552)"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
+<center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/51235977064/in/dateposted-public/" title="Menidia_menidia_RR_08-11-19_0545_(48555459552)"><img src="https://live.staticflickr.com/65535/51235977064_587c7fa016_c.jpg" width="800" height="199" alt="Menidia_menidia_RR_08-11-19_0545_(48555459552)"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center><br>
 **Figure 2.** The Atlantic silverside is a small species of fish from the West Atlantic that grows no more than six inches in length. Its sensitivity to environmental changes is what makes it an ideal organism for scientific research. (Source: Smithsonian Environmental Research Center via Wikimedia Commons.) 
 
 
@@ -57,7 +57,7 @@ The effects of size-selective fishing extend beyond size to include sexual matur
 
 Low abundance and low diversity now plague many fish populations, restricting their adaptability to ecological competition and environmental variability. To make fishing more sustainable, we could seek out medium-sized fish, expand our size preferences, or even combine fishing methods that target different traits. Whatever we do, we must remember that the future of our plates is in our hands.
 
-References:
+**References:**
 
 [1] Food and Agriculture Organization of the United Nations. (2020). *[The state of world fisheries and aquaculture 202*0](https://www.fao.org/state-of-fisheries-aquaculture/en/ )[.](https://www.fao.org/state-of-fisheries-aquaculture/en/ ) 
 
