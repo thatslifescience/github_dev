@@ -1,8 +1,8 @@
 ---
-title: CRISPR-careful-when-running-with-genetic-scissors-agalperina
+title: CRISPR: Careful When Running with Genetic Scissors
 layout: page
 author: gwriter
-permalink: /CRISPR-careful-when-running-with-genetic-scissors-agalperina/
+permalink: /CRISPR-careful-when-running-with-genetic-scissors-gwriter/
 tags:
 - crispr
 - genetics
@@ -19,6 +19,8 @@ teaser: Altering the genetic makeup of human-kind is a dangerous game to play
 source-id: 1-Pp_CBUbGYYHSjI2Tuai-5wtcvoOQdgs6f6k9TM2UsQ
 published: true
 ---
+
+Written by Anastasia Galperina, Finalist of the 2021 TLS Undergraduate Writing Contest
 
 The introduction of CRISPR-Cas9, a technology that allows scientists to edit genes, opened  countless doors previously closed to the scientific community. Humans now hold divine power and are capable of creating genetically modified beings. Ethical issues aside, the power to create humans that are resistant to some of the most feared diseases is tempting. But is that a feasible reality, or a tantalizing fantasy? Is the ability to mold an "idyllic" human out of clay a dream come true for future parents, or the plot of a dystopian science fiction novel? 
 
