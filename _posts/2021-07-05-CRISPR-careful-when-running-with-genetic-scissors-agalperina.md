@@ -15,12 +15,13 @@ header:
  image_fullwidth: howitworks-header.jpg
 image:
  thumb: 2021-07-05-UWCFig2.png
+ title: UWC-agalperina.jpeg
 teaser: Altering the genetic makeup of human-kind is a dangerous game to play
 source-id: 1-Pp_CBUbGYYHSjI2Tuai-5wtcvoOQdgs6f6k9TM2UsQ
 published: true
 ---
 
-Written by Anastasia Galperina, Finalist of the 2021 TLS Undergraduate Writing Contest
+*Post authored by Undergraduate Writing Contest Finalist, Anastasia Galperina.*
 
 The introduction of CRISPR-Cas9, a technology that allows scientists to edit genes, opened  countless doors previously closed to the scientific community. Humans now hold divine power and are capable of creating genetically modified beings. Ethical issues aside, the power to create humans that are resistant to some of the most feared diseases is tempting. But is that a feasible reality, or a tantalizing fantasy? Is the ability to mold an "idyllic" human out of clay a dream come true for future parents, or the plot of a dystopian science fiction novel? 
 
