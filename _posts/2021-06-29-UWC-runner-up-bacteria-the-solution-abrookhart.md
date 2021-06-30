@@ -66,3 +66,8 @@ Even if this bioremediation process is perfected, we still don't know if people 
 
 [11] C. Liu, C. Shi, S. Zhu, R. Wei, and C.-C. Yin, "Structural and functional characterization of polyethylene terephthalate hydrolase from Ideonella sakaiensis," *Biochemical and Biophysical Research Communications*, vol. 508, no. 1, pp. 289–294, Jan. 2019, doi: 10.1016/j.bbrc.2018.11.148.
 
+
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="How It Works" %}
+
