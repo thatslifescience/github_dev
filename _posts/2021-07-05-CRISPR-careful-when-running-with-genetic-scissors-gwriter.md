@@ -15,10 +15,24 @@ header:
  image_fullwidth: howitworks-header.jpg
 image:
  thumb: 2021-07-05-UWCFig2.png
+ title: UWC-agalperina.jpeg
 teaser: Altering the genetic makeup of human-kind is a dangerous game to play
+
 source-id: 1-Pp_CBUbGYYHSjI2Tuai-5wtcvoOQdgs6f6k9TM2UsQ
 published: true
 ---
+**Title:** CRISPR: Careful When Running with Genetic Scissors 
+
+**Author(s): **gwriter 
+
+**Category: **How it works
+
+**Keywords: **CRISPR, Genetics, Immune system, DNA, Human health
+
+**Teaser:** Altering the genetic makeup of human-kind is a dangerous game to play.
+
+**Thumbnail image**:  Figure 2
+
 *Post authored by Undergraduate Writing Contest Finalist, Anastasia Galperina.*
 
 The introduction of CRISPR-Cas9, a technology that allows scientists to edit genes, opened  countless doors previously closed to the scientific community. Humans now hold divine power and are capable of creating genetically modified beings. Ethical issues aside, the power to create humans that are resistant to some of the most feared diseases is tempting. But is that a feasible reality, or a tantalizing fantasy? Is the ability to mold an "idyllic" human out of clay a dream come true for future parents, or the plot of a dystopian science fiction novel? 
@@ -29,7 +43,7 @@ Until recently, the use of CRISPR in humans was limited to gene alteration in pl
 
 Figure 1: CRISPR-Cas immunity. Source: wikimedia, [Biosciences for Farming in Africa](https://www.flickr.com/photos/b4fa/27223378570/in/dateposted/)
 
-The most popular CRISPR complex is the CRISPR-Cas9 system, which was discovered in *Streptococcus pyogenes* by Jennifer Doudna and Emmanuelle Charpentier. Their lab realized that if humans can alter the spacer DNA to a sequence they desire, then CRISPR-cas9 can be used for gene editing [1]. 
+The most popular CRISPR complex is the CRISPR-Cas9 system, which was discovered in *Streptococcus pyogenes *by Jennifer Doudna and Emmanuelle Charpentier. Their lab realized that if humans can alter the spacer DNA to a sequence they desire, then CRISPR-cas9 can be used for gene editing [1]. 
 
 This system differs slightly from the one described above, as the spacer DNA has two different components: the spacer DNA and a structural component that stabilizes the spacer DNA. Doudna and Charpentier combined these two components into a single piece, dubbed the "guide RNA," thus creating a simple two-part system composed of the Cas9 protein and the guide RNA [1]. This is the system that has given humans the power to change their genomes at will. 
 
@@ -37,7 +51,7 @@ This system differs slightly from the one described above, as the spacer DNA has
 
 Figure 2: Visualization of CRISPR-Cas9 system. Source: Wikimedia, [Marius Walter](commons.wikimedia.org/wiki/File:GRNA-Cas9.png)
 
-As previously mentioned, CRISPR has the potential to change how we treat many different ailments. Today, CRISPR is being applied to cancer treatments in the first ever CRISPR-based study in the US. This study is attempting to genetically modify a patient's immune system to better recognize and effectively kill cancerous cells [3]. Additionally, CRISPR may offer a solution to organ shortages by allowing pig organs to be safely used for human transplant. By using CRISPR to inactivate porcine endogenous retroviruses (PERVs), there is potential for safe human transplantation without fear of introducing an HIV-related retrovirus to the organ recipient [4]. The use of this technology is inching toward genetically modifying humans. Attempts to create viable embryos carrying the healthy wild type *MYBPC3* gene, which if mutated leads to abnormally thick and impaired heart muscles if mutated, have been successful [5].
+As previously mentioned, CRISPR has the potential to change how we treat many different ailments. Today, CRISPR is being applied to cancer treatments in the first ever CRISPR-based study in the US. This study is attempting to genetically modify a patient's immune system to better recognize and effectively kill cancerous cells [3]. Additionally, CRISPR may offer a solution to organ shortages by allowing pig organs to be safely used for human transplant. By using CRISPR to inactivate porcine endogenous retroviruses (PERVs), there is potential for safe human transplantation without fear of introducing an HIV-related retrovirus to the organ recipient [4]. The use of this technology is inching toward genetically modifying humans. Attempts to create viable embryos carrying the healthy wild type *MYBPC3 *gene*,** *which if mutated leads to abnormally thick and impaired heart muscles if mutated, have been successful [5].
 
 If CRISPR is to be used for human genome modification, harmful consequences, such as accidental mutations and unexpected side-effects need to be considered [2]. Genetic modification can conceivably introduce the world to novel diseases, cause certain socially-deemed "undesirable" traits to become extinct, limit genetic diversity, and even enable genocide. In spite of these negative possibilities, there is hope of a bright future for CRISPR-based human genetic engineering. As of today, CRISPR is the most reliable and cost-effective way for scientists and doctors to modify DNA, providing the means to eradicate diseases, relieve suffering from painful health conditions, and cure ailments during the prenatal stages of life, which can provide healthier, longer life spans [6]. Humans should be cautious when running with scissors that can cut the delicate thread that nature spent epochs sewing. CRISPR is pioneering a new future for human health, but it will also alter our evolutionary trajectory with unforeseeable consequences.  
 
