@@ -16,7 +16,6 @@ header:
 image:
  thumb: 2021-07-05-UWCFig2.png
 teaser: Altering the genetic makeup of human-kind is a dangerous game to play
-
 source-id: 1-Pp_CBUbGYYHSjI2Tuai-5wtcvoOQdgs6f6k9TM2UsQ
 published: true
 ---
