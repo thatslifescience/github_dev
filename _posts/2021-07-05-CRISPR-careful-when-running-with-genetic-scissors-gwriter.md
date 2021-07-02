@@ -1,5 +1,5 @@
 ---
-title: CRISPR: Careful When Running with Genetic Scissors
+title: "CRISPR: Careful When Running with Genetic Scissors"
 layout: page
 author: gwriter
 permalink: /2021-07-05-CRISPR-careful-when-running-with-genetic-scissors-gwriter/
