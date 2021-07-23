@@ -20,6 +20,8 @@ source-id: 1zPYeOi1fgdsDLw-etjizdtKqi5uE6V4YirUegyoCyK4
 published: true
 ---
 
+*Post authored by Undergraduate Writing Contest Finalist, Brooke Linnehan.*
+
 <center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/51307848625/in/dateposted-public/" title="https://www.flickr.com/photos/130811041@N04/page2/"><img src="https://live.staticflickr.com/65535/51307848625_02257f74dd_z.jpg" width="640" height="480" alt="https://www.flickr.com/photos/130811041@N04/page2/"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
 Figure 1. For many, the great outdoors are an enticing escape from stress and anxiety. (Source: Adam Bautz at [Flickr](https://www.flickr.com/photos/130811041@N04/page2/))
