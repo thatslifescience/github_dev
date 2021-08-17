@@ -10,7 +10,7 @@ tags:
 - olfaction
 - anosmia
 categories:
-- Earth's Organism
+- Earth's Organisms
 header:
  image_fullwidth: organisms-header.jpg
 image:
