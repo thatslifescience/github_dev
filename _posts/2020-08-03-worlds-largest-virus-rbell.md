@@ -9,7 +9,7 @@ tags:
 - ecosystem
 - amoeba
 categories:
-- Earth’s Organisms
+- Earth's Organisms
 header:
  image_fullwidth: organisms-header.jpg
 image:
@@ -66,4 +66,4 @@ References:
 
 ## More From Thats Life [Science]
 {: .t60 }
-{% include list-posts offset="1" entries='5' category="Earth’s Organisms" %}
+{% include list-posts offset="1" entries='5' category="Earth's Organisms" %}
