@@ -9,6 +9,7 @@ tags:
 - adaptation
 - co-evolution
 - microbiome
+categories:
 - Earth's Organisms
 header:
  image_fullwidth: organisms-header.jpg
