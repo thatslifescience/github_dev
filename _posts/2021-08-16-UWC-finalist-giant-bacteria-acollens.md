@@ -33,7 +33,7 @@ These fantastic traits are likely tied to the bacteria's symbiotic lifestyle. *E
 
 <center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/51307040397/in/dateposted-public/" title="Adena_fig2"><img src="https://live.staticflickr.com/65535/51307040397_fefefbd5fe_c.jpg" width="800" height="534" alt="Adena_fig2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-**Figure 2.** *Acanthurus lineatus* (striped surgeonfish) is the host of *Epulopiscium* bacteria. Source: Paul Asman and Jill Lenoble, [Wikimedia Commons]("https://commons.wikimedia.org/wiki/File:Lined_surgeonfish_Acanthurus_lineatus_(striped_surgeonfish)_(5847346028).jpg")
+**Figure 2.** *Acanthurus lineatus* (striped surgeonfish) is the host of *Epulopiscium* bacteria. Source: Paul Asman and Jill Lenoble, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lined_surgeonfish_Acanthurus_lineatus_(striped_surgeonfish)_(5847346028).jpg)
 
 The symbiotic lifestyle of *Epulopiscium* bacteria also likely contributes to their unique method of reproduction. Most bacteria, including *E. coli*, reproduce in a process called binary fission, where the cell elongates and splits down the middle into two daughter cells. Some bacteria reproduce differently through a process called sporulation, where vegetative, seed-like offspring develop into daughter cells. *Epulopiscium* bacteria reproduce in a fantastic version of sporulation -- their daughter cells develop inside the cell body of the mother cell and emerge in vivipary, or live birth [2; Figure 3]. 
 
@@ -58,4 +58,9 @@ Because of their unusual shape and lifecycle, *Epulopiscium* help expand our und
 [5] Miyake, Sou, David K. Ngugi, and Ulrich Stingl. "[Phylogenetic diversity, distribution, and cophylogeny of giant bacteria (*Epulopiscium*) with their surgeonfish hosts in the Red Sea.](https://doi.org/10.3389/fmicb.2016.00285)" *Frontiers in Microbiology* 7 (2016): 285.
 
 [6] Angert, Esther R. "[Challenges faced by highly polyploid bacteria with limits on DNA inheritance.](https://doi.org/10.1093/gbe/evab037)" *Genome Biology and Evolution* 13, no. 6 (2021): evab037.
+
+
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Earth's Organisms" %}
 
