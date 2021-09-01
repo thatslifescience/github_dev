@@ -19,17 +19,6 @@ teaser: What I learned a year into my journey of raising bonsai seedlings.
 source-id: 10MKDoMkT3qQGEiz5SI6btyjBJPDxMi5AD9Gt3ZH6vpQ
 published: true
 ---
-**Title: **My Bonsai Journey Part 2
-
-**Author(s): **ebeaury
-
-**Category: **Grad School Diaries
-
-**Keywords: **development, plant health, plants, plant care
-
-**Teaser: **What I learned a year into my journey of raising bonsai seedlings. 
-
-**Thumbnail image**:  Figure 5
 
 A month before the COVID-19 pandemic took off, I decided to pick up a new hobby and test out my green thumb by getting into bonsai care. If you followed along with [Part 1 of my journey](http://thatslifesci.com/2020-05-04-my-bonsai-journey-part1-ebeaury/), you may recall that *bonsai *is the centuries old practice of carefully pruning potted plants to maintain their shape and growth habits, but on a miniature scale. Since then, I've (unfortunately) had more failures than successes, so I would like to share what I learned so you can hopefully avoid some of the mistakes I’ve made!
 
@@ -79,3 +68,6 @@ One of the bright spots in this journey was connecting with people who found my 
 
 <center><a data-flickr-embed="true" href="https://www.flickr.com/photos/187342690@N02/51248746261/in/dateposted-public/" title="BonsaiFig5"><img src="https://live.staticflickr.com/65535/51248746261_c8a2533e99_k.jpg" width="1928" height="2048" alt="BonsaiFig5"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Grad School Diaries" %}
