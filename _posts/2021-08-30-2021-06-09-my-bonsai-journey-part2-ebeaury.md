@@ -1,5 +1,5 @@
 ---
-title: 2021-08-30-my-bonsai-journey-part2-ebeaury
+title: My bonsai journey part 2
 layout: page
 author: ebeaury
 permalink: /2021-08-30-my-bonsai-journey-part2-ebeaury/
