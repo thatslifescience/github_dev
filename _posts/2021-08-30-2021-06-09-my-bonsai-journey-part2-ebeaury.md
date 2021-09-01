@@ -20,7 +20,7 @@ source-id: 10MKDoMkT3qQGEiz5SI6btyjBJPDxMi5AD9Gt3ZH6vpQ
 published: true
 ---
 
-A month before the COVID-19 pandemic took off, I decided to pick up a new hobby and test out my green thumb by getting into bonsai care. If you followed along with [Part 1 of my journey](http://thatslifesci.com/2020-05-04-my-bonsai-journey-part1-ebeaury/), you may recall that *bonsai *is the centuries old practice of carefully pruning potted plants to maintain their shape and growth habits, but on a miniature scale. Since then, I've (unfortunately) had more failures than successes, so I would like to share what I learned so you can hopefully avoid some of the mistakes I’ve made!
+A month before the COVID-19 pandemic took off, I decided to pick up a new hobby and test out my green thumb by getting into bonsai care. If you followed along with [Part 1 of my journey](http://thatslifesci.com/2020-05-04-my-bonsai-journey-part1-ebeaury/), you may recall that *bonsai* is the centuries old practice of carefully pruning potted plants to maintain their shape and growth habits, but on a miniature scale. Since then, I've (unfortunately) had more failures than successes, so I would like to share what I learned so you can hopefully avoid some of the mistakes I’ve made!
 
 **Recap**
 
