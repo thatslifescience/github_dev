@@ -18,29 +18,17 @@ teaser: “Apes—including humans—are unique within the Primate order for not
 source-id: 18TpQOLW_0NKE669n94L9PR1D5HpLlR2QfWPpZiVzF94
 published: true
 ---
-**Title:** Why Don't Apes Have Tails?
-
-**Author:** RBell
-
-**Categories:** Earth's Organisms
-
-**Keywords:** primate, evolution, apes, morphology
-
-**Teaser:** Apes—including humans—are unique within the Primate order for not having tails. When and why did apes lose this seemingly useful appendage?
-
-**Thumbnail image:** Figure 2
-
 Take a moment to think about your favorite animals. From lizards to songbirds, squirrels to monkeys, they probably all have tails. These appendages have been adapted to serve a variety of functions, just at a glance: they allow fish to move through water, help cats balance, can alert other deer to the presence of a predator, and in possums and some monkeys act as a fifth limb to hold onto tree branches [1]. Tails are almost ubiquitous throughout the animal kingdom, yet all apes—the superfamily that includes gibbons, orangutans, gorillas, chimpanzees, and humans—lack an external tail! Why would tail loss occur in an entire group of animals when it seems so useful? To answer this question, we have to dive into the evolutionary history of apes.
 
 <center><a data-flickr-embed="true" href="https://www.flickr.com/photos/187342690@N02/51364501920/in/dateposted-public/" title="Brachyteles_hypoxanthus2"><img src="https://live.staticflickr.com/65535/51364501920_cb0609ec18_z.jpg" width="600" height="600" alt="Brachyteles_hypoxanthus2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-**Figure** **1.** This wooly spider monkey is one primate species whose tail has evolved to be prehensile, meaning that the tail is capable of grasping and holding objects like a hand. This is very useful when moving quickly high up in the trees! Photo credit: Paulo B. Chaves via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brachyteles_hypoxanthus2.jpg).
+**Figure 1.** This wooly spider monkey is one primate species whose tail has evolved to be prehensile, meaning that the tail is capable of grasping and holding objects like a hand. This is very useful when moving quickly high up in the trees! Photo credit: Paulo B. Chaves via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brachyteles_hypoxanthus2.jpg).
 
 Because all living apes and apes in the fossil record lack tails, scientists think it is safe to say that all apes—living and extinct—are tailless [2]. The ape fossil record suggests that the ape lineage evolved taillessness by ~20 million years ago [3]. The earliest known ancestor to apes, *Proconsul heseloni*, lacked an external tail based on fossil evidence [2]. The last sacral vertebra on *Proconsul* was tapered, indicating that a tail couldn't have attached to it [4]. Indeed, while many fossil apes from 19-15 million years ago had some physical features that were more like living monkeys, they all lacked a tail [5]. Despite the presence of some classic monkey-like features in these fossil apes, the key to understanding why apes lost their tails is that tail loss didn’t happen on its own—it actually evolved within a suite of other physical traits, heralding a major change in how these animals moved and interacted with their environments.
 
 <center><a data-flickr-embed="true" href="https://www.flickr.com/photos/187342690@N02/51363493001/in/dateposted-public/" title="Proconsul_africanus"><img src="https://live.staticflickr.com/65535/51363493001_7bce2e5b75_z.jpg" width="640" height="500" alt="Proconsul_africanus"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-Figure 2. *Proconsul* *africanus*, often considered one of the earliest apes. Image credit: Mauricio Anton via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Proconsul_africanus.jpg).
+**Figure** 2. *Proconsul africanus*, often considered one of the earliest apes. Image credit: Mauricio Anton via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Proconsul_africanus.jpg).
 
 So, why would losing our tails be beneficial? 
 
@@ -71,4 +59,9 @@ References:
 [6] Keith, Arthur. "[The extent to which the posterior segments of the body have been transmuted and suppressed in the evolution of man and allied primates.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1287140/pdf/janatphys00054-0026.pdf)" *Journal of Anatomy and Physiology* 37, no. Pt 1 (1902): 18.
 
 [7] Mincer, Sarah T., and Gabrielle A. Russo. "[Substrate use drives the macroevolution of mammalian tail length diversity.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7031669/)" Proceedings of the Royal Society B 287, no. 1920 (2020): 20192885.
+
+
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Earth's Organisms" %}
 
