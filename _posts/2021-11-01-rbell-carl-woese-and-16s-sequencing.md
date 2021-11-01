@@ -1,19 +1,20 @@
 ---
-title: How the search for a universal gene forever changed biology: the story of Carl Woese and 16S sequencing
+title: "How the search for a universal gene forever changed biology: the story of Carl Woese and 16S sequencing"
 layout: page
 author: rbell
-permalink: /2021-11-01-rbell-carl-woese-and-16s-sequencing/
+permalink: /2021-11-01-the-story-of-Carl-Woese-and-16S-sequencing-rbell/
 tags:
- - genes
- - evolution
- - sequencing
- - microbiology
+- sequencing
+- genetics
+- genes
+- microbiology
+- evolution
 categories:
- - How it Works
+- How It Works
 header:
- - image_fullwidth: 2020_11_01_rbell.png
+ image_fullwidth: howitworks-header.jpg
 image:
- - thumb: howitworks-header.jpg
+ thumb: 2021-11-01-rbell.jpg
 teaser: While searching for a universal gene to create a comprehensive tree of life, Carl Woese  ended up revolutionizing the field of microbiology and forever changed our conceptions of life. Read on to find out how!
 
 source-id: 1cmRjKupG3U0iOSEBSMX6lfDn_3WQWyjqy_yJD27_5yE
