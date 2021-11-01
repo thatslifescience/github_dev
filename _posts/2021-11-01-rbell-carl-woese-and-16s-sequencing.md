@@ -4,18 +4,17 @@ layout: page
 author: rbell
 permalink: /2021-11-01-rbell-carl-woese-and-16s-sequencing/
 tags:
-- genes
-- evolution
-- sequencing
-- microbiology
+ - genes
+ - evolution
+ - sequencing
+ - microbiology
 categories:
-- How it Works
+ - How it Works
 header:
-- image_fullwidth: 2020_11_01_rbell.png
+ - image_fullwidth: 2020_11_01_rbell.png
 image:
-- thumb: howitworks-header.jpg
+ - thumb: howitworks-header.jpg
 teaser: While searching for a universal gene to create a comprehensive tree of life, Carl Woese  ended up revolutionizing the field of microbiology and forever changed our conceptions of life. Read on to find out how!
-
 
 source-id: 1cmRjKupG3U0iOSEBSMX6lfDn_3WQWyjqy_yJD27_5yE
 published: true
