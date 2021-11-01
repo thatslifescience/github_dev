@@ -4,33 +4,22 @@ layout: page
 author: rbell
 permalink: /2021-11-01-rbell-carl-woese-and-16s-sequencing/
 tags:
-- genes
-- evolution
-- sequencing
-- microbiology
+ genes
+ evolution
+ sequencing
+ microbiology
 categories:
- -How it Works
+ How it Works
 header:
- -image_fullwidth: 2020_11_01_rbell.png
+ image_fullwidth: 2020_11_01_rbell.png
 image:
- -thumb: howitworks-header.jpg
+ thumb: howitworks-header.jpg
 teaser: While searching for a universal gene to create a comprehensive tree of life, Carl Woese  ended up revolutionizing the field of microbiology and forever changed our conceptions of life. Read on to find out how!
 
 
 source-id: 1cmRjKupG3U0iOSEBSMX6lfDn_3WQWyjqy_yJD27_5yE
 published: true
 ---
-**Title:** How the search for a universal gene forever changed biology: the story of Carl Woese and 16S sequencing 
-
-**Author:** RBell
-
-**Categories:** How it Works
-
-**Keywords:** microbiology, evolution, sequencing
-
-**Teaser:** While searching for a universal gene to create a comprehensive tree of life, Carl Woese  ended up revolutionizing the field of microbiology and forever changed our conceptions of life. Read on to find out how!
-
-**Thumbnail image:** Figure 3
 
 In 1977, the field of biology was surprisingly different from today. Scientists divided the tree of life on Earth  into two major branches: eukaryotes (complex-celled, frequently multicellular life such as yeast, plants, and animals) and prokaryotes (simple, single-celled life such as *E. coli* and blue-green algae). Scientists wouldn't successfully sequence a genome (the entire collection of genes in an organism’s DNA) until 1995 [1], and studying the genetics of microbes was a prohibitively slow, challenging task [2]. Yet, in that same  year, Carl Woese and George Fox published findings that would forever change our understanding of the tree of life *and* launch the field of microbiology into a new era of discovery. But to fully understand the magnitude of their discovery, we must dive deeper into the history of biology.
 
