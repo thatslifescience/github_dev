@@ -14,7 +14,7 @@ categories:
 header:
  image_fullwidth: howitworks-header.jpg
 image:
- thumb: 2021_11_01_rbell.jpg
+ thumb: 2021-11-01-rbell-fig3.jpg
 teaser: While searching for a universal gene to create a comprehensive tree of life, Carl Woese  ended up revolutionizing the field of microbiology and forever changed our conceptions of life. Read on to find out how!
 
 source-id: 1cmRjKupG3U0iOSEBSMX6lfDn_3WQWyjqy_yJD27_5yE
