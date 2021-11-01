@@ -4,16 +4,16 @@ layout: page
 author: rbell
 permalink: /2021-11-01-rbell-carl-woese-and-16s-sequencing/
 tags:
- genes
- evolution
- sequencing
- microbiology
+- genes
+- evolution
+- sequencing
+- microbiology
 categories:
- How it Works
+- How it Works
 header:
- image_fullwidth: 2020_11_01_rbell.png
+- image_fullwidth: 2020_11_01_rbell.png
 image:
- thumb: howitworks-header.jpg
+- thumb: howitworks-header.jpg
 teaser: While searching for a universal gene to create a comprehensive tree of life, Carl Woese  ended up revolutionizing the field of microbiology and forever changed our conceptions of life. Read on to find out how!
 
 
@@ -61,3 +61,6 @@ References:
 
 [7] Lane, David J., Bernadette Pace, Gary J. Olsen, David A. Stahl, Mitchell L. Sogin, and Norman R. Pace. "[Rapid determination of 16S ribosomal RNA sequences for phylogenetic analyses.](https://www.pnas.org/content/pnas/82/20/6955.full.pdf)" *Proceedings of the National Academy of Sciences* 82, no. 20 (1985): 6955-6959.
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="How It Works" %}
