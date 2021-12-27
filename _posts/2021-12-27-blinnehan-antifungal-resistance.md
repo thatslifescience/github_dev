@@ -14,7 +14,7 @@ categories:
 header:
 - image_fullwidth: howitworks-header.jpg
 image:
-- thumb: Brooke-linnehan.png
+- thumb: brooke-linnehan.png
 teaser: The CRISPR/Cas9 system has the power to revolutionize our fight against drug resistant pathogens by making gene editing possible
 source-id: 1EWCX1aoaup187NRPE2Y5q2ASclhDA873nMoVRJaw7Fs
 published: true
