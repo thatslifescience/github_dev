@@ -1,7 +1,7 @@
 ---
-title: CRISPR-technology-may-be-a-promising-tool-to-combat-multidrug-resistant-fungus
+title: CRISPR technology may be a promising tool to combat multidrug resistant fungus
 layout: page
-author: linnehanbrooke
+author: blinnehan
 permalink: /2021-12-27-blinnehan-antifungal-resistance/
 tags:
 - microbiology
@@ -10,24 +10,16 @@ tags:
 - pathogens
 - genes
 categories:
--How It Works
+- How It Works
 header:
- image_fullwidth: howitworks-header.jpg
+- image_fullwidth: howitworks-header.jpg
 image:
- thumb: Brooke-linnehan.png
+- thumb: Brooke-linnehan.png
 teaser: The CRISPR/Cas9 system has the power to revolutionize our fight against drug resistant pathogens by making gene editing possible
 source-id: 1EWCX1aoaup187NRPE2Y5q2ASclhDA873nMoVRJaw7Fs
 published: true
 ---
-**Author: Brooke Linnehan**
 
-**Category: How it works**
-
-**Keywords: drug resistance, fungus, CRISPR**
-
-**Teaser: The CRISPR/Cas9 system has the power to revolutionize our fight against drug resistant pathogens by making gene editing possible. **
-
-**Thumbnail image: Figure 2**
 
 **CRISPR technology may be a promising tool to combat multidrug-resistant fungus ****_C. auris_**
 
