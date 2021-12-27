@@ -45,3 +45,6 @@ A new study has demonstrated the utility of a CRISPR/Cas9 system that evades the
 
 [3] Ennis, C. L., Hernday, A. D., & Nobile, C. J. (2021). A Markerless CRISPR-Mediated System for Genome Editing in Candida auris Reveals a Conserved Role for Cas5 in the Caspofungin Response. *Microbiology Spectrum*, *9*(3), e01820-21.
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="How It Works" %}
