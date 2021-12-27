@@ -21,7 +21,7 @@ published: true
 ---
 
 
-**CRISPR technology may be a promising tool to combat multidrug-resistant fungus C. auris_**
+**CRISPR technology may be a promising tool to combat multidrug-resistant fungus _C. auris_**
 
 *Candida auris *is a yeast (type of fungus) commonly spread within hospital settings, with reports of coinfection with other diseases like Covid-19. *C. auris* can cause infections in the skin, mucosa, ears, and bloodstream [1,2]. First identified in Japan in 2009, this fungus is found across five geographically distinct lineages. The majority of *C. auris* strains isolated in clinical settings have resistance to at least one of the three major drug classes used to treat fungal infections: azoles, polyenes, and echinocandins. To make things more concerning, this multidrug resistance has been reported in patients who have never been treated with antifungal drugs. This indicates that some strains of this yeast are already resistant to antifungal drugs before the human host is even infected. Thus, poor treatment outcomes are the main cause of mortality from *C. aurus*, with mortality rates ranging from 30-59% worldwide. Considering this alarming outcome, this fungus has become widely researched since its discovery and a new gene-editing system is a potential solution to this issue by disrupting genes that grant *C. auris* its antifungal drug resistance. 
 
