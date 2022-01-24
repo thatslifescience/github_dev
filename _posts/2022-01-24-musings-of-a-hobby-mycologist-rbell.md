@@ -14,7 +14,7 @@ categories:
 header:
 - image_fullwidth: gradschooldiaries-header.jpg
 image:
-- thumb: 2022-01-24-rbell.jpg
+- thumb: mycologist-rbell.jpg
 teaser: In this blog, I explore how mushroom identification has shaped how I view the natural world and given me a deeper appreciation of the biodiversity all around me.
 
 source-id: 1RFeXwtdelTkkaAv5JRdnpw6z6xcbeSFNTwOWKHWNPT4
