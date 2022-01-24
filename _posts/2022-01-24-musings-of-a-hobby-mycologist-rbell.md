@@ -1,5 +1,5 @@
 ---
-title: Musings-of-a-Hobby-Mushroom-Hunter
+title: Musings of a Hobby MushroomHunter
 layout: page
 author: rbell
 permalink: /2021-11-24-musings-of-a-hobby-mycologist-rbell/
@@ -69,7 +69,7 @@ Whether or not you are a biologist, I encourage you to learn how to identify the
 
 [1] Frazer, Jennifer.[ Made by Rain, Mushrooms Also Make It.](https://blogs.scientificamerican.com/artful-amoeba/made-by-rain-mushrooms-also-make-it/) Scientific American. (February 2016). 
 
-[2] Kimmerer, Robin Wall. 2003. *Gathering moss: a natural and cultural history of mosses. *Corvallis: Oregon State University Press.
+[2] Kimmerer, Robin Wall. 2003. *Gathering moss: a natural and cultural history of mosses. *Corvallis*: Oregon State University Press.
 
 ## More From Thats Life [Science]
 {: .t60 }
