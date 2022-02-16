@@ -12,7 +12,7 @@ tags:
 - competition
 - microbiome
 categories:
- -Earth’s organisms
+ Earth’s organisms
 header:
  image_fullwidth: organisms-header.jpg
 image:
