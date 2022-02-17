@@ -16,7 +16,7 @@ categories:
 header:
  image_fullwidth: organisms-header.jpg
 image:
- thumb: 2020_02_16_afowler.jpg
+ thumb: 2022_02_16_afowler.jpg
 teaser: Relationships are tricky things to maintain, and not just for humans. Many animals have complex social networks, both within their species and with others. Read to learn about these fascinating relationships and the many clever ways animals have evolved to build trust.
 
 source-id: 1T7u0cAo7FX_RKa_5t4YygdHlsS3VbwlyiE6UIzWxQwc
