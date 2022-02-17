@@ -20,19 +20,7 @@ teaser: In this blog, I explore how mushroom identification has shaped how I vie
 source-id: 1RFeXwtdelTkkaAv5JRdnpw6z6xcbeSFNTwOWKHWNPT4
 published: true
 ---
-**Title:** Musings of a Hobby Mushroom Hunter
 
-**Author:** RBell
-
-**Categories:** Grad School Diaries
-
-**Keywords:** mushroom, naturalist, hobby, identification, mycology
-
-**Teaser:** In this blog, I explore how mushroom identification has shaped how I view the natural world and given me a deeper appreciation of the biodiversity all around me.
-
-**Thumbnail image:** Figure 1
-
- 
 
 You'll usually find me on this blog talking about topics tangentially (or directly) related to my research, ranging from [primate coloration](http://thatslifesci.com/2018-06-11-The-Colorful-World-of-Primate-Hair-RBell/) and [evolution](http://thatslifesci.com/2021-10-04-rbell-why-dont-apes-have-tails/) to [the world of microbes](http://thatslifesci.com/2020-11-23-how-do-microbes-help-animals-adapt-rbell/) and even [conservation](http://thatslifesci.com/2020-06-27-how-community-based-conservation-helps-lemurs-rbell/). But this blog post will focus on something pretty different—my journey into the world of mushroom identification. My perspective as an evolutionary biologist and ecologist has shaped my experiences as a hobby mycologist, but entering the fleeting, half-hidden world of mushrooms has also affected me as a scientist.
 
@@ -84,3 +72,6 @@ Whether or not you are a biologist, I encourage you to learn how to identify the
 
 [2] Kimmerer, Robin Wall. 2003. *Gathering moss: a natural and cultural history of mosses. *Corvallis: Oregon State University Press.
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Grad School Diaries" %}
