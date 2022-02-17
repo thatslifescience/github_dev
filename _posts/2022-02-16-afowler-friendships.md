@@ -27,7 +27,7 @@ Nature is filled with lovely stories of cooperation. Mutualisms, such as those b
 
  
 
-<center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/51798440484/in/dateposted-public/" title="afowler fig1 new"><img src="https://live.staticflickr.com/65535/51798440484_fa1c5f6183_z.jpg" width="640" height="427" alt="afowler fig1 new"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
+<center><a data-flickr-embed="true" href="https://www.flickr.com/photos/139839751@N06/51798440484/in/dateposted-public/" title="afowler fig1 new"><img src="https://live.staticflickr.com/65535/51798440484_fa1c5f6183_z.jpg" onerror="this.onerror=null;this.src='default-image.jpg';" width="640" height="427" alt="afowler fig1 new"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
 Figure 1. Coyote and badger hunting together. Source: Pat Gaines via [Flickr](https://www.flickr.com/photos/patgaines/4573979660/in/photostream).
 
