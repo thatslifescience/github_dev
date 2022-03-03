@@ -1,5 +1,5 @@
 ---
-title: The Story of Chestnuts in North America: How a Forest Giant Disappeared from American Forests and Culture
+title: "The Story of Chestnuts in North America: How a Forest Giant Disappeared from American Forests and Culture"
 layout: page
 author: mfertakos
 permalink: /2022-03-03-AmericanChestnuts-mfertakos/
