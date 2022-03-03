@@ -4,12 +4,12 @@ layout: page
 author: mfertakos
 permalink: /2022-03-03-AmericanChestnuts-mfertakos/
 tags:
-- american chestnut
-- conservation
-- natural history
-- plants
+ - american chestnut
+ - conservation
+ - natural history
+ - plants
 categories:
-- Earth's Organisms
+ - Earth's Organisms
 header:
  image_fullwidth: organisms-header.jpg
 image:
@@ -18,17 +18,6 @@ teaser: The American Chestnut once dominated forests along the eastern seaboard 
 source-id: 1f7zI2V2PDV-as3JtDgAkJ1ATkTwYl7xNPBzgLtpz5FI
 published: true
 ---
-**Title:**** **The Story of Chestnuts in North America: How a Forest Giant Disappeared from American Forests and Culture
-
-**Author(s): **Matthew Fertakos** (**mfertakos)
-
-**Category: **Earth's Organisms
-
-**Keywords: **American Chestnut, Conservation, Natural History, Plants 
-
-**Teaser: **The American Chestnut once dominated forests along the eastern seaboard of the United States. Where did they go, and will they ever return to their former glory?
-
-**Thumbnail image**:  Figure 2 
 
 <center><a data-flickr-embed="true" href="https://www.flickr.com/photos/187342690@N02/51751637815/in/dateposted-public/" title="chsntfig1"><img src="https://live.staticflickr.com/65535/51751637815_01f346df64_z.jpg" width="543" height="640" alt="chsntfig1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
@@ -62,3 +51,6 @@ References:
 
 [5] Powell, W. [New genetically engineered American Chestnut will help restore the decimated, iconic tree](http://www.chestnutgrowers.org/2016April_web.pdf). The Chestnut Grower 17 (2016).
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Earth's Organisms" %}
