@@ -4,12 +4,12 @@ layout: page
 author: mfertakos
 permalink: /2022-03-03-AmericanChestnuts-mfertakos/
 tags:
- - american chestnut
- - conservation
- - natural history
- - plants
+- american chestnut
+- conservation
+- natural history
+- plants
 categories:
- - Earth's Organisms
+- Earth's Organisms
 header:
  image_fullwidth: organisms-header.jpg
 image:
