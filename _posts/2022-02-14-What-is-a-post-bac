@@ -1,5 +1,5 @@
 ---
-title: 2022-02-14-What-is-a-post-bac?-My-experience-in-PREP
+title: "2022-02-14-What-is-a-post-bac?-My-experience-in-PREP"
 layout: page
 author: afloresbonilla
 permalink: /2022-02-14-What-is-a-post-bac?-My-experience-in-PREP/
@@ -20,17 +20,6 @@ teaser: Should you do a post-bac program before you apply to graduate school?
 source-id: 1KPgOwmB231pxrMjw9TmSDzoiFBMjvaz-jkuI4_7Mwl4
 published: true
 ---
-**Title: **What is a post-bac? My experience in PREP.
-
-**Author(s): **afloresbonilla 
-
-**Category: **Grad School Diaries** **
-
-**Keywords: **post-bac, research, applications, underrepresented minority, community, women
-
-**Teaser: **Should you do a post-bac program before you apply to graduate school? 
-
-**Thumbnail image**: Figure 1 
 
 *A chance to breathe: an introduction to post-bac programs*
 
@@ -88,3 +77,6 @@ PREP granted me the opportunity to engage in conversation with all kinds of peop
 
 [6] Flores-Bonilla, Annabelle, Barbara DeOliveira, Andrea Silva-Gotay, Kyle W. Lucier, and Heather N. Richardson. "Shortening time for access to alcohol drives up front-loading behavior, bringing consumption in male rats to the level of females." *Biology of Sex Differences volume* 12, no. 51 (September 15, 2021). [https://doi.org/10.1186/s13293-021-00395-y](https://doi.org/10.1186/s13293-021-00395-y).
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Grad School Diaries" %}
