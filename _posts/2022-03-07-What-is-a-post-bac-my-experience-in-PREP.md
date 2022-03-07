@@ -27,7 +27,7 @@ Application season for most graduate school programs may be over, but there is s
 
 <center><a data-flickr-embed="true" href="https://www.flickr.com/photos/187342690@N02/51844757201/in/dateposted-public/" title="Screen Shot 2022-01-26 at 10.07.35 AM"><img src="https://live.staticflickr.com/65535/51844757201_bdaffb5c7b_c.jpg" width="800" height="436" alt="Screen Shot 2022-01-26 at 10.07.35 AM"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-**Fig 1.** Post-Baccalaureate Research Education Program Institutions located in the mainland U.S. *Source: National Institute of General Medical Sciences via **[Google Map*s](https://www.nigms.nih.gov/maps/Pages/Post-Baccalaureate-Research-Education-Program-Institutions.aspx)*.*
+**Fig 1.** Post-Baccalaureate Research Education Program Institutions located in the mainland U.S. *Source: National Institute of General Medical Sciences via **[Google Maps](https://www.nigms.nih.gov/maps/Pages/Post-Baccalaureate-Research-Education-Program-Institutions.aspx).**
 
 *Breaking the mold: the need for equal representation in STEM*
 
@@ -35,11 +35,11 @@ Commonly known as a "post-bac", the Post-Baccalaureate Research Education Progra
 
 <center><a data-flickr-embed="true" href="https://www.flickr.com/photos/187342690@N02/51845495595/in/dateposted-public/" title="Academic-STEM-Career-Progression-by-Gender-and-Race-2015-1"><img src="https://live.staticflickr.com/65535/51845495595_e6232d7ecd_c.jpg" width="800" height="328" alt="Academic-STEM-Career-Progression-by-Gender-and-Race-2015-1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-**Figure 2.** Academic STEM Career Progression by Gender and Race in the U.S. *Source: Heather Metcalf and Aspen Russell via **[Association for Women in Scienc*e](https://www.awis.org/leadership-report/).**
+**Figure 2.** Academic STEM Career Progression by Gender and Race in the U.S. *Source: Heather Metcalf and Aspen Russell via **[Association for Women in Science](https://www.awis.org/leadership-report/).**
 
 *Benefits of PREP: what can it do for you?*
 
-As I mentioned, post-bac programs are a great way to gain a variety of experiences and skills important not just for your career in STEM but also for your personal development.  A post-bac is a great way to step outside of your academic mindset and just have time to *breathe*.  The academic requirements are tailored to your unique needs, and it is not the sole focus of the program. Most likely the post-bac program will start around mid-June to early July, which will give you time to get adjusted to the new campus, research building, laboratory, and all the people you will engage with - your post-bac cohort, your graduate near-peer mentors, program coordinators, professors, and your colleagues in the lab which can range from high school students all the way to senior/staff scientists and your principal investigator (PI).  From there, you will find interesting research topics, people who will help in your fellowship or graduate school applications, and professors whose classes you might want to take.  Take this time to ask yourself what it is that you truly want to pursue and engage with others to take in new perspectives and new paths you have not thought of before.  This will inform whether you will pivot to a new field, research topic, or technique and adjust what courses or workshops you will need to complete to achieve this.  *Note: for those of you who are 100% sure of your field of interest, I would still suggest taking this time to learn new topics, expand your interests, and learn new techniques.  This will greatly enrich both your professional and personal experience and you might just bring something new to your favorite field.  *
+As I mentioned, post-bac programs are a great way to gain a variety of experiences and skills important not just for your career in STEM but also for your personal development.  A post-bac is a great way to step outside of your academic mindset and just have time to *breathe*.  The academic requirements are tailored to your unique needs, and it is not the sole focus of the program. Most likely the post-bac program will start around mid-June to early July, which will give you time to get adjusted to the new campus, research building, laboratory, and all the people you will engage with - your post-bac cohort, your graduate near-peer mentors, program coordinators, professors, and your colleagues in the lab which can range from high school students all the way to senior/staff scientists and your principal investigator (PI).  From there, you will find interesting research topics, people who will help in your fellowship or graduate school applications, and professors whose classes you might want to take.  Take this time to ask yourself what it is that you truly want to pursue and engage with others to take in new perspectives and new paths you have not thought of before.  This will inform whether you will pivot to a new field, research topic, or technique and adjust what courses or workshops you will need to complete to achieve this.  *Note: for those of you who are 100% sure of your field of interest, I would still suggest taking this time to learn new topics, expand your interests, and learn new techniques.  This will greatly enrich both your professional and personal experience and you might just bring something new to your favorite field.*
 
 *Through the looking glass: my reasons to apply for PREP*
 
@@ -47,7 +47,7 @@ I applied to the University of Massachusetts Amherst PREP three years ago after 
 
 <center><a data-flickr-embed="true" href="https://www.flickr.com/photos/187342690@N02/51843840762/in/dateposted-public/" title="Undegraduate Research Experiences"><img src="https://live.staticflickr.com/65535/51843840762_305cbd4553_c.jpg" width="800" height="264" alt="Undegraduate Research Experiences"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-**Figure 3.****_ _**Highlights of my undergraduate research experiences. *Source: Original from Annabelle Flores-Bonilla*
+**Figure 3.**** **Highlights of my undergraduate research experiences. *Source: Original from Annabelle Flores-Bonilla*
 
 *So, how was my experience in PREP?*
 
@@ -59,9 +59,9 @@ PREP granted me the opportunity to engage in conversation with all kinds of peop
 
 <center><a data-flickr-embed="true" href="https://www.flickr.com/photos/187342690@N02/51845118459/in/dateposted-public/" title="Community and Solidarity"><img src="https://live.staticflickr.com/65535/51845118459_477808b503.jpg" width="468" height="468" alt="Community and Solidarity"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-**Figure 4.****_ _**Community and Solidarity. *Source: Original from Annabelle Flores-Bonilla*
+**Figure 4.**** **Community and Solidarity. *Source: Original from Annabelle Flores-Bonilla*
 
-*Dedicatory: I want to acknowledge and give thanks to the Leadership Team of the University of Massachusetts 2019 PREP program: Sandra (Sandy) Petersen, Ph.D., Lynmarie Thompson, Ph.D., Shelly Peyton, Ph.D., Carly Hutchinson, Ph.D., and Vanessa Hill. *
+*Dedicatory: I want to acknowledge and give thanks to the Leadership Team of the University of Massachusetts 2019 PREP program: Sandra (Sandy) Petersen, Ph.D., Lynmarie Thompson, Ph.D., Shelly Peyton, Ph.D., Carly Hutchinson, Ph.D., and Vanessa Hill.*
 
 **References:**
 
