@@ -47,7 +47,7 @@ I applied to the University of Massachusetts Amherst PREP three years ago after 
 
 <center><a data-flickr-embed="true" href="https://www.flickr.com/photos/187342690@N02/51843840762/in/dateposted-public/" title="Undegraduate Research Experiences"><img src="https://live.staticflickr.com/65535/51843840762_305cbd4553_c.jpg" width="800" height="264" alt="Undegraduate Research Experiences"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-**Figure 3.**** **Highlights of my undergraduate research experiences. *Source: Original from Annabelle Flores-Bonilla*
+**Figure 3.** Highlights of my undergraduate research experiences. *Source: Original from Annabelle Flores-Bonilla*
 
 *So, how was my experience in PREP?*
 
@@ -59,7 +59,7 @@ PREP granted me the opportunity to engage in conversation with all kinds of peop
 
 <center><a data-flickr-embed="true" href="https://www.flickr.com/photos/187342690@N02/51845118459/in/dateposted-public/" title="Community and Solidarity"><img src="https://live.staticflickr.com/65535/51845118459_477808b503.jpg" width="468" height="468" alt="Community and Solidarity"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-**Figure 4.**** **Community and Solidarity. *Source: Original from Annabelle Flores-Bonilla*
+**Figure 4.** Community and Solidarity. *Source: Original from Annabelle Flores-Bonilla*
 
 *Dedicatory: I want to acknowledge and give thanks to the Leadership Team of the University of Massachusetts 2019 PREP program: Sandra (Sandy) Petersen, Ph.D., Lynmarie Thompson, Ph.D., Shelly Peyton, Ph.D., Carly Hutchinson, Ph.D., and Vanessa Hill.*
 
