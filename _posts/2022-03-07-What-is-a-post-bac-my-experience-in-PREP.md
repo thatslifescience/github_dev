@@ -49,7 +49,7 @@ I applied to the University of Massachusetts Amherst PREP three years ago after 
 
 **Figure 3.****_ _**Highlights of my undergraduate research experiences. *Source: Original from Annabelle Flores-Bonilla*
 
-*So, how was my experience in PREP? *
+*So, how was my experience in PREP?*
 
 With the help of my near-peer mentor, graduate students in the Neuroscience and Behavior Ph.D. Program, the 2019 PREP cohort, and especially the workshops from the University of Massachusetts Office of Professional Development, I was able to write a successful NSF Graduate Research Fellowship Program application [4].  At the same time, my mentor/PI asked me to write for an invited review article for a special topic of *Alcohol Research Current Reviews* about *Women and Alcohol*, specifically on the topic of basic science research on sex differences in the neurobiology of alcohol use disorder [5].  This was a very new topic for me, as I have never studied or researched the effects of alcohol in the brain and I was very excited to dive head-first into the literature to overcome this challenge. Along the way, I learned new techniques to study alcohol drinking behavior in rodents and piloted a study that would eventually become my second first-author publication [6].  Without this incredibly instrumental year in PREP, I would not have had the time and opportunity to learn, research, and achieve any of it.  
 
