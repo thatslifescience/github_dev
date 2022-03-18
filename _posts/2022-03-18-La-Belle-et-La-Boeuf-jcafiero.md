@@ -20,17 +20,6 @@ teaser: The agricultural industry has taken a toll on our environment in terms o
 source-id: 1JrPwhFjbHIdiYDOJt4dRFLPVMrGi897ARUxWUDUEBcw
 published: true
 ---
-**Title: **La Belle et La Boeuf (NOT!) How do human meat preferences impact climate change?
-
-Author: jcafiero
-
-Categories: Our ecosystems 
-
-Keywords: sustainable, local, livestock production, climate change
-
-Teaser: The agricultural industry has taken a toll on our environment in terms of increasing greenhouse gas emissions. 
-
-Thumbnail Image: Figure 1
 
 The Beauty and the Beef? What kind of story is that?! I'll tell you. Firstly, beauty is not in the beef. The global challenge we are currently facing is that livestock production contributes significantly to climate change. 
 
@@ -74,3 +63,6 @@ The beauty of the world we live in is in the nature we find all around us. Human
 
 [6] Westhoek, Henk, et al. "Food Choices, Health and Environment: Effects of Cutting Europe's   Meat and Dairy Intake." *Global Environmental Change*, vol. 26, 2014, pp. 196–205., [https://doi.org/10.1016/j.gloenvcha.2014.02.004](https://doi.org/10.1016/j.gloenvcha.2014.02.004). 
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Our Ecosystems" %}
