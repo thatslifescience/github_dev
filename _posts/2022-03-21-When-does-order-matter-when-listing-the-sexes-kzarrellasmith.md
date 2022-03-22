@@ -19,8 +19,6 @@ teaser: Is it “males and females” or “females and males”? What is the bi
 source-id: 1lvHliYswizs_qVNNS6GTkCSTSXcwiKspDlsvNLFlcok
 published: true
 ---
-**Title: **When does order matter when listing the sexes? Always. 
-
 
 I am a PhD student studying the movements of marine organisms. Recently, I was preparing my first first-author publication when I stumbled upon a dilemma: do I list female crabs or male crabs first in a study comparing the two? Foundational works examining green crab behavior exclusively followed males [1] so it was important to recognize biological sex as a variable in our studies. The R coding program I was using lists variables in alphabetical order, so in this case, females appear before males. How was it though, that after decades of struggling against sexism and suffering its severe consequences, seeing "females and males" felt so unnatural compared to “males and females”? I thought to myself, “I will just change the ordering in my paper to match the R outputs. That would give me parallel structure in the presentation and discussion of the data. Alternatively, why would I specifically add code to establish males before females when we are most interested in what the females are doing?”
 
