@@ -21,17 +21,8 @@ published: true
 ---
 **Title: **When does order matter when listing the sexes? Always. 
 
-Author: KZarrellaSmith
 
-Categories: Grad School Diaries
-
-Keywords: Human Dimensions, Ethics, Science and Society, Sexism
-
-Teaser: Is it "males and females" or “females and males”? What is the big difference and why might it matter.
-
-Thumbnail Image: Figure 1
-
-	I am a PhD student studying the movements of marine organisms. Recently, I was preparing my first first-author publication when I stumbled upon a dilemma: do I list female crabs or male crabs first in a study comparing the two? Foundational works examining green crab behavior exclusively followed males [1] so it was important to recognize biological sex as a variable in our studies. The R coding program I was using lists variables in alphabetical order, so in this case, females appear before males. How was it though, that after decades of struggling against sexism and suffering its severe consequences, seeing "females and males" felt so unnatural compared to “males and females”? I thought to myself, “I will just change the ordering in my paper to match the R outputs. That would give me parallel structure in the presentation and discussion of the data. Alternatively, why would I specifically add code to establish males before females when we are most interested in what the females are doing?”
+I am a PhD student studying the movements of marine organisms. Recently, I was preparing my first first-author publication when I stumbled upon a dilemma: do I list female crabs or male crabs first in a study comparing the two? Foundational works examining green crab behavior exclusively followed males [1] so it was important to recognize biological sex as a variable in our studies. The R coding program I was using lists variables in alphabetical order, so in this case, females appear before males. How was it though, that after decades of struggling against sexism and suffering its severe consequences, seeing "females and males" felt so unnatural compared to “males and females”? I thought to myself, “I will just change the ordering in my paper to match the R outputs. That would give me parallel structure in the presentation and discussion of the data. Alternatively, why would I specifically add code to establish males before females when we are most interested in what the females are doing?”
 
 But shortly thereafter, doubt and fear crept in. I am an early-career cis woman (female) on the verge of submitting a manuscript with two other females on the author line, and none of us have PhDs. Reviewer comments from the papers that my peers have submitted whittled away at my resolve to list females first: "It would probably…be beneficial to find one or two male biologists to work with (or at least obtain internal peer review from, but better yet as active co-authors)" and “Perhaps it is not so surprising that on average male doctoral students co-author one more paper than female doctoral students, just as, on average, male doctoral students can probably run a mile a bit faster than female doctoral students," says a PLOS ONE reviewer to two female evolutionary biologists in the singular review that accompanied their manuscript rejection [2].
 
@@ -79,3 +70,6 @@ The extent to which misogyny has impacted individual well-being and scientific t
 
 [15] Zarrella-Smith KA, Woodall JN, Ryan A, Fury NB, Goldstein JS. 2022. Seasonal estuarine movements of green crabs revealed by acoustic telemetry. Marine Ecology Progress Series 681: 129–143. [https://doi.org/10.3354/meps13927](https://doi.org/10.3354/meps13927)
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Grad School Diaries" %}
