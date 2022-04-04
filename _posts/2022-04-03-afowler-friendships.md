@@ -21,19 +21,6 @@ teaser: Relationships are tricky things to maintain, and not just for humans. Ma
 source-id: 1T7u0cAo7FX_RKa_5t4YygdHlsS3VbwlyiE6UIzWxQwc
 published: true
 ---
-**Title**: Friendships, Betrayals, and Reputations in the Animal Kingdom  
-
-**Author**: AFowler
-
-**Keywords**: social behavior, animal behavior, altruism, cooperation, mutualism, competition, microbiome
-
-**Teaser: **Relationships are tricky things to maintain, and not just for humans. Many animals have complex social networks, both within their species and with others. Read to learn about these fascinating relationships and the many clever ways animals have evolved to build trust. 
-
-**Category: **Earth's organisms 
-
-**Thumbnail image:** Figure 1
-
- 
 
 Nature is filled with lovely stories of cooperation. Mutualisms, such as those between plants and their pollinators or seed dispersers, can be found in ecosystems all over the globe. Cooperative hunting is not uncommon and can be found in distantly related species such as coyotes and badgers [1]. There is even evidence for individuals making personal sacrifices for the group's benefit in many species, particularly in social insects such as bees, wasps, and ants [2].
 
@@ -99,3 +86,6 @@ References:
 
 [11] Sheehan, Michael J., and Elizabeth A. Tibbetts. "[Specialized face learning is associated with individual recognition in paper wasps.](https://www.science.org/doi/abs/10.1126/science.1211334)" *Science* 334, no. 6060 (2011): 1272-1275.
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Earth's Organisms" %}
