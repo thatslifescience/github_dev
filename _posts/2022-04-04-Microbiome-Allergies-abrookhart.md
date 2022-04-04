@@ -76,3 +76,6 @@ Works Cited
 
 [15]	M. L. K. Tang *et al.*, "Administration of a probiotic with peanut oral immunotherapy: A randomized trial," *Journal of Allergy and Clinical Immunology*, vol. 135, no. 3, pp. 737-744.e8, Mar. 2015, doi: 10.1016/j.jaci.2014.11.034.
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="How It Works" %}
