@@ -1,6 +1,6 @@
 ---
 title: Friendships, Betrayals, and Reputations in the Animal Kingdom
-layout: post
+layout: page
 author: afowler
 permalink: /2022-04-03-afowler-friendships/
 tags:
