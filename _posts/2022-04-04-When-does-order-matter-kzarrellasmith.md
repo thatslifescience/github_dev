@@ -69,3 +69,6 @@ The extent to which misogyny has impacted individual well-being and scientific t
 
 [15] Zarrella-Smith KA, Woodall JN, Ryan A, Fury NB, Goldstein JS. 2022. Seasonal estuarine movements of green crabs revealed by acoustic telemetry. Marine Ecology Progress Series 681: 129–143. [https://doi.org/10.3354/meps13927](https://doi.org/10.3354/meps13927)
 
+ ## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Grad School Diaries" %}
