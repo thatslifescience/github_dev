@@ -13,7 +13,7 @@ categories:
 header:
  image_fullwidth: gradschooldiaries-header.jpg
 image:
- thumb: image-file-name-here.jpg
+ thumb: 2022-03-21-katrina.jpg
 teaser: Is it “males and females” or “females and males”? What is the big difference and why might it matter.
 
 source-id: 1lvHliYswizs_qVNNS6GTkCSTSXcwiKspDlsvNLFlcok
