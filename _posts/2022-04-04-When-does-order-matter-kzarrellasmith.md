@@ -29,7 +29,7 @@ Ordering by importance is a common writing tool in which the writer organizes wo
 
 
 
-<center><a data-flickr-embed="true" href="https://www.flickr.com/photos/187342690@N02/51955903380/in/dateposted-public/" title="book stack"><img src="https://live.staticflickr.com/65535/51955903380_a28e7f4b7b_z.jpg" width="640" height="444" alt="book stack"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><center>
+<center><a data-flickr-embed="true" href="https://www.flickr.com/photos/187342690@N02/51955903380/in/dateposted-public/" title="book stack"><img src="https://live.staticflickr.com/65535/51955903380_a28e7f4b7b_z.jpg" width="640" height="444" alt="book stack"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
  
  **_Figure  1. _** Checking the science books on my shelf, I found males listed before females in every case, including the textbook, "Male, Female. The Evolution of Human Sex Differences" [6]. Image credit: *[Katrina Zarrella Smith](mailto:kzarrellasmi@cns.umass.edu)*.*
 
