@@ -1,5 +1,5 @@
 ---
-title: Freshwater Mussels are Declining: Why Should You Care, and What Can You Do?
+title: "Freshwater Mussels are Declining: Why Should You Care, and What Can You Do?"
 layout: page
 author: sfarrington
 permalink: /2022-04-15-Freshwater-Mussels-are-Declining-sfarrington/
