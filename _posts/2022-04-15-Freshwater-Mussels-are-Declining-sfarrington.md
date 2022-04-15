@@ -10,7 +10,7 @@ tags:
 - invasive species
 - aquatic ecology
 categories:
-- Earth’s Organisms
+- Earth's Organisms
 header:
  image_fullwidth: organisms-header.jpg
 image:
@@ -52,3 +52,6 @@ So, what can we do to protect freshwater mussels? On the individual level, there
 
 [7] ["America's Mussels: Silent Sentinels", U.S. Fish & Wildlife Service, last modified: May 29, 2019. https://www.fws.gov/midwest/endangered/clams/mussels.html](https://www.fws.gov/midwest/endangered/clams/mussels.html)
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Earth's Organisms" %}
