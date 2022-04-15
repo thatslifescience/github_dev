@@ -19,17 +19,6 @@ teaser: These small animals are incredibly important to aquatic environments but
 source-id: 1_i96QS-qeVLtDBjCXZsCsY-U5qZb0XcK76fVydcTVfE
 published: true
 ---
-**Title****: **Freshwater Mussels are Declining: Why Should You Care, and What Can You Do?
-
-**Author(s): **SFarrington
-
-**Category: **Earth's Organisms
-
-**Keywords: **Mussel, Invertebrate, Conservation, Invasive Species, Aquatic ecology
-
-**Teaser: **These small animals are incredibly important to aquatic environments but face challenges due to human activities, including climate change.
-
-**Thumbnail image**:  Figure 1
 
 If you've ever spent time swimming, fishing, or boating in a lake, river, stream, or pond, chances are you were sharing the water with at least one species of freshwater mussel (Fig. 1). Maybe you saw these small rock-like creatures poking through the sandy bottom of a river, maybe you saw a collection of empty shells (known as a midden), or maybe you didn’t even notice them. Even if you didn’t recognize it at the time, these freshwater invertebrates are crucial to their ecosystems, and are one of the most rapidly diminishing taxa worldwide [1]. In North America alone, over 70% of the 300 native species are considered imperiled, indicating that they are at risk of endangerment or even extinction [2]. But why does this matter?
 
