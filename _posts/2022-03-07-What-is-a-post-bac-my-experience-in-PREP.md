@@ -21,6 +21,7 @@ source-id: 1KPgOwmB231pxrMjw9TmSDzoiFBMjvaz-jkuI4_7Mwl4
 published: true
 ---
 
+Post by afloresbonilla
 *A chance to breathe: an introduction to post-bac programs*
 
 Application season for most graduate school programs may be over, but there is still time to apply for a different kind of program!  Post-baccalaureate programs can provide critical academic research experience, bridging any gaps in your education and giving you hands-on experience with your topic of interest, and ideally boosting your confidence in conducting research.  Additionally, these programs give you invaluable time to consider and develop your career path, apply for fellowships, and write and publish original research.  Most importantly, these programs give you the opportunity to find a community of mentors and scholars who want to support you and your journey in STEM every step of the way.  
