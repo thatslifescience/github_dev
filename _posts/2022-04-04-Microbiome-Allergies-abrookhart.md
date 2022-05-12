@@ -19,6 +19,7 @@ source-id: 1ooOhh51NpEbhNh_uloPtLYDlVutHUW3iW6L68O1LqeA
 published: true
 ---
 
+Post by abrookhart
 
 Most people see peanuts as a delicious snack, but for those with an allergy, peanuts can be deadly. An allergic reaction can begin mere seconds after exposure, causing symptoms like vomiting, abdominal pain, coughing, wheezing, and anaphylaxis, the latter of which can be fatal [1, 2]. Almost half of all people with food allergies will visit the emergency room at some point in their lives due to an allergy-related incident [3]. Beyond the trauma of suffering from a life-threatening reaction, allergies can affect people's quality of life, cause daily stress, and even impact their social life. But new research is pointing to bacteria for promising solutions. 
 
