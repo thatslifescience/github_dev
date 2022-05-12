@@ -2,7 +2,7 @@
 title: Thriving in Deadly Environments: Could Mushrooms be our Ticket to Colonizing Space?
 layout: page
 author: jlavalley
-permalink: /2022-04-15-Freshwater-Mussels-are-Declining-sfarrington/
+permalink: /2022-05-12-Thriving-in-Deadly-Environments-jlavalley/
 tags:
 - Fungi
 - Space
