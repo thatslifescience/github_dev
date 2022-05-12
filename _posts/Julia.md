@@ -1,14 +1,24 @@
-**Title: **Thriving in Deadly Environments: Could Mushrooms be our Ticket to Colonizing Space?
-
-**Author(s):** jlavalley 
-
-**Category: **Earth’s Organisms
-
-**Keywords: **Fungi, Space, Adaptation, Radiation, Extreme Environments 
-
-**Teaser: **Space: the final frontier or the fungal frontier?** **The challenges to life in space seem insurmountable, but with a little help from a familiar friend, it may not be so far-fetched.
-
-**Thumbnail image**:  Figure 1
+---
+title: "Thriving in Deadly Environments: Could Mushrooms be our Ticket to Colonizing Space?"
+layout: page
+author: jlavalley
+permalink: /2022-04-15-Freshwater-Mussels-are-Declining-sfarrington/
+tags:
+- Fungi
+- Space
+- Adaptation
+- Radiation
+- Extreme Environments
+categories:
+- Earth's Organisms
+header:
+ image_fullwidth: organisms-header.jpg
+image:
+ thumb: 2022-04-15-sfarrington.jpg
+teaser: Space: the final frontier or the fungal frontier? The challenges to life in space seem insurmountable, but with a little help from a familiar friend, it may not be so far-fetched.
+source-id: 1_i96QS-qeVLtDBjCXZsCsY-U5qZb0XcK76fVydcTVfE
+published: true
+---
 
 Those who are up to date on Star Trek may be familiar with the concept of our fungal friends being utilized for space travel. However, it may surprise you to realize it is not just a far-fetched plot line in a sci-fi show. While fungi most likely won’t be powering starships anytime soon, they may help us in our quest to make space more habitable. 
 
