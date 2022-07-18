@@ -4,19 +4,19 @@ layout: page
 author: jlavalley
 permalink: /2022-05-12-Thriving-in-Deadly-Environments-jlavalley/
 tags:
- - Fungi
- - Space
- - Adaptation
- - Radiation
- - Extreme Environments
+- Fungi
+- Space
+- Adaptation
+- Radiation
+- Extreme Environments
 categories:
- - Earth's Organisms
+- Earth's Organisms
 header:
  image_fullwidth: organisms-header.jpg
 image:
  thumb: 2022-04-15-sfarrington.jpg
-teaser: Space: the final frontier or the fungal frontier? The challenges to life in space seem insurmountable, but with a little help from a familiar friend, it may not be so far-fetched.
-Source doc: 2022-03-21-thriving-in-deadly-environments-could-mushrooms-be-our-ticket-to-colonizing-space-jlavalley
+teaser: "Space: the final frontier or the fungal frontier? The challenges to life in space seem insurmountable, but with a little help from a familiar friend, it may not be so far-fetched."
+source-id: 1EBA0kzgkm5oxblhOMTqdTCZbzVrMPoT_C803-JHu80g
 published: true
 ---
 
