@@ -16,9 +16,11 @@ header:
 image:
  thumb: 2022-04-15-sfarrington.jpg
 teaser: Space: the final frontier or the fungal frontier? The challenges to life in space seem insurmountable, but with a little help from a familiar friend, it may not be so far-fetched.
-source-id: 1_i96QS-qeVLtDBjCXZsCsY-U5qZb0XcK76fVydcTVfE
-published: true
----
+
+* Docs to Markdown version 1.0β33
+* Sun Jul 17 2022 19:30:35 GMT-0700 (PDT)
+* Source doc: 2022-03-21-thriving-in-deadly-environments-could-mushrooms-be-our-ticket-to-colonizing-space-jlavalley
+----->
 
 Those who are up to date on Star Trek may be familiar with the concept of our fungal friends being utilized for space travel. However, it may surprise you to realize it is not just a far-fetched plot line in a sci-fi show. While fungi most likely won’t be powering starships anytime soon, they may help us in our quest to make space more habitable. 
 
