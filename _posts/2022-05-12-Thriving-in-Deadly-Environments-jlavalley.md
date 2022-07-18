@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Thriving in Deadly Environments: Could Mushrooms be our Ticket to Colonizing Space?"
 author: jlavalley
 permalink: /2022-05-12-Thriving-in-Deadly-Environments-jlavalley/
@@ -24,7 +24,7 @@ Those who are up to date on Star Trek may be familiar with the concept of our fu
 
 One of the first things people consider when thinking about living in space, whether it be a space station or another planet, is the issue of food. Packing food for a trip is all well and good for a short stint in the international space station, but for longer travel, living, replenishable sources are going to be necessary. Current food allotments for astronauts are 1.83 pounds (0.83 kilograms) of food per meal each day. For three meals that is ~38.5 pounds a day (~17.5 kilograms) for a standard crew on the international space station, so even a year long trip would require 14 thousand pounds of food (6.4 thousand kilograms) [2]. Enter the humble oyster mushroom (Fig. 1). Work being done between NASA and renowned mycologist Paul Stamets has shown remarkable possibility of the common oyster mushroom’s capacity to break down  asteroid regolith, more colloquially called asteroid dust. With the help of some nutrients provided by some rotting vegetation and human waste byproducts, this mushroom could be our answer to getting fertile soil on other planetary bodies [4]. And while this allows us to then grow all matter of food, they are pretty tasty by themselves. 
 
- &lt;center>&lt;a data-flickr-embed="true" href="https://www.flickr.com/photos/187342690@N02/52036006383/in/dateposted-public/" title="Mushrooms">&lt;img src="https://live.staticflickr.com/65535/52036006383_0c77ebd4f5.jpg" width="401" height="500" alt="Mushrooms">&lt;/a>&lt;script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8">&lt;/script>&lt;/center>
+&lt;center>&lt;a data-flickr-embed="true" href="https://www.flickr.com/photos/187342690@N02/52036006383/in/dateposted-public/" title="Mushrooms">&lt;img src="https://live.staticflickr.com/65535/52036006383_0c77ebd4f5.jpg" width="401" height="500" alt="Mushrooms">&lt;/a>&lt;script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8">&lt;/script>&lt;/center>
 
 **Figure 1.**  Oyster mushrooms (_Pleurotus ostreatus_) being grown on a woody substrate. (Source: BarbeeAnne via [pixabay](https://pixabay.com/photos/mushrooms-wild-new-jersey-forest-2695565/))
 
@@ -40,11 +40,11 @@ Discovered first in the contaminated soil of the Chernobyl Nuclear Power Plant d
 
 &lt;center>&lt;a data-flickr-embed="true" href="https://www.flickr.com/photos/187342690@N02/52035956396/in/dateposted-public/" title="Cladosporium_sphaerospermum_colony">&lt;img src="https://live.staticflickr.com/65535/52035956396_ab5edc54bb.jpg" width="500" height="403" alt="Cladosporium_sphaerospermum_colony">&lt;/a>&lt;script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8">&lt;/script>&lt;/center>
 
-**Figure 3**. _Cladosporium sphaerospermum_ as viewed in a petri dish. This species is an opportunistic fungi that often is found on weakened and dying plants. One of the radiotrophic species found at Chernobyl. (Source: [mold busters](https://www.bustmold.com/resources/mold-library/cladosporium-sphaerospermum/))
+**Figure 3.** _Cladosporium sphaerospermum_ as viewed in a petri dish. This species is an opportunistic fungi that often is found on weakened and dying plants. One of the radiotrophic species found at Chernobyl. (Source: [mold busters](https://www.bustmold.com/resources/mold-library/cladosporium-sphaerospermum/))
 
 These are just some of the potential implications for using fungi in space. Other even more fantastical implications are being thought of every day. Whether it be psychedelic mushrooms as medication to minimize the loneliness of space travel [4] or even taking mushroom furniture a step farther and making satellites out of them to minimize the damage of space junk [11], the opportunities are endless when it comes to our fungal friends. 
 
-**References **
+**References**
 
 [1] Dadachova, Ekaterina, and Arturo Casadevall. “[Ionizing Radiation: How Fungi Cope, Adapt, and Exploit with the Help of Melanin.](https://doi.org/10.1016/j.mib.2008.09.013)” _Current Opinion in Microbiology_ 11, no. 6 (2008): 525–31. 
 
