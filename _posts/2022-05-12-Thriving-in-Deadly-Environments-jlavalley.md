@@ -1,6 +1,6 @@
 ---
+title: Thriving in Deadly Environments: Could Mushrooms be our Ticket to Colonizing Space?
 layout: page
-title: "Thriving in Deadly Environments: Could Mushrooms be our Ticket to Colonizing Space?"
 author: jlavalley
 permalink: /2022-05-12-Thriving-in-Deadly-Environments-jlavalley/
 tags:
@@ -67,3 +67,7 @@ These are just some of the potential implications for using fungi in space. Othe
 [10] Shunk, Graham K., Xavier R. Gomez, Christoph Kern, and Nils J. Averesch. “[Growth of the Radiotrophic Fungus Cladosporium sphaerospermum Aboard the International Space Station and Effects of Ionizing Radiation.](https://doi.org/10.1101/2020.07.16.205534)” bioRxiv, February 16, 2022. 
 
 [11] Williams, Matt. “[A Solution to Space Junk: Satellites Made of Mushrooms?](https://phys.org/news/2021-05-solution-space-junk-satellites-mushrooms.html)” Phys.org. Phys.org, May 19, 2021.
+
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" entries='5' category="Earth's Organisms" %}
