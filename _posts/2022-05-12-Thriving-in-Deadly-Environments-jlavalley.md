@@ -1,14 +1,14 @@
 ----->
-title: Thriving in Deadly Environments: Could Mushrooms be our Ticket to Colonizing Space?
+title: "Thriving in Deadly Environments: Could Mushrooms be our Ticket to Colonizing Space?"
 layout: page
 author: jlavalley
 permalink: /2022-05-12-Thriving-in-Deadly-Environments-jlavalley/
 tags:
-- Fungi
-- Space
-- Adaptation
-- Radiation
-- Extreme Environments
+ - Fungi
+ - Space
+ - Adaptation
+ - Radiation
+ - Extreme Environments
 categories:
 - Earth's Organisms
 header:
