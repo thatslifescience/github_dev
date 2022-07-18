@@ -1,4 +1,4 @@
----
+----->
 title: Thriving in Deadly Environments: Could Mushrooms be our Ticket to Colonizing Space?
 layout: page
 author: jlavalley
