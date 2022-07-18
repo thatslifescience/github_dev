@@ -20,6 +20,8 @@ source-id: 1EBA0kzgkm5oxblhOMTqdTCZbzVrMPoT_C803-JHu80g
 published: true
 ---
 
+Written by Julia LaValley
+
 Those who are up to date on Star Trek may be familiar with the concept of our fungal friends being utilized for space travel. However, it may surprise you to realize it is not just a far-fetched plot line in a sci-fi show. While fungi most likely won’t be powering starships anytime soon, they may help us in our quest to make space more habitable. 
 
 One of the first things people consider when thinking about living in space, whether it be a space station or another planet, is the issue of food. Packing food for a trip is all well and good for a short stint in the international space station, but for longer travel, living, replenishable sources are going to be necessary. Current food allotments for astronauts are 1.83 pounds (0.83 kilograms) of food per meal each day. For three meals that is ~38.5 pounds a day (~17.5 kilograms) for a standard crew on the international space station, so even a year long trip would require 14 thousand pounds of food (6.4 thousand kilograms) [2]. Enter the humble oyster mushroom (Fig. 1). Work being done between NASA and renowned mycologist Paul Stamets has shown remarkable possibility of the common oyster mushroom’s capacity to break down  asteroid regolith, more colloquially called asteroid dust. With the help of some nutrients provided by some rotting vegetation and human waste byproducts, this mushroom could be our answer to getting fertile soil on other planetary bodies [4]. And while this allows us to then grow all matter of food, they are pretty tasty by themselves. 
